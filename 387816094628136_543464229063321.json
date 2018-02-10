@@ -1,0 +1,179 @@
+{
+    "created_time": "2013-11-21T11:32:38+0000",
+    "message": "民代地圖的prototype做好了 :)\n如果ok的話，之後想將民代地圖搬到g0v專案底下，由社群來維護與發展?  :)\n\n",
+    "story": "唐宗浩 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_543464229063321",
+    "link": "http:\/\/bestian.github.io\/shackhand\/ly",
+    "name": "民代地圖--快速找民代",
+    "updated_time": "2013-12-08T00:49:48+0000",
+    "caption": "bestian.github.io",
+    "from": {
+        "name": "唐宗浩",
+        "id": "1993696087313952"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-11-22T01:06:54+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "成功搬到g0v專案了 :)\n\nhttp:\/\/g0v.github.io\/mapView\/ly",
+                "id": "543728419036902"
+            },
+            {
+                "created_time": "2013-11-22T09:13:36+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "可以開始對外宣傳了嗎?",
+                "id": "543847999024944"
+            },
+            {
+                "created_time": "2013-11-22T10:07:27+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "ok，目前已經可以用了 :)\n\n之後如果能加上\n\n1.縣市議員\n2.讀檔加速(json內含經緯度)\n3.影城依人名顯示\n就更好了\n\n這些是我目前還不會做的部份，如果有會的人接力就會出現。好像煮石頭湯 :)",
+                "id": "543856172357460"
+            },
+            {
+                "created_time": "2013-11-22T10:17:16+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "加入位置判斷 優先顯示所在縣市的民代 如何?",
+                "id": "543857612357316"
+            },
+            {
+                "created_time": "2013-11-22T10:44:12+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "好主意(剛加了code進去，不過還沒跑順，有空幫修一下? )\n\n不過如果立委json的格式之後修成包含經緯度的話，其實這些都是一瞬間就能顯示\n現在是因為要一個一個去用getJson查經緯度，所以比較慢 :)\n\n另，為了避免支付維持費用，我把地圖改用open street map了，不過不是完全看得懂它的使用政策\n\nhttp:\/\/wiki.openstreetmap.org\/wiki\/Tile_usage_policy",
+                "id": "543863759023368"
+            },
+            {
+                "created_time": "2013-11-24T04:46:48+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "其實也不一定要改格式\n製作了一個索引，就成功加速了\nbug也修好了:)\n\nhttp:\/\/g0v.github.io\/mapView\/ly",
+                "id": "544627388947005"
+            },
+            {
+                "created_time": "2013-11-25T02:45:38+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "目前速度很快了",
+                "id": "545066672236410"
+            },
+            {
+                "created_time": "2013-11-25T05:02:08+0000",
+                "from": {
+                    "name": "Sheng-Feng Huang",
+                    "id": "10215528140826327"
+                },
+                "message": "住在立法院附近的民眾找民代可能會出現很驚人的結果... A_A",
+                "id": "545108182232259"
+            },
+            {
+                "created_time": "2013-11-26T11:45:49+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "yap很多立委的辦公室都在同一棟，因此還寫了一個把重覆地址排成螺線的小修正，以免重疊 :)",
+                "id": "545641962178881"
+            },
+            {
+                "created_time": "2013-11-28T03:14:28+0000",
+                "from": {
+                    "name": "Wei Hung",
+                    "id": "10215340581606828"
+                },
+                "message": "404了？",
+                "id": "546378575438553"
+            },
+            {
+                "created_time": "2013-11-28T03:18:35+0000",
+                "from": {
+                    "name": "Sheng-Feng Huang",
+                    "id": "10215528140826327"
+                },
+                "message": "Wei Hung：要點 g0v 下的連結：\nhttp:\/\/g0v.github.io\/mapView\/ly",
+                "id": "546380025438408"
+            },
+            {
+                "created_time": "2013-12-03T12:47:06+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "擠在一起很嚴重的話，可以先用數字標示有幾個人，等放大到可以區分的程度時，再改為人名?\n~不知這個是不是已經可以套用到別的用途上，例如標示志工或服務站位置之類的?",
+                "id": "548674278542316"
+            },
+            {
+                "created_time": "2013-12-04T04:52:33+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "修了一下排列法，發現原始資料有照姓氏排序\nhttp:\/\/g0v.github.io\/mapView\/ly",
+                "id": "548951878514556"
+            },
+            {
+                "created_time": "2013-12-05T03:29:34+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "鄭文吉:\n剛寫了一份簡要的說明\n如果想要架類似的地圖，可參考看看~\nhttp:\/\/g0v.github.io\/mapView\/",
+                "id": "549314835144927"
+            },
+            {
+                "created_time": "2013-12-05T08:03:35+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "太感謝了，這樣應該可以給很多有需要的人參考",
+                "id": "549366035139807"
+            },
+            {
+                "created_time": "2013-12-05T09:28:44+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "不客氣，如果有太簡略的部份，再告訴我，我再補充。",
+                "id": "549383258471418"
+            },
+            {
+                "created_time": "2013-12-08T00:49:48+0000",
+                "from": {
+                    "name": "William Cafee",
+                    "id": "10208498230892381"
+                },
+                "message": "Google 的相關技術，可以作為參考 Civic Information API: now connecting US users with their representatives \nhttp:\/\/googledevelopers.blogspot.tw\/2013\/11\/civic-information-api-now-connecting-us.html",
+                "id": "550523108357433"
+            }
+        ],
+        "summary": {
+            "total_count": 17
+        }
+    }
+}

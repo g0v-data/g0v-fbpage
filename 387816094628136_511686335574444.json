@@ -1,0 +1,126 @@
+{
+    "created_time": "2013-09-14T05:54:19+0000",
+    "message": "hi,朋友委託問一下～～\ng0v有人有做\/想做關於食品營養的嗎？\n像是   到底吃什麼（食物搭配）才是真正會致癌的？（並且拿出真實的科學依據做佐證）\n我發現這樣的資訊好像也很重要\n因為東西網路上很多都是假的\n\n",
+    "story": "陳柏儒 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_511686335574444",
+    "link": "https:\/\/consumer.fda.gov.tw\/FoodAnalysis\/ingredients.htm",
+    "name": "台灣地區食品營養成分資料庫",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC8foP9CAoi7qbV&w=130&h=130&url=https%3A%2F%2Fconsumer.fda.gov.tw%2FFoodAnalysis%2Fimages%2Fmainphoto.jpg&cfs=1&_nc_hash=AQCQcKl6BogKB3UO",
+    "updated_time": "2013-09-17T18:51:49+0000",
+    "caption": "consumer.fda.gov.tw",
+    "from": {
+        "name": "陳柏儒",
+        "id": "2020687477948223"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 9
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-09-14T05:57:40+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "致癌很難判定\n但應該可以交叉分析各國食品添加物的標準\ncode for tomorrow 有在作開放食庫(FOOD) 》計畫 \n (但不知進度)",
+                "id": "511686882241056"
+            },
+            {
+                "created_time": "2013-09-14T05:59:01+0000",
+                "from": {
+                    "name": "陳柏儒",
+                    "id": "2020687477948223"
+                },
+                "message": "ｏｋ 我幫忙轉達給我朋友",
+                "id": "511687118907699"
+            },
+            {
+                "created_time": "2013-09-14T06:04:09+0000",
+                "from": {
+                    "name": "Lily Cheng",
+                    "id": "10209302679522242"
+                },
+                "message": "其實現在吃什麼都會致癌吧？如果沒有辦法捨棄好好用的歐羅肥和除草劑，沒有辦法吸引年輕人用體力活的方式下鄉耕作，那些看不到的化學物質，默默的被我們吃下肚子的時候，又哪一個會不致癌呢？（最近看了雜食者的兩難的系列書有感）",
+                "id": "511687998907611"
+            },
+            {
+                "created_time": "2013-09-14T06:06:33+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "是要做新版農民曆封地嗎？如香腸別配養樂多",
+                "id": "511688448907566"
+            },
+            {
+                "created_time": "2013-09-14T08:38:02+0000",
+                "from": {
+                    "name": "陳柏儒",
+                    "id": "2020687477948223"
+                },
+                "message": "Jeffrey Wu ++",
+                "id": "511720432237701"
+            },
+            {
+                "created_time": "2013-09-14T09:51:59+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "陳柏儒你朋友要做的是這方面資訊提供？如果是致癌方面，李柏鋒說的沒錯，要證明因果太難了，且食品添加物本身就很多，還有無法律禁止、幾乎無以計數的非食品添加物，不可能都送去檢驗，就算檢驗也是只能針對特定項目。",
+                "id": "511733725569705"
+            },
+            {
+                "created_time": "2013-09-14T19:00:13+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "營養成份應該很有價值",
+                "id": "511893368887074"
+            },
+            {
+                "created_time": "2013-09-15T09:53:43+0000",
+                "from": {
+                    "name": "Kang-min Liu",
+                    "id": "10155184416211053"
+                },
+                "message": "我以前曾使用過 USDA 公開的食物營養資料, 十分詳細（不過沒包含添加物）。那時應需求寫的程式碼： http:\/\/search.cpan.org\/~gugod\/Parse-USDASR-0.02\/",
+                "id": "512094112200333"
+            },
+            {
+                "created_time": "2013-09-15T09:56:34+0000",
+                "from": {
+                    "name": "Kang-min Liu",
+                    "id": "10155184416211053"
+                },
+                "message": "原資料的下載點： http:\/\/www.ars.usda.gov\/Services\/docs.htm?docid=8964",
+                "id": "512094572200287"
+            },
+            {
+                "created_time": "2013-09-16T07:10:48+0000",
+                "from": {
+                    "name": "Jeffrey Wu",
+                    "id": "10213772616642322"
+                },
+                "message": "如果是讓消費者方便查詢各種不同食物的營養成分，或是讓消費者輸入自己常吃的食物，分析出自己平時缺乏的營養素，來達到飲食均衡的狀態呢？ 請教大家有聽過類似的專案嗎？",
+                "id": "512458982163846"
+            },
+            {
+                "created_time": "2013-09-17T18:51:49+0000",
+                "from": {
+                    "name": "Kang-min Liu",
+                    "id": "10155184416211053"
+                },
+                "message": "以前接的某個專案就是做這件事（所以才會去用 USDA 資料），雖然後來那個網站收了 ^^",
+                "id": "513037825439295"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

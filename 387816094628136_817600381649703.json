@@ -1,0 +1,62 @@
+{
+    "created_time": "2015-06-10T13:46:51+0000",
+    "message": "野生地號查詢 API  http:\/\/twland.ronny.tw\/\n許多政府資料都是以地號 (Ex: 臺北市華興段三小段141號) 型式描述土地位置，例如環評書、土地買賣、實價登錄、公有地、都市更新、都市計劃... 但是政府未提供方便的從地號查詢地理輪廓的功能，我這邊提供一個野生地號查詢 API ，讓大家可以用程式直接大量抓取該地籍的 GeoJSON 來取得地理資訊吧",
+    "story": "Ronny Wang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_817600381649703",
+    "link": "http:\/\/twland.ronny.tw\/",
+    "name": "地號查詢",
+    "updated_time": "2015-06-13T02:06:11+0000",
+    "caption": "twland.ronny.tw",
+    "from": {
+        "name": "Ronny Wang",
+        "id": "1417580878352707"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 50
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-10T13:53:46+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "這個是包含輪廓的！",
+                "id": "817601981649543"
+            },
+            {
+                "created_time": "2015-06-12T14:53:31+0000",
+                "from": {
+                    "name": "Donald Zhan",
+                    "id": "10211137861352491"
+                },
+                "message": "Ronny Wang 遭遇到 AJAX 跨網域無法抓資料的問題",
+                "id": "818545548221853"
+            },
+            {
+                "created_time": "2015-06-13T01:53:34+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "剛剛也加上 Access-Control-Allow-Origin header 了",
+                "id": "818785151531226"
+            },
+            {
+                "created_time": "2015-06-13T02:06:11+0000",
+                "from": {
+                    "name": "Donald Zhan",
+                    "id": "10211137861352491"
+                },
+                "message": "Ronny Wang 謝謝！",
+                "id": "818788161530925"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

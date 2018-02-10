@@ -1,0 +1,73 @@
+{
+    "created_time": "2016-04-27T00:27:29+0000",
+    "message": "一個初步的想法，主要是目前縣市層級的開放資料推動不易，所以需要一些工具輔助，歡迎提供意見或是直接跳坑 ;)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_979023198840753",
+    "link": "https:\/\/g0v.hackpad.com\/XIDdqdefsJZ",
+    "description": "為了加速縣市政府開放資料的推動，平行單位釋出資料的比對是常見工作，但現在除了 OKFN 評比( http:\/\/tw-city.census.okfn.org\/ )之外並沒有其他相關索引； OKFN 評比是透過指定主題的方式，但實際執行時只希望找出一個簡單的答案，也就是 \"xx縣市開放了這個資料集，oo縣市有沒有類似的？\" ，因此希望開發一個程式去建立縣市資料集之間的連結（標籤） 資料庫規劃 SQL 檔案： https:\/\/gist.github.",
+    "name": "縣市開放資料集索引",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQBbByMKcqWNggkP",
+    "updated_time": "2016-05-05T03:54:05+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 34
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-04-27T04:44:08+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "希望可以提供 SQLite 版本，擴散應用會迅速些。",
+                "id": "979115155498224"
+            },
+            {
+                "created_time": "2016-04-27T04:46:42+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "這坑我很願意跳喔，如果方向跟\nhttps:\/\/github.com\/virus-warnning\/taiwan-anthropogeography-data\n類似的話，我就把我的 repo 給砍了來跟你這團。",
+                "id": "979115735498166"
+            },
+            {
+                "created_time": "2016-05-02T08:01:13+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "寫了一個簡單的安裝說明： https:\/\/github.com\/tainancity\/city_datasets\/blob\/master\/README.md\n\n爬蟲程式目前的狀態也已經上傳 https:\/\/github.com\/tainancity\/city_datasets_crawlers\n\n目前 臺北市, 新竹市, 南投縣, 臺南市, 桃園市 的爬蟲已經完成，其他縣市都是沒有 api 可以直接取得資料集，希望能夠有人幫忙 :)",
+                "id": "982020705207669"
+            },
+            {
+                "created_time": "2016-05-03T06:05:23+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "目前狀態的操作展示： https:\/\/www.youtube.com\/watch?v=QdKQ9t1IFfo",
+                "id": "982561061820300"
+            },
+            {
+                "created_time": "2016-05-05T03:54:05+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "挑了五個初步完成\n\n社會 - https:\/\/i.tainan.gov.tw\/city_datasets\/tags\/view\/57284832-4ab8-4b7b-af6d-2d8cacb5b862\n都市發展 - https:\/\/i.tainan.gov.tw\/city_datasets\/tags\/view\/572849a4-bd8c-46b6-8779-14a2acb5b862\n財政 - https:\/\/i.tainan.gov.tw\/city_datasets\/tags\/view\/5728486f-5a98-4dc1-9ce7-1be9acb5b862\n主計 - https:\/\/i.tainan.gov.tw\/city_datasets\/tags\/view\/57284706-6034-4500-9b54-2d97acb5b862\n工務 - https:\/\/i.tainan.gov.tw\/city_datasets\/tags\/view\/57284882-2270-4ddf-83a2-2e21acb5b862",
+                "id": "983728645036875"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

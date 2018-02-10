@@ -1,0 +1,190 @@
+{
+    "created_time": "2015-10-21T03:06:50+0000",
+    "message": "之前在想能不能像新聞小幫手那樣，弄個小外掛提醒USER你現在看的是內容農場網站，原來已經有人做出來了。只是不知道他是如何判斷哪些網站是內容農場? 不知有人用過嗎?\n",
+    "story": "Wen-Chi Cheng shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_877544952321912",
+    "link": "https:\/\/github.com\/benlau\/ihatecontentfarms",
+    "description": "ihatecontentfarms - I hate content farms",
+    "name": "benlau\/ihatecontentfarms",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBdvJUfozlcX_pK&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F82716%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQCZXwYmTyV2LGHA",
+    "updated_time": "2015-10-23T08:43:23+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Wen-Chi Cheng",
+        "id": "10156311430844284"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 19
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-10-21T03:12:53+0000",
+                "from": {
+                    "name": "Wei Tung",
+                    "id": "2028935627120713"
+                },
+                "message": "稍微看一下應該是domain name 黑名單,\n\nhttps:\/\/github.com\/benlau\/ihatecontentfarms\/blob\/master\/chrome\/sites.js",
+                "id": "877546708988403"
+            },
+            {
+                "created_time": "2015-10-21T03:13:51+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "所以是開放大家來編輯這個黑名單嗎?\n~好像會有濫用問題",
+                "id": "877546932321714"
+            },
+            {
+                "created_time": "2015-10-21T03:25:49+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "我對內容農場的定義是： 1. 不同網站有重複標題 2. 有文章可以直接反駁該文章",
+                "id": "877549468988127"
+            },
+            {
+                "created_time": "2015-10-21T03:25:58+0000",
+                "from": {
+                    "name": "Wei Tung",
+                    "id": "2028935627120713"
+                },
+                "message": "鄭文吉應該不會有濫用問題, 黑名單已經hardcode寫死了, 如果要加新的資料進去必須修改上面那份list然後重新提交新的版本到Chrome 商店, User 這邊更新完才會生效",
+                "id": "877549485654792"
+            },
+            {
+                "created_time": "2015-10-21T03:28:51+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "總覺得會擋不完，hardcode就代表你要一直盯著這東西更新，可能會造成開發者負擔",
+                "id": "877549918988082"
+            },
+            {
+                "created_time": "2015-10-21T03:32:09+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "我也這麼覺得，若像新聞小幫手那樣開放回報，就會造成濫用；但若全部由開發者管理清單，那就累死開發者...",
+                "id": "877550425654698"
+            },
+            {
+                "created_time": "2015-10-21T03:35:58+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "其實新聞小幫手還是有人維護，內容農場我是想說根據標題直接印出真相\n\n就算濫用也可以選擇性觀看",
+                "id": "877550935654647"
+            },
+            {
+                "created_time": "2015-10-21T03:38:16+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Ben Lau++",
+                "id": "877551415654599"
+            },
+            {
+                "created_time": "2015-10-21T03:52:53+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "話說之前有個內容農場排行榜，現在好像不能用了\nhttp:\/\/social.board.tw\/?filter=內容農場",
+                "id": "877553518987722"
+            },
+            {
+                "created_time": "2015-10-21T06:45:37+0000",
+                "from": {
+                    "name": "Ben Lau",
+                    "id": "10155487721824217"
+                },
+                "message": "你們好，我是這個Extension的作者，被召喚入來了.\n\n正如大家所發現的，這是用hard coded的清單，這個清單本身也是網友提供，然後我又加了點 (在開發期間，又被騙了)\n\n這個程式的主體是我有一晚失眠時寫的，在香港的Barcamp期間修整後發佈source code. (在conference時寫code特別起勁)\n\n實際上只是用了很短的時間設計及寫，在這期間我也有想過內容農場的定義，清單又該怎樣維護的問題。\n\n首先我不考慮自動建立的機制，一來要花力氣建立，二來要應付濫用問題，以MVP來說負擔太重了。\n\n還有一點是我想減少程式所需要的權限，雖然沒什麼人談過，其實Chrome Store有一段時間有很多malware，為了避免用戶擔心”作者濫用”的問題，像網絡的權限等一切不能要求。\n\n那麼人手管理呢？雖然說Content Farm的數量不少，但增長速度畢竟有限，一星期發佈一次算是可以接受的工作量。\n\n編輯要經github pull request，我會先人手把關，當然有機會被人濫用，這點我想是..\n\n當真的出現又有灰色地帶時，才拿出來討論。畢竟我還未知道到底會有多少用戶。結果只是叫好不叫座就浪費時間了.. \n\n像受權別人管理清單及定下規則等，我認為是未來要走的方向。",
+                "id": "877583375651403"
+            },
+            {
+                "created_time": "2015-10-21T07:19:30+0000",
+                "from": {
+                    "name": "Pei-Cheng Huang",
+                    "id": "2034321466584963"
+                },
+                "message": "用URL判斷吧?\n可是得像adblock 那樣去共同維護一份篩選的清單",
+                "id": "877598388983235"
+            },
+            {
+                "created_time": "2015-10-21T07:57:40+0000",
+                "from": {
+                    "name": "Sean Wei",
+                    "id": "2040508102887705"
+                },
+                "message": "可以讓 user 自建 list 嗎？",
+                "id": "877604922315915"
+            },
+            {
+                "created_time": "2015-10-21T07:59:01+0000",
+                "from": {
+                    "name": "Sean Wei",
+                    "id": "2040508102887705"
+                },
+                "message": "可以在下載頁面推薦幾個大 list ， user 再自行加入，像是 ADBlock",
+                "id": "877605108982563"
+            },
+            {
+                "created_time": "2015-10-21T08:01:55+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "user 自建 list 似乎也不錯，建議可以在安裝時先下載系統內建的黑名單，之後由user自己編輯增刪清單\n~話說連阿榮福利味也開始幫忙廣告了\nhttps:\/\/www.facebook.com\/freewarefans\/posts\/10153748533053487",
+                "id": "877605535649187"
+            },
+            {
+                "created_time": "2015-10-21T08:03:57+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "畢竟不是每個人都覺得那個內容不好，就像我自己也在做「農業謠言追追追」，但有時跟人家說你剛剛轉的東西有問題，也有人嗆說還是可以拿來參考啊，真是沒力。\nhttps:\/\/www.facebook.com\/agri.rumor?ref=bookmarks",
+                "id": "877605955649145"
+            },
+            {
+                "created_time": "2015-10-21T16:21:34+0000",
+                "from": {
+                    "name": "Ben Lau",
+                    "id": "10155487721824217"
+                },
+                "message": "我的想法是用戶可以自建custom black list及white list，而系統則提供一份系統的black list，介面設計好了，是要找時間做。Firefox那邊也要研究怎樣做 (未寫過Firefox Add-ons)",
+                "id": "877725048970569"
+            },
+            {
+                "created_time": "2015-10-23T08:19:06+0000",
+                "from": {
+                    "name": "Ben Lau",
+                    "id": "10155487721824217"
+                },
+                "message": "想問大家一個問題，我收到一個建議:\n\n「路人一點小建議......\n1.說實話 TEEP他的內容幾乎都是翻譯自外電的自產文章居多 並不算內容農場吧」\n\n大家認為TEEPR算嗎?",
+                "id": "878335598909514"
+            },
+            {
+                "created_time": "2015-10-23T08:24:45+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "與其問某個網站算不算內容農場，建議是不是就在這邊討論一個審核申覆機制出來比較好?",
+                "id": "878336355576105"
+            }
+        ],
+        "summary": {
+            "total_count": 18
+        }
+    }
+}

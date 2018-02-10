@@ -1,0 +1,55 @@
+{
+    "created_time": "2013-08-23T03:37:06+0000",
+    "message": "有一群人發起了「獨立網路運動」，希望創造出不需仰賴臉書、Twitter和Google的網路服務，一個真正屬於每個人的網路。他們不相信自己，也不相信企業。至今已經有約100多名來自全球的程式高手加入...",
+    "story": "Deva Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_500270156716062",
+    "link": "http:\/\/wired.tw\/2013\/08\/23\/%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%96%8B%E6%BA%90%EF%BC%81google%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%99%BC%E8%B5%B7%E7%8D%A8%E7%AB%8B%E9%81%8B%E5%8B%95%E6%9B%BF%E7%B6%B2%E8%B7%AF%E3%80%8C%E8%B6%8A%E7%8D%84\/index.html",
+    "description": "一群人聚集在一個小房間裡，其中一個人戴著Google Glass，一個人的T恤胸前寫著HTML5，還有一個人帶著高禮帽，帽沿還別了一朵花，這群人怎麼看都Geek到不行。",
+    "name": "真正的開源！Google工程師發起獨立運動替網路「越獄」",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAfNEAZgxTrEET-&w=130&h=130&url=http%3A%2F%2Ffarm3.staticflickr.com%2F2892%2F8989294371_fe20afe3dc_z.jpg&cfs=1&_nc_hash=AQBd8-agnlK3iqQf",
+    "updated_time": "2013-08-23T07:19:23+0000",
+    "caption": "wired.tw",
+    "from": {
+        "name": "Deva Lin",
+        "id": "10155520607840749"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 33
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-08-23T06:08:00+0000",
+                "from": {
+                    "name": "Lily Cheng",
+                    "id": "10209302679522242"
+                },
+                "message": "可是這樣會不會又延伸成為另外一種網路勢力？（摸下巴）",
+                "id": "500297583379986"
+            },
+            {
+                "created_time": "2013-08-23T06:53:07+0000",
+                "from": {
+                    "name": "Wang Chih Wei",
+                    "id": "10211778609960698"
+                },
+                "message": "百花齊放才是真自由",
+                "id": "500304746712603"
+            },
+            {
+                "created_time": "2013-08-23T07:19:23+0000",
+                "from": {
+                    "name": "陳壬癸",
+                    "id": "1844203458954856"
+                },
+                "message": "感覺上是要求 facebook、twitter 與 g+ 可以互相存取？？",
+                "id": "500310716712006"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

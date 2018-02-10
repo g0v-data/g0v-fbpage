@@ -1,0 +1,64 @@
+{
+    "created_time": "2015-04-26T19:52:10+0000",
+    "message": "這是從 http:\/\/amdrug.baphiq.gov.tw\/Animal\/AMItem4.aspx 下載的所有動物用藥資料\n\n會熊熊想要下載這份資料是因為看到一個朋友的臉書提到，原來最近茶葉問題提及的 芬普尼 (FIPRONIL) 其實在一些動物用藥中也看得到( http:\/\/amdrug.baphiq.gov.tw\/Animal\/MedLicContent.aspx?k1=2&k2=06671 )，循著他的連結我把資料全部下載下來，看看有沒有人想進一步運用",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_796842590392149",
+    "link": "https:\/\/github.com\/kiang\/drugs\/tree\/master\/Console\/Command\/data\/am",
+    "description": "source of http:\/\/drugs.olc.tw",
+    "name": "kiang\/drugs",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD-qDopzeJ7SqSp&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F47844%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQBdDqNtXXIDOZBe",
+    "updated_time": "2015-04-27T05:27:02+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 22
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-04-26T20:17:26+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "背景資訊 - https:\/\/www.facebook.com\/drugs.olc.tw\/photos\/a.397655630417361.1073741828.396091183907139\/400225913493666\/",
+                "id": "796850443724697"
+            },
+            {
+                "created_time": "2015-04-27T00:20:37+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "(Y)",
+                "id": "796929767050098"
+            },
+            {
+                "created_time": "2015-04-27T00:21:37+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "台灣細菌抗藥性強, 一部分跟養豬戶濫用抗生素有關 (有實驗\/論文證明)",
+                "id": "796930007050074"
+            },
+            {
+                "created_time": "2015-04-27T05:27:02+0000",
+                "from": {
+                    "name": "Yu Ting Hua",
+                    "id": "10211117198060942"
+                },
+                "message": "芬普尼是殺蟲劑，有些時候畜牧業環境也會用到，例如禽舍、畜舍殺蟲。一般環境用藥也有用到，例如除蟲公司殺白蟻，這個就跟一般民眾比較切身。",
+                "id": "797026730373735"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

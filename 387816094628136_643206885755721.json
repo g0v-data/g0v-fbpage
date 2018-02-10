@@ -1,0 +1,99 @@
+{
+    "created_time": "2014-06-27T00:18:57+0000",
+    "message": "請問一下各位高手，在後端查經緯度要怎麼寫呢?\n公民記者直播地圖的前端部份幾乎都好了，現在只差經緯度對不上\n\n",
+    "story": "唐宗浩 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_643206885755721",
+    "link": "http:\/\/inlivetw.github.io\/map\/",
+    "description": "inLiveTW直播地圖，就近找夥伴。",
+    "name": "inLiveTW直播地圖",
+    "updated_time": "2014-06-28T07:04:20+0000",
+    "caption": "inlivetw.github.io",
+    "from": {
+        "name": "唐宗浩",
+        "id": "1993696087313952"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 19
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-06-27T00:20:00+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "你沒說後端是用什麼 XD",
+                "id": "643207512422325"
+            },
+            {
+                "created_time": "2014-06-27T00:20:40+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "node.js",
+                "id": "643207712422305"
+            },
+            {
+                "created_time": "2014-06-27T00:25:52+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "討論區的pad\nhttps:\/\/inlivetw.hackpad.com\/MNh75nobRG5",
+                "id": "643213242421752"
+            },
+            {
+                "created_time": "2014-06-27T00:26:28+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "源碼位置\nhttps:\/\/github.com\/inLiveTW",
+                "id": "643213399088403"
+            },
+            {
+                "created_time": "2014-06-27T00:32:01+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "經緯度對不上的意思是已經有經緯度資訊，但前端接了是錯的？",
+                "id": "643214992421577"
+            },
+            {
+                "created_time": "2014-06-27T11:12:10+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "目前沒有經緯度資訊，只有概略地址，最好是在後端能送去例如yahoo api等地方查到經緯度，再餵給前端顯示",
+                "id": "643455262397550"
+            },
+            {
+                "created_time": "2014-06-28T01:46:49+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "關鍵字是 geocoding (這裡是用 Google 的):\nhttps:\/\/www.npmjs.org\/package\/node-geocoder",
+                "id": "643829575693452"
+            },
+            {
+                "created_time": "2014-06-28T07:04:20+0000",
+                "from": {
+                    "name": "Yuren Ju",
+                    "id": "10155044076171631"
+                },
+                "message": "也可以考慮一下這個 http:\/\/wiki.openstreetmap.org\/wiki\/Nominatim",
+                "id": "643908892352187"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

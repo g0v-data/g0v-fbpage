@@ -1,0 +1,91 @@
+{
+    "created_time": "2014-03-17T10:17:55+0000",
+    "message": "loomio 是一個新的線上討論決策平台，試用了一下大抵不錯，有些細節還可更好，但介面流暢度以及社團討論的需求基本上都ok。目前有很多語言介面，中文（台灣）正在進行中，有興趣可來一起跳坑！（我想直接用這個來推社團使用，避免用 email、fb 討論的混亂難以累積，所以算是動民主支線。）\n\ng0v 有個 loomio 群組，但社群去中心化，目前只有討論過小光生日怎麼慶祝XD：https:\/\/www.loomio.org\/g\/h8KsyxP7\/g0v",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_595032577239819",
+    "link": "https:\/\/www.transifex.com\/projects\/p\/loomio-1\/language\/zh_TW\/",
+    "description": "Translate Loomio into your own language.",
+    "name": "The Loomio translation project on Transifex",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAvgpWaK0GcexdP&w=130&h=130&url=https%3A%2F%2Fds0k0en9abmn1.cloudfront.net%2Fstatic%2Fimages%2Ftx-logo-square.562de6a8f334.png&cfs=1&_nc_hash=AQCVBXs8ExdIsmjS",
+    "updated_time": "2014-03-17T14:52:08+0000",
+    "caption": "transifex.com",
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 29
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-17T10:23:18+0000",
+                "from": {
+                    "name": "Ddio Juan",
+                    "id": "10215875181337658"
+                },
+                "message": "坑在哪兒～",
+                "id": "595033980573012"
+            },
+            {
+                "created_time": "2014-03-17T10:24:01+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "補充：au 有去信問，loomio 之後好像會支援 etherpad 和 ethercalc，以及 mesh network 相關的什麼什麼（我搞不懂的東西），總之跟零時廣場有關。坑就在連結裡啊！transifex那個按下去！",
+                "id": "595034207239656"
+            },
+            {
+                "created_time": "2014-03-17T14:40:30+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "loomio 看到的問題要不要開個 hackpad 記錄會比較好？畢竟它還在 beta 階段，放在上面的資料還是有些不確定性在",
+                "id": "595121170564293"
+            },
+            {
+                "created_time": "2014-03-17T14:47:54+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "開啊開啊（推坑），但也是要順便試用 ._.",
+                "id": "595123913897352"
+            },
+            {
+                "created_time": "2014-03-17T14:49:23+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "所以是要取代 hackpad \/ FB 用的嗎?",
+                "id": "595124340563976"
+            },
+            {
+                "created_time": "2014-03-17T14:50:39+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "done - https:\/\/g0v.hackpad.com\/loomio--ugb1GCVwH9N",
+                "id": "595124867230590"
+            },
+            {
+                "created_time": "2014-03-17T14:52:08+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "loomio 試著以系統化的方式去找出更好的群眾決策方式， hackpad 是比較鬆散的文件共筆，所以應該沒有取代的問題。但 loomio 有個好處是原始碼完全公開 https:\/\/github.com\/loomio\/loomio",
+                "id": "595125380563872"
+            }
+        ],
+        "summary": {
+            "total_count": 7
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "created_time": "2014-12-18T07:44:34+0000",
+    "message": "這裡有人熟悉公司法與會計法的嗎?\n我有一個問題\n就是當一家營利的公司, 收受公開捐款, 作為業務必要支出時\n帳是怎麼報的? 會計科目的編號是用那些號碼?\n\n案例\n蕃薯藤收受捐款, 購買新聞照片的圖檔, 用於自己的新聞網站上?\n蕃薯藤 = 天空傳媒(股)公司\n",
+    "story": "Pei-Cheng Huang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_726430167433392",
+    "link": "http:\/\/world.yam.com\/SaveTheWorld\/",
+    "description": "我們需要你的力量！請支持地球圖輯隊，讓我們繼續帶大家看透全世界！",
+    "name": "你的視界，改變世界！",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAl2tOLtOBegcoM&w=130&h=130&url=http%3A%2F%2Fworld.yam.com%2FSaveTheWorld%2Fimg%2Flogo%2Ffbstw.png&cfs=1&_nc_hash=AQCJPs8meLmIq5d5",
+    "updated_time": "2014-12-18T14:52:10+0000",
+    "caption": "world.yam.com",
+    "from": {
+        "name": "Pei-Cheng Huang",
+        "id": "2034321466584963"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 2
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-12-18T11:51:07+0000",
+                "from": {
+                    "name": "Danny Lin",
+                    "id": "10155981398633267"
+                },
+                "message": "這應該可以用銷售的名義，不是無償捐款。",
+                "id": "726498214093254"
+            },
+            {
+                "created_time": "2014-12-18T13:16:26+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "他有商品4選1，所以就是貸銷貨收入而已",
+                "id": "726522434090832"
+            },
+            {
+                "created_time": "2014-12-18T14:52:10+0000",
+                "from": {
+                    "name": "Pei-Cheng Huang",
+                    "id": "2034321466584963"
+                },
+                "message": "了解\n原來如此",
+                "id": "726553320754410"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

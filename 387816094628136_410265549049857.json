@@ -1,0 +1,37 @@
+{
+    "created_time": "2013-01-23T09:49:15+0000",
+    "message": "新聞服務：美國政府帶頭的 National Day of Civic Hacking 會在 6 月 1, 2 日舉行。",
+    "story": "Wen-Chun Ni shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_410265549049857",
+    "link": "http:\/\/techcrunch.com\/2013\/01\/22\/national-day-of-civic-hacking\/",
+    "description": "The White House wants you to hack for a better America. Today it announced the National Day Of Civic Hacking on June 1-2 where many government agencies will liberate data for citizens across the US to use to build tech that helps their communities. 27 cities have planned events where hackers will..",
+    "name": "White House Announces National Day Of Civic Hacking To Liberate Data From NASA And More Govt Agencie",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCMQtoRCa1EtO12&w=130&h=130&url=http%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2013%2F01%2Fnational-day-of-civic-hacking.png%3Fw%3D150&cfs=1&_nc_hash=AQCLx2wYsu2elcfT",
+    "updated_time": "2013-01-23T14:57:34+0000",
+    "caption": "techcrunch.com",
+    "from": {
+        "name": "Wen-Chun Ni",
+        "id": "10217198797146392"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-01-23T14:57:34+0000",
+                "from": {
+                    "name": "T.h. Schee",
+                    "id": "10155562252649790"
+                },
+                "message": "這活動的上位架構是 Presidential Innovation Fellows 再走下來的，當初會議我在線上有全程參與，背後有他要 serve 的目的：\n\nhttp:\/\/www.whitehouse.gov\/innovationfellows\n\n\"The Presidential Innovation Fellows program pairs top innovators from the private sector, non-profits, and academia with top innovators in government to collaborate on solutions that aim to deliver significant results in six months.\"",
+                "id": "410362389040173"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

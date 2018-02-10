@@ -1,0 +1,37 @@
+{
+    "created_time": "2014-06-11T06:28:08+0000",
+    "message": "法案第五章之後的條文不見了，在官方的pdf上看得到，但是g0v的介面看不到",
+    "story": "Alex Huang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_635128059896937",
+    "link": "http:\/\/ly.g0v.tw\/bills\/454L16416",
+    "description": "本院委員陳學聖、楊玉欣、陳碧涵、陳淑慧等23人，針對「自由經濟示範區特別條例」草案第六章產業活動之相關規定，對於文化創意產業之提振與保護顯有不足之處。為提供文創產業成長之合理誘因，考量文創事業許多重要資源、權利、技術、價值等來自於個人，文創示範事業涉及個人資產移轉之所得，得採就源扣繳，不受所得稅法第十四條第一項第七類之限制，以與國際接軌，同時營造更具競爭力的文化自由貿易港，爰新增第五十四條以為規範。",
+    "name": "454L16416: 擬具「自由經濟示範區特別條例草案」，請審議案。",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC0tQd-IIzq1Hf6&w=130&h=130&url=http%3A%2F%2Fly.g0v.tw%2Fimg%2Fg0v-2line-white-s.png&cfs=1&_nc_hash=AQCwvw5US4OlY4X-",
+    "updated_time": "2014-06-11T12:07:50+0000",
+    "caption": "ly.g0v.tw",
+    "from": {
+        "name": "Alex Huang",
+        "id": "2129037817319256"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 6
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-06-11T12:07:50+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "經過接力debug，問題應該已經修正了 ~ 謝謝回報 :D",
+                "id": "635211313221945"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

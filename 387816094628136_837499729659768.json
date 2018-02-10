@@ -1,0 +1,21 @@
+{
+    "created_time": "2015-07-21T04:57:42+0000",
+    "message": "Youtube串流直播推出一個新版的模式(舊模式依舊存在)！\n\n想請教各位，早期在g0v.today那時，\n左方的列表可以自動偵測Youtube直播Live的狀態，\n新版的Youtube直播網址可以固定，不知道這樣是否可以偵測到？\n\n今晚預計開台保守時間PM6:30~PM7:30\n活動時間表定PM6:00~PM8:00\n直播內容：反黑箱課綱\n測試直播固定網址：https:\/\/youtube.com\/tcrcg\/live\n\n可以麻煩有空的人在那時幫忙測試一下，\n新版的Youtube固定網址，是否依舊可以自動判定Live狀態呢？\n感謝！",
+    "id": "387816094628136_837499729659768",
+    "updated_time": "2015-07-21T04:57:42+0000",
+    "from": {
+        "name": "Wei-Cheng Lee",
+        "id": "10160184588235599"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 6
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

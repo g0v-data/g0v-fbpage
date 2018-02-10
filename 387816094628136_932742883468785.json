@@ -1,0 +1,52 @@
+{
+    "created_time": "2016-02-16T17:11:57+0000",
+    "message": "公務員身分自己轉經緯度碰到無法跨越的障礙，實在很想放棄Q____Q 請大大們幫忙解惑了 (跪) Q___________________Q",
+    "id": "387816094628136_932742883468785",
+    "updated_time": "2016-02-17T03:25:47+0000",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "Pei-Chi Lo",
+        "id": "10215091580704901"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 23
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-02-16T17:28:37+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "其實我不認為已經有地址的原始資料都需要提供座標，有當然很好。gecode 該遇到的問題 peggy 都提到了，不過最麻煩的會是 geocoder 使用條款不見得能讓你把解出來的座標重新授權成 open data。",
+                "id": "932750006801406"
+            },
+            {
+                "created_time": "2016-02-16T17:29:24+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "之前的鄉民 geocoder proposal: https:\/\/www.newschallenge.org\/challenge\/data\/entries\/openstreetmap-everywhere",
+                "id": "932750170134723"
+            },
+            {
+                "created_time": "2016-02-17T01:57:04+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "之前做台灣農業機關地圖時也遇過同樣的問題，很多鄉下地址根本沒有路名，只有XX村XX號\nhttp:\/\/www.meshlet.com\/#!jwj,kdais",
+                "id": "932972913445782"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

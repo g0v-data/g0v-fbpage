@@ -1,0 +1,148 @@
+{
+    "created_time": "2014-04-05T13:56:39+0000",
+    "message": "有一個想法, 看這次的公民運動, 很多人到了現場可能會覺得都只是聽短講, 聽別人分享,（今天有討論的活動我覺得超棒, 不過我沒去）。\n\n但是如果有什麼自己覺得很重要的想法或者建議想表達的時候到底要找誰？！ \n\n然後需要物資的時候也容易一下缺這個, 然後又一下什麼來了很多。\n\n有沒有什麼免費的 support ticket hosting 可以用？ 這樣只要開給有參加的工作人員權限, 有人有問題或建議的時候就可以去file 一個 ticket 然後看誰去認領來回覆。\n\n缺東西的時候也可以在上面統一開一個類別然後讓願意捐物資的人來領這張 ticket...。",
+    "id": "387816094628136_603765229699887",
+    "updated_time": "2014-04-05T15:55:05+0000",
+    "from": {
+        "name": "Shi Jie",
+        "id": "10213861804612766"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 8
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-05T14:03:51+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "http:\/\/hiveminder.com\/splash\/   這個行不行!?",
+                "id": "603767436366333"
+            },
+            {
+                "created_time": "2014-04-05T14:06:21+0000",
+                "from": {
+                    "name": "Shi Jie",
+                    "id": "10213861804612766"
+                },
+                "message": "看起來像是個人用的task tracker, 我說的是像 help desk, issue tracker 或沒有code 的 bugzilla...",
+                "id": "603768669699543"
+            },
+            {
+                "created_time": "2014-04-05T14:11:31+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "RT? http:\/\/www.bestpractical.com\/rt\/",
+                "id": "603770949699315"
+            },
+            {
+                "created_time": "2014-04-05T14:12:24+0000",
+                "from": {
+                    "name": "Shi Jie",
+                    "id": "10213861804612766"
+                },
+                "message": "對就是這個, 有沒有 free hosting...",
+                "id": "603771923032551"
+            },
+            {
+                "created_time": "2014-04-05T14:13:07+0000",
+                "from": {
+                    "name": "Simon Pai",
+                    "id": "10154930548076403"
+                },
+                "message": "我印象中 hackpad 有一兩篇在討論相關的 (後勤問題) 對不對，但是我一下找不到... XD",
+                "id": "603772826365794"
+            },
+            {
+                "created_time": "2014-04-05T14:21:32+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "hiveminder 跟 rt 同一家公司做的，rt open source 應該可以自己架? 開發者有在此社群出沒 XD",
+                "id": "603775463032197"
+            },
+            {
+                "created_time": "2014-04-05T14:24:58+0000",
+                "from": {
+                    "name": "Simon Pai",
+                    "id": "10154930548076403"
+                },
+                "message": "這個裡面算是有兩個問題對不對？一個是情報通路如何做，一個是 crowd sourcing request \/ supply 如何做。這兩件事都非常有討論價值。",
+                "id": "603776356365441"
+            },
+            {
+                "created_time": "2014-04-05T14:30:49+0000",
+                "from": {
+                    "name": "Sin-Git Tan",
+                    "id": "10215995596182693"
+                },
+                "message": "可以用sahana做人力跟物資管理",
+                "id": "603778146365262"
+            },
+            {
+                "created_time": "2014-04-05T14:36:47+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "本來也想推 RT。不過因為題目是有 hosting. 其實當然可以很容易裝起來",
+                "id": "603780216365055"
+            },
+            {
+                "created_time": "2014-04-05T14:38:22+0000",
+                "from": {
+                    "name": "Shi Jie",
+                    "id": "10213861804612766"
+                },
+                "message": "好拉, 更正, 說hosting 是怕到時候被打掛。不過反正這邊大大很多應該可以不用怕",
+                "id": "603780553031688"
+            },
+            {
+                "created_time": "2014-04-05T15:13:33+0000",
+                "from": {
+                    "name": "Tsung-Fu Lin",
+                    "id": "2054423874574205"
+                },
+                "message": "Jira?",
+                "id": "603793149697095"
+            },
+            {
+                "created_time": "2014-04-05T15:52:21+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "https:\/\/g0v.hackpad.com\/User-Story-NPO--S6Wk06P10ij",
+                "id": "603809299695480"
+            },
+            {
+                "created_time": "2014-04-05T15:52:55+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "https:\/\/g0v.hackpad.com\/322-3myzO7SfJ3p （這是我開的，基本還因為一切還在進行式，所以礦坑荒廢中 XD）",
+                "id": "603809406362136"
+            },
+            {
+                "created_time": "2014-04-05T15:55:05+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "如果想搜集現成好的解決方案，或直接挖坑開幹，請跟我說 XD",
+                "id": "603810273028716"
+            }
+        ],
+        "summary": {
+            "total_count": 14
+        }
+    }
+}

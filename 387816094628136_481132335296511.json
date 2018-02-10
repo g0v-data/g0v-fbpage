@@ -1,0 +1,199 @@
+{
+    "created_time": "2013-07-12T14:17:46+0000",
+    "message": "最近事情很多啊。cc Kuang-che Wu 好像已經研究好怎麼抓了吧？",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_481132335296511",
+    "link": "http:\/\/www.ccw.org.tw\/p\/18122",
+    "description": "  搶救全民公共資產 立法院請勿銷毀IVOD質詢影像！ 並邀請全民參加幫立委質詢打分數活動   IVOD啟用四年，切勿銷毀全民資產！   《立法院會議錄影錄音管理規則》第五條第一項規定「本院院會會議錄影帶保存十年；委員會會議錄影帶保存四年。」自2009年02月20日立法院啟用IVOD議事轉播系統至今已到了第四年，在此公督盟強烈呼籲立法院資訊處請勿銷毀這些屬於全體人民的資產！公督盟執行長張宏林表示，日前監察院秘書長陳豐義因擅自銷毀大量檔案而遭彈劾，希望立法院千萬別步上後塵。   此外，目前規定非委員本人不得申請複製其錄影與錄音內容，且未經同意不得將影音記錄攜出院外或外借，明顯將立委發言認定為個人...",
+    "name": "【會後新聞稿】立法院請勿銷毀IVOD質詢影像！ 並邀請全民參加幫立委質詢打分數活動 | 公民監督國會聯盟",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBAaY3vNSbQyWmY&w=130&h=130&url=http%3A%2F%2Fwww.ccw.org.tw%2Fsites%2Fdefault%2Ffiles%2Fresize%2Fplate%2FIMG_0018_1-500x375.JPG&cfs=1&sx=0&sy=0&sw=375&sh=375&_nc_hash=AQB2dLxfrbn_XTn8",
+    "updated_time": "2013-07-19T18:08:45+0000",
+    "caption": "ccw.org.tw",
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 11
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-07-12T14:29:16+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "此則由管中祥轉來， Chia-liang Kao之前有survey幾個儲存方式\/費用，整理之後再貼上來吧。",
+                "id": "481135875296157"
+            },
+            {
+                "created_time": "2013-07-12T14:48:10+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "我記得之前估算應該是一個會期約 500G, 因此一屆大概 4T, 目前的資料量應該也是差不多這樣（因為從第七屆中間才開始有影音），小光光那邊如果從 ivod index 計算應該會更精確。",
+                "id": "481142708628807"
+            },
+            {
+                "created_time": "2013-07-12T14:51:20+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "如果放 s3 Reduced Redundancy 一個月應該要將近 US$300... 還沒算頻寬.... 應該有其他的 storage hosting option 可以 survey 看看",
+                "id": "481143901962021"
+            },
+            {
+                "created_time": "2013-07-12T14:52:38+0000",
+                "from": {
+                    "name": "Abbygail ET Wu",
+                    "id": "10212459428455662"
+                },
+                "message": "我可以幫忙贊助s3\/rackspace嗎？我有在用這些空間，費用跟技術都能幫出",
+                "id": "481144181961993"
+            },
+            {
+                "created_time": "2013-07-12T15:05:20+0000",
+                "from": {
+                    "name": "Abbygail ET Wu",
+                    "id": "10212459428455662"
+                },
+                "message": "可以把不常用的冷門檔用冰河凍起來啊",
+                "id": "481146971961714"
+            },
+            {
+                "created_time": "2013-07-13T07:07:14+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "Abbygail ET Wu: 要不要把各數字都出來、想想有無其他方案(自己host?or?）、看有無其他社團支援再決定？我怕坑太大....",
+                "id": "481487568594321"
+            },
+            {
+                "created_time": "2013-07-13T07:16:25+0000",
+                "from": {
+                    "name": "Abbygail ET Wu",
+                    "id": "10212459428455662"
+                },
+                "message": "好，不過有沒有那些影片的「熱門度」排行？這樣比較好估",
+                "id": "481489218594156"
+            },
+            {
+                "created_time": "2013-07-13T08:35:03+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "https:\/\/hackpad.com\/44XSLS6BQU0 開個hackpad比較一下優缺點，請補充",
+                "id": "481501261926285"
+            },
+            {
+                "created_time": "2013-07-13T09:13:03+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "以前 now.in 是用 SoftLayer dedicated server\n應該比 S3 便宜多了\nhttp:\/\/storify.com\/pofeng\/nowin",
+                "id": "481507291925682"
+            },
+            {
+                "created_time": "2013-07-13T09:30:15+0000",
+                "from": {
+                    "name": "Abbygail ET Wu",
+                    "id": "10212459428455662"
+                },
+                "message": "嗯，如果租一台 unmeter 的 獨立主機呢？",
+                "id": "481509895258755"
+            },
+            {
+                "created_time": "2013-07-13T09:39:42+0000",
+                "from": {
+                    "name": "Abbygail ET Wu",
+                    "id": "10212459428455662"
+                },
+                "message": "吼～不是啦 我說不限流量(unmetered)的機器啦，少打了ed",
+                "id": "481512531925158"
+            },
+            {
+                "created_time": "2013-07-13T09:41:13+0000",
+                "from": {
+                    "name": "Abbygail ET Wu",
+                    "id": "10212459428455662"
+                },
+                "message": "https:\/\/hivelocity.net\/dedicated-servers\/unmetered-dedicated-servers\/ 這間的應該還行，我之前有比較過他們的服務品質（我也算是主機商，只是沒做Dedicated \/ Colocation）",
+                "id": "481512868591791"
+            },
+            {
+                "created_time": "2013-07-18T14:56:05+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "看 irc log 有人提到馬路消息 ivod 在換系統，又有些檔案已經找不到了，這題有解法了嗎？",
+                "id": "483865241689887"
+            },
+            {
+                "created_time": "2013-07-18T15:14:38+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "測試結果, 約莫2009,11月以前的只剩下record卻沒有檔案 QQ",
+                "id": "483870668356011"
+            },
+            {
+                "created_time": "2013-07-18T15:36:18+0000",
+                "from": {
+                    "name": "Kuang-che Wu",
+                    "id": "10155699622615379"
+                },
+                "message": "我測的結果是, 2009上半年沒有影片,下半年的還在. 不過不知道上半年的檔案是不是早就不在了. (因為網頁介面就看不到 2009 全年的資料)",
+                "id": "483877775021967"
+            },
+            {
+                "created_time": "2013-07-18T15:37:46+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "http:\/\/tinyurl.com\/pr6eo3d 這邊 Kuang-che Wu提到上傳youtube版權問題，想請問 Li-Ting Shirley Huang 管中祥 此題何解？能幫忙解惑嗎？",
+                "id": "483878628355215"
+            },
+            {
+                "created_time": "2013-07-19T15:07:11+0000",
+                "from": {
+                    "name": "Li-Ting Shirley Huang",
+                    "id": "10215303994698920"
+                },
+                "message": "回覆在hackpad上了～，我明天再去跟執行長討論一下「先傳再說」的策略。",
+                "id": "484280188315059"
+            },
+            {
+                "created_time": "2013-07-19T18:03:51+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "ipa 我也不請自來地回覆在 hackpad 上了。簡單講，法律風險極低，策略上則是非做不可。",
+                "id": "484366328306445"
+            },
+            {
+                "created_time": "2013-07-19T18:08:45+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Hsiao-hsien Yang 不必客套了啦 開 hackpad 就是請所有人來的意思，所以沒有不請自來 :D",
+                "id": "484368331639578"
+            }
+        ],
+        "summary": {
+            "total_count": 19
+        }
+    }
+}

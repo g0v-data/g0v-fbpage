@@ -1,0 +1,216 @@
+{
+    "created_time": "2014-04-19T13:50:06+0000",
+    "message": "http:\/\/hoekuma.tumblr.com\/post\/83184799929\n\nXD 今天睡過頭還好下午有機會用短講時間插播！總之先把樣版檔開放出來（其實一直都是開放的，只是終於整理成大家比較容易找到的方式），請有興趣的朋友一起來畫熊 XD\n\n其實最後我們自己會有一版本的遊戲，而遊戲專案開發時，不管規模大小，通常大方向抵定之後是很難說要加什麼就加什麼（雖然都開放討論）；但本專案所產生出來的素材，基本上就是開放大家任意拿去重複再利用的，若有人想 fork 都十分歡迎。",
+    "story": "Johnson Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_609896902420053",
+    "link": "http:\/\/hoekuma.tumblr.com\/post\/83184799929",
+    "description": "在「OO花論壇」效應遍地開花之時，《吼吼熊愛味噌》團隊也不會保持沉默，秉持著「人人有話說，人人有熊畫」的精神，正式發表「熊熊畫論壇」計畫！ 「熊熊畫論壇」呈現效果： https:\/\/dl.dropboxusercontent.com\/u\/24064341\/hoehoekuma\/index.html （此為開發中的暫時版本，日後會再進行修改） 參加方式： •...",
+    "name": "人人有話說，人人有熊畫",
+    "updated_time": "2014-04-27T07:07:01+0000",
+    "caption": "hoekuma.tumblr.com",
+    "from": {
+        "name": "Johnson Lin",
+        "id": "1839947506029238"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 24
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-19T23:34:38+0000",
+                "from": {
+                    "name": "Kuanling Huang",
+                    "id": "10209198787525573"
+                },
+                "message": "耶！新的坑！！",
+                "id": "610159845727092"
+            },
+            {
+                "created_time": "2014-04-20T02:20:00+0000",
+                "from": {
+                    "name": "吳永豐",
+                    "id": "2061993857160438"
+                },
+                "message": "發現bug 大家走到中間會被神秘的黑洞力量吸住 全部合體XD",
+                "id": "610209639055446"
+            },
+            {
+                "created_time": "2014-04-20T04:25:31+0000",
+                "from": {
+                    "name": "Johnson Lin",
+                    "id": "1839947506029238"
+                },
+                "message": "XD 沒把這版本的操作寫清楚 xd，用上下左右控制台灣黑熊那隻，用空白鍵可以吼叫，被叫到的熊會 follow 你，不過目前那個吼叫的判斷方塊一開始其實不是完全看不見，只是它的 scale 是 0.01 XD   所以沒吼時太靠近還是會碰到，我還要想辦法 workaround :p",
+                "id": "610245239051886"
+            },
+            {
+                "created_time": "2014-04-20T04:30:07+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "如果要開放資源與素材，建議先到這開個 pad 供大家分身伐樹。\nhttp:\/\/g0v.hackpad.com",
+                "id": "610246335718443"
+            },
+            {
+                "created_time": "2014-04-20T04:59:04+0000",
+                "from": {
+                    "name": "Johnson Lin",
+                    "id": "1839947506029238"
+                },
+                "message": "其實有一個 pad 在這  https:\/\/hoehoekumamiso.hackpad.com\/HoeHoeKumaHaiHaiMiso-68Hqh09jpxW\n\n不過單就熊的樣版開放的部分，我們自己是有考量有些其他朋友沒有 hackpad 帳號的方便性，想說這部分直接用回應留言的方式回在 tumblr 上就好了 (熊圖跟想說的一句話)",
+                "id": "610253095717767"
+            },
+            {
+                "created_time": "2014-04-22T17:11:10+0000",
+                "from": {
+                    "name": "Kuanling Huang",
+                    "id": "10209198787525573"
+                },
+                "message": "mockup: http:\/\/caasigd.org\/hoehoekuma-painter\/\n有種會卡在 color picker 的預感。",
+                "id": "611802742229469"
+            },
+            {
+                "created_time": "2014-04-23T07:36:22+0000",
+                "from": {
+                    "name": "Johnson Lin",
+                    "id": "1839947506029238"
+                },
+                "message": "Kuanling Huang 太威惹",
+                "id": "612198638856546"
+            },
+            {
+                "created_time": "2014-04-24T13:57:48+0000",
+                "from": {
+                    "name": "Kun-Wei Lin",
+                    "id": "10213067873669585"
+                },
+                "message": "1.0版正式公開！\nhttp:\/\/hoekuma.tumblr.com\/post\/83712844805\/1-0",
+                "id": "612810162128727"
+            },
+            {
+                "created_time": "2014-04-24T16:42:54+0000",
+                "from": {
+                    "name": "Kuanling Huang",
+                    "id": "10209198787525573"
+                },
+                "message": "才剛弄完 color picker ，不知道趕不趕得上支援 XD",
+                "id": "612866952123048"
+            },
+            {
+                "created_time": "2014-04-24T16:44:41+0000",
+                "from": {
+                    "name": "Kun-Wei Lin",
+                    "id": "10213067873669585"
+                },
+                "message": "1.0版遊戲性我自己覺得太單調，還在想要怎麼變得更好玩",
+                "id": "612867562122987"
+            },
+            {
+                "created_time": "2014-04-24T16:53:36+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "乾脆結合政治獻金驗證，現在已經有結合 2048 與 Flappy Bird 的混種了，參考一下。",
+                "id": "612869768789433"
+            },
+            {
+                "created_time": "2014-04-24T16:59:24+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Kun-Wei 剛發現 Safari 跟 Chrome 在 loading 結束後點擊都沒反應，不知該如何開始遊戲？",
+                "id": "612871518789258"
+            },
+            {
+                "created_time": "2014-04-24T17:00:04+0000",
+                "from": {
+                    "name": "Kun-Wei Lin",
+                    "id": "10213067873669585"
+                },
+                "message": "只使用方向鍵跟空白鍵操作喔",
+                "id": "612871718789238"
+            },
+            {
+                "created_time": "2014-04-24T17:01:20+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "對啊！但如何 Start?",
+                "id": "612872132122530"
+            },
+            {
+                "created_time": "2014-04-24T17:03:14+0000",
+                "from": {
+                    "name": "Kun-Wei Lin",
+                    "id": "10213067873669585"
+                },
+                "message": "正常應該按空白鍵就開始了。你可以用方向鍵選擇選項嗎？",
+                "id": "612872798789130"
+            },
+            {
+                "created_time": "2014-04-24T17:04:21+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "無法，看來應該是只有我的問題。",
+                "id": "612873192122424"
+            },
+            {
+                "created_time": "2014-04-25T00:29:53+0000",
+                "from": {
+                    "name": "吳永豐",
+                    "id": "2061993857160438"
+                },
+                "message": "按空白鍵開始",
+                "id": "613016332108110"
+            },
+            {
+                "created_time": "2014-04-25T08:11:18+0000",
+                "from": {
+                    "name": "Kuanling Huang",
+                    "id": "10209198787525573"
+                },
+                "message": "更新，可以選顏色、畫圖，\n還沒有 mask ，還無法存檔：\nhttp:\/\/caasigd.org\/hoehoekuma-painter\/",
+                "id": "613197678756642"
+            },
+            {
+                "created_time": "2014-04-26T20:16:56+0000",
+                "from": {
+                    "name": "Kuanling Huang",
+                    "id": "10209198787525573"
+                },
+                "message": "更新，現在有用過的顏色歷史，也有陽春的存檔功能 XD",
+                "id": "613924995350577"
+            },
+            {
+                "created_time": "2014-04-27T05:25:03+0000",
+                "from": {
+                    "name": "Kuanling Huang",
+                    "id": "10209198787525573"
+                },
+                "message": "楊孝先 用 FireFox 嗎？點一下遊戲本身讓它得到 focus ，再用方向跟空白鍵有用嗎？\n來看看政治獻金 OCR 有沒有 API ，不然太久沒碰 PHP 。",
+                "id": "614106508665759"
+            },
+            {
+                "created_time": "2014-04-27T07:07:01+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Kuanling 剛剛用 Safari 測試，已經可以了，感謝！",
+                "id": "614134851996258"
+            }
+        ],
+        "summary": {
+            "total_count": 21
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "created_time": "2014-12-17T04:47:30+0000",
+    "message": "http:\/\/data.fda.gov.tw\/frontsite\/event2\/\n\n競賽主題\n 凡運用衛生福利部食品藥物管理署之食品及藥物(藥品、醫療器材、化粧品)開放資料，透過資料挖掘、重組、混搭等方式，並可與企業、私人及國際開放資料混搭使用，發展出創新性且具實用價值之服務或產品。服務或產品可為應用程式API、網站服務、手持行動裝置App等各種類型。\n\n參賽資格\n 無論是大專或技職院校在校生、系統\/程式規劃或開發者、企業組織等，歡迎個人或組隊參加。\n 本競賽團體報名人數最多5人，須有1人為團隊代表人，代表人必須具中華民國國籍並在中華民國設籍之國民。代表人需負責與執行單位聯繫、確認參賽文件與獎金領取。\n\n第一名：可得獎金新臺幣8萬元整\n第二名：可得獎金新臺幣5萬元整\n第三名：可得獎金新臺幣3萬元整\n第四名：可得獎金新臺幣2萬元整\n第五名：可得獎金新臺幣1萬元整",
+    "id": "387816094628136_725953600814382",
+    "updated_time": "2014-12-19T01:28:59+0000",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 13
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-12-17T15:14:29+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "如果發現他們網站不太穩掛掉，這兒有個資料的備份： https:\/\/github.com\/kiang\/data.fda.gov.tw",
+                "id": "726123664130709"
+            },
+            {
+                "created_time": "2014-12-18T11:27:48+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "先做了一個簡單的檢索， welcome fork ;)\n\nhttp:\/\/drugs.olc.tw\/pages\/about",
+                "id": "726491614093914"
+            },
+            {
+                "created_time": "2014-12-18T12:04:34+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "(Y)",
+                "id": "726501854092890"
+            },
+            {
+                "created_time": "2014-12-18T12:06:18+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "炫耀一下, 馬上回報一個 issue \nhttps:\/\/github.com\/kiang\/data.fda.gov.tw\/issues\/1",
+                "id": "726502257426183"
+            },
+            {
+                "created_time": "2014-12-19T00:57:54+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "瞬間健保價整合進去, 外觀資料看起來也準備倒進去了",
+                "id": "726749717401437"
+            },
+            {
+                "created_time": "2014-12-19T01:02:12+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "外觀資料 版權 CC ?",
+                "id": "726751310734611"
+            },
+            {
+                "created_time": "2014-12-19T01:18:45+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "授權: http:\/\/data.fda.gov.tw\/frontsite\/cms\/cmsAction.do?method=doClauseDetail&clauseId=1\n\n資料: http:\/\/data.fda.gov.tw\/frontsite\/data\/DataAction.do?method=doDetail&infoId=42",
+                "id": "726755977400811"
+            },
+            {
+                "created_time": "2014-12-19T01:28:59+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "可能待整合的資料 https:\/\/github.com\/kiang\/drugs\/issues\/2",
+                "id": "726759000733842"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

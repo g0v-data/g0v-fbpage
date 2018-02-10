@@ -1,0 +1,64 @@
+{
+    "created_time": "2016-06-14T03:14:28+0000",
+    "message": "因為我很常使用Markdown Cheatsheets，發現很多人學習的時候英文成為一個門檻，所以這幾天花了一點時間把文章翻譯了一下。\n\n如果有好的發佈地點請跟我說，我可以貼過去，或各位自己動手。謝謝大家！\n\n",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1006718752737864",
+    "link": "https:\/\/gist.github.com\/billy3321\/1001749662c370887c63bb30f26c9e6e",
+    "description": "Markdown Cheatsheet 中文版",
+    "name": "Markdown Cheatsheet 中文版",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCOHXKQ7n-pk527&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F42607%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400&_nc_hash=AQB3_7ckKkGYR1kr",
+    "updated_time": "2016-06-14T09:12:24+0000",
+    "caption": "gist.github.com",
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 122
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-06-14T03:15:45+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "hmm 不是已經有 http:\/\/markdown.tw\/ ?",
+                "id": "1006719266071146"
+            },
+            {
+                "created_time": "2016-06-14T07:05:52+0000",
+                "from": {
+                    "name": "TW Yang",
+                    "id": "1960902447493410"
+                },
+                "message": "Markdown shall fall, and from the ashes will rise CommonMark that will... look pretty much just like Markdown but with a sane language spec. this time. :D\n\nRef: http:\/\/commonmark.org\/help\/\n\/cue https:\/\/www.youtube.com\/watch?v=6eVne-kYhn4",
+                "id": "1006794202730319"
+            },
+            {
+                "created_time": "2016-06-14T08:36:15+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "我覺得，流程圖也很重要，\n越複雜的程式，越需要流程圖來解釋程式碼的運作\nhttp:\/\/www.playpcesor.com\/2015\/02\/drawio.html",
+                "id": "1006833166059756"
+            },
+            {
+                "created_time": "2016-06-14T09:12:24+0000",
+                "from": {
+                    "name": "Liao Wen Satoshi",
+                    "id": "1802750063069768"
+                },
+                "message": "分享以前整理的筆記，有加一點github和octopress的markdown語法。不過有趣的是就算是相同的語法，不同parser顯示出來也會稍微不同，例如我以前轉到Github.io前bullet不需要在一個文字段落後空一行就可以顯示，但是轉到Octopress後這樣做bullet 用的符號卻會被視為一般字元。\n\n http:\/\/wen00072.github.io\/blog\/2013\/09\/15\/learning-markdown-syntax\/",
+                "id": "1006841309392275"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

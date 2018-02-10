@@ -1,0 +1,64 @@
+{
+    "created_time": "2014-01-26T13:31:10+0000",
+    "message": "之前雜誌報導的海外避稅名單，這是台灣的部分，資料庫名單可以都下載下來，不過不知道要怎麼應用(應該說沒idea)",
+    "story": "Yung Lin Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_572183972858013",
+    "link": "http:\/\/offshoreleaks.icij.org\/search?country=TW&q&ppl=on&ent=on&adr=on",
+    "description": "Search information about the ownership of more than 100,000 offshore entities in tax havens and discover the networks around them.",
+    "name": "ICIJ Offshore Leaks Database",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCsjoh19-1XAP53&w=130&h=130&url=http%3A%2F%2Foffshoreleaks.icij.org%2Fimg%2Fog-image.png&cfs=1&_nc_hash=AQA01CkrBGcOzhkK",
+    "updated_time": "2014-01-27T05:03:47+0000",
+    "caption": "offshoreleaks.icij.org",
+    "from": {
+        "name": "Yung Lin Chen",
+        "id": "1849562175118573"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 11
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-26T17:22:18+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "下載的資料好像沒有說明資料間的連結，可能是得自己猜吧...",
+                "id": "572265079516569"
+            },
+            {
+                "created_time": "2014-01-26T17:39:28+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "目前初步的猜測：\ncountriesNW.csv - 國家資料列表，應該沒有太大疑問\nnodesNW.csv - 公司或個人的資料\nnode_countriesNW.csv - 公司或個人資料與國家的連結\nedges_1DNW.csv - 公司與個人資料的連結， Entity_ID1 也許是為了避稅所註冊的公司資料編號， Entity_ID2 則是這間公司的關係人與關係名稱\n\n如果沒有猜錯，那麼如果要整理出台灣的資料，就要先從 nodesNW.csv 找出屬於台灣的資料，以這些資料作為 Entity_ID2 去找 edges_1DNW.csv 的 Entity_ID1 ，然後再用 Entity_ID1 去找出 edges_1DNW.csv 所有 Entity_ID2 的資料，最後用 Entity_ID2 挖 nodesNW.csv 裡面的資料，應該就可以拆出跟台灣有關的所有資料\n\n這個假設也許會有錯誤，就等其他人給意見吧 ;)",
+                "id": "572272282849182"
+            },
+            {
+                "created_time": "2014-01-26T18:03:39+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "好像比想像中複雜些，edges_1DNW.csv 放的資料可以解釋為 Entity_ID2 這個 node 是 Entity_ID1 這個 node 的資料，所以關聯不會只有一層，比較典型的資料是 註冊公司 => 股東 => 股東的相關資料 ，所以解析過程有可能因此產生無限迴圈 XD",
+                "id": "572282389514838"
+            },
+            {
+                "created_time": "2014-01-27T05:03:47+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "這個資料庫適合對 graph database 有興趣的朋友研究，畢竟是很實際的資料，研究的時候不用自己塞一堆空洞的測試資料，還可以發現一些有趣的東西，像是...\n\nhttp:\/\/offshoreleaks.icij.org\/nodes\/51221\nhttp:\/\/offshoreleaks.icij.org\/nodes\/89855\n\n，然後如果只是想要從裡面挖八卦出來的，也可以搭配下面工具服用\n\nhttp:\/\/en.wikipedia.org\/wiki\/List_of_Taiwanese_people_by_net_worth\nhttp:\/\/www.boca.gov.tw\/sp.asp?xdURL=E2C\/c2102-5.asp&CtNode=677&mp=1\n\n無聊可以把一些立法委員等政治人物的名字輸入進去看看 XD",
+                "id": "572582159484861"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

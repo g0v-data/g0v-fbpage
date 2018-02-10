@@ -1,0 +1,144 @@
+{
+    "created_time": "2014-03-27T07:10:54+0000",
+    "message": "http:\/\/wmmks.csie.ncku.edu.tw\/tsoc2014\/index.php\/\n今年暑假也有TSOC開源軟體創作活動，所有開源專案都可以提案找學生參與，這種能拿教育部的錢幫助大學生光明正大Refactor政府的機會，有意願當mentor的別錯過了",
+    "story": "Fred Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_599705140105896",
+    "link": "http:\/\/wmmks.csie.ncku.edu.tw\/tsoc2014\/index.php\/",
+    "description": "2013軟體創作達人暑期成長營(Taiwan Summer of Code, TSOC)提供全國大專院校具發展潛力與各項軟體競賽獲獎優質大專生接觸真實軟體開發情境的機會，藉此增進軟體設計能力快速成長，幫助開放軟體專案帶來新的開發者與貢獻者。",
+    "name": "2014軟體創作達人暑期成長營",
+    "updated_time": "2014-03-27T15:28:59+0000",
+    "caption": "wmmks.csie.ncku.edu.tw",
+    "from": {
+        "name": "Fred Lin",
+        "id": "10216020123955046"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-27T07:13:51+0000",
+                "from": {
+                    "name": "Yung-Yu Chen",
+                    "id": "10155488630409842"
+                },
+                "message": "我應該試試看呢",
+                "id": "599705743439169"
+            },
+            {
+                "created_time": "2014-03-27T07:19:47+0000",
+                "from": {
+                    "name": "Fred Lin",
+                    "id": "10216020123955046"
+                },
+                "message": "去年我有參與mentor一組，若不清楚要怎麼做也可以再問我",
+                "id": "599706876772389"
+            },
+            {
+                "created_time": "2014-03-27T07:22:20+0000",
+                "from": {
+                    "name": "Fred Lin",
+                    "id": "10216020123955046"
+                },
+                "message": "去年所有的題目與表格 http:\/\/wmmks.csie.ncku.edu.tw\/tsoc2013\/index.php\/2013-03-29-12-17-37\/2013-05-15-11-53-37.html",
+                "id": "599707333439010"
+            },
+            {
+                "created_time": "2014-03-27T14:06:28+0000",
+                "from": {
+                    "name": "Cognos Chen",
+                    "id": "1443122555817066"
+                },
+                "message": "這個真有趣  , 是說自己想個題目,然後pitch找學生一起參加,最後把結果open source出來的意思嗎?",
+                "id": "599838103425933"
+            },
+            {
+                "created_time": "2014-03-27T14:20:34+0000",
+                "from": {
+                    "name": "Cognos Chen",
+                    "id": "1443122555817066"
+                },
+                "message": "看到了兩個很有趣的東西.. 一個是用Lucene做的資料蒐集器, 一個是IM for Fire Fox OS.  不過有些成果沒link是沒做出來的意思嗎?",
+                "id": "599843603425383"
+            },
+            {
+                "created_time": "2014-03-27T14:21:52+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "Lucene 蒐集資料聽起來滿有趣的",
+                "id": "599843943425349"
+            },
+            {
+                "created_time": "2014-03-27T14:28:25+0000",
+                "from": {
+                    "name": "Hong Tinda",
+                    "id": "10215480788277885"
+                },
+                "message": "沒有link 可能是沒有人參與此專案，小弟有幸參與兩次TSOC",
+                "id": "599847473424996"
+            },
+            {
+                "created_time": "2014-03-27T14:36:08+0000",
+                "from": {
+                    "name": "Yung-Yu Chen",
+                    "id": "10155488630409842"
+                },
+                "message": "不過今年已經很忙。公司本來就計畫要作一個 intern project 了，這個再下去，大概會死掉。",
+                "id": "599850726758004"
+            },
+            {
+                "created_time": "2014-03-27T15:10:05+0000",
+                "from": {
+                    "name": "Fred Lin",
+                    "id": "10216020123955046"
+                },
+                "message": "對現有的計劃作改進也是喔（比較建議這樣做）, 例如改進萌典搜尋算法, 立院平台行動化等等",
+                "id": "599862993423444"
+            },
+            {
+                "created_time": "2014-03-27T15:11:37+0000",
+                "from": {
+                    "name": "Yung-Yu Chen",
+                    "id": "10155488630409842"
+                },
+                "message": "我想我對 web 還是缺乏興趣呢。",
+                "id": "599863576756719"
+            },
+            {
+                "created_time": "2014-03-27T15:15:41+0000",
+                "from": {
+                    "name": "Fred Lin",
+                    "id": "10216020123955046"
+                },
+                "message": "Cognos Chen 這活動是模仿 Google Summer of Code 的。各OSS組織先提案，學生來媒合這樣，沒有link表示沒有進到第二階段",
+                "id": "599864683423275"
+            },
+            {
+                "created_time": "2014-03-27T15:22:47+0000",
+                "from": {
+                    "name": "Cognos Chen",
+                    "id": "1443122555817066"
+                },
+                "message": "所以要由組織來提囉...我是個人殘念 XD 看開放食庫有沒有要提好了",
+                "id": "599867230089687"
+            },
+            {
+                "created_time": "2014-03-27T15:28:59+0000",
+                "from": {
+                    "name": "Fred Lin",
+                    "id": "10216020123955046"
+                },
+                "message": "個人應該也可以，主要是專案。例如去年也有注音輸入法，Open Office之類的，只要你（最好有2個人以上）覺得有能力mentor就行，雖然也不一定會有學生想做，但不提是不會有機會的 :\/",
+                "id": "599869633422780"
+            }
+        ],
+        "summary": {
+            "total_count": 13
+        }
+    }
+}

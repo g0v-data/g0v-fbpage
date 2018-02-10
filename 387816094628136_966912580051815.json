@@ -1,0 +1,72 @@
+{
+    "created_time": "2016-04-06T06:37:40+0000",
+    "message": "趁掃墓整理了一下台灣合法的殯葬方式，有需要的人可以拿去用",
+    "story": "吳政璋 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_966912580051815",
+    "link": "https:\/\/gist.github.com\/virus-warnning\/12a1251f68200b14edf577d1c6073234",
+    "description": "台灣殯葬方式流程圖",
+    "name": "台灣殯葬方式流程圖",
+    "updated_time": "2016-04-06T07:02:02+0000",
+    "caption": "gist.github.com",
+    "from": {
+        "name": "吳政璋",
+        "id": "2009669035713198"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 27
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-04-06T06:53:27+0000",
+                "from": {
+                    "name": "Yu Chingkun",
+                    "id": "10155755717824220"
+                },
+                "message": "為什麼台北市的流程要特別標出來啊？台北只能選暫時土葬？",
+                "id": "966920153384391"
+            },
+            {
+                "created_time": "2016-04-06T06:54:17+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "台北市沒有燒是不准埋下去的",
+                "id": "966920333384373"
+            },
+            {
+                "created_time": "2016-04-06T07:00:06+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "說錯了，應該是說埋下去最多埋七年",
+                "id": "966921683384238"
+            },
+            {
+                "created_time": "2016-04-06T07:00:43+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "參考第十條\nhttp:\/\/www.laws.taipei.gov.tw\/lawsystem\/wfLaw_ArticleContent.aspx?LawID=P08I1001-20150216&RealID=02-07-1001",
+                "id": "966921823384224"
+            },
+            {
+                "created_time": "2016-04-06T07:02:02+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "因為死人會跟活人爭地，所以強制一段時間後要改用塔位、樹葬、等等比較不佔空間的方式。",
+                "id": "966922093384197"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

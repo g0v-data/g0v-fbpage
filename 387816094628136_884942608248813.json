@@ -1,0 +1,241 @@
+{
+    "created_time": "2015-11-09T05:01:01+0000",
+    "message": "上星期和朋友聊到分析社群網站上的文章、留言等來了解台灣選情，所以利用空閒時間在EC2上，用docker, nginx, nodejs, express, jade, Bootstrap, mongodb (目前mongodb先設定了replica set，目前還不需用到sharding), D3, Leaflet做了個雛型(即時追蹤Twitter上的推文)-\nhttp:\/\/2016-tw-election.gogistics-tw.com\/\n\n目前計畫分析文章、留言等對候選人或選情的正負面影響\n這星期會完成抓Plurk和Facebook上的相關資料，一些細節還在構思中…有在想用socket.io加一個即時回報選票的功能",
+    "id": "387816094628136_884942608248813",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10156083450645276&set=gm.884942608248813&type=3",
+    "name": "Photos from Alan Tai's post",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/12189709_10156083450645276_8682114018615346639_n.jpg?oh=87b6d919188bb68fdb12ed7088ff6ea0&oe=5B0CFD5D",
+    "updated_time": "2016-01-23T22:58:25+0000",
+    "from": {
+        "name": "Alan Tai",
+        "id": "10159772861735276"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 45
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-11-09T07:20:37+0000",
+                "from": {
+                    "name": "Randy Huang",
+                    "id": "10214787542746650"
+                },
+                "message": "帥啊～",
+                "id": "884982398244834"
+            },
+            {
+                "created_time": "2015-11-09T15:02:45+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "你有要加些功能嗎？",
+                "id": "885127651563642"
+            },
+            {
+                "created_time": "2015-11-11T05:10:54+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "加了個推文分類功能，接著再一步步做關鍵字分析",
+                "id": "885854421490965"
+            },
+            {
+                "created_time": "2015-11-12T23:35:08+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "加入臉書的文章追蹤，功能增建中",
+                "id": "886522554757485"
+            },
+            {
+                "created_time": "2015-11-12T23:47:24+0000",
+                "from": {
+                    "name": "Randy Huang",
+                    "id": "10214787542746650"
+                },
+                "message": "太帥了T_T",
+                "id": "886525294757211"
+            },
+            {
+                "created_time": "2015-11-12T23:53:52+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "Randy Huang 快加個功能先...我打算交叉比對推聞和回推的數據變化等",
+                "id": "886526561423751"
+            },
+            {
+                "created_time": "2015-11-20T18:04:55+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "https:\/\/github.com\/Gogistics\/prj2016TWElection ; 修了些bug，README.md編寫中，主要包含佈屬docker swarm、mongodb containers(replica set)、docker-compose等\n其他功能慢慢加",
+                "id": "889849684424772"
+            },
+            {
+                "created_time": "2015-12-03T04:42:45+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "https:\/\/github.com\/Gogistics\/prj2016TWElection\/blob\/master\/README_MONGODB_REPLICATED_SHARD_CLUSTER.md\n\n加了簡介如何用docker-machine和swarm，在EC2上建立mongodb replicated shard cluster with authentication",
+                "id": "895227337220340"
+            },
+            {
+                "created_time": "2015-12-16T08:19:10+0000",
+                "from": {
+                    "name": "Henry Lin",
+                    "id": "10214693716872338"
+                },
+                "message": "想跳坑，請問給跳嗎XD > <",
+                "id": "901151716627902"
+            },
+            {
+                "created_time": "2015-12-16T14:24:47+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "歡迎，功能增加中...bug修改中...；另外我正用webrtc開發監票應用程式，雛型應該這週末會好，",
+                "id": "901281056614968"
+            },
+            {
+                "created_time": "2015-12-16T15:51:43+0000",
+                "from": {
+                    "name": "Randy Huang",
+                    "id": "10214787542746650"
+                },
+                "message": "大家一起跳啊",
+                "id": "901305476612526"
+            },
+            {
+                "created_time": "2015-12-17T05:20:20+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "第一版的webrtc監票功能- https:\/\/github.com\/Gogistics\/prj2016TWElection\/tree\/master\/myWebRTCApp\/prjRTCBroadcast",
+                "id": "901526809923726"
+            },
+            {
+                "created_time": "2015-12-17T05:31:30+0000",
+                "from": {
+                    "name": "Randy Huang",
+                    "id": "10214787542746650"
+                },
+                "message": "太威拉",
+                "id": "901528859923521"
+            },
+            {
+                "created_time": "2015-12-17T05:32:34+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "我在想辦法加入錄影功能; 文字分析也可跟著做",
+                "id": "901529036590170"
+            },
+            {
+                "created_time": "2015-12-17T06:04:02+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "目前有兩個組織在募集監票人力，也許可以直接接洽？\n\nhttps:\/\/www.facebook.com\/groups\/twobservers\/\nhttps:\/\/www.facebook.com\/tpec2016\/",
+                "id": "901536303256110"
+            },
+            {
+                "created_time": "2015-12-17T14:48:58+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "好，感謝",
+                "id": "901703156572758"
+            },
+            {
+                "created_time": "2015-12-21T03:31:09+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "http:\/\/2016-tw-monitor-balloting.gogistics-tw.com\/   測試版，因無使用https，所以在firefox 上使用較可行，chrome的話得用46之前的版本",
+                "id": "903420959734311"
+            },
+            {
+                "created_time": "2015-12-21T04:26:15+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "http:\/\/2016-tw-monitor-balloting.gogistics-tw.com\/viewer",
+                "id": "903434843066256"
+            },
+            {
+                "created_time": "2016-01-07T06:48:04+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "twitter上最高retweet是小英的本格的に萌え化 ...",
+                "id": "912494358826971"
+            },
+            {
+                "created_time": "2016-01-10T22:01:19+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "Twitter 繁體中最高 : RT @impolite_tw: 今天看到一段鄉民的發言，堪稱史上最中肯 『 國民黨裡面當然也有好人 就像大便裡的玉米粒，總有一兩顆是沒消化到的 但你何必為了兩顆玉米粒去吃屎呢？ 』 ; Twitter 經濟學人最高:  Many in Taiwan have lost faith in the KMT's ability to control the economy",
+                "id": "914352448641162"
+            },
+            {
+                "created_time": "2016-01-10T22:03:13+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "Plurks最高: 我直接講重點\n2008年之後台灣的免簽證國家增多一百多國\n這並不是馬英九的功勞, 是扁政府留下的成績\n2008年後台灣對外旅遊可以獲得免簽\/落地簽\n是因為台灣政府推動了『晶片護照』\n大幅降低護照被仿冒的機率, 讓其他國家對台灣有信賴感\n但晶片護照是扁政府規劃了好幾年的結果\n馬英九一上任就接收了這個成果\n然後對外宣稱這是他推動『活路外交』的成果  ; 賴律師和 呂律師分占二三名...",
+                "id": "914353505307723"
+            },
+            {
+                "created_time": "2016-01-11T01:43:13+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "第一次監看twitter出現高峰，BBC最新議題- Economy key issue in Taiwan's election (http:\/\/www.bbc.com\/news\/business-35277666#?utm_medium=twitter&utm_source=JasonTateFx)",
+                "id": "914436575299416"
+            },
+            {
+                "created_time": "2016-01-11T02:08:16+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "約略20分鐘內的分布圖",
+                "id": "914445601965180"
+            },
+            {
+                "created_time": "2016-01-23T22:58:24+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "Twitter 2016 台灣總統選舉相關推文大致分布狀況",
+                "id": "920737621335978"
+            }
+        ],
+        "summary": {
+            "total_count": 24
+        }
+    }
+}

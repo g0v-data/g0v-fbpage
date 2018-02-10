@@ -1,0 +1,71 @@
+{
+    "created_time": "2015-03-31T04:37:20+0000",
+    "message": "好材：http:\/\/price.nat.gov.tw\/p\/zh_tw\/index \n\ncc 王向榮",
+    "story": "Muyueh Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_784513778291697",
+    "link": "http:\/\/price.nat.gov.tw\/p\/zh_tw\/index",
+    "name": "物價資訊看板平台",
+    "updated_time": "2015-05-04T18:57:28+0000",
+    "caption": "price.nat.gov.tw",
+    "from": {
+        "name": "Muyueh Lee",
+        "id": "1594217104027518"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 35
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-03-31T08:17:25+0000",
+                "from": {
+                    "name": "Tomas Chen",
+                    "id": "798579266996400"
+                },
+                "message": "這個可以有，如果可以開放api相信可以有很多有趣的應用",
+                "id": "784625521613856"
+            },
+            {
+                "created_time": "2015-03-31T09:59:30+0000",
+                "from": {
+                    "name": "Johnson Liang",
+                    "id": "1639694792780135"
+                },
+                "message": "http:\/\/price.nat.gov.tw\/p\/zh_tw\/news_view\/75_1\n「預計於第2季末完成歷史資料的建置，以開放資料（Open Data）格式，提供民眾下載分析及加值運用；第3、4季擴增民生商品查詢項目至120項。」\n\n是說民生商品那裡有點強椰，我甚至還可以知道哪家洋芋片最便宜：\nhttp:\/\/price.nat.gov.tw\/p\/zh_tw\/price_list\/8aac25a4-31c6-424b-9ee4-586e64225bad",
+                "id": "784643481612060"
+            },
+            {
+                "created_time": "2015-03-31T17:43:20+0000",
+                "from": {
+                    "name": "Che-An Wu",
+                    "id": "10215588205523965"
+                },
+                "message": "這個真的好猛!!",
+                "id": "784839788259096"
+            },
+            {
+                "created_time": "2015-04-01T06:36:21+0000",
+                "from": {
+                    "name": "牧伸一",
+                    "id": "2023414404598385"
+                },
+                "message": "http:\/\/tw.chinyieggs.com\/customer_service_detail.php?pid=280",
+                "id": "785215344888207"
+            },
+            {
+                "created_time": "2015-04-02T06:43:47+0000",
+                "from": {
+                    "name": "Johnson Liang",
+                    "id": "1639694792780135"
+                },
+                "message": "他的重量資訊好像是品名的一部分，不是 structured data，而且命名方式也不統一，似乎有點難處理 @@",
+                "id": "785800624829679"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

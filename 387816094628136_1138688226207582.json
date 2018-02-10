@@ -1,0 +1,58 @@
+{
+    "created_time": "2016-11-28T10:06:49+0000",
+    "message": "為了方便大家打電話給立委，最近更新了一下立委聯絡頁。\n\n更新內容有：\n\n- 新增幾位新立委（同時也更新twlyparser的mly-9.json）。\n- 現在有過濾功能，離任立委不會再出現在頁面上。\n\n不過數位新立委的頭像有點問題，正在請 國會調查兵團 方面協助更新。\n\n歡迎大家使用。\n\n",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1138688226207582",
+    "link": "http:\/\/billy3321.github.io\/lytel\/",
+    "description": "話筒式的公共參與：聯絡你的立委，表示你的意見。",
+    "name": "立委聯絡資訊",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCbNCibnVy_mNXp&w=130&h=130&url=http%3A%2F%2Fbilly3321.github.io%2Flytel%2Fimages%2Fbanner.jpg&cfs=1&_nc_hash=AQApUzJZ2i0GUiQT",
+    "updated_time": "2016-12-06T14:01:33+0000",
+    "caption": "billy3321.github.io",
+    "shares": {
+        "count": 10
+    },
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 124
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-11-28T10:14:39+0000",
+                "from": {
+                    "name": "Saul Peng",
+                    "id": "10210715509153638"
+                },
+                "message": "誰是數位新立委",
+                "id": "1138692566207148"
+            },
+            {
+                "created_time": "2016-11-28T12:19:34+0000",
+                "from": {
+                    "name": "駱勁成",
+                    "id": "10154935361642202"
+                },
+                "message": "抱歉抱歉之前 code 好像不見，更新了，大頭貼連結應該也OK　https:\/\/github.com\/g0v\/twlyparser\/blob\/master\/data\/mly-9.json\n\n除了新到立委以外，舊立委：廖國棟、簡東明的名字有變更請注意",
+                "id": "1138830072860064"
+            },
+            {
+                "created_time": "2016-12-06T13:36:38+0000",
+                "from": {
+                    "name": "Hsin Hsiao",
+                    "id": "10107963075020646"
+                },
+                "message": "沒有搜尋難道要我cmd+F?",
+                "id": "1148716308538107"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

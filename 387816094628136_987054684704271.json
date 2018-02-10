@@ -1,0 +1,64 @@
+{
+    "created_time": "2016-05-11T00:27:47+0000",
+    "message": "目前只有試著將註冊公司與股東連結成一個 json 檔案放在 https:\/\/github.com\/kiang\/Panama_Papers_Taiwan\/ ，上班沒辦法繼續玩，有興趣歡迎 ;)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_987054684704271",
+    "link": "https:\/\/g0v.hackpad.com\/-Panama-Papers-CWkeuAXb1Tb",
+    "description": "在 https:\/\/offshoreleaks.icij.org\/pages\/database 可以下載原始資料，解壓縮後會得到下面幾個檔案 Addresses.csv - 股東登記住址 *address *icij_id *valid_until *country_codes *countries *node_id *sourceID *Entities.",
+    "name": "巴拿馬文件 - Panama Papers",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQBbByMKcqWNggkP",
+    "updated_time": "2016-05-16T10:45:09+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 166
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-05-11T10:27:12+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "原始文件有更新，所以產出的檔案也調整過了，同時也併入股東登記住址",
+                "id": "987248198018253"
+            },
+            {
+                "created_time": "2016-05-11T23:31:23+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "做了簡單的檢索系統： http:\/\/kiang.github.io\/Panama_Papers_Taiwan\/ ，不過還很陽春，歡迎接手（上班去）",
+                "id": "987599334649806"
+            },
+            {
+                "created_time": "2016-05-13T06:27:44+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "試著把 2014 跟 2016 的候選人姓名都抓出來翻譯成英文，不過發現要比對姓名好像有點痛苦，不知道有沒有人可以幫忙 XD\n\nhttps:\/\/github.com\/kiang\/Panama_Papers_Taiwan\/blob\/master\/2016.json & https:\/\/github.com\/kiang\/Panama_Papers_Taiwan\/blob\/master\/2014.json",
+                "id": "988280791248327"
+            },
+            {
+                "created_time": "2016-05-14T13:23:51+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "巴拿馬文件小規模的姓名配對結果\n\n我是從姓名去找，不過姓名碰撞的機率很高，所以只能當作參考\n\n得到的結果：\nhttps:\/\/github.com\/kiang\/Panama_Papers_Taiwan\/blob\/master\/match.csv\n\n背景說明：\n* 這是把 2012, 2014, 2016 三個年度選舉時出現過的候選人姓名取出查詢\n* 透過外交部的護照外文姓名拼音參考工具找出可能的翻譯\n* 直接將翻譯與所有 ICIJ 釋出的人名進行比對得到上述結果\n* 符合的項目如果有多個候選人資料會分別列出（同名同姓，或是音譯相同）\n\n欄位說明：\n* 公職: 參選公職名稱\n* 推薦政黨: 當次選舉推薦的政黨名稱\n* 中文姓名: 使用中文姓名\n* 英文姓名: 配對成功的音譯\n* node_id: ICIJ 的 ID ， [Panama Papers]是這次釋出的資料，其他像是 [Offshore Leaks] 則是早期就存在的資料，後面接著的數字，假設是 12215704 ，那麼只要自己在數字前面加上網址就可以看到 ICIJ 資料\n\nhttps:\/\/offshoreleaks.icij.org\/nodes\/12215704\n\n* 選舉黃頁網址: 該次公職在選舉黃頁的資訊\n\n需要再次強調，這是很粗糙的比對方式，而且有很多中文字其實外交部工具也翻譯不出來，只是希望縮小範圍讓大家去找看看是不是有關聯性存在，更精準的就有賴強者發揮了\n\n然後也不排除程式寫的太爛導致配對錯誤百出，有興趣的可以自己調整規則踹踹\n\nhttps:\/\/github.com\/kiang\/Panama_Papers_Taiwan\/blob\/master\/match.php",
+                "id": "988959981180408"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

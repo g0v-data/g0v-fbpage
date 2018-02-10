@@ -1,0 +1,67 @@
+{
+    "created_time": "2013-05-30T16:51:45+0000",
+    "message": "今天聽到 Ipa Chiu 在跑紀錄片的計畫，苦惱於該怎麼拍，小弟來分享一下最近知道的一些紀錄片。\n\n首先是遊戲類的，這間公司專門拍攝獨立製作遊戲（Indie Games）的紀錄片。\n拍攝公司：2 Player Productions http:\/\/www.2playerproductions.com\/\n\nIndie Game: The Movie： http:\/\/buy.indiegamethemovie.com\/ （私心大推，這部電影真的很好看）\nMinecraft: The Story of Mojang： http:\/\/minecraftstoryofmojang.com\/\n\n然後是他們兩次拍 Double Fine™\n第一次是兩週的黑客松，做出 8 款遊戲。Amnesia Fortnight 2012!： http:\/\/www.doublefine.com\/fortnight\n另一個是正常進行中的計畫，在 kickstarter 上很有名的案例 Double Fine Adventure （現在叫做 Broken Age ）： http:\/\/www.doublefine.com\/dfa\n\n再來是 Code Rush: Netscape Mozilla 紀錄片 1998 - 2000\nhttp:\/\/www.youtube.com\/watch?v=VoLUvE-ny1k\n\n以上這些的共通點，在於跟 g0v 一樣是拍 developer 開發為主。\n\n最後這個的參考價值可能比較低，是最近很紅的海盜灣紀錄片 TPB AFK: The Pirate Bay Away From Keyboard\nhttp:\/\/www.youtube.com\/watch?v=eTOKXCEwo_8",
+    "id": "387816094628136_463548747054870",
+    "updated_time": "2013-05-30T17:09:56+0000",
+    "from": {
+        "name": "Jerry Lee",
+        "id": "10155368602913932"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 9
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-05-30T16:53:51+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "哈接著要寫一下相關的， The Story of Mojang 在電影線上販售的第二天，就自己放上海盜灣！ 詳細的故事可以看這篇 blog\nhttp:\/\/www.ruanyifeng.com\/blog\/2012\/12\/minecraft_the_story_of_mojang.html",
+                "id": "463549533721458"
+            },
+            {
+                "created_time": "2013-05-30T16:57:43+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "然後 Broken Age ，目前紀錄片已經有 9 集，其中第一集可以直接看 http:\/\/www.youtube.com\/watch?v=ZMbQRnoxZ2E\n另外 2PP 也有剪接 1~5 集精華版放出來 http:\/\/www.youtube.com\/watch?v=TOqPVkmYB6k&list=UUf7SLiNsDj_RCe_WEjUM3Rw&index=9",
+                "id": "463550860387992"
+            },
+            {
+                "created_time": "2013-05-30T16:58:12+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "基本上對 2PP 有興趣的，可以直接看他們的 youtube channel \nhttp:\/\/www.youtube.com\/user\/2PlayerProductions",
+                "id": "463551003721311"
+            },
+            {
+                "created_time": "2013-05-30T17:08:47+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "然後對 Double Fine Adventure 這個案例感興趣的人，可以看這篇介紹 http:\/\/www.ptt.cc\/bbs\/Old-Games\/M.1331621435.A.DC5.html",
+                "id": "463554113721000"
+            },
+            {
+                "created_time": "2013-05-30T17:09:56+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "cool!",
+                "id": "463554487054296"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

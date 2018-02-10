@@ -1,0 +1,82 @@
+{
+    "created_time": "2014-04-07T06:48:55+0000",
+    "message": "http:\/\/mag.udn.com\/mag\/digital\/storypage.jsp?f_ART_ID=458237",
+    "story": "Gabriel Ji shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_604527226290354",
+    "link": "http:\/\/mag.udn.com\/mag\/digital\/storypage.jsp?f_ART_ID=458237",
+    "description": "【聯合晚報╱記者黃國樑╱台北報導】行政院會上午通過「國家安全法」第2條之2、第5條之1、之2修正草案，將國家安全的範疇擴及也可被稱為「第五空域」的網際網路世界，規定「中華民國國家安全之維護，應及於網際...",
+    "name": "國安法 要管虛擬世界了 | 網路衝浪 | 線上漫遊 | udn數位資訊",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD-PAv_o11s3e4q&w=130&h=130&url=http%3A%2F%2Fpg.udn.com%2F2010%2Fimages%2Fudnlogo.png&cfs=1&_nc_hash=AQAAL1Sxy2gOo_7w",
+    "updated_time": "2014-04-07T07:57:18+0000",
+    "caption": "mag.udn.com",
+    "from": {
+        "name": "Gabriel Ji",
+        "id": "10215173383076953"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 2
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-07T07:22:46+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "政府天真的以為能靠法律防範網路入侵嗎?",
+                "id": "604534342956309"
+            },
+            {
+                "created_time": "2014-04-07T07:40:49+0000",
+                "from": {
+                    "name": "陳貴鑫",
+                    "id": "2042273875788437"
+                },
+                "message": "至少被打能夠告回去，而且適用我國法規\n總不能被打還摸摸鼻子\n這邏輯就像偷渡一樣，立法不可能防止偷渡客\n但是有辦法能遣返會是處罰偷渡客",
+                "id": "604537752955968"
+            },
+            {
+                "created_time": "2014-04-07T07:50:26+0000",
+                "from": {
+                    "name": "Kd Tsai",
+                    "id": "1668371223229619"
+                },
+                "message": "他不是要防駭...\n他是要把抓駭客法制化\n將來只要栽贓你攻擊了在網路「必要的範圍」之內\n準備吃牢飯吧...",
+                "id": "604539246289152"
+            },
+            {
+                "created_time": "2014-04-07T07:53:35+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "我明白不是要防駭，而是要以此入罪\n但是政府也沒有那種能力可以管好網路安全，只會引來駭客入侵潛伏，而資料會莫名其妙消失或被竄改",
+                "id": "604540149622395"
+            },
+            {
+                "created_time": "2014-04-07T07:56:25+0000",
+                "from": {
+                    "name": "陳貴鑫",
+                    "id": "2042273875788437"
+                },
+                "message": "感覺樓上討論的東西不是原PO貼的文能討論到的\n這個涉及範圍太廣",
+                "id": "604540732955670"
+            },
+            {
+                "created_time": "2014-04-07T07:57:18+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "那已經是去年的舊聞了，只是新聞太不顯眼不被大眾所知...",
+                "id": "604540956288981"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

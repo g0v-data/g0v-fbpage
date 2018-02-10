@@ -1,0 +1,127 @@
+{
+    "created_time": "2014-04-06T07:48:11+0000",
+    "message": "Hi all, \n我的專長是統計學，我關心「媒體報導真實性」的問題 (見我日前發表的文章 http:\/\/readata.org\/datasci\/ecfa-and-data-science\/ ) ，這是我利用各家媒體對三月學運的報導內容以文字探勘加統計巫術做出來的prototype，簡單來說就是現場逐字稿與台大新聞E論壇自成一格。這裡有好幾個大坑，請有興趣的人一起跳XD\n\n1. 資料來源自動化, 做到即時分析 (我只有3\/18-3\/28的學運報導資料, 學運只是一個例子, 期望日後有重大事件都可以用上這個服務) \n2. 資料不乾淨 (收進來的新聞不一定全部都是跟學運有關的問題, 關鍵字用服貿還是會收到NBA的新聞...)\n3. Server 不穩定 (我是用RStudio 提供的免費server, 上次發一篇文到ptt, 三分鐘就掛了XD)",
+    "story": "Johnson Hsieh shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_604071486335928",
+    "link": "http:\/\/glimmer.rstudio.com\/tchsieh\/newsnexus\/#tab-9426-4",
+    "description": "所謂的「媒體追求真相」，是不是由媒體自行宣稱就可以了事？New Nexus以資料科學來回答這個問題。以三月學運為例，我們提供了一種各家媒體對於相同事件報導內容的關係圖。散佈圖中的每一個點表示媒體報導的立場，點的大小為當天報導的新聞數目，x, y 座標沒有特殊意義，僅用來表示媒體間的距離，越近表示媒體報導內容越相近。",
+    "name": "About News Nexus",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCIfBjUuJWM1Apg&w=130&h=130&url=http%3A%2F%2Fglimmer.rstudio.com%2Ftchsieh%2Fnewsnexus%2Fplot.png&cfs=1&_nc_hash=AQCOraTyE2M1qglT",
+    "updated_time": "2014-04-06T17:16:13+0000",
+    "caption": "glimmer.rstudio.com",
+    "from": {
+        "name": "Johnson Hsieh",
+        "id": "10210772997783127"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 205
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-06T07:50:47+0000",
+                "from": {
+                    "name": "Johnson Hsieh",
+                    "id": "10210772997783127"
+                },
+                "message": "btw, 我的data是從這裡來的 http:\/\/newsdiff.g0v.ronny.tw\/",
+                "id": "604072126335864"
+            },
+            {
+                "created_time": "2014-04-06T07:52:39+0000",
+                "from": {
+                    "name": "Owen Lo",
+                    "id": "10209118573001446"
+                },
+                "message": "我有興趣！",
+                "id": "604072559669154"
+            },
+            {
+                "created_time": "2014-04-06T08:49:58+0000",
+                "from": {
+                    "name": "鈕克力",
+                    "id": "947477968789427"
+                },
+                "message": "讓我聯想到 食夢黑貘 的一個project，最近還上了公視公視獨立特派員 341集 (指尖上的黑潮) \nhttps:\/\/www.youtube.com\/watch?v=fQEjVqD7O8A&feature=youtu.be&t=13m50s\n(13m50s開始)\n「服貿媒體分眾媒體的光譜分析」專案介紹網址\nhttp:\/\/gene.speaking.tw\/2014\/03\/tvbs-tvbs-10-1129.html",
+                "id": "604086649667745"
+            },
+            {
+                "created_time": "2014-04-06T09:02:22+0000",
+                "from": {
+                    "name": "Johnson Hsieh",
+                    "id": "10210772997783127"
+                },
+                "message": "黑貘大大的媒體光譜分析，望塵莫及啊XD",
+                "id": "604089646334112"
+            },
+            {
+                "created_time": "2014-04-06T13:41:23+0000",
+                "from": {
+                    "name": "Alex Huang",
+                    "id": "2129037817319256"
+                },
+                "message": "可否經由 Sentiment analysis 和 Keyword extraction 進一步分析立場？",
+                "id": "604165102993233"
+            },
+            {
+                "created_time": "2014-04-06T14:22:36+0000",
+                "from": {
+                    "name": "Emily Ho",
+                    "id": "2005590586124962"
+                },
+                "message": "Data base可以跟「太陽花怪獸」網站做聯結！",
+                "id": "604180499658360"
+            },
+            {
+                "created_time": "2014-04-06T15:30:13+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "附議 Alex Huang   :D",
+                "id": "604209456322131"
+            },
+            {
+                "created_time": "2014-04-06T16:31:22+0000",
+                "from": {
+                    "name": "Johnson Hsieh",
+                    "id": "10210772997783127"
+                },
+                "message": "回 Alex Huang and Hsin-chan Chien, 我主要的辦法就是利用Keyword extraction 來分析報導內容相關性。至於用Sentiment analysis 來分析報導立場，應該是可行的 (這個我不是很熟，正在從google學習XD) 。不過這個比較像是分析句子或是單篇新聞，怎麼應用到整個媒體 (一天可能幾百篇) 將是有趣的問題。事實上，我連怎麼分析一篇文章都不太會 (要不要教教我啊XD)",
+                "id": "604242012985542"
+            },
+            {
+                "created_time": "2014-04-06T16:36:52+0000",
+                "from": {
+                    "name": "Jay Chen",
+                    "id": "10156531093463676"
+                },
+                "message": "我知你們，datasci",
+                "id": "604243859652024"
+            },
+            {
+                "created_time": "2014-04-06T16:40:23+0000",
+                "from": {
+                    "name": "Johnson Hsieh",
+                    "id": "10210772997783127"
+                },
+                "message": "楊立行 老師您真內行XD，我有用到PLSA喔 (精確的說，只是類似的方法)，主要是用來清理新聞，因為抓進來的新聞不是很乾淨 有一些無關學運主題的新聞被抓進來...",
+                "id": "604245689651841"
+            },
+            {
+                "created_time": "2014-04-06T17:16:13+0000",
+                "from": {
+                    "name": "Wen-Chun Ni",
+                    "id": "10217198797146392"
+                },
+                "message": "Johnson Hsieh，如果你想找有趣的工作，可以聯絡我。",
+                "id": "604259532983790"
+            }
+        ],
+        "summary": {
+            "total_count": 12
+        }
+    }
+}

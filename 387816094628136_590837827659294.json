@@ -1,0 +1,62 @@
+{
+    "created_time": "2014-03-09T05:26:36+0000",
+    "message": "http:\/\/ronnywang.github.io\/tw-campaign-finance\/demo.html 政治獻金那一批檔案我已經成功抓出每一個欄位的位置資訊了，上面那個 demo 網址可以進去看看，程式碼和資料全部都放在 https:\/\/github.com\/ronnywang\/tw-campaign-finance 裡面，我還寫了一篇文章說明了一下作法 http:\/\/ronnywang.pixnet.net\/blog\/post\/40488349 ，來人接力吧!作成 captcha 服務來群眾外包吧 XD",
+    "story": "Ronny Wang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_590837827659294",
+    "link": "http:\/\/ronnywang.github.io\/tw-campaign-finance\/demo.html",
+    "name": "政治獻金",
+    "updated_time": "2014-03-09T09:38:03+0000",
+    "caption": "ronnywang.github.io",
+    "from": {
+        "name": "Ronny Wang",
+        "id": "1417580878352707"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 62
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-09T09:06:22+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "我把榮尼王的進度整理到「開放政治獻金」hackpad（因為今天要來發政治獻金圖表貼文）https:\/\/g0v.hackpad.com\/8ow2GnliH48#:h=to-do\n\n可以看看這樣整理有沒有問題嗎？如果該步驟算完成請打勾～",
+                "id": "590886504321093"
+            },
+            {
+                "created_time": "2014-03-09T09:17:23+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "不過我這邊資料還在持續處理中，預計明天早上前應該可以把 2800 頁都找出欄位位置",
+                "id": "590888544320889"
+            },
+            {
+                "created_time": "2014-03-09T09:18:56+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "ok, 那先幫我看看 hackpad->todo 的 task 描述及順序對不對就好（不然擔心誤解你的意思），處理好之後再來打勾吧～",
+                "id": "590888814320862"
+            },
+            {
+                "created_time": "2014-03-09T09:38:03+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "順序上 ok 沒問題",
+                "id": "590892494320494"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

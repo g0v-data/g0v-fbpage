@@ -1,0 +1,58 @@
+{
+    "created_time": "2013-05-13T15:46:42+0000",
+    "message": "本週四(5\/16) 上午和 Charles Chuang 及一些朋友相約要討論 liquid feedback \/ adhocracy 等流動民主的實際使用，有興趣的朋友請簽名。因為空間有限，可能只能再有三位參加，先簽先贏囉。地點在捷運中山站附近。",
+    "id": "387816094628136_457015741041504",
+    "updated_time": "2013-05-18T09:21:27+0000",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 7
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-05-14T04:19:10+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "會前共筆與交通資訊：https:\/\/hackpad.com\/Adhocracy-meetup-01-9jJEkScPXnN, 請 翁瑋宏 和其他想過去的人到那邊簽名一下",
+                "id": "457192974357114"
+            },
+            {
+                "created_time": "2013-05-14T06:16:11+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "已簽名 XD 這感覺跟公投 app 有點關連但又不太有關連... 但非常有趣 :D",
+                "id": "457212301021848"
+            },
+            {
+                "created_time": "2013-05-15T01:16:48+0000",
+                "from": {
+                    "name": "翁瑋宏",
+                    "id": "1878239282217407"
+                },
+                "message": "有事  瑋宏媽不能去了  希望下次有機會",
+                "id": "457491620993916"
+            },
+            {
+                "created_time": "2013-05-18T09:21:27+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "Charles Chuang Chia-liang Kao http:\/\/www.fastcoexist.com\/1681625\/connecting-citizens-to-their-government-by-turning-it-into-a-game\n\n我覺得除了決策之外，共同工作類似像 gitHub 大家可以自由 input 一些貢獻進來，共同決定 -> 共同執行 \/ 自由討論 \/ 參與的社群，game-like UI UX 這些，配合內規黨章的修正，某種程度把黨的開放性擴張，可能才是我真的期待綠黨的改變！",
+                "id": "458664607543284"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

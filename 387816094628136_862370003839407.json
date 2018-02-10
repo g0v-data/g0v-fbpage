@@ -1,0 +1,36 @@
+{
+    "created_time": "2015-09-13T20:02:41+0000",
+    "message": "在製作台灣2015登革熱地圖( http:\/\/kiang.github.io\/TainanDengueMap\/taiwan\/ )之後，覺得同樣的方式也適合呈現人口資料，所以就製作了這個台灣老人分佈地圖( http:\/\/kiang.github.io\/tw_population\/ )。\n\n圖中的顏色變化是依據老年人口 (>65歲) 佔該村里人口的百分比，點選個別村里後會顯示進一步的人口數據。目前是以最新的 2015-07 繪製，未來應該會持續更新",
+    "story": "Finjon Kiang shared 江明宗's photo to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_862370003839407",
+    "link": "https:\/\/www.facebook.com\/k.olc.tw\/photos\/a.373836309456505.1073741829.282921805214623\/491246634382138\/?type=3",
+    "description": "在製作台灣2015登革熱地圖( http:\/\/kiang.github.io\/TainanDengueMap\/taiwan\/ )之後，覺得同樣的方式也適合呈現人口資料，所以就製作了這個台灣老人分佈地圖( http:\/\/kiang.github.io\/tw_population\/ )。\n\n圖中的顏色變化是依據老年人口 (>65歲) 佔該村里人口的百分比，點選個別村里後會顯示進一步的人口數據。目前是以最新的 2015-07 繪製，未來應該會持續更新",
+    "name": "江明宗",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/12002812_491246634382138_4288359755277342056_n.png?oh=ee78f287e47492e75f602be939eb51d3&oe=5ADCF5A3",
+    "updated_time": "2015-09-14T04:29:03+0000",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 57
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-09-13T23:24:52+0000",
+                "from": {
+                    "name": "Dustin Lin",
+                    "id": "10213382856178137"
+                },
+                "message": "太讚了！！不過當我想看全台灣overview時，可能load太多資料，變的很慢，而且很多地方只看到密集的灰色線條，色塊反而看不到了。能不能許願zoom out時，資料變成以縣市為最小顯示單位？",
+                "id": "862426860500388"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

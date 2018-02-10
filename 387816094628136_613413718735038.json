@@ -1,0 +1,121 @@
+{
+    "created_time": "2014-04-25T17:59:04+0000",
+    "message": "請問目前用 vagrant 建置開發環境的 g0v-ubuntu-precise64.box 來源失效，還有其他下載路徑嗎?",
+    "id": "387816094628136_613413718735038",
+    "updated_time": "2014-05-18T07:54:57+0000",
+    "from": {
+        "name": "Yu-Lung Shao",
+        "id": "10215336465630115"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-25T18:01:31+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "應該可以直接用原來的 ubuntu-precise64 了。請問還有那邊有文件指到 g0v-ubuntu-precise64.box 嗎？",
+                "id": "613415008734909"
+            },
+            {
+                "created_time": "2014-04-25T18:03:16+0000",
+                "from": {
+                    "name": "Yu-Lung Shao",
+                    "id": "10215336465630115"
+                },
+                "message": "此篇 https:\/\/g0v.hackpad.com\/Instant-Setup-hack.g0v.tw-for-Windows-Users-L0mEqjsanOA",
+                "id": "613415765401500"
+            },
+            {
+                "created_time": "2014-04-25T18:03:54+0000",
+                "from": {
+                    "name": "Yu-Lung Shao",
+                    "id": "10215336465630115"
+                },
+                "message": "還有此篇 http:\/\/hychen.wuweig.org\/blog\/2013\/06\/01\/develop-g0v-project-with-vagrant\/",
+                "id": "613415942068149"
+            },
+            {
+                "created_time": "2014-04-26T01:28:44+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Hsin Yi Chen 幫忙修一下吧！",
+                "id": "613545875388489"
+            },
+            {
+                "created_time": "2014-04-26T14:36:21+0000",
+                "from": {
+                    "name": "Yu-Lung Shao",
+                    "id": "10215336465630115"
+                },
+                "message": "這部分我弄清楚後會幫忙修正的",
+                "id": "613800838696326"
+            },
+            {
+                "created_time": "2014-04-26T15:10:53+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Yu-Lung Shao 謝謝，目前以 hack.g0v.tw 來說，在 windows 上安裝 nodejs 後就可以直接按照 readme 跑起來了",
+                "id": "613812955361781"
+            },
+            {
+                "created_time": "2014-05-18T05:54:36+0000",
+                "from": {
+                    "name": "Yu-Lung Shao",
+                    "id": "10215336465630115"
+                },
+                "message": "我在 win7x64 直接跑 npm i + npm run start 看畫面是有跑起來，但是用瀏覽器去看 localhost:3333 正個畫面就卡住了 Orz",
+                "id": "623739617702448"
+            },
+            {
+                "created_time": "2014-05-18T05:56:02+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Any js error in chrome developer tool?",
+                "id": "623739857702424"
+            },
+            {
+                "created_time": "2014-05-18T06:01:58+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "https:\/\/github.com\/hackfoldr\/hackfoldr\/issues\/44 # 看一下這個?",
+                "id": "623740781035665"
+            },
+            {
+                "created_time": "2014-05-18T06:02:22+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "待解issue orz ...",
+                "id": "623740851035658"
+            },
+            {
+                "created_time": "2014-05-18T07:54:57+0000",
+                "from": {
+                    "name": "Yu-Lung Shao",
+                    "id": "10215336465630115"
+                },
+                "message": "看來還是先以 vagrant 方式跑，不過 hack.g0v.tw 應該需要 merge hackfoldr 的 Vagrantfile 新的做法",
+                "id": "623764337699976"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

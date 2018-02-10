@@ -1,0 +1,333 @@
+{
+    "created_time": "2014-05-20T06:52:29+0000",
+    "message": "[求救] 動民主需要 g0v 超強 ror 高手救援，將 Airesis 順利 build 起來，前面已經有好幾位強者跳坑、卡死在 build 的部分而離坑了。\n\n翻譯部分，已經超過 75% 了，但是 Airesis 官方把我們繁體的翻譯搞成 .cn 而且一直忽略我們希望改成 .tw 的要求～～因此動民主松上次討論，希望先用 Airesis 這個架構架起來，完成翻譯，再往下走。",
+    "story": "Wu Min Hsuan shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_624711764271900",
+    "link": "https:\/\/github.com\/coorasse\/Airesis",
+    "description": "Airesis - The Social Network for eDemocracy",
+    "name": "coorasse\/Airesis",
+    "updated_time": "2014-05-20T10:30:29+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Wu Min Hsuan",
+        "id": "2002582599755897"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 29
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-05-20T06:52:35+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "Alessandro Rodi <coorasse@gmail.com>\n\nHi Ttcat,\nglad to hear that from you.\nThe most stable version is the master branch so please use that one.\nSecondly, I need to know the exact problem you are facing, the Gemfile.lock is updated and all gems are working good right now.\nJust give a bundle install and not a bundle update.\nPlease give me a more accurate feedback so I can help you solve the problem.\nPlease take a look at https:\/\/crowdin.net\/project\/airesis to translate Airesis in Chinese Traditional and Simplified.\n\nHope to hear you back and sorry for late reply.\n\nCheers,\n\nAlessandro Rodi",
+                "id": "624711777605232"
+            },
+            {
+                "created_time": "2014-05-20T06:53:01+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "ly 的 build 筆記 https:\/\/g0v.hackpad.com\/ep\/pad\/static\/lhUMItDUIZw",
+                "id": "624711814271895"
+            },
+            {
+                "created_time": "2014-05-20T06:55:08+0000",
+                "from": {
+                    "name": "Yi-Ting Cheng",
+                    "id": "10156205156883552"
+                },
+                "message": "........",
+                "id": "624712324271844"
+            },
+            {
+                "created_time": "2014-05-20T07:03:54+0000",
+                "from": {
+                    "name": "Yi-Ting Cheng",
+                    "id": "10156205156883552"
+                },
+                "message": "awful design, I suggest rewrite a one ....",
+                "id": "624713564271720"
+            },
+            {
+                "created_time": "2014-05-20T07:04:41+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "QAQ",
+                "id": "624713667605043"
+            },
+            {
+                "created_time": "2014-05-20T07:05:51+0000",
+                "from": {
+                    "name": "Ddio Juan",
+                    "id": "10215875181337658"
+                },
+                "message": "QAQ",
+                "id": "624713830938360"
+            },
+            {
+                "created_time": "2014-05-20T07:06:02+0000",
+                "from": {
+                    "name": "Poga Po",
+                    "id": "10210948135769992"
+                },
+                "message": "QAQ",
+                "id": "624713857605024"
+            },
+            {
+                "created_time": "2014-05-20T07:06:37+0000",
+                "from": {
+                    "name": "Yi-Ting Cheng",
+                    "id": "10156205156883552"
+                },
+                "message": "我認真覺得應該寫一個你們要的 spec ....然後請 Rails 社群參與...。我剛剛看了 code 和 workflow, 這東西不是跑不起來。而是他缺乏社群貢獻，而且本身的設計...hmm...跟她纏鬥我覺得沒什麼好處 XDDD",
+                "id": "624713967605013"
+            },
+            {
+                "created_time": "2014-05-20T07:11:21+0000",
+                "from": {
+                    "name": "Yi-Ting Cheng",
+                    "id": "10156205156883552"
+                },
+                "message": "剛剛看了 code   發現這東西真是亂搞 XDDDDDDDDDDDDDDDDD",
+                "id": "624714697604940"
+            },
+            {
+                "created_time": "2014-05-20T07:22:10+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "QAQ",
+                "id": "624716080938135"
+            },
+            {
+                "created_time": "2014-05-20T07:29:23+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "其實就是因為它的機制和 spec 非常接近之前我們想要的所以才想直接用 .... XD",
+                "id": "624717210938022"
+            },
+            {
+                "created_time": "2014-05-20T07:45:45+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "我覺得 這種事情  聽 Yi-Ting Cheng 準沒錯:D",
+                "id": "624720100937733"
+            },
+            {
+                "created_time": "2014-05-20T07:46:16+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "我覺得如果只是域名問題的話 reverse proxy 一下就好了 :D",
+                "id": "624720287604381"
+            },
+            {
+                "created_time": "2014-05-20T07:46:43+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "唐鳳 還有一個中國 icon XD",
+                "id": "624720424271034"
+            },
+            {
+                "created_time": "2014-05-20T07:46:53+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "www.airesis.cn",
+                "id": "624720477604362"
+            },
+            {
+                "created_time": "2014-05-20T07:47:13+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "(偷渡一下) 新後勤壞掉了 \"沒有人\"可以幫忙修一下嗎 orz..",
+                "id": "624720534271023"
+            },
+            {
+                "created_time": "2014-05-20T07:48:23+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "Reverse proxy 也可以換 icon 喔。",
+                "id": "624720847604325"
+            },
+            {
+                "created_time": "2014-05-20T07:49:59+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "唐鳳 這是 .... 駭整個站的意思嗎？也可以一邊補充中文化不完全的地方嗎 XD",
+                "id": "624721164270960"
+            },
+            {
+                "created_time": "2014-05-20T07:51:59+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "這是架一個中繼網站，後端仍然連回 airesis.cn，然後用 http:\/\/wiki.nginx.org\/NginxHttpSubsModule 做網站內容置換的意思。中文化還是要給上游做。",
+                "id": "624721500937593"
+            },
+            {
+                "created_time": "2014-05-20T07:53:44+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "主要就是轉發request, 然後作一些內容的調整 XD",
+                "id": "624721840937559"
+            },
+            {
+                "created_time": "2014-05-20T07:54:25+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "這是可以長久之計嗎 XD",
+                "id": "624721940937549"
+            },
+            {
+                "created_time": "2014-05-20T07:55:39+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "其實你註冊一個 airesis.tw 然後寫信去問上游 DNS 要指向哪裡，說不定他們可以在上游就做完了。",
+                "id": "624722094270867"
+            },
+            {
+                "created_time": "2014-05-20T07:59:33+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "然後我對任何形式的國旗都沒有定見。如果上游可以 .tw 顯示的是「正體中文」或「繁體中文」或「中文」不加旗號，我想也無所謂。",
+                "id": "624722687604141"
+            },
+            {
+                "created_time": "2014-05-20T08:00:41+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "Ly Cheng 新後勤以後可以 @ 我～ 現在看起來是好的？",
+                "id": "624722844270792"
+            },
+            {
+                "created_time": "2014-05-20T08:02:06+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "Jerry Lee 不少人在irc上面反映 寄信的問題, 另外我的管理員後台是壞掉的Error while loading route: adminUser.index  管理使用者的那一頁也是壞的",
+                "id": "624723037604106"
+            },
+            {
+                "created_time": "2014-05-20T08:28:04+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "Ly Cheng 後台好了。因為我升級 discourse 後忘了跑 migrate T___T",
+                "id": "624732817603128"
+            },
+            {
+                "created_time": "2014-05-20T08:28:40+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "寄信問題我需要研究一下……",
+                "id": "624732870936456"
+            },
+            {
+                "created_time": "2014-05-20T08:47:04+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "現在整個連不上了 是還在跑migrate @@?",
+                "id": "624736257602784"
+            },
+            {
+                "created_time": "2014-05-20T08:49:35+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "Ly Cheng 奇怪… 我剛剛留言時是好的，剛剛重開了",
+                "id": "624736760936067"
+            },
+            {
+                "created_time": "2014-05-20T08:50:31+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "好了好了 感謝orz",
+                "id": "624736954269381"
+            },
+            {
+                "created_time": "2014-05-20T08:53:45+0000",
+                "from": {
+                    "name": "Yi-Ting Cheng",
+                    "id": "10156205156883552"
+                },
+                "message": "https:\/\/github.com\/xdite\/Airesis\/commits\/fix_gem 修好了 zzzzzzz  強烈建議這套軟體不能用。重新寫一套新的吧。根本是亂來",
+                "id": "624737484269328"
+            },
+            {
+                "created_time": "2014-05-20T09:31:56+0000",
+                "from": {
+                    "name": "Yi-Ting Cheng",
+                    "id": "10156205156883552"
+                },
+                "message": "（小聲說）看完 airesis 我覺得我可以寫一個。但是我可以不要負責....維護嗎?.....",
+                "id": "624744960935247"
+            },
+            {
+                "created_time": "2014-05-20T10:28:51+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "跪了) ><",
+                "id": "624756427600767"
+            },
+            {
+                "created_time": "2014-05-20T10:30:29+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "社群的維護我可以，程式的 ... （望向 ly ddio poga）",
+                "id": "624756747600735"
+            }
+        ],
+        "summary": {
+            "total_count": 34
+        }
+    }
+}

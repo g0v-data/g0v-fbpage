@@ -1,0 +1,73 @@
+{
+    "created_time": "2015-02-27T17:12:47+0000",
+    "message": "這個專頁裡面包含一些 228 相關的資料集（找 *.csv 的檔案）",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_767390720004003",
+    "link": "http:\/\/p.udn.com.tw\/upf\/newmedia\/2015_data\/20150226_udn228\/udn228_m\/",
+    "description": "二二八事件迄今68年，聯合報新媒體部將截至今年2月3日，總共2265位受難者獲國家賠償的資料，將數據視覺化，重新解析二二八事件。",
+    "name": "數據細說228",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCmMs-3SjbzPMYe&w=130&h=130&url=http%3A%2F%2Fp.udn.com.tw%2Fupf%2Fnewmedia%2F2015_data%2F20150226_udn228%2Fudn228%2Fimg%2FFB.jpg&cfs=1&_nc_hash=AQC-v7BnvW_CRylj",
+    "updated_time": "2015-02-27T17:54:50+0000",
+    "caption": "p.udn.com.tw",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 50
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-02-27T17:15:35+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "比較特別的是裡面有 2265 個故事 - http:\/\/p.udn.com.tw\/upf\/newmedia\/2015_data\/20150226_udn228\/udn228_m\/data\/stories.csv",
+                "id": "767392173337191"
+            },
+            {
+                "created_time": "2015-02-27T17:20:16+0000",
+                "from": {
+                    "name": "Chih-Cheng Liang",
+                    "id": "10208659003271962"
+                },
+                "message": "直接噴在console.log裡了XD",
+                "id": "767394083337000"
+            },
+            {
+                "created_time": "2015-02-27T17:23:00+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "資料的說明 - http:\/\/udn.com\/news\/story\/6656\/727040",
+                "id": "767399803336428"
+            },
+            {
+                "created_time": "2015-02-27T17:40:43+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "不過根據這篇新聞：\nhttp:\/\/www.228.net.tw\/index.php?option=com_content&task=view&id=4124&Itemid=76\n\n\"一九四七年二二八事件後期到一九八九年解嚴後兩年，四十三年間因思想、言論涉及叛亂罪，被依動員戡亂時期檢肅條例逮捕者\" - 8296 人\n\n其中有 1061 人遭到槍決\n\n\"本省籍佔六成三，外省籍佔三成五，年紀最小十九歲，最大六十八歲，七成六介於二十歲至四十歲，身分涵蓋社會各階層，從農民小販到公務員、軍官、警察局長都有\"\n\n\"已獲國家補償的六千多人\"\n\n所以聯合新聞網的資料應該不算完整，但從這 2265 個故事應該可以對這個事件有比較清楚的輪廓。",
+                "id": "767431536666588"
+            },
+            {
+                "created_time": "2015-02-27T17:54:50+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "http:\/\/p.udn.com.tw\/upf\/newmedia\/2015_data\/20150226_udn228\/udn228\/data\/stories.csv\nhttp:\/\/p.udn.com.tw\/upf\/newmedia\/2015_data\/20150226_udn228\/udn228\/data\/map_content.csv\nhttp:\/\/p.udn.com.tw\/upf\/newmedia\/2015_data\/20150226_udn228\/udn228\/data\/page-seven.csv\nhttp:\/\/p.udn.com.tw\/upf\/newmedia\/2015_data\/20150226_udn228\/udn228\/data\/age_peopleNum.csv\nhttp:\/\/p.udn.com.tw\/upf\/newmedia\/2015_data\/20150226_udn228\/udn228\/data\/money_peopleNum.csv\nhttp:\/\/p.udn.com.tw\/upf\/newmedia\/2015_data\/20150226_udn228\/udn228\/data\/region_peopleNum.csv",
+                "id": "767436359999439"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

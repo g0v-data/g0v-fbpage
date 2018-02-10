@@ -1,0 +1,118 @@
+{
+    "created_time": "2015-07-02T17:43:03+0000",
+    "message": "IT科技能幫上第一線醫護人員多少忙呢？\n是否有方法可以統計，每日點擊次數最多的選項，\n針對那項進行最佳化 EX.血庫庫存統計表等\n然後學沃爾瑪尿布與啤酒做出關聯性BigData\n\n舉例來說：各地急重症&血液庫存表，\n當北中南東，有一處有急重症，且血庫血量偏低時，\n這時就是捐血部隊出動的時候了，\n比起過往，更能夠精準的知道何時去捐血不會浪費掉愛心\n\n並且，能夠將這樣的Business Model給正式上架，\n雖然說本質上應該由醫療體系本身改進，\n但就像能源一樣，能夠更精準的使用，將可減少不少的浪費！",
+    "story": "Wei-Cheng Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_828091100600631",
+    "link": "http:\/\/health.businessweekly.com.tw\/AArticle.aspx?id=ARTL000028606",
+    "description": "蘋果日報懶人包聯合報整理包",
+    "name": "一個醫師的心聲：「我希望我的擔心是錯的...」八仙粉塵爆炸，醫療界史無前例的災難",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCmsSVhU549jdK9&w=130&h=130&url=http%3A%2F%2Fibw.bwnet.com.tw%2Fimage%2Fpool%2F2014%2F12%2Ff62fe5fd3924c2760e28521c9bc0dcd2.jpg&cfs=1&_nc_hash=AQDga01Soa3pVmNE",
+    "updated_time": "2015-07-08T01:18:48+0000",
+    "caption": "health.businessweekly.com.tw",
+    "from": {
+        "name": "Wei-Cheng Lee",
+        "id": "10160184588235599"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 48
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-07-02T17:51:30+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "啊，原來是虛構故事啊 ... 這是個三人成虎的故事 ...",
+                "id": "828092760600465"
+            },
+            {
+                "created_time": "2015-07-02T17:52:37+0000",
+                "from": {
+                    "name": "Alibobo  Liang",
+                    "id": "2029831987295691"
+                },
+                "message": "PS:\n沃爾瑪尿布與啤酒 那個是虛構的故事..\n那個是廠商顧問為了賣自己的軟體編出來的故事..詳情請看...\n奧美廣告教父教你用數據找到潛在客戶：性感小數字",
+                "id": "828093030600438"
+            },
+            {
+                "created_time": "2015-07-02T17:53:29+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "http:\/\/www.books.com.tw\/products\/0010654775",
+                "id": "828093170600424"
+            },
+            {
+                "created_time": "2015-07-02T18:11:48+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "去年的g0v與nonuke，偏向直播發布，事件整理等，\n後來直播這點，被柯P學走了，\n施工時的直播監控(靈感大概是來自阿用拆除全紀錄10hr？)\n但事件整理到最後已經變成流水帳式的，\n這麼長的列表根本不會有人點進去看 ...\n\n今年八仙627事件，是否能朝OpenData自動化的方向前進呢？\nEX.血庫存量表，我覺得這個能夠沿用到之後說，\n可推廣給平常就有在捐血的人，當血庫庫存偏低時，就可出動\n\n將幾個好用的OpenData給做出個樣本，先衝高使用量，再來就是不同的版本出現，例如官方版跟民間版的空污指標。\n\n但前提要能統計出，哪項OpenData的應用，使用量最高，\n才能針對該項進行最佳化＆DeBug\n\nPS.針對OpenData的部分是否能加上個標籤，好讓大家知道，這數據是自動產生出來的，而非人工修正的呢？\n例如：捐血需求部分，每日手動更新，\n　　　不如跟大家說這是自動產生的，大家就會手動點進去確認也可以省去後台每日都要檢查的困擾說",
+                "id": "828097037266704"
+            },
+            {
+                "created_time": "2015-07-02T18:14:52+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "另外，捐血需求這部分\n最後更新: 41分鐘前 <=可否強化一下呢？這很重要！\n可以讓大家知道，這份data的時間價值有多高",
+                "id": "828097553933319"
+            },
+            {
+                "created_time": "2015-07-02T18:27:55+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "小建議：可否在C欄追加一個項目，Counter呢？\n回傳A欄的網址記錄下來，如果是使用OpenData的時候，\n想要知道使用者的點擊次數，就在C欄追加，\n然後再來看是否有必要最佳化該應用，進而將其Business Model化，這是我目前想到比較簡單的做法 ...",
+                "id": "828101373932937"
+            },
+            {
+                "created_time": "2015-07-03T01:00:10+0000",
+                "from": {
+                    "name": "Mark Tsai",
+                    "id": "10215197431958768"
+                },
+                "message": "標題有誤，這不是「醫療界」的災難。\n醫療界根本受害者",
+                "id": "828250670584674"
+            },
+            {
+                "created_time": "2015-07-03T02:04:24+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "這標不是我下的，媒體下的 ...\n但我主要是以IT界能幫上什麼忙為主做討論",
+                "id": "828266553916419"
+            },
+            {
+                "created_time": "2015-07-06T16:06:22+0000",
+                "from": {
+                    "name": "Hiso Iam",
+                    "id": "10155399012021909"
+                },
+                "message": "協助他們志工的調度數位化？\nhttps:\/\/www.facebook.com\/2015supportangel?fref=nf",
+                "id": "830887323654342"
+            },
+            {
+                "created_time": "2015-07-08T01:18:48+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "Hiso Iam https:\/\/www.facebook.com\/groups\/g0v.general\/permalink\/826093507467057\/",
+                "id": "831663116910096"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

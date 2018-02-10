@@ -1,0 +1,64 @@
+{
+    "created_time": "2014-10-12T15:37:33+0000",
+    "message": "上週在 https:\/\/g0v.hackpad.com\/IVOD-KdTs5gZb3yw 看到 ivod-downloader-client 缺使用者的 UI 的訊息，試著用 chrome plugin 做了一版，是搭配 native messaging api 呼叫  ivod-downloader-client  下載用的，不過要讓 chrome 認得外部程式需要「很費工」地填寫註冊檔，大略的步驟可參考 https:\/\/github.com\/qrtt1\/ivod-download-chrome-extension。\n\n有沒有覺得，光看完安裝步驟就飽了^^，所以經 林雨蒼 的建議，來此徵求協助，需要製作 Installer 幫使用者註冊外部程式。使用者需要安裝的項目有：\n\n1. https:\/\/github.com\/billy3321\/ivod-download-client\n2. chrome extension (已發部至 chrome store)\n3. 向 chrome 註冊 ivod-download-client 提供的 script\n\n[1] 若使用者會裝 python module from source code 也許能不用提供 Installer （不過得看打算針對什麼樣的使用者就是了）。[3] 就是裝好 [1][2] 之後，比較麻煩的部分了。若有路過的 installer 高手或大德能出力相助是再好不過了（不然就得等下個連假在慢慢生了...不知何年何月）",
+    "story": "Ching Yi Chan shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_694496190626790",
+    "link": "https:\/\/chrome.google.com\/webstore\/detail\/%E7%AB%8B%E6%B3%95%E9%99%A2-ivod-%E4%B8%8B%E8%BC%89%E5%B0%8F%E5%B9%AB%E6%89%8B\/papjbngjonnialpcplbpgdefbmlajodn",
+    "description": "提供立法院 ivod 下載钮，需搭外部程式使用。",
+    "name": "立法院 ivod 下載小幫手",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD4wsK0XgmI7MO1&w=130&h=130&url=https%3A%2F%2Fssl.gstatic.com%2Fchrome%2Fwebstore%2Fimages%2Fthumb.png&cfs=1&_nc_hash=AQBTEcDzB4flMO7k",
+    "updated_time": "2014-10-12T23:23:40+0000",
+    "caption": "chrome.google.com",
+    "from": {
+        "name": "Ching Yi Chan",
+        "id": "10214736466106157"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 14
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-10-12T16:52:37+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "一般來說，目前會下載ivod的應該都是一般民眾，如果可以有一個installer來安裝會最好。",
+                "id": "694529927290083"
+            },
+            {
+                "created_time": "2014-10-12T19:08:21+0000",
+                "from": {
+                    "name": "Alan Chi",
+                    "id": "10210970708128945"
+                },
+                "message": "1. 可以用py2exe 跳過安裝python&compile的部分吧！",
+                "id": "694592033950539"
+            },
+            {
+                "created_time": "2014-10-12T23:22:28+0000",
+                "from": {
+                    "name": "Ching Yi Chan",
+                    "id": "10214736466106157"
+                },
+                "message": "Alan Chi 感謝分享，後來試了 cx_freeze 也蠻容易的^^",
+                "id": "694684490607960"
+            },
+            {
+                "created_time": "2014-10-12T23:23:40+0000",
+                "from": {
+                    "name": "Ching Yi Chan",
+                    "id": "10214736466106157"
+                },
+                "message": "今天起太早，就試著包一下 win32 版。安裝方式（下載路徑為 ~\/twly-ivod-downloads） https:\/\/github.com\/qrtt1\/ivod-download-chrome-extension\/blob\/master\/INSTALL_WIN32.md",
+                "id": "694684880607921"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

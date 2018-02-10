@@ -1,0 +1,82 @@
+{
+    "created_time": "2015-10-25T10:04:32+0000",
+    "message": "嗨各位，之前參加微軟辦的災防開發大賽開發的物資管理系統 (http:\/\/bifrostio.github.io\/) 最近跟可能的第一線用戶台北市社會局接上線了！所以我們現在打算要原本自己想像系統該有的樣子修改到實際處理物資的使用者需要的樣子。\n　\n前幾個禮拜第一次跟社會局開會後有一些基本的想法，我們也開始著手把這次新的釋出的計畫寫在下面這個連結。目前的進度是正在跟社會局用連結裡面提到的網站流程草圖討論有什麼需要修改的。\n　\n接下來我們會持續跟社會局討論將網站流程定案，也會需要開始進行視覺設計，歡迎各位設計師跳坑！ XDDD",
+    "story": "Yuren Ju shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_879158248827249",
+    "link": "https:\/\/github.com\/bifrostio\/bifrost\/wiki\/New-Bifrost",
+    "description": "Contribute to bifrost development by creating an account on GitHub.",
+    "name": "bifrostio\/bifrost",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAKvq73t9Uf_fNZ&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F10686195%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQAbwXcwUDAspj40",
+    "updated_time": "2015-10-25T13:04:27+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Yuren Ju",
+        "id": "10155044076171631"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 65
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-10-25T10:08:29+0000",
+                "from": {
+                    "name": "Cognos Chen",
+                    "id": "1443122555817066"
+                },
+                "message": "來問一下設計師朋友",
+                "id": "879159142160493"
+            },
+            {
+                "created_time": "2015-10-25T10:10:58+0000",
+                "from": {
+                    "name": "Saul Peng",
+                    "id": "10210715509153638"
+                },
+                "message": "go go go!",
+                "id": "879159532160454"
+            },
+            {
+                "created_time": "2015-10-25T10:12:56+0000",
+                "from": {
+                    "name": "曾苡馨",
+                    "id": "1791796867531411"
+                },
+                "message": "謝謝最近很紅的小朱大大幫忙！！！！",
+                "id": "879159908827083"
+            },
+            {
+                "created_time": "2015-10-25T10:16:54+0000",
+                "from": {
+                    "name": "洪美惠",
+                    "id": "10208847700108435"
+                },
+                "message": "了不起。讚。",
+                "id": "879160678827006"
+            },
+            {
+                "created_time": "2015-10-25T10:17:52+0000",
+                "from": {
+                    "name": "Yuren Ju",
+                    "id": "10155044076171631"
+                },
+                "message": "半夜路上無人車⋯欸等等不是這個小朱阿 XDDD",
+                "id": "879160822160325"
+            },
+            {
+                "created_time": "2015-10-25T12:00:20+0000",
+                "from": {
+                    "name": "Moon Chang",
+                    "id": "10156167798314886"
+                },
+                "message": "喔喔喔喔喔喔",
+                "id": "879181642158243"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

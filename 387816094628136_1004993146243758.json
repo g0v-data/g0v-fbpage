@@ -1,0 +1,64 @@
+{
+    "created_time": "2016-06-11T05:02:03+0000",
+    "message": "開了一個 https:\/\/medium.com\/g0v-tw\n\n想說可以收收大家在 medium 或各處寫的 g0v 相關文章，以及專案進度的說明。",
+    "story": "Liang-Bin Hsueh shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1004993146243758",
+    "link": "https:\/\/medium.com\/g0v-tw",
+    "description": "g0v.tw is a civic tech community in Taiwan since 2012 with deep open-source roots. With 1,000+ contributors through 40+ hackathons, it is recognized as one of the largest group in the global civic tech community.",
+    "name": "g0v.tw",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCKkf5_1kIkEOcT&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1%2AnyIKojLPUtcSm7T52SnbEA.png&cfs=1&_nc_hash=AQD29wKwZmt7BIBf",
+    "updated_time": "2016-06-11T07:18:12+0000",
+    "caption": "medium.com",
+    "from": {
+        "name": "Liang-Bin Hsueh",
+        "id": "10156810020336789"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 64
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-06-11T05:16:51+0000",
+                "from": {
+                    "name": "Liang-Bin Hsueh",
+                    "id": "10156810020336789"
+                },
+                "message": "目前看來一個文章只能歸屬到一個 publication，歡迎投稿",
+                "id": "1004996472910092"
+            },
+            {
+                "created_time": "2016-06-11T05:30:05+0000",
+                "from": {
+                    "name": "Liang-Bin Hsueh",
+                    "id": "10156810020336789"
+                },
+                "message": "另外發現 g0v tag 有不少文章 https:\/\/medium.com\/tag\/g0v\/latest",
+                "id": "1005000212909718"
+            },
+            {
+                "created_time": "2016-06-11T06:11:03+0000",
+                "from": {
+                    "name": "Orson Wang",
+                    "id": "10215346051147565"
+                },
+                "message": "用github裡面的awsome-xxx的模式，會更方便",
+                "id": "1005011259575280"
+            },
+            {
+                "created_time": "2016-06-11T07:02:37+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "awesome-g0v 已經有囉\nhttps:\/\/github.com\/g0v\/awesome-g0v",
+                "id": "1005051006237972"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

@@ -1,0 +1,286 @@
+{
+    "created_time": "2014-04-15T01:45:03+0000",
+    "message": "街頭宣講或小蜜蜂都依賴fb在做回報，但過於分散，希望有一個平台，統整文宣、各縣市人員募集、建立同一處回報機制，集合力量。不曉得這個坑值不值得？有沒有人要跳？\n\n--------------------------------------------------------------------------------------------\n\n我建立了一個不公開的hackpad，希望有網頁技術能力的人給我私訊。超違和的，不會寫網頁的號召有能力的XD，我只能提供想(嘴)法(砲)。",
+    "id": "387816094628136_607850852624658",
+    "updated_time": "2014-04-16T10:33:20+0000",
+    "shares": {
+        "count": 12
+    },
+    "from": {
+        "name": "Fema Nien",
+        "id": "701030593440516"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 36
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-15T01:53:00+0000",
+                "from": {
+                    "name": "Fema Nien",
+                    "id": "701030593440516"
+                },
+                "message": "我不熟網站建立，正在做小蜜蜂的工作，但是不了解在我附近有沒有人一起在做，也沒辦法短時間蒐集經驗，我覺得網站一方面可以集合力量，一方面留下資料供來者有系統地參考。",
+                "id": "607852739291136"
+            },
+            {
+                "created_time": "2014-04-15T01:58:01+0000",
+                "from": {
+                    "name": "Brecht Huang",
+                    "id": "10214848420546211"
+                },
+                "message": "不知道Google 協作平台適不適用",
+                "id": "607853792624364"
+            },
+            {
+                "created_time": "2014-04-15T01:59:37+0000",
+                "from": {
+                    "name": "Hsieh Ping-hsun",
+                    "id": "1571812686221006"
+                },
+                "message": "Google 協作平台 印象中流量滿小的，很容易爆。\n之前拿來共享編輯一個文字檔，一下就變成簡易模式了。",
+                "id": "607854092624334"
+            },
+            {
+                "created_time": "2014-04-15T02:02:29+0000",
+                "from": {
+                    "name": "果漾",
+                    "id": "1614724465283655"
+                },
+                "message": "小弟不才只想到下面\n控制中心 顯示各活動目前狀況及所以支援 比如需專長木工又剛好你的專長是木工系統進行線上在得通知詢問是否支援並回饋\n活動中心 可以增列新的地點與活動時間\n講稿中心 可在此找到存檔的或是要存檔的空間\n文宣中心 可以在此集中各地區貼紙樣式或海報\n專長中心 可以在此匯集人力專長支援和聯絡方式 如果有一個可以顯示上線下線的機制更好\n物資中心 可輸入並統計目前收到和出倉的物資狀況和流向(活動中心的任務地點)\n安全中心 可它配GPS顯示所在地並由持有者登記現場狀況和拍照上 \n媒體中心 可將匯集的照片和狀況在此編列供場外媒體發布(媒體需登記註冊)\n\n以上大致上想到的細節有需要請大家在繼續挖坑",
+                "id": "607854775957599"
+            },
+            {
+                "created_time": "2014-04-15T02:05:13+0000",
+                "from": {
+                    "name": "Fema Nien",
+                    "id": "701030593440516"
+                },
+                "message": "@果漾 就是這樣，進擊的向陽有文宣資料庫，但是還不夠。",
+                "id": "607855319290878"
+            },
+            {
+                "created_time": "2014-04-15T02:05:25+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "開個 hackpad，整理意見，然後更好一點把想像中的畫面擷圖做出來，對於他人的參與協助會有幫助。可參考這一篇 http:\/\/ipa.logdown.com\/posts\/143277-g0v-proposal-tips",
+                "id": "607855352624208"
+            },
+            {
+                "created_time": "2014-04-15T02:07:35+0000",
+                "from": {
+                    "name": "果漾",
+                    "id": "1614724465283655"
+                },
+                "message": "可以做得規劃很多 坑會變很大 以精簡且最好不用真實身分登記機制最好",
+                "id": "607855742624169"
+            },
+            {
+                "created_time": "2014-04-15T02:07:51+0000",
+                "from": {
+                    "name": "Fema Nien",
+                    "id": "701030593440516"
+                },
+                "message": "Whiski Tajfun 我研究一下，哈哈",
+                "id": "607855799290830"
+            },
+            {
+                "created_time": "2014-04-15T03:19:09+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "這看起來不是一個 hackpad 填的完的，要用 hackfoldr 整合 hackpads 跟其他項目才行（參考 g0v.today）。",
+                "id": "607873672622376"
+            },
+            {
+                "created_time": "2014-04-15T03:20:24+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "小蜜蜂現在是地下化, 弄成 open 會遭到反制喔",
+                "id": "607873919289018"
+            },
+            {
+                "created_time": "2014-04-15T03:20:49+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "hackpad 可以鎖。",
+                "id": "607874019289008"
+            },
+            {
+                "created_time": "2014-04-15T03:32:06+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "我還是覺得開個 google sites 設定權限應該就可達到要求。上面有提到 Google sites 的流量管制，我沒有遇到過，但是似乎超過流量（應該不小才對）會出現網頁無法瀏覽。不知道簡易模式是指什麼？Google Sites 是類似 Wiki 的網站，不是 Google Docs 開分享喔",
+                "id": "607877085955368"
+            },
+            {
+                "created_time": "2014-04-15T04:35:37+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "建一個 hackfoldr 彙整訊息 ?   雙和小蜜蜂是這樣做，搭配 hackpad、google doc 等等，就跟 g0v.today 一樣一個窗口。\nhttp:\/\/hackfoldr.org\/shuanhhe-hackfoldr",
+                "id": "607917235951353"
+            },
+            {
+                "created_time": "2014-04-15T04:47:05+0000",
+                "from": {
+                    "name": "Hsieh Ping-hsun",
+                    "id": "1571812686221006"
+                },
+                "message": "簡易模式就是不能編輯的唯讀模式，一些功能都關閉的樣子，我那時候是超過一百多人在線而已，就爆了。",
+                "id": "607920522617691"
+            },
+            {
+                "created_time": "2014-04-15T04:51:02+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "我想那應該不是流量，是人數限制了 - 所以一般人還是可以繼續瀏覽，但是不能編輯。Google Docs也有這個限制，每個文件同時線上編輯人數是 50 人。這麼多人同時開編輯，我想文章內容打架的機會應該很高。也是該有鎖起來的機制才是（一般 wiki 都會有這功能）",
+                "id": "607922212617522"
+            },
+            {
+                "created_time": "2014-04-15T04:51:37+0000",
+                "from": {
+                    "name": "Hsieh Ping-hsun",
+                    "id": "1571812686221006"
+                },
+                "message": "你這麼說有可能喔!",
+                "id": "607922335950843"
+            },
+            {
+                "created_time": "2014-04-15T04:52:14+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "hackpad 被學運中的g0v協作DDoS當掉兩次 :)",
+                "id": "607922495950827"
+            },
+            {
+                "created_time": "2014-04-15T05:50:39+0000",
+                "from": {
+                    "name": "Fema Nien",
+                    "id": "701030593440516"
+                },
+                "message": "我的初步想法",
+                "id": "607939229282487"
+            },
+            {
+                "created_time": "2014-04-15T06:09:31+0000",
+                "from": {
+                    "name": "Fema Nien",
+                    "id": "701030593440516"
+                },
+                "message": "Yijyun Lin 謝謝提供。但是excel形式的回報並不直覺，我覺得會進去看的人不會很多。以前有機會學點網頁技術，現在覺得書到用時方恨少。",
+                "id": "607942452615498"
+            },
+            {
+                "created_time": "2014-04-15T06:12:57+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "Yijyun Lin 透過 ushahidi 就可以統整這樣的成果，呈現方式可以參考 http:\/\/g0v.olc.tw\/",
+                "id": "607942992615444"
+            },
+            {
+                "created_time": "2014-04-15T06:14:58+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "ushahidi 系統進行回報的時候可以繪製 點、線、面 ，這樣子就可以視覺化呈現小蜜蜂已經涵蓋的範圍 ;)",
+                "id": "607943432615400"
+            },
+            {
+                "created_time": "2014-04-15T06:15:47+0000",
+                "from": {
+                    "name": "Fema Nien",
+                    "id": "701030593440516"
+                },
+                "message": "Finjon Kiang 對啦! 對啦! 我的初步想法有包括這一塊，地圖的形式呈現，標示的每一點可以連結至經驗回報區。",
+                "id": "607943612615382"
+            },
+            {
+                "created_time": "2014-04-15T06:20:05+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "http:\/\/g0v.olc.tw\/ 目前也沒人在用，就進去踹踹吧\n帳號： service@olc.tw\n密碼： hahaha",
+                "id": "607944472615296"
+            },
+            {
+                "created_time": "2014-04-15T07:23:29+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "看樣子我誤會了，的確可以通報線跟面，但是通報的線跟面程式會自動取出一個中心點，在總覽圖上面只看得到這個中心點。",
+                "id": "607954849280925"
+            },
+            {
+                "created_time": "2014-04-15T22:55:53+0000",
+                "from": {
+                    "name": "楊明翰",
+                    "id": "1583510311741065"
+                },
+                "message": "有沒有考慮串聯一下....                                                                                                        ....................................\n台大法律學生挺318\nhttps:\/\/www.facebook.com\/ntulaw318?ref=ts&fref=ts\n北藝大藝術干擾小組（反服貿北藝平台）\nhttps:\/\/www.facebook.com\/groups\/757817167564731\/?ref=ts&fref=ts\n臺科大反黑箱服貿陣線\nhttps:\/\/www.facebook.com\/groups\/381737755299803\/?ref=ts&fref=ts\n彰師反服貿黑箱陣線\nhttps:\/\/www.facebook.com\/groups\/705323382823662\/?ref=ts&fref=ts\n反服貿 高中職不缺席\nhttps:\/\/www.facebook.com\/pages\/%E5%8F%8D%E6%9C%8D%E8%B2%BF-%E9%AB%98%E4%B8%AD%E8%81%B7%E4%B8%8D%E7%BC%BA%E5%B8%AD\/260407357464237?ref=ts&fref=ts\n反服貿學生組織\nhttps:\/\/www.facebook.com\/pages\/%E5%8F%8D%E6%9C%8D%E8%B2%BF%E5%AD%B8%E7%94%9F%E7%B5%84%E7%B9%94\/756831544335745?ref=ts&fref=ts\n反服貿,全台中聲援大串聯\nhttps:\/\/www.facebook.com\/groups\/583809728382646\/?ref=ts&fref=ts\n我知道這很孬，一起中央反服貿。\nhttps:\/\/www.facebook.com\/groups\/NCUoccupation\/?ref=ts&fref=ts\n長庚學生站出來X服貿X反黑箱X聯署\nhttps:\/\/www.facebook.com\/groups\/692200340842541\/?ref=ts&fref=ts\n反服貿,南部同學為北部同學聲援\nhttps:\/\/www.facebook.com\/groups\/226287617573445\/?ref=ts&fref=ts\n我是新北人#我是臺灣人。反服貿運動\nhttps:\/\/www.facebook.com\/groups\/272799216222525\/?ref=ts&fref=ts\n彰化縣高中生反黑箱服貿聯盟--用理性的心、\nhttps:\/\/www.facebook.com\/groups\/222228694640758\/?ref=ts&fref=ts\n反對媒體壟斷，捍衛新聞自由，我在元智守護台灣！\nhttps:\/\/www.facebook.com\/Media.Monopoly.inYZU?ref=ts&fref=ts\n.........................................................................\n\n台大日文聯合支援反服貿黑箱行動\nhttps:\/\/www.facebook.com\/groups\/1434065346831419\/?ref=ts&fref=ts\n輔大反媒體巨獸小組\nhttps:\/\/www.facebook.com\/groups\/182435391902802\/?ref=ts&fref=ts\n反核校際聯合募款派對（實踐、輔仁、東吳）\nhttps:\/\/www.facebook.com\/groups\/535937986436699\/?ref=ts&fref=ts\n反黑箱服貿 聯大自主性社團\nhttps:\/\/www.facebook.com\/groups\/657898947580133\/?ref=ts&fref=ts\n反黑箱，銘傳學生不缺席\nhttps:\/\/www.facebook.com\/mcunoblackbox?ref=ts&fref=ts\n重啟服貿談判，實踐民主審議，反黑箱協議，要生存權利\nhttps:\/\/www.facebook.com\/groups\/taiwan.trade\/?ref=ts&fref=ts\n基督徒為反黑箱服貿事件禱告網\nhttps:\/\/www.facebook.com\/groups\/1455600638006101\/?ref=ts&fref=ts\n東吳反壟斷行動站\nhttps:\/\/www.facebook.com\/idontwnatwantinscu?ref=ts&fref=ts\n反屏東縣政府計劃在屏東市舊鐵橋高屏溪旁蓋火葬場\nhttps:\/\/www.facebook.com\/groups\/322666181127712\/?ref=ts&fref=ts\n雲科大 反服貿陣線\nhttps:\/\/www.facebook.com\/yuntechantiblacktw?ref=ts&fref=ts\n屏科獸反黑箱服貿\nhttps:\/\/www.facebook.com\/vetantiblacktw?ref=ts&fref=ts\n \n...................................................................\n我支持學生們反服貿，我也願意守護這次318佔領立院行\nhttps:\/\/www.facebook.com\/groups\/679790115399837\/?ref=ts&fref=ts\n日本留學生聲援反黑箱服貿工作社團\nhttps:\/\/www.facebook.com\/groups\/296901683768044\/?ref=ts&fref=ts\n黑箱服貿 嘉義不要\nhttps:\/\/www.facebook.com\/ChiayiNoObey?ref=ts&fref=ts\n高師大反黑箱服貿\nhttps:\/\/www.facebook.com\/nknugenderantiblack?ref=ts&fref=ts\n反黑箱服貿─自治輪班社團明志科技大學\nhttps:\/\/www.facebook.com\/groups\/1451277371772843\/?ref=ts&fref=ts\n反黑箱服貿 全國大學高中罷課\nhttps:\/\/www.facebook.com\/groups\/659760667393196\/?ref=ts&fref=ts\n義學國中站出來反服貿\nhttps:\/\/www.facebook.com\/groups\/239946722859018\/?ref=ts&fref=ts\n南藝大反黑箱服貿田野調查\nhttps:\/\/www.facebook.com\/groups\/638878436161387\/?ref=ts&fref=ts\n反黑箱-文化學生 粉絲頁\nhttps:\/\/www.facebook.com\/pages\/%E5%8F%8D%E9%BB%91%E7%AE%B1-%E6%96%87%E5%8C%96%E5%AD%B8%E7%94%9F-%E7%B2%89%E7%B5%B2%E9%A0%81\/1435726823333046?ref=ts&fref=ts\n世新大學青年陣線\nhttps:\/\/www.facebook.com\/pages\/%E4%B8%96%E6%96%B0%E5%A4%A7%E5%AD%B8%E9%9D%92%E5%B9%B4%E9%99%A3%E7%B7%9A\/521712641279397\n中原大學灼言社\nhttps:\/\/www.facebook.com\/CycuDeepInsightClub\n竹大人反服貿~募款印傳單&招募人力\nhttps:\/\/www.facebook.com\/groups\/471227359673799\/?ref=ts&fref=ts\n淡江建築系-全國大專院校響應反黑箱服貿\nhttps:\/\/www.facebook.com\/events\/1405790026352949\/?ref=ts&fref=ts\n..............................................................................",
+                "id": "608228032586940"
+            },
+            {
+                "created_time": "2014-04-15T23:00:36+0000",
+                "from": {
+                    "name": "楊明翰",
+                    "id": "1583510311741065"
+                },
+                "message": "這些FB平台學運結束後力量就減弱了...不只是後來發起的演講,當初支持學運的FB平台最好也加入串聯,即便再小,都是力量!",
+                "id": "608228919253518"
+            },
+            {
+                "created_time": "2014-04-16T02:22:58+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "所以是不是可以弄個系統，方便把訊息直接分享到所有加入串聯的FB粉絲團和社團?\n~當然也要小心，不要變成廣告工具...",
+                "id": "608294049247005"
+            },
+            {
+                "created_time": "2014-04-16T10:32:21+0000",
+                "from": {
+                    "name": "Fema Nien",
+                    "id": "701030593440516"
+                },
+                "message": "我建立了一個不公開的hackpad，希望有網頁技術能力的人給我私訊。超違和的，不會寫網頁的號召有能力的XD，我只能提供想(嘴)法(砲)。",
+                "id": "608411885901888"
+            },
+            {
+                "created_time": "2014-04-16T10:33:20+0000",
+                "from": {
+                    "name": "Alibobo  Liang",
+                    "id": "2029831987295691"
+                },
+                "message": "跳啦~不用說, 可是我不是寫網頁的,我只會寫 android APP",
+                "id": "608412152568528"
+            }
+        ],
+        "summary": {
+            "total_count": 29
+        }
+    }
+}

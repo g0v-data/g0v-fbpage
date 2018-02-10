@@ -1,0 +1,46 @@
+{
+    "created_time": "2015-01-24T11:58:21+0000",
+    "message": "k.olc.tw\/slide\/green.html 今天在綠黨活動使用的投影片，後續錄影就等相關人員釋出了",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_749490791793996",
+    "link": "http:\/\/k.olc.tw\/slide\/green.html",
+    "description": "A jQuery library for modern HTML presentations",
+    "name": "開放議會",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDkozJleiL-S2Ws&w=130&h=130&url=http%3A%2F%2Fk.olc.tw%2Fslide%2Fgreen%2Fcouncils_g0v.png&cfs=1&_nc_hash=AQDmkUNcAYKkh9Lh",
+    "updated_time": "2015-01-26T08:33:14+0000",
+    "caption": "k.olc.tw",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 23
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-01-24T16:08:42+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "http:\/\/k.olc.tw\/2015\/01\/%E7%B6%A0%E9%BB%A8-2014-%E9%81%B8%E8%88%89%E7%B6%B2%E8%B7%AF%E6%87%89%E7%94%A8%EF%BC%86%E8%AD%B0%E5%93%A1%E5%B7%A5%E4%BD%9C%E8%88%87%E7%B6%B2%E8%B7%AF%E4%B9%8B%E6%83%B3%E5%83%8F%E8%A8%88%E7%95%AB\/\n\n我自己做的紀錄，主要聚焦在兩位新議員的討論，浩宇的作法蠻先進的，也許 g0v 的專案可以跟他們的團隊有些合作機會",
+                "id": "749578578451884"
+            },
+            {
+                "created_time": "2015-01-26T08:33:14+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "錄影已經上線\n我的部份： http:\/\/www.ustream.tv\/recorded\/57928198\n後續兩位議員加入的部份： http:\/\/www.ustream.tv\/recorded\/57928666\n\n逐字： https:\/\/greenparty.hackpad.com\/-2014--JNXFt9gtAtp  (目前好像網站叫不醒)",
+                "id": "750446031698472"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

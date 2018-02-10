@@ -1,0 +1,91 @@
+{
+    "created_time": "2013-08-30T15:28:30+0000",
+    "message": "與網路廣播「深音」主持人酥餅對談g0v與開源工作方式，從open data到open government與社會參與，一點心得觀察。我覺得最有趣的是主持人對黑客松當天要實作很驚訝，我自己則是每次傍晚聽到成果都很驚訝.....。",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_503175819758829",
+    "link": "http:\/\/deepsound-twfuture.podomatic.com\/entry\/2013-08-29T12_54_11-07_00",
+    "description": "最近出現一個用簡潔的圖形展示政府預算的網站，這樣的網站讓民眾更容易了解政府資訊，是形成公民社會重要的基石，你能想像嗎？這樣一個網站竟然是一群分散在各地的軟體工程師用分散式協作的模式完成的，這些人都屬於同一個社群，叫做零時政府。 這一集深音由酥餅主持，特別邀請到零時政府派出的代表瞿筱葳小姐擔任與談人，讓大家更了解這一群打算用寫程式改變社會的年輕人，他們的想法是什麼，如何運作，如何分工？更重要的是，他們的運作與分工方式，有沒有可能運用在其他領域，比如說社會運動甚至政治運動上面。 節目內容精采有趣，歡迎收聽。",
+    "name": "零時政府，寫程式改變社會",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD9SUwG3_YY7fVY&w=130&h=130&url=http%3A%2F%2Fassets.podomatic.net%2Fmymedia%2Fthumb%2F1212401%2F200x200_8680379.jpg&cfs=1&_nc_hash=AQAt5wQtWx3CfPfl",
+    "updated_time": "2013-09-03T10:26:31+0000",
+    "caption": "deepsound-twfuture.podomatic.com",
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 32
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-08-30T16:11:51+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "逐字稿...嗎 0rz ?!",
+                "id": "503186226424455"
+            },
+            {
+                "created_time": "2013-08-31T03:52:37+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "逐字稿...嗎？先承認你挖坑自跳？(Y)",
+                "id": "503377443072000"
+            },
+            {
+                "created_time": "2013-08-31T16:42:35+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "坑挖好了 我先下去囉(跳",
+                "id": "503684226374655"
+            },
+            {
+                "created_time": "2013-09-02T03:44:43+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "https:\/\/g0v.hackpad.com\/-g0v-x--SfUlgNbx6Df wow 貓橘毛++ 已經打這麼多了",
+                "id": "504383416304736"
+            },
+            {
+                "created_time": "2013-09-02T03:45:24+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "貓橘毛 ++",
+                "id": "504383526304725"
+            },
+            {
+                "created_time": "2013-09-03T02:16:57+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "貓橘毛 ++",
+                "id": "504827709593640"
+            },
+            {
+                "created_time": "2013-09-03T10:26:31+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "子夜前會完成~~~需要更多小精靈幫忙 recheck Q_O\n感謝 au, kcwu, sfh, clkao, ipa & Michael_LI ++++++",
+                "id": "504917309584680"
+            }
+        ],
+        "summary": {
+            "total_count": 7
+        }
+    }
+}

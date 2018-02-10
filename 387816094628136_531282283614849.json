@@ -1,0 +1,72 @@
+{
+    "created_time": "2013-10-28T10:09:51+0000",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_531282283614849",
+    "link": "https:\/\/registrano.com\/events\/odw-sotm-2013",
+    "description": "「開放資料」(Open Data) 是近來眾人關注的議題。研究機構、政府部門、以及民間團體無不希望經由資料的開放使用，以彰顯並發展資料的價值，進而鼓勵協力合作與創新應用。資料的釋出與使用，涉及許多議題，這次工作坊將提供一個場合，期望讓各自在民間、政府、學界進行資料開放工作的眾人，能有一個對話與討論的空間。",
+    "name": "2013 開放資料工作坊 暨 2013 台灣開放街圖研討會聯合會",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAx4uX9F9Ze6ivt&w=130&h=130&url=https%3A%2F%2Fkkbox-registrano.s3.amazonaws.com%2Fupload_images%2F12979%2Fodw_sotm-logo.png&cfs=1&_nc_hash=AQDoRzApjoXdT0qH",
+    "updated_time": "2013-11-06T14:04:28+0000",
+    "caption": "registrano.com",
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 17
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-10-29T02:30:09+0000",
+                "from": {
+                    "name": "陳柏儒",
+                    "id": "2020687477948223"
+                },
+                "message": "這天卡在nodejs knockout..............",
+                "id": "531758626900548"
+            },
+            {
+                "created_time": "2013-11-05T03:00:47+0000",
+                "from": {
+                    "name": "Yolanda Liu",
+                    "id": "1743796849011506"
+                },
+                "message": "有沒有人可以幫我解釋為何開放街圖繪是很重要的?",
+                "id": "535806459829098"
+            },
+            {
+                "created_time": "2013-11-06T03:50:37+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "因為如此可以避免重要的資訊被壟斷，(假如有一天) Google 變邪惡",
+                "id": "536233859786358"
+            },
+            {
+                "created_time": "2013-11-06T14:03:44+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "Yolanda Liu 像是台大的地圖其實已經有變化了, 但是大家常用的G+ map 圖資卻還沒有更新, 雖然google很方便, 但是開放街圖繪讓資料變得更齊全, 讓我們更接近真相 :)",
+                "id": "536380336438377"
+            },
+            {
+                "created_time": "2013-11-06T14:04:28+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "就像當初既然有百科全書, 那為何還要有維基百科大概有些概念上的雷同吧",
+                "id": "536380566438354"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

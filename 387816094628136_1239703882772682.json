@@ -1,0 +1,54 @@
+{
+    "created_time": "2017-03-04T15:44:53+0000",
+    "message": "工時薪資透明化運動團隊【尋找設計師／前端工程師／後端工程師】\n　\n大家好，我們是推動「工時薪資透明化運動」的團隊！我們的願景是打造一個資訊透明的求職平台，讓台灣的求職者在求職的時候，可以有更完整的資訊。此外，我們也希望藉由「勞動知識小教室」系列懶人包，增進台灣勞工對於權益資訊的認知。\n詳細的g0v grant提案：https:\/\/grants.g0v.tw\/projects\/588b039d015368001e64a3e5\n　\n我們正在申請 g0v grant，很幸運能夠得到評審第一階段的青睞。最近我們正在準備接下來的面試。\n　\n然而由於現有團隊成員中，一位前端要去當兵、一位後端要出國旅遊，設計師的人力也希望更充足。因此，我們希望可以邀請各位【沒有人】的加入，讓我們能夠如期完成資助計畫所訂定的目標，以促進職場資訊更加透明化。\n　\n【詳細需求說明】\n我們期待每週大約8小時的投入，大約一個月實體開會一次(@台北)，平常則是線上以slack + github + skype等工具合作。\n\n[前端]\n・React\n・postcss (rwd)\n・es6\n　\n[後端]\n・Nodejs (Express 4) + Mongodb\n　\n[設計]\n・網頁的介面設計(sketch + inVision)\n・勞動權益資訊懶人包的設計(資訊設計)，範例：https:\/\/www.facebook.com\/pg\/goodjob.life\/photos\/?tab=albums\n　　\n【來跳坑吧！】，可以\n1. 直接私訊我\n2. 私訊我們的粉絲專頁 https:\/\/www.facebook.com\/goodjob.life\/ （也可以按讚訂閱勞動知識小教室懶人包！）\n3. 寄信給我們：findyourgoodjob@gmail.com \n\n或是，到我們的github repo (https:\/\/github.com\/goodjoblife) 上按顆星星！ \n（WorkTimeSurvey 是目前官網的前端、WorkTimeSurvey-backend 是後端。 GoodJobShare 則是下一個版本網站的前端）",
+    "id": "387816094628136_1239703882772682",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=1411667968852706&set=gm.1239703882772682&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/p130x130\/17022427_1411667968852706_3197943021035333088_n.jpg?oh=ac25cba45db2fbd5463754361d347d59&oe=5B1A55DF",
+    "updated_time": "2017-03-06T13:18:43+0000",
+    "shares": {
+        "count": 10
+    },
+    "from": {
+        "name": "Wei-Ming Chen",
+        "id": "1758545054164994"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 133
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-03-05T16:04:37+0000",
+                "from": {
+                    "name": "Po Hsien Chu",
+                    "id": "1630817840327675"
+                },
+                "message": "推超實用網站",
+                "id": "1240761816000222"
+            },
+            {
+                "created_time": "2017-03-05T16:45:54+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "請問有什麼誘因讓資方想來這裡提供職缺呢?",
+                "id": "1240789972664073"
+            },
+            {
+                "created_time": "2017-03-06T13:18:42+0000",
+                "from": {
+                    "name": "Shaw Wu",
+                    "id": "1801756449836783"
+                },
+                "message": "恭喜入選喔～ 加油加油～",
+                "id": "1241644009245336"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

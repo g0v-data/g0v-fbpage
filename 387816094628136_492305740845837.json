@@ -1,0 +1,99 @@
+{
+    "created_time": "2013-08-06T16:25:40+0000",
+    "message": "coucup 上有提到，我幾個月前寫了個自動檢查 registrano 報名資訊，讓我在 10 小時前成功加入台灣零時政府第壹次公地放領黑客松的小程式。\n\n因為 irc 上有人問，來把程式碼釋出 XD",
+    "story": "Jerry Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_492305740845837",
+    "link": "https:\/\/gist.github.com\/wildjcrt\/6166024",
+    "description": "自動檢查 registrano 報名資訊，讓我在 10 小時前成功加入台灣零時政府第壹次公地放領黑客松的小程式。 - Gist is a simple way to share snippets of text and code with others.",
+    "name": "wildjcrt\/check_bot.rb",
+    "updated_time": "2013-08-12T02:48:26+0000",
+    "caption": "gist.github.com",
+    "from": {
+        "name": "Jerry Lee",
+        "id": "10155368602913932"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 23
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-08-06T18:27:16+0000",
+                "from": {
+                    "name": "鄭智中",
+                    "id": "10155459788420028"
+                },
+                "message": "這是軍備競賽啊！要當國防部長嗎 XD",
+                "id": "492343857508692"
+            },
+            {
+                "created_time": "2013-08-06T22:18:56+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "這要跟售票亭長和點票大大謝罪嗎？(抖)",
+                "id": "492417634167981"
+            },
+            {
+                "created_time": "2013-08-07T02:40:10+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "m1l.tw 還可以註冊",
+                "id": "492504334159311"
+            },
+            {
+                "created_time": "2013-08-07T02:52:30+0000",
+                "from": {
+                    "name": "鄭智中",
+                    "id": "10155459788420028"
+                },
+                "message": "mi1.tw ?",
+                "id": "492506694159075"
+            },
+            {
+                "created_time": "2013-08-07T03:51:42+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "military ?",
+                "id": "492554430820968"
+            },
+            {
+                "created_time": "2013-08-07T03:55:39+0000",
+                "from": {
+                    "name": "鄭智中",
+                    "id": "10155459788420028"
+                },
+                "message": "應該用 m1l.tw 才符合格式",
+                "id": "492569294152815"
+            },
+            {
+                "created_time": "2013-08-07T13:18:07+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "m1l.tw肯定要跳坑的!",
+                "id": "492708927472185"
+            },
+            {
+                "created_time": "2013-08-12T02:48:26+0000",
+                "from": {
+                    "name": "Jerry Lee",
+                    "id": "10155368602913932"
+                },
+                "message": "Hsiao-wei Chiu 釋出時就在 irc 上跪過了 ORZ",
+                "id": "494604490615962"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

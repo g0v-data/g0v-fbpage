@@ -1,0 +1,100 @@
+{
+    "created_time": "2015-08-19T09:50:13+0000",
+    "message": "這是台南市登革熱病例通報資料，之前好像有看過一個工具可以用動態的方式在地圖上呈現有時序的統計數字變化，不過忘記了 XD\n\n有人可以給個提示嗎？或是歡迎直接套資料畫圖 ;)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_850158478393893",
+    "link": "https:\/\/gist.github.com\/kiang\/dcaddfd984bd3a758941",
+    "description": "current result by https:\/\/gist.github.com\/kiang\/a25c5b576410adefcfdf",
+    "name": "current result by https:\/\/gist.github.com\/kiang\/a25c5b576410adefcfdf",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD-qDopzeJ7SqSp&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F47844%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQBdDqNtXXIDOZBe",
+    "updated_time": "2015-08-21T04:25:35+0000",
+    "caption": "gist.github.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 24
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-08-19T09:52:29+0000",
+                "from": {
+                    "name": "Chih-Cheng Liang",
+                    "id": "10208659003271962"
+                },
+                "message": "http:\/\/timemap.kuansim.com\/ ?",
+                "id": "850158895060518"
+            },
+            {
+                "created_time": "2015-08-19T09:53:32+0000",
+                "from": {
+                    "name": "Chih-Cheng Liang",
+                    "id": "10208659003271962"
+                },
+                "message": "好像不是﹍",
+                "id": "850159051727169"
+            },
+            {
+                "created_time": "2015-08-19T09:53:55+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "恩， timemap 有點像是用地圖說故事，不太適合統計性質的資料",
+                "id": "850159125060495"
+            },
+            {
+                "created_time": "2015-08-19T10:37:14+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "好像是用highchart\n\nhttp:\/\/lycheetw.github.io\/KaohsiungDengueMap\/",
+                "id": "850168315059576"
+            },
+            {
+                "created_time": "2015-08-19T10:37:47+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "台南好像今年很旺...",
+                "id": "850168441726230"
+            },
+            {
+                "created_time": "2015-08-19T10:46:28+0000",
+                "from": {
+                    "name": "Kirby Wu",
+                    "id": "10154535277327168"
+                },
+                "message": "可以拿癌症地圖去改: http:\/\/g0v.github.io\/cancer\/viz\/\n或是用 geoevent: 0media.tw\/t\/geoevent\/",
+                "id": "850170348392706"
+            },
+            {
+                "created_time": "2015-08-19T17:45:55+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "最後還是以高雄登革熱地圖為基礎做修改，台南登革熱地圖出爐囉\n\nhttp:\/\/kiang.github.io\/TainanDengueMap\/",
+                "id": "850312335045174"
+            },
+            {
+                "created_time": "2015-08-21T04:25:35+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "加入動畫播放功能\n\nhttps:\/\/www.facebook.com\/k.olc.tw\/videos\/vb.282921805214623\/482782161895252",
+                "id": "851077664968641"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

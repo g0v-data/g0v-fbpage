@@ -1,0 +1,63 @@
+{
+    "created_time": "2016-08-03T03:01:46+0000",
+    "message": "有人做過像這樣的比對服務嗎？這個網頁可以做住址轉座標，但也許把問題簡化一點，就是如果有一個座標點位，希望找出在哪個最小統計區中\n\n概念很簡單，但最小統計區有 157,933 個，所以這個運算很花時間，不知道有什麼方式能夠讓它更快一點，內政部這個網頁服務跑 600 個地址大概就要 5~10 分鐘...\n\n找了一下討論( http:\/\/gis.stackexchange.com\/questions\/24554\/looking-for-fastest-solution-for-point-in-polygon-analysis-of-200-million-points )，大多會推薦使用 PostGIS ，所以在開始研究之前想先問看看有沒有人做過類似的東西 XD",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1037710582972014",
+    "link": "http:\/\/moisagis.moi.gov.tw\/moiap\/match\/system_common.cfm",
+    "name": "服務介紹",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQA3p7ZR7hbaaek9&w=130&h=130&url=http%3A%2F%2Fmoisagis.moi.gov.tw%2Fmoiap%2Fmatch%2Fpng%2Fbtn_right_over.png&cfs=1&_nc_hash=AQA0UwaVDpZjujhi",
+    "updated_time": "2016-08-05T13:24:27+0000",
+    "caption": "moisagis.moi.gov.tw",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 15
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-08-03T03:09:14+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "157,933 其實數量不大，用 postgis 的話應該還可以秒殺。 https:\/\/sheethub.com\/area.reference.tw\/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B5%B1%E8%A8%88%E5%8D%80_%E6%9C%80%E5%B0%8F%E7%B5%B1%E8%A8%88%E5%8D%80\/geolookup?lat=25.04&lng=121.5097553&zoom=19  SheetHub 上面有把最小統計區匯入，也有 API 可以查，可以試試看",
+                "id": "1037714219638317"
+            },
+            {
+                "created_time": "2016-08-03T04:44:27+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "住址轉座標，在下已經把 TGOS 整合到 python geocoder 套件，直接用 API 跑不用開網頁。",
+                "id": "1037755379634201"
+            },
+            {
+                "created_time": "2016-08-03T04:46:38+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "不知道這樣能不能幫上忙http:\/\/geocoder.readthedocs.io\/providers\/TGOS.html",
+                "id": "1037755756300830"
+            },
+            {
+                "created_time": "2016-08-05T02:11:11+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "tgos 我上次跑是失敗的說，連網頁上的測試案例都是失敗的。",
+                "id": "1038982826178123"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "created_time": "2014-09-27T19:41:59+0000",
+    "message": "源起：\n一位很偏鄉，沒有網路的老師，想在課堂上使用萌典閩南語客語字典，一來沒網路沒辦法查給學生看，教他們怎麼使用。二來沒網路想播發音給學生聽也不行。\n就這樣一則 tweet，我覺得能讓 @moedict 萌典能幫助到偏鄉的小朋友和老師，著手把一年前 3du.tw 的程式，比較認真的利用週末二天修改，並針對未來擴充機制以及和 moedict.tw 線上版本相容做了一些調整。 希望各位覺得實用，能具體幫助國小／國中師生。\n當然，擴充機制完善，我想我會再花點時間寫一個 \"國小生字（南一)\" 的擴充套件功能，把國小課文利用萌典拆字，組成生字本，幫助我家那水深火熱的小二生。XD\n\n目前 1.0.0 Beta 網站：\nhttps:\/\/racklin.github.io\/moedict-desktop\/\n\nPS. Tweet: https:\/\/twitter.com\/cacatitho\/status\/514439202784571393",
+    "story": "Rack Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_686620311414378",
+    "link": "https:\/\/racklin.github.io\/moedict-desktop\/",
+    "description": "Moedict-desktop : 萌典桌面版（Windows \/ MacOSX \/ Linux）",
+    "name": "Moedict-desktop",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDwF6KuBuEeRCm5&w=130&h=130&url=https%3A%2F%2Fracklin.github.io%2Fmoedict-desktop%2Fimages%2Fscreenshot_main.png&cfs=1&_nc_hash=AQApos-5JyUZTj1c",
+    "updated_time": "2014-09-28T02:49:38+0000",
+    "caption": "racklin.github.io",
+    "from": {
+        "name": "Rack Lin",
+        "id": "1903930342959335"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 51
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-09-28T02:05:20+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "教育部「常用國字標準字體筆順學習網教育部」裡面就有生字練習簿的功能，可以把輸入的字句轉為六個字一頁的PDF檔，印出來就可以給小朋友學寫字了\n~可以參照這樣的設計嗎?\nhttp:\/\/stroke-order.learningweb.moe.edu.tw\/character_practice.do",
+                "id": "686715434738199"
+            },
+            {
+                "created_time": "2014-09-28T02:49:38+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "Good job.",
+                "id": "686726038070472"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

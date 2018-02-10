@@ -1,0 +1,26 @@
+{
+    "created_time": "2016-08-25T04:26:45+0000",
+    "message": "請教一個 HTTP 大檔檢查問題，我的願望是希望 Nginx 能對一個大檔計算 MD5，而且不是計算整個檔案，而是根據 Range 這個 Header 值計算碎塊的 MD5，這樣在下載失敗時可以只重新下載有壞掉的碎塊，我現在的作法是自己搞出一個長這樣的檔案，每 1MB 做一個 MD5，但是每次出更新檔時都要手工跑一次，覺得有點麻煩。\n",
+    "story": "吳政璋 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1054189387990800",
+    "link": "http:\/\/sto.tacosync.com\/geomancer\/taiwan-taco.map.md5",
+    "description": "98bde8af49f71d5bfd44fd81ab919ded part00 b9ad5b05e9cfd35c0bd0fbb1518ede00 part01 96003bf67c1c58e97f7af16a102c8cdd part02 8a2220cc832485d8820fceaec1d3fc7d part03 87c69c5a72fc575a8058b2ea229075dd part04 4000216825a75573de2ab4786240268e part05 8436bb5788ea0219c26654033ec67708 part06 178cf3972c3c91e2cc47...",
+    "name": "sto.tacosync.com",
+    "updated_time": "2016-08-25T04:26:46+0000",
+    "caption": "sto.tacosync.com",
+    "from": {
+        "name": "吳政璋",
+        "id": "2009669035713198"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 4
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

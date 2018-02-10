@@ -1,0 +1,99 @@
+{
+    "created_time": "2016-01-03T17:59:56+0000",
+    "message": "小弟又來這裡拋磚塊希望能引出玉來了 <(_ _)>\n\n關於Youtube直播時，觀眾端同步側錄語音音軌，\n事後可以想辦法拼接回去\n\n因為昨天直播時，又被消音了啊啊啊啊啊 ...\n而直播主沒有同步錄影 or 錄音\n我想這個情況之後很有可能不斷上演，\n因此想請教各位，有沒有比較好的方式，觀眾端可以幫忙同步錄音，以便事後還有補救的空間呢？\n\n我的構想是，自動鎖定某些Live頻道，當一有直播，就自動去錄音軌，結束後就變成一個檔案這樣，自動化不用手動，以備不時之需這樣\n\n被消音的影片：",
+    "story": "Wei-Cheng Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_910869302322810",
+    "link": "https:\/\/youtu.be\/I1P1FBiWvUM",
+    "name": "歸巢搖滾 Return Rock！Day2 @台中神岡民生路90號",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQASCafJQ1KUe0zj&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FI1P1FBiWvUM%2Fhqdefault.jpg&cfs=1&_nc_hash=AQCZKTm7PUPMK6xU",
+    "updated_time": "2016-01-06T02:06:14+0000",
+    "caption": "youtube.com",
+    "from": {
+        "name": "Wei-Cheng Lee",
+        "id": "10160184588235599"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-01-04T22:51:45+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "不太懂被消音是什麼意思？ YouTube不會保留直播的影片嗎？",
+                "id": "911415598934847"
+            },
+            {
+                "created_time": "2016-01-05T01:38:32+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "如果碰上有版權者提出要求，把音軌全部消音，該段影片就沒有音軌了，\n所以音軌部分一來容量小，二來有畫面就可以拼接回去，若能自動備份的話，對直播主而言是吃了定心丸，當碰上演唱會或是過場中間會放許多配樂情況而言",
+                "id": "911465465596527"
+            },
+            {
+                "created_time": "2016-01-05T14:04:05+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "應該是可以，用一個YouTube帳號訂閱所有要追蹤的頻道，透過api每10分鐘去偵測有沒有開直播，有的話丟給vlc錄。",
+                "id": "911689702240770"
+            },
+            {
+                "created_time": "2016-01-05T14:05:31+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "VLC等於是直接錄影像跟聲音嗎?這樣就不用合併了 XD",
+                "id": "911690255574048"
+            },
+            {
+                "created_time": "2016-01-05T14:07:00+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "對呀 我剛剛看到有人推薦這個套件\nhttp:\/\/docs.livestreamer.io\/\n只要在CLI 傳入YouTube的網址就行了",
+                "id": "911690678907339"
+            },
+            {
+                "created_time": "2016-01-05T14:20:55+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "請問有沒有比較傻瓜的入門法呢?\n若直播主出門去直播,家裡開了一台電腦隨時準備錄影,\n這是最好的做法,畢竟要同時錄影像跟聲音(無損),\n長時間還挺吃硬碟空間的,應該沒有人沒事會在幫直播主錄,\n大都是自己的直播自己錄,因此要降低門檻才行",
+                "id": "911695722240168"
+            },
+            {
+                "created_time": "2016-01-05T21:47:31+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "一個初步的錄直播 script ，可以用同時用多個 process 錄多個直播。\n再加上一個偵測有沒有直播開始的 script 大概就可以了～\nhttps:\/\/github.com\/tommy87166\/streamrecorder",
+                "id": "911861148890292"
+            },
+            {
+                "created_time": "2016-01-06T02:06:14+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "哈,首要條件：我要重頭開始學 Python 程式語言 XD\n不過還是感謝Tommy Pai大大了,我再找時間來學這套語言",
+                "id": "911942768882130"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

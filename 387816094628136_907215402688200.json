@@ -1,0 +1,55 @@
+{
+    "created_time": "2015-12-27T16:02:38+0000",
+    "message": "Hi 我是這個月第一次正式參加活動的Newbie\n有看到Peggy之前寫的公務員提供開放資料時的格式問題\n試著寫了點VBA，還在開發階段中\n最後目標是可以讓使用者一鍵處理掉格式問題及存成.csv\n懇請各位前輩們給予些建議\n無論是程式上的，或是使用需求上的\n希望下次的黑客松就可以正式提案 :)\n---\nHackpad: https:\/\/g0v.hackpad.com\/-Excel-.csv--vDLLZbbikXF\n---\n目前版本：alpha  (Hackpad中也有連結)\nhttps:\/\/www.dropbox.com\/s\/udh6esh63bririi\/Excel_to_csv_alpha.xlsm?dl=0",
+    "story": "Arshain Cheng shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_907215402688200",
+    "link": "https:\/\/g0v.hackpad.com\/-Excel-.csv--vDLLZbbikXF",
+    "description": "專案簡介 緣由 看到Peggy的公務員開放資料Lesson 1 ，想說有沒有辦法直接開發程式供公務人員使用，減少轉檔後的資料格式問題 要解決的問題 *減少Excel檔案轉成.csv的步驟，以節省時間及降低人為犯錯機率 *自動修正Excel中轉成.csv時造成錯誤的潛在因子，確保轉出的.",
+    "name": "一鍵 Excel 轉 .csv (含自動修復) (尚未參與專案報告)",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC75P0QZMdg2HRZ&w=130&h=130&url=https%3A%2F%2Fhackpad.com%2Fstatic%2Fimg%2Fhackpad-logo-112.png&cfs=1&_nc_hash=AQAcrSgKDllYzvNH",
+    "updated_time": "2015-12-28T02:15:25+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Arshain Cheng",
+        "id": "1691153124277357"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 22
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-12-27T17:45:39+0000",
+                "from": {
+                    "name": "翁馬克",
+                    "id": "10155997635969333"
+                },
+                "message": "cue一下Pei-Chi Lo",
+                "id": "907250239351383"
+            },
+            {
+                "created_time": "2015-12-28T01:17:39+0000",
+                "from": {
+                    "name": "Pei-Chi Lo",
+                    "id": "10215091580704901"
+                },
+                "message": "Arshain Cheng：昨天你問的公務員office版本問題我回在hackpad中了喔↓↓\nhttps:\/\/g0v.hackpad.com\/-Excel-.csv--vDLLZbbikXF#:h=相關資訊",
+                "id": "907403252669415"
+            },
+            {
+                "created_time": "2015-12-28T02:15:25+0000",
+                "from": {
+                    "name": "Leo Chen",
+                    "id": "10155271039598017"
+                },
+                "message": "我也會寫VBA，有什麼想法可以一起討論 :D",
+                "id": "907418462667894"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "created_time": "2016-07-25T13:40:27+0000",
+    "message": "https:\/\/github.com\/miau715\/easy-typing\n大家好，\n最近做了這個實驗性的 Prototype，\n是因為前陣子才得知有位久未聯絡的學姊罹患腦瘤，\n病情迅速惡化之下她的說話能力和動作能力都受到影響，\n導致她很難和其他人溝通。\n考慮之後試著用 Timothy Chien 大人的 JS注音：\nhttps:\/\/github.com\/timdream\/jszhuyin\n改寫成搭配外接數字鍵盤後使用單手手指就能輸入中文的輸入方式。\n因 JS注音 可以支援像手機一樣只打詞彙第一個注音的輸入方式，預期可以有效減少需要輸入的按鍵數。\n可惜帶去給學姊試用時她的狀況已經惡化到連視力也被影響，\n所以最後並未派上用場。\n既然已經做了還是丟出來看看是否有類似狀況的人用得上，\n或有強者能改造成更好用的版本。\n想試用看看的人可以在這裡操作，但需有數字鍵盤才能正常動作：https:\/\/miau715.github.io\/easy-typing\/public\/",
+    "story": "Ya-yu Huang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1032212436855162",
+    "link": "https:\/\/github.com\/miau715\/easy-typing",
+    "description": "Contribute to easy-typing development by creating an account on GitHub.",
+    "name": "miau715\/easy-typing",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDMQfEjLPqsZKx4&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F839446%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQCvWDMrqW5bVMAX",
+    "updated_time": "2016-07-29T23:09:21+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Ya-yu Huang",
+        "id": "10210880271779825"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 67
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-07-25T15:36:44+0000",
+                "from": {
+                    "name": "Timothy Chien",
+                    "id": "10156289921808203"
+                },
+                "message": "嗚嗚我應該要早點把 JSZhuyin 放上 NPM 的",
+                "id": "1032279260181813"
+            },
+            {
+                "created_time": "2016-07-29T22:55:25+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "啊對了，問 Pei-Chi Lo 有沒有剛好認識什麼相關的團體會需要的...？ @@",
+                "id": "1034952993247773"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

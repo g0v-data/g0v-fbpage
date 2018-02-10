@@ -1,0 +1,171 @@
+{
+    "created_time": "2014-04-10T08:40:42+0000",
+    "message": "Hi, 大家好。剛寫了一個可以在 Google Hangouts 的影片加上時間記錄的 extention. 視訊時開啟就會在影片下面即時顯示當地時間，日後影片檔要整理會方便的多。\n今晚 g0v 做直播的朋友若有需要可以把時間加上去。 by swem",
+    "story": "Chen-Han Hsiao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_605821019494308",
+    "link": "http:\/\/swem.github.io\/hangouts-clock\/",
+    "name": "http:\/\/swem.github.io\/hangouts-clock\/",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD2VUCVZCrnClT1&w=130&h=130&url=http%3A%2F%2Fswem.github.io%2Fhangouts-clock%2Fhangouts-clock-demo.png&cfs=1&sx=160&sy=0&sw=584&sh=584&_nc_hash=AQCzq1QkJhd_mFv_",
+    "updated_time": "2014-04-10T10:02:49+0000",
+    "caption": "swem.github.io",
+    "from": {
+        "name": "Chen-Han Hsiao",
+        "id": "1839565876054184"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 76
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-10T08:43:18+0000",
+                "from": {
+                    "name": "Chen-Han Hsiao",
+                    "id": "1839565876054184"
+                },
+                "message": "source code 在這裡，也許可以等黑客松的時候再跟大家一起加新功能 https:\/\/github.com\/swem\/hangouts-clock\/",
+                "id": "605821422827601"
+            },
+            {
+                "created_time": "2014-04-10T08:44:56+0000",
+                "from": {
+                    "name": "Summit Suen",
+                    "id": "10215090592921193"
+                },
+                "message": "swem好強",
+                "id": "605821672827576"
+            },
+            {
+                "created_time": "2014-04-10T08:45:32+0000",
+                "from": {
+                    "name": "羅國甫",
+                    "id": "2051594394856334"
+                },
+                "message": "強大",
+                "id": "605821719494238"
+            },
+            {
+                "created_time": "2014-04-10T08:48:21+0000",
+                "from": {
+                    "name": "Hawx Chen",
+                    "id": "10203978631541750"
+                },
+                "message": "你是在憋笑嗎",
+                "id": "605822219494188"
+            },
+            {
+                "created_time": "2014-04-10T08:52:48+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "要把 source 加到 g0v repository 嗎   :D",
+                "id": "605822882827455"
+            },
+            {
+                "created_time": "2014-04-10T08:53:20+0000",
+                "from": {
+                    "name": "Lin Orca",
+                    "id": "1840237295987123"
+                },
+                "message": "好強呀。",
+                "id": "605822959494114"
+            },
+            {
+                "created_time": "2014-04-10T08:53:52+0000",
+                "from": {
+                    "name": "Chen-Han Hsiao",
+                    "id": "1839565876054184"
+                },
+                "message": "Hsin-chan Chien 好啊 :)",
+                "id": "605823062827437"
+            },
+            {
+                "created_time": "2014-04-10T09:06:36+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "警察不笑，我們不笑？ XD",
+                "id": "605824849493925"
+            },
+            {
+                "created_time": "2014-04-10T09:08:02+0000",
+                "from": {
+                    "name": "Alex Chen",
+                    "id": "1536680669712638"
+                },
+                "message": "讚!! 顯示日期時間是必要的!!",
+                "id": "605825156160561"
+            },
+            {
+                "created_time": "2014-04-10T09:14:33+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "其實可以顯示 +0800 或者 UTC+8 就好了 不然後面好長 還是直接改用 ISO8601 格式？",
+                "id": "605826196160457"
+            },
+            {
+                "created_time": "2014-04-10T09:20:46+0000",
+                "from": {
+                    "name": "Chen-Han Hsiao",
+                    "id": "1839565876054184"
+                },
+                "message": "我現在是直接 (new Date()).toString()，之後可以把這些細節調整一下",
+                "id": "605826899493720"
+            },
+            {
+                "created_time": "2014-04-10T09:26:29+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "用個moment 省時間 :p",
+                "id": "605827849493625"
+            },
+            {
+                "created_time": "2014-04-10T09:43:55+0000",
+                "from": {
+                    "name": "Brecht Huang",
+                    "id": "10214848420546211"
+                },
+                "message": "moment神器!",
+                "id": "605830416160035"
+            },
+            {
+                "created_time": "2014-04-10T09:56:38+0000",
+                "from": {
+                    "name": "林柏旭",
+                    "id": "773585679507363"
+                },
+                "message": "已轉貼至直播組，感謝!!",
+                "id": "605832096159867"
+            },
+            {
+                "created_time": "2014-04-10T09:56:48+0000",
+                "from": {
+                    "name": "Chen-Han Hsiao",
+                    "id": "1839565876054184"
+                },
+                "message": "Chia-liang Kao, Ly Cheng 我加上了 momentjs, 現在的格式是 moment.defaultFormat ( ISO8601 )",
+                "id": "605832142826529"
+            },
+            {
+                "created_time": "2014-04-10T10:02:49+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "太好了，我是存檔組的，好工具",
+                "id": "605833179493092"
+            }
+        ],
+        "summary": {
+            "total_count": 16
+        }
+    }
+}

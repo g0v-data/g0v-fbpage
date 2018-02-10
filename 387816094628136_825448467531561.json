@@ -1,0 +1,26 @@
+{
+    "created_time": "2015-06-28T13:14:46+0000",
+    "message": "剛剛有對照了一下新北市發佈出來的資料，把所有醫院資料做了個統整，有需要的人可以用\n\nhttps:\/\/raw.githubusercontent.com\/harry2690\/psof\/gh-pages\/hospitals.json\n\n也一併更新到我的搜尋工具上\n\nhttp:\/\/harry2690.github.io\/psof\/index.html",
+    "story": "Harry Wu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_825448467531561",
+    "link": "https:\/\/raw.githubusercontent.com\/harry2690\/psof\/gh-pages\/hospitals.json",
+    "description": "{ \"lastmodify\":\"2015\/06\/28 21:05\", \"data\":[ { \"醫院名稱\":\"聯醫仁愛\", \"聯絡電話\":\"(02)2555-3000\", \"地址\":\"臺北市鄭州路145號\" }, { \"醫院名稱\":\"聯醫中興\", \"聯絡電話\":\"(02)2552-3234\", \"地址\":\"臺北市鄭州路145號\" }, { \"醫院名稱\":\"聯醫忠孝\", \"聯絡電話\":\"(02)2786-1288\", \"地址\":\"臺北市南港區同德路87號\" }, { \"醫院名稱\":\"聯醫陽明\", \"聯絡電話\":\"(02)2835-3456\", \"地址\":\"臺北市雨聲街105號\" }, { \"醫院名…",
+    "name": "raw.githubusercontent.com",
+    "updated_time": "2015-06-28T13:14:46+0000",
+    "caption": "raw.githubusercontent.com",
+    "from": {
+        "name": "Harry Wu",
+        "id": "2020260864914379"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 16
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

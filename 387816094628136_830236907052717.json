@@ -1,0 +1,82 @@
+{
+    "created_time": "2015-07-05T15:50:36+0000",
+    "message": "目前有個初步構想，想做一個所謂的\"分水嶺\"的對比紀錄網站，不過由於問題還有太多需要討論，貼出來有請各位有興趣的歡迎參與hackpad的編輯討論",
+    "story": "Jalen Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_830236907052717",
+    "link": "https:\/\/hackpad.com\/520-IdhUSN0OkmC",
+    "description": "本構想嚴重涉及政治相關，不喜者建議右轉離開 基本構想 現在新聞媒體，政治人物甚至整個社會經常面對一件相似的事情因不同時間、地點、發生人物或背後牽扯的利益相關而有所**轉彎**，簡單隨便舉例： *八仙 vs 高雄氣爆 (政府第二預備金) *520前 年輕人低薪是不爭氣 vs 520後 年輕人要知足 又因為人是健忘的，所以現在有許多鄉民&粉絲團會製作所謂的對比和打臉圖，但是這些資料很容易因為時間而不容易搜尋，又或者因為過於懶人而有所偏頗，所以想設計一個對比與紀錄使用的網站，讓一件相似的事情可以同時顯示出各種**轉彎**的結果，便於持續追蹤以及搜尋 *已知問題 *g0v?",
+    "name": "520分水嶺",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB-RvGRIu3_9XS0&w=130&h=130&url=https%3A%2F%2Fd29bt26wntaesq.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQCPPYuVdFR6K2mF",
+    "updated_time": "2015-07-07T13:33:23+0000",
+    "caption": "hackpad.com",
+    "from": {
+        "name": "Jalen Lin",
+        "id": "10211312809286683"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 17
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-07-06T05:55:26+0000",
+                "from": {
+                    "name": "Louis Lo",
+                    "id": "10155981578951544"
+                },
+                "message": "正直新聞？  https:\/\/newsrumble.tw\/honest_news",
+                "id": "830602380349503"
+            },
+            {
+                "created_time": "2015-07-06T08:36:20+0000",
+                "from": {
+                    "name": "Jalen Lin",
+                    "id": "10211312809286683"
+                },
+                "message": "Louis Lou Yes...類似正直好新聞，不過正直好新聞有幾個問題，沒辦把快速搜尋之類，以及沒有聚焦在事件追蹤，有時候會過於武斷了點",
+                "id": "830641310345610"
+            },
+            {
+                "created_time": "2015-07-07T03:34:51+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "建議可以考慮搬到 g0v 的 hackpad workspace，流落在外被瀏覽到的機率低。",
+                "id": "831173573625717"
+            },
+            {
+                "created_time": "2015-07-07T12:15:47+0000",
+                "from": {
+                    "name": "Jalen Lin",
+                    "id": "10211312809286683"
+                },
+                "message": "感謝建議，已貼進g0v的hackpad",
+                "id": "831368420272899"
+            },
+            {
+                "created_time": "2015-07-07T13:28:48+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "僅供往後參考。\n原本開 pad 的人，可以在不同的 workspace 搬移 pads。 :)",
+                "id": "831385940271147"
+            },
+            {
+                "created_time": "2015-07-07T13:33:23+0000",
+                "from": {
+                    "name": "Jalen Lin",
+                    "id": "10211312809286683"
+                },
+                "message": "原來還有這招，已經移好了，這樣我回文那個就拿掉了",
+                "id": "831387376937670"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

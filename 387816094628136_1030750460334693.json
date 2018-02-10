@@ -1,0 +1,67 @@
+{
+    "created_time": "2016-07-23T05:10:23+0000",
+    "message": "https:\/\/www.ptt.cc\/bbs\/Gossiping\/M.1469247020.A.38C.html\n這是我剛剛打的文章。我是弱弱的程式設計師，我覺得很多網友也想要表達訴求、想要7天假，只是懶。\n\n我做了一個網頁，讓網友可以留言表達訴求【傳達到立委眼裡】。\n\n是希望透過網站的力量，幫網友傳達到立委耳中。(比方說網友勾選A立委，網站就把網友的留言私訊送到A立委的Facebook訊息......請問這樣可行嗎？)\n\ng0v的宗旨是：你就是「那個人」。\n\n我現在做好簡單版本，留言會存在資料庫。但還在研究怎麼部署到網站上XD 是用PHP的框架CodeIgniter+MySQL資料庫。\n\nps.有沒有人能幫我啊 我好不想寫程式啊XDD",
+    "story": "Tai-Shun Huang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1030750460334693",
+    "link": "https:\/\/www.ptt.cc\/bbs\/Gossiping\/M.1469247020.A.38C.html",
+    "description": "剛剛打電話到民進黨10名立委，表達「希望恢復7天假」的訴求，接通了4通。 我的開場白一律都是 對方：「喂」",
+    "name": "[爆卦] 剛剛打給10名要砍7天假的立委",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBt2UyGiJxB6dLK&w=130&h=130&url=https%3A%2F%2Fi.imgur.com%2F2P9cZLl.jpg&cfs=1&_nc_hash=AQDj2KsL4bHU_jKv",
+    "updated_time": "2016-07-23T08:02:58+0000",
+    "caption": "ptt.cc",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "Tai-Shun Huang",
+        "id": "2047688195247237"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 84
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-07-23T06:24:55+0000",
+                "from": {
+                    "name": "黃昱嘉",
+                    "id": "1545306982191300"
+                },
+                "message": "um, 被刪了？",
+                "id": "1030777823665290"
+            },
+            {
+                "created_time": "2016-07-23T06:30:03+0000",
+                "from": {
+                    "name": "謝炎璋",
+                    "id": "2040163062868778"
+                },
+                "message": "場外有備份\nhttp:\/\/forum.gamer.com.tw\/C.php?page=1&bsn=60076&snA=3474939",
+                "id": "1030780113665061"
+            },
+            {
+                "created_time": "2016-07-23T07:47:53+0000",
+                "from": {
+                    "name": "Leon Lin",
+                    "id": "1864236583600112"
+                },
+                "message": "好像可以用 bot API 轉傳訊息，有人就做了跟陌生人聊天的APP。對象應該可以指定。",
+                "id": "1030813193661753"
+            },
+            {
+                "created_time": "2016-07-23T08:02:58+0000",
+                "from": {
+                    "name": "Tai-Shun Huang",
+                    "id": "2047688195247237"
+                },
+                "message": "目前正在部署到Azure上。(他有支援php + mysql )",
+                "id": "1030817830327956"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

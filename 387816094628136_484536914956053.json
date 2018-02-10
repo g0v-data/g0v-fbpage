@@ -1,0 +1,54 @@
+{
+    "created_time": "2013-07-20T01:30:53+0000",
+    "message": "蠻酷的應用，供民眾調整天線方向的參考",
+    "story": "Johnny Sung shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_484536914956053",
+    "link": "http:\/\/dvbt.kennykuo.idv.tw\/gmap\/",
+    "name": "無線數位電視 2.0 - 台灣數位電視 HiHD 接收天線方向調整參考，以 Google Maps 呈現",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCq1mds2kIHxqSv&w=130&h=130&url=http%3A%2F%2Fdvbt.kennykuo.idv.tw%2Fgmap%2Fimages%2Fdvbt2.0.png&cfs=1&_nc_hash=AQB0yt9r2ZSW8sdw",
+    "updated_time": "2013-07-20T01:33:39+0000",
+    "caption": "dvbt.kennykuo.idv.tw",
+    "from": {
+        "name": "Johnny Sung",
+        "id": "1817273818283135"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-07-20T01:31:19+0000",
+                "from": {
+                    "name": "Johnny Sung",
+                    "id": "1817273818283135"
+                },
+                "message": "相關的資料\nhttp:\/\/www.dtvc.org.tw\/index.aspx",
+                "id": "484536948289383"
+            },
+            {
+                "created_time": "2013-07-20T01:31:39+0000",
+                "from": {
+                    "name": "Johnny Sung",
+                    "id": "1817273818283135"
+                },
+                "message": "發射站資料\nhttp:\/\/www.dtvc.org.tw\/knowledge_04.html",
+                "id": "484537008289377"
+            },
+            {
+                "created_time": "2013-07-20T01:33:39+0000",
+                "from": {
+                    "name": "Johnny Sung",
+                    "id": "1817273818283135"
+                },
+                "message": "公視轉播站\nhttp:\/\/web.pts.org.tw\/~web01\/3anniversary\/b9.htm",
+                "id": "484537451622666"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

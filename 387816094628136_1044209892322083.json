@@ -1,0 +1,27 @@
+{
+    "created_time": "2016-08-12T09:08:40+0000",
+    "message": "有在用 TGOS 的大大們，如果需要用到 TWD97 轉 WGS84，可以參考這個公式喔，不需要 Third Party API 就可以輕鬆轉換。\n",
+    "story": "吳政璋 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1044209892322083",
+    "link": "http:\/\/wiki.openstreetmap.org\/wiki\/Zh-hant:key_formulas_and_constants#TWD97_.E8.BD.89_WGS84",
+    "description": "TWD97 座標原點為緯度 0 經度 121 的位置，座標值為原點的相對距離，單位為公尺，並且 X 座標要額外加上 250000 確保 X 值是正數，轉換方式如下 (Python)：[3]",
+    "name": "TWD97 轉 WGS84 - Zh-hant:key formulas and constants - OpenStreetMap Wiki",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB0aZ0igmNcjQN1&w=130&h=130&url=http%3A%2F%2Fwiki.openstreetmap.org%2Fw%2Fresources%2Fassets%2Fpoweredby_mediawiki_88x31.png&cfs=1&_nc_hash=AQCTcxReOmX1r2Nd",
+    "updated_time": "2016-08-12T09:08:40+0000",
+    "caption": "wiki.openstreetmap.org",
+    "from": {
+        "name": "吳政璋",
+        "id": "2009669035713198"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 19
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

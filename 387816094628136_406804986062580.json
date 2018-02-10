@@ -1,0 +1,172 @@
+{
+    "created_time": "2013-01-15T13:30:21+0000",
+    "message": "這邊希望列出各種角色怎麼樣最有效率的推動事情的範例，可能有些人不熟悉 open source community 的運作方式，試圖稍微補充一下 background knowledge，請大家幫忙！",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_406804986062580",
+    "link": "https:\/\/hackpad.com\/ZYU6qiYaQLo",
+    "description": "Real-time collaborative wiki",
+    "name": "我是... 如何幫忙",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCtc7RZ9GaY2fQn&w=130&h=130&url=https%3A%2F%2Fhackpad.com%2Fstatic%2Fimg%2Fhackpad-logo.png&cfs=1&_nc_hash=AQCLQNv2SpBXuDiz",
+    "updated_time": "2013-01-18T06:37:46+0000",
+    "caption": "hackpad.com",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 8
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-01-15T14:12:48+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "大家有空接接龍吧，寫一半的都可以接喔～",
+                "id": "406818942727851"
+            },
+            {
+                "created_time": "2013-01-15T14:49:15+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "從我與 NGO 者接觸的經驗，其實他們是根本無法想像用寫程式可以做什麼。要他們提出他們要的東西有時也很困難，因為他們對資料的敏感度都很低。他們一般只會看到什麼資料，就吃什麼資料。沒有想過資料是可重新組合然後 mashup。\n\n我會覺得，與其要他們說出他們的需求，不如聽看看他們都在做什麼。然後就會發現很多事情是可以透過寫程式來有系統的處理。例如，台電發電每天每個小時都會有資料吐出來，但是他只做圖表。關心台灣能源問題的人，就會每晚 11:50-11:59去捉個 screenshot，把這張圖捉下來。但是其實只需要寫個 cron job 去自動把台電提供的csv 捉下來就好了。然後這樣還可以有數據累積，自動處理。之後對資料的運用可能性更大。\n\n但是，我跟你們保證，這是傳統 NGO 人根本想不到的東西。他們頂多只能跟你說，他希望每天晚上能自動把那張分布圖捉下來。\n\n我的一點經驗分享。\n\nNGO 與科技人，用的語言是相差很大的....",
+                "id": "406830396060039"
+            },
+            {
+                "created_time": "2013-01-15T15:29:42+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "目前參與g0v的傳統NGO不多，用語不同暫且不需擔心（文案小組就是解決這問題的人啊）。這份文件是幫助已經報名（大部分都有科技背景）的人（也有一些議題關注者）更容易開啟專案，進行討論。有了雛型及初步成果，再與NGO接頭，就更容易聚焦。\n\n上次黑客松截至目前為止，失蹤兒童、立院專案都已經逐漸與NGO接觸、討論。黑客松的活動就是讓「先有想像的人」尋找執行方向的平台，想像者不一定是NGO，也可以是開發者、文字工作者、或公民。",
+                "id": "406842916058787"
+            },
+            {
+                "created_time": "2013-01-15T15:40:26+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Whiski Tajfun 要化身議題關心者把電廠 csv uri 資訊等整理出來嗎 :p",
+                "id": "406846179391794"
+            },
+            {
+                "created_time": "2013-01-15T15:43:07+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "其實我爬過了 ;) 哈哈 - 一共兩條 : \n\nhtml = scraperwiki.scrape(\"http:\/\/stpc00601.taipower.com.tw\/loadGraph\/loadGraph\/data\/loadToday.csv\")\nhtml2 = scraperwiki.scrape(\"http:\/\/stpc00601.taipower.com.tw\/loadGraph\/loadGraph\/data\/loadfueltype.csv\")\n\n本來想丟到 scraperwiki 去讓他自己定時捉，然後轉到 sqlite 去。不過後來一直沒時間繼續處理...",
+                "id": "406847029391709"
+            },
+            {
+                "created_time": "2013-01-15T15:44:46+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "呼叫 Kang-min Liu, 直接進 graphite 吧? :p",
+                "id": "406847496058329"
+            },
+            {
+                "created_time": "2013-01-15T15:46:57+0000",
+                "from": {
+                    "name": "Kang-min Liu",
+                    "id": "10155184416211053"
+                },
+                "message": "這個 CSV 是什麼樣的資訊？怎麼好像有一天 24 小時的資料的樣子",
+                "id": "406847969391615"
+            },
+            {
+                "created_time": "2013-01-15T15:47:09+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "Whiski Tajfun 對耶～ 你你你你不正是NGO嗎！總之先挖坑看自己要跳還是推別人跳就對了，快寫hackpad～",
+                "id": "406847999391612"
+            },
+            {
+                "created_time": "2013-01-15T15:47:59+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "資料相對應要看圖表： http:\/\/stpc00601.taipower.com.tw\/loadGraph\/loadGraph\/load_fueltype.html",
+                "id": "406848159391596"
+            },
+            {
+                "created_time": "2013-01-15T15:49:40+0000",
+                "from": {
+                    "name": "Shan Shan Wang",
+                    "id": "10211005875171513"
+                },
+                "message": "我第一次來加入，我不知到可以幫忙什麼，我有一點國會經驗和ngo經驗",
+                "id": "406848479391564"
+            },
+            {
+                "created_time": "2013-01-15T15:57:25+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "Shan Shan Wang hackpad上陸續會有專題，有興趣的就可加入討論，當天自我簡介後就可以小組工作。當天也會有文案配送小組，有興趣可以參加，幫忙各組找資料、寫文案。https:\/\/hackpad.com\/lIoCjaeMWzC",
+                "id": "406850539391358"
+            },
+            {
+                "created_time": "2013-01-15T15:58:50+0000",
+                "from": {
+                    "name": "Shan Shan Wang",
+                    "id": "10211005875171513"
+                },
+                "message": "謝謝",
+                "id": "406850819391330"
+            },
+            {
+                "created_time": "2013-01-18T06:20:36+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "我要怎麼看到hackpad上的其他專題呢?",
+                "id": "407949935948085"
+            },
+            {
+                "created_time": "2013-01-18T06:24:41+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "@宗浩：到上述的黑客松連結就可以，往下拉往下拉....現在有電力分析、失蹤兒童、政府標案等等",
+                "id": "407950832614662"
+            },
+            {
+                "created_time": "2013-01-18T06:34:20+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "所以我也可以把構想直接連結上哪兒囉?",
+                "id": "407953689281043"
+            },
+            {
+                "created_time": "2013-01-18T06:37:46+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "是低",
+                "id": "407954329280979"
+            }
+        ],
+        "summary": {
+            "total_count": 16
+        }
+    }
+}

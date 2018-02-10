@@ -1,0 +1,72 @@
+{
+    "created_time": "2014-07-09T00:29:16+0000",
+    "message": "前幾天在透明裝備松討論的構想，最近實作出來了，把Hackpad當作angular的後台，可以一面編輯JSON一面在中間穿插留言討論\n基本架構如下，如果要更保險，可以另外寫一段local storage在讀到錯誤格式時，用備份替代：",
+    "story": "唐宗浩 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_649112851831791",
+    "link": "http:\/\/jsfiddle.net\/gh\/gist\/angular\/1.2\/59264e2c471eebf9d0e7\/",
+    "description": "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.",
+    "name": "Edit fiddle - JSFiddle",
+    "updated_time": "2014-07-09T12:10:22+0000",
+    "caption": "jsfiddle.net",
+    "from": {
+        "name": "唐宗浩",
+        "id": "1993696087313952"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 13
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-07-09T01:40:50+0000",
+                "from": {
+                    "name": "Kevin Lee",
+                    "id": "10156116198504099"
+                },
+                "message": "不知道這你有沒有幫助？\n\nhttps:\/\/github.com\/lkosak\/node-hackpad\n\nhttps:\/\/hackpad.com\/Hackpad-API-v1.0-k9bpcEeOo2Q",
+                "id": "649134631829613"
+            },
+            {
+                "created_time": "2014-07-09T01:59:25+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "最近也在想如何直接在網頁讀取hackpad 內容，沒想到可以這樣做，cool",
+                "id": "649141008495642"
+            },
+            {
+                "created_time": "2014-07-09T09:44:40+0000",
+                "from": {
+                    "name": "陳柏儒",
+                    "id": "2020687477948223"
+                },
+                "message": "這不錯！",
+                "id": "649245075151902"
+            },
+            {
+                "created_time": "2014-07-09T09:49:09+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "剛才從node-hackpad的中，查到直接用http request拿取pad內容的方法，還沒試過，或許走這條路會更有發展性，但一時沒力氣去試了。如果有人試成的話麻煩再分享一下成果? :)\n\nhttps:\/\/hackpad.com\/Hackpad-API-v1.0-k9bpcEeOo2Q#:h=Get-Pad-Content",
+                "id": "649246741818402"
+            },
+            {
+                "created_time": "2014-07-09T12:10:22+0000",
+                "from": {
+                    "name": "Johnson Liang",
+                    "id": "1639694792780135"
+                },
+                "message": "我記得 Hackpad API 沒開 CORS 唷，網頁前端 code 無法使用 hackpad API，只能用它的 embedding API\n\n我是今年五月的時候試的，現在不確定有沒有改～",
+                "id": "649282485148161"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

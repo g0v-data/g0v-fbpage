@@ -1,0 +1,55 @@
+{
+    "created_time": "2014-11-18T16:39:08+0000",
+    "message": "台中市長政見搜集\n\n現在放好像有點晚了, 不過新聞一天到晚都在報台北市市長選情, 還是自己做了個家鄉的來看. 概念是稍稍改造時間軸, 把兩位候選人的政見放在左右兩側, 時間軸上的點變成分類, 資料來源是兩位候選人的官網或者官方Page\n \n第一次做這樣的網頁, 不知道各位前輩有沒有什麼意見可以給小弟? 謝謝 (文字整理或者版面設計都可以提出來討論)",
+    "story": "Ezek Moretti shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_712740562135686",
+    "link": "http:\/\/taichung2014.herokuapp.com\/",
+    "description": "串連台中山線與海線鐵路，並將其高架捷運化和增加班次，由后里連接到大甲形成環狀鐵路網，不僅縮短區與區之間的通勤時間，也避免原台中縣被邊緣化，更可促進產業與資源流通。",
+    "name": "2014 台中市市長候選人 政見蒐集平台",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDj3bJ9LiV6NMef&w=130&h=130&url=http%3A%2F%2Ftaichung2014.herokuapp.com%2Fimages%2Flin.jpg&cfs=1&sx=0&sy=0&sw=320&sh=320&_nc_hash=AQCX3oZH9HpitZcr",
+    "updated_time": "2014-11-20T04:25:34+0000",
+    "caption": "taichung2014.herokuapp.com",
+    "from": {
+        "name": "Ezek Moretti",
+        "id": "1306070739494055"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 16
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-11-19T07:58:58+0000",
+                "from": {
+                    "name": "Cicilia Lee",
+                    "id": "1907803539232451"
+                },
+                "message": "大腸餅城人推",
+                "id": "713000852109657"
+            },
+            {
+                "created_time": "2014-11-19T08:13:25+0000",
+                "from": {
+                    "name": "Ezek Moretti",
+                    "id": "1306070739494055"
+                },
+                "message": "別只有推跟讚啊\n希望可以有些幫助我進步的feedback QAQ",
+                "id": "713004258775983"
+            },
+            {
+                "created_time": "2014-11-20T04:25:34+0000",
+                "from": {
+                    "name": "Ezek Moretti",
+                    "id": "1306070739494055"
+                },
+                "message": "2014.11.20 新增訪談影片(不放市長辯論影片的原因是覺得只是場鬧劇... ); 各政見的文字來源連結 (胡志強沒有放, 都在參考資料的 pdf 檔裡面)\nhttp:\/\/taichung2014.herokuapp.com\/\n\n2014.11.21 新增隨畫面選動的候選人縮圖, 放在政見旁邊, 以便清楚分辨政見的來源陣營",
+                "id": "713399165403159"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

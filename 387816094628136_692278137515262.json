@@ -1,0 +1,76 @@
+{
+    "created_time": "2014-10-08T16:52:27+0000",
+    "message": "g0v X Watchout! : Summer of Code 在昨天正式結束了，相關的專案：「我說錯了嘛」也透過 林艸艸 機器人，(偷偷的) beta 測試囉! XD\n\n目前只要被觀察的政治人物 FB 有刪除貼文的動作，都會透過機器人公佈出來 ((如附圖\n\n但因為前端的網站難產，所以還是要挖個 RoR 的前端坑看有沒有人要跳XD\n前端(RoR): https:\/\/github.com\/lanfon72\/politwoops\n後端(Python): https:\/\/github.com\/lanfon72\/twpolitwoops-collector",
+    "id": "387816094628136_692278137515262",
+    "updated_time": "2014-10-09T02:14:41+0000",
+    "from": {
+        "name": "William Fan",
+        "id": "2078516602160364"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 25
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-10-08T16:54:03+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "開hackpad嗎？\n歐歐歐～～",
+                "id": "692278827515193"
+            },
+            {
+                "created_time": "2014-10-08T16:57:48+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "hackpad 有相關 tag: politwoops.tw\n\n目前受觀察的政治人物來源為公督盟提供的立委資料( https:\/\/sites.google.com\/site\/ccwdata\/monitoring\/whosmylegislator ) 及\n之前收集的市長候選人資料( https:\/\/g0v.hackpad.com\/2014--i0ONbY1gXpY )\n\n若有發現有在關心的政治人物不在機器人的觀察名單內也歡迎提供!!\n( patch welcome~",
+                "id": "692280837514992"
+            },
+            {
+                "created_time": "2014-10-08T17:23:53+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "貓橘毛++ 被刪全文也貼一下吧",
+                "id": "692294074180335"
+            },
+            {
+                "created_time": "2014-10-08T17:30:21+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "added~ (之後的就會出現原文內容了",
+                "id": "692296660846743"
+            },
+            {
+                "created_time": "2014-10-08T17:36:10+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "小心被人檢舉，造成機器人帳號被關閉，其他被抓到的刪文貼在免費的部落格或專案網站，大概就是相當不錯的專案了。",
+                "id": "692299190846490"
+            },
+            {
+                "created_time": "2014-10-09T02:14:41+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "資料其實是存在雲端上(那個雲~)....XD\n原本應該是要以 http:\/\/politwoops.sunlightfoundation.com\/ 的模式輸出(前端)\n\n不過因為難產，只好先讓機器人講講話了",
+                "id": "692495754160167"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

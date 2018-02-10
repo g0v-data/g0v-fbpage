@@ -1,0 +1,62 @@
+{
+    "created_time": "2014-03-22T08:20:03+0000",
+    "message": "(代轉貼)\n\nhttp:\/\/www.xn--3krvkx32c4ot65rnzbe30d.tw-dvd.us\/\n\n剛花了半個小時租了一臺美國主機，流量 1000GB，安裝好 wordpress 並貼了一些文章進去，想說可以把所有服貿相關的議題集中，但我不知道怎麼寫爬蟲把資料撈到這邊，所以只好靠人工的力量，把我在 FB 上或其它地方看到的文章，貼到裡面去。\n\n我有找到一隻外掛，可以快速的把其它網站的內容用 shortcode 置入，語法是 [link URL]，把 URL 換成要連到的網址，如果有想幫忙轉貼的朋友，後臺資訊如下：\n\n登入網址：http:\/\/www.xn--3krvkx32c4ot65rnzbe30d.tw-dvd.us\/wp-login.php\n帳號：antiblacktw\n密碼：antiblacktw\n\n有需要新增文章類別或加入其它頁面大家就自行處理吧，這帳號是管理員權限，沒有任何限制，希望對這件事能有所幫助。",
+    "story": "Josh Wang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_597497816993295",
+    "link": "http:\/\/www.xn--3krvkx32c4ot65rnzbe30d.tw-dvd.us\/",
+    "name": "反黑箱服貿協議",
+    "updated_time": "2014-03-23T10:13:15+0000",
+    "caption": "xn--3krvkx32c4ot65rnzbe30d.tw-dvd.us",
+    "from": {
+        "name": "Josh Wang",
+        "id": "2289708024380098"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 26
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-22T09:22:12+0000",
+                "from": {
+                    "name": "Bobby Tung",
+                    "id": "10155169420887551"
+                },
+                "message": "我這邊也做了相同的事情，手上只有公司的WordPress現成能用，就直接把頁面做到那兒。我想人工貼是必要的做法，脈絡太多、議題也雜，現在需要的是怎麼Curate。 http:\/\/binb.tw\/?service=taiwan-china-service-trade-contract",
+                "id": "597507986992278"
+            },
+            {
+                "created_time": "2014-03-22T10:50:39+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "中文網址大推阿(X",
+                "id": "597527746990302"
+            },
+            {
+                "created_time": "2014-03-23T09:45:24+0000",
+                "from": {
+                    "name": "莊宗憲",
+                    "id": "1768457486506704"
+                },
+                "message": "嗨～我之前有寫過一支模擬爬蟲的程式，不過太久了。。程式找不到～不然可以直接提供source code～ 有幾點小建議，參考看看喔，\n\n1.不寫爬蟲方式可訂閱google快訊，寫程式自動收mail，一收到mail就轉貼網址到blog，可用iframe連結、或用curl 把頁面資料撈回來放到blog、或用截圖工具，把網址截圖後，放到blog上。(自動化免人工)\n\n2. 找現有的爬蟲程式參考囉：）\nhttp:\/\/www.books.com.tw\/products\/0010565718",
+                "id": "597907963618947"
+            },
+            {
+                "created_time": "2014-03-23T10:13:15+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "要讓人貼文，我想開 author 權限就夠了 - 因為真的有人會搞破壞，如果有人對修改網站，加上 plugin\/widget有興趣，可以再開大一點的權限给他們",
+                "id": "597915413618202"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "created_time": "2015-07-21T18:17:38+0000",
+    "message": "https:\/\/www.google.com\/fusiontables\/data?docid=19-r6OctgXi0ndRBHfxJkyYOJMGT-QEZb25w6R523\n\n這是取自 http:\/\/data.gov.tw\/node\/6569 的工廠登記資料，做了局部的 geocoding ，只是因為我只有免費的 api key，每次只能處理 2500 筆資料，這八萬多筆可能要處理很久。\n\n如果有人能夠幫忙補完 longitude\/latitude 欄位就太好了 :)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_837730776303330",
+    "link": "https:\/\/www.google.com\/fusiontables\/data?docid=19-r6OctgXi0ndRBHfxJkyYOJMGT-QEZb25w6R523#rows:id=1",
+    "name": "Google Fusion Tables",
+    "updated_time": "2015-08-07T15:24:19+0000",
+    "caption": "google.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 34
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-07-22T18:09:06+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "跑完了一輪，看起來還蠻多需要人工修正的，接下來會試著做一個瀏覽介面 :) - https:\/\/github.com\/kiang\/twfactory",
+                "id": "838125596263848"
+            },
+            {
+                "created_time": "2015-07-29T18:37:20+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "初步版本： https:\/\/wdc.gov.tw\/syi.idb\/\n\n如果喜歡可以幫忙投票一下 ;)\n\nhttps:\/\/wdc.tca.org.tw\/vote_index.aspx\n\n4. 經濟部工業局 => 信雲國際股份有限公司",
+                "id": "841046742638400"
+            },
+            {
+                "created_time": "2015-07-29T18:49:04+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "聯想到都市防災潛勢...! ex 火警、化學災害、公害污染紀錄",
+                "id": "841058965970511"
+            },
+            {
+                "created_time": "2015-07-29T18:54:38+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "現有公開資訊還不夠充分吧，像是廠房大小、管制化學物質等等資訊都沒有公開，直接用分類或名稱進行會有點恐怖(隨時會被告？ XD)",
+                "id": "841059925970415"
+            },
+            {
+                "created_time": "2015-07-29T18:55:46+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "兵工廠應該是沒有在這裡面吧？",
+                "id": "841060125970395"
+            },
+            {
+                "created_time": "2015-07-29T18:56:10+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "這份資料應該只有商業類型的工廠（沒有仔細看）",
+                "id": "841060379303703"
+            },
+            {
+                "created_time": "2015-08-01T16:38:41+0000",
+                "from": {
+                    "name": "Yung Lin Chen",
+                    "id": "1849562175118573"
+                },
+                "message": "座標資訊不能用google自帶的geocoding嗎？印象中好像有取用限制？",
+                "id": "842235122519562"
+            },
+            {
+                "created_time": "2015-08-01T17:25:34+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "目前就是用 google 的，只是有每日查詢數量限制",
+                "id": "842249862518088"
+            },
+            {
+                "created_time": "2015-08-07T14:41:27+0000",
+                "from": {
+                    "name": "Austin Tsai",
+                    "id": "10204051273158581"
+                },
+                "message": "請問如果單純只要電鍍廠，要怎抓資料及顯示圖?",
+                "id": "844839875592420"
+            },
+            {
+                "created_time": "2015-08-07T15:13:41+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "用電鍍去找可以看到：\nhttps:\/\/wdc.gov.tw\/syi.idb\/factories\/index\/%E9%9B%BB%E9%8D%8D\n\n也可以用分類 \"金屬加工處理\" 找\nhttps:\/\/wdc.gov.tw\/syi.idb\/factories\/tag\/43",
+                "id": "844849395591468"
+            },
+            {
+                "created_time": "2015-08-07T15:15:36+0000",
+                "from": {
+                    "name": "Austin Tsai",
+                    "id": "10204051273158581"
+                },
+                "message": "不好意思，那怎顯示紅點在地圖上",
+                "id": "844849818924759"
+            },
+            {
+                "created_time": "2015-08-07T15:17:54+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "你可以運用上面提到的資料集，匯入 fusiontables 顯示\n\n住址轉座標的資料可以參考 https:\/\/github.com\/kiang\/twfactory\/blob\/master\/Console\/Command\/data\/factories_address.csv",
+                "id": "844850362258038"
+            },
+            {
+                "created_time": "2015-08-07T15:19:14+0000",
+                "from": {
+                    "name": "Austin Tsai",
+                    "id": "10204051273158581"
+                },
+                "message": "",
+                "id": "844850808924660"
+            },
+            {
+                "created_time": "2015-08-07T15:23:10+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "我把目前資料庫匯出： https:\/\/wdc.gov.tw\/syi.idb\/idb.sql.gz\n\n應該會比較好處理，資料表結構有問題再透過 https:\/\/github.com\/kiang\/twfactory\/issues 發問嚕？",
+                "id": "844851835591224"
+            },
+            {
+                "created_time": "2015-08-07T15:24:19+0000",
+                "from": {
+                    "name": "Austin Tsai",
+                    "id": "10204051273158581"
+                },
+                "message": "many thanks",
+                "id": "844852062257868"
+            }
+        ],
+        "summary": {
+            "total_count": 15
+        }
+    }
+}

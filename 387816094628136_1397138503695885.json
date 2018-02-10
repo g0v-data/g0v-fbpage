@@ -1,0 +1,39 @@
+{
+    "created_time": "2017-08-15T13:35:03+0000",
+    "message": "當 #缺電危機 遇上 #開放資料，我覺得這可能是今年最應景的黑客松了。連經濟部長都無法完成的挑戰，更是需要 #公民駭客 的踴躍投入。活動特色：你的優秀成果可以當場讓一群經濟部和台電高層主管看到！https:\/\/goo.gl\/7VJ4a1\n\n需要的協助：「沒有人」萬船齊發，一起 hack 台電，用開放資料驗證政府政策之正確性、不可行性、或是發掘其他可能性。",
+    "story": "Chia-Kai Liu shared DSP 智庫驅動's post to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1397138503695885",
+    "link": "https:\/\/goo.gl\/7VJ4a1",
+    "description": "與其用愛發電或是抱怨台電，不如動手寫程式打造未來。\n立即前往報名 #台電黑客松2017  --> https:\/\/goo.gl\/7VJ4a1",
+    "name": "DSP 智庫驅動",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCyVWNEevwu5JQj&w=130&h=130&url=https%3A%2F%2Fdc.dsp.im%2Fupload%2Fimages%2FTaipower%2520Hackathon%2520Themes.jpg&cfs=1&_nc_hash=AQCOpAuoZFj69mPx",
+    "updated_time": "2017-08-15T18:27:25+0000",
+    "shares": {
+        "count": 5
+    },
+    "from": {
+        "name": "Chia-Kai Liu",
+        "id": "2006145672758812"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 44
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-08-15T13:36:53+0000",
+                "from": {
+                    "name": "Thomas Chin-Tung Cheng",
+                    "id": "1825030704182138"
+                },
+                "message": "Chia-Kai Liu我們開會跟台電講很久了，\n請台電將電網分布區域圖，製作成GIS圖層，以利於用電量分布進行最佳化配置或者是節電競賽與宣導。\n但是 現在停電了分布圖還是無法用到～",
+                "id": "1397139687029100"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

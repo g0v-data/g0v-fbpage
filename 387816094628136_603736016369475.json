@@ -1,0 +1,81 @@
+{
+    "created_time": "2014-04-05T13:01:31+0000",
+    "message": "https:\/\/www.npmjs.org\/package\/streamy-data\n放了一個 package，用 Stream 規格砍柴，寫起來和寫 gulpfile 差不多。接下來計劃推 facebook、vinyl format (方便接 gulp)、couchbase、elasticsearch 支援。有想要的功能歡迎發 issue 或 PR 或者合作開發。 XD\n(感謝 Kirby Wu 的 ptt-crawler)",
+    "story": "Simon Pai shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_603736016369475",
+    "link": "https:\/\/www.npmjs.org\/package\/streamy-data",
+    "description": "Inspired by gulp.js, this library helps you work on data collection in the form of Node Stream (in object mode). If you are not familiar with gulp.js, here is an introduction:",
+    "name": "streamy-data",
+    "updated_time": "2014-04-05T13:36:12+0000",
+    "caption": "npmjs.org",
+    "from": {
+        "name": "Simon Pai",
+        "id": "10154930548076403"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 15
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-05T13:16:44+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "可惡 看到gulp坑就會不由自主跳進去 ....",
+                "id": "603752673034476"
+            },
+            {
+                "created_time": "2014-04-05T13:18:33+0000",
+                "from": {
+                    "name": "Simon Pai",
+                    "id": "10154930548076403"
+                },
+                "message": "我也是看到你一直在用 gulp 才想到這招\n這算以坑還坑嗎 XD",
+                "id": "603753173034426"
+            },
+            {
+                "created_time": "2014-04-05T13:20:11+0000",
+                "from": {
+                    "name": "Poga Po",
+                    "id": "10210948135769992"
+                },
+                "message": "跟我之前想到的好像 XD",
+                "id": "603753553034388"
+            },
+            {
+                "created_time": "2014-04-05T13:29:21+0000",
+                "from": {
+                    "name": "Simon Pai",
+                    "id": "10154930548076403"
+                },
+                "message": "poga 有想法的話我要聽 XD",
+                "id": "603755956367481"
+            },
+            {
+                "created_time": "2014-04-05T13:33:35+0000",
+                "from": {
+                    "name": "Poga Po",
+                    "id": "10210948135769992"
+                },
+                "message": "我本來想做的是每個 stream 就是一個 URL，像是 stream.listen(\"http:\/\/ptt.board.food\").pipe(processor).emit(\"http:\/\/ptt.board.food.taichung\") 這樣，每個人可以接受別人 emit 的 signal，自己處理後發出分析過的 signal，用來作 realtime data processing XD",
+                "id": "603757236367353"
+            },
+            {
+                "created_time": "2014-04-05T13:36:12+0000",
+                "from": {
+                    "name": "Simon Pai",
+                    "id": "10154930548076403"
+                },
+                "message": "這個我之前也有想過！\n不過要解決 echo 與 diamond pattern 問題 XD",
+                "id": "603758293033914"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

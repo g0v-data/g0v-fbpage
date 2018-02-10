@@ -1,0 +1,64 @@
+{
+    "created_time": "2015-10-23T06:01:49+0000",
+    "message": "哈囉各位，我有個問題想提出來，跟熟悉API規劃的人討論一下。\n\n我想重新規劃一下 國會調查兵團 網站的 公民監督國會聯盟 資料API。網站在此：\n\nhttp:\/\/cic.tw\n\n現在問題是這樣：\n\n公督盟（ccw）的資料會依據每個會期（ad_session）資料做劃分，底下還有各立委（legislator）與各個委員會（committee）的統計，還有一個是該會期的公督盟統計資料。\n\n在資料結構上，資料表分為ccw_citizen_scores（整體數據）、ccw_committee_data（委員會數據）與ccw_legislator_data（立委數據）。\n\n可參考這邊的資料表結構：\n\nhttps:\/\/github.com\/billy3321\/cic-website\/blob\/master\/db\/schema.rb\n\n我想了解，大家會希望API的URL結構怎麼規劃呢？我提出幾個方案大家一起想想看？\n\n方案一：\n\/ccw\/ad_sessions\/:ad_sessions_id\/legislators\/:legislators_id.json\n\/ccw\/ad_sessions\/:ad_sessions_id\/committees\/committee_id.json\n\/ccw\/ad_sessions\/:ad_sessions_id\/ccw.json\n\n方案二：\n\/ad_sessions\/:ad_sessions_id\/ccw\/legislators\/:legislators_id.json\n\/ad_sessions\/:ad_sessions_id\/ccw\/committees\/committee_id.json\n\/ad_sessions\/:ad_sessions_id\/ccw.json\n\n方案三：\n\/ad_sessions\/:ad_sessions_id\/legislators\/:legislators_id\/ccw.json\n\/ad_sessions\/:ad_sessions_id\/committees\/committee_id\/ccw.json\n\/ad_sessions\/:ad_sessions_id\/ccw.json\n\n大家有比較好的建議嗎？也歡迎大家提出不一樣的方案喔！",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_878309842245423",
+    "link": "http:\/\/cic.tw\/",
+    "description": "灑紅包救朱立倫！傳藍祭3大利多　府院黨資源戰全面啟動",
+    "name": "國會調查兵團 CIC",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDF9MHKnPgf-iqe&w=130&h=130&url=https%3A%2F%2Fcic.tw%2Fimages%2FFB-img-default.gif&cfs=1&_nc_hash=AQD6Oi7vezKmxEKh",
+    "updated_time": "2015-10-24T15:02:57+0000",
+    "caption": "cic.tw",
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 29
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-10-23T06:05:23+0000",
+                "from": {
+                    "name": "Austin Wang",
+                    "id": "10160111516545694"
+                },
+                "message": "國會網站的一個問題,就是並未納入其它候選人,有時反而成為現任者宣傳的舞台,因此要想辦法併列進去,例如用DATAMINING跑委員的立場,OR直接寄信問問卷",
+                "id": "878310598912014"
+            },
+            {
+                "created_time": "2015-10-23T08:12:29+0000",
+                "from": {
+                    "name": "Rick Liu",
+                    "id": "10155446146924370"
+                },
+                "message": "\/ccw\/ad_seasions\/:ad_session_id\/score.json\n\/ccw\/ad_sessions\/:ad_session_id\/legislators\/:legislators_id\/data.json\n\/ccw\/ad_sessions\/:ad_session_id\/committees\/:committee_id\/data.json",
+                "id": "878333892243018"
+            },
+            {
+                "created_time": "2015-10-23T16:15:50+0000",
+                "from": {
+                    "name": "Cwrca Acrwc",
+                    "id": "10208803708648630"
+                },
+                "message": "調查的拼字有誤\n應為investigAtion",
+                "id": "878468905562850"
+            },
+            {
+                "created_time": "2015-10-24T04:50:05+0000",
+                "from": {
+                    "name": "王希",
+                    "id": "1626884330738108"
+                },
+                "message": "我們在設計 wevote.tw 時，有設想其他新候選人，如何一起比較的問題。問卷是可能方式之一",
+                "id": "878704212205986"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

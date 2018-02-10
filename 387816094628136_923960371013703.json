@@ -1,0 +1,76 @@
+{
+    "created_time": "2016-01-30T14:49:23+0000",
+    "message": "[請益] 此狀況與直書排版的文件，有推薦的 OCR 軟體或方法嗎？感謝。\n\n---\n感謝此資料庫推動人員，提供這本計畫書圖原圖檔案，「台北縣內湖鄉西南地區鄉街計劃說明書」原圖下載：https:\/\/www.dropbox.com\/sh\/0tx0yejiglmho21\/AABIFTvvosg2-dDjJ8LGWx75a?dl=0\n\n---\nhackpad 頁面:\nhttps:\/\/g0v.hackpad.com\/-Taiwan-Spatial-Planning-Data-Base-Jk9DUGUvgla",
+    "id": "387816094628136_923960371013703",
+    "updated_time": "2016-03-09T06:09:01+0000",
+    "from": {
+        "name": "Che Wei Liu",
+        "id": "10156142432594038"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 6
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-01-30T17:02:13+0000",
+                "from": {
+                    "name": "Brent Ho",
+                    "id": "10155420973412099"
+                },
+                "message": "Try ABBYY\nhttp:\/\/www.abbyy.com\/company\/news-and-events\/news\/abbyy-finereader-adds-support-for-chinese-japanese-thai-and-hebrew\/",
+                "id": "924015201008220"
+            },
+            {
+                "created_time": "2016-02-02T22:32:23+0000",
+                "from": {
+                    "name": "Kang-min Liu",
+                    "id": "10155184416211053"
+                },
+                "message": "請問有文件的圖檔嗎？之前處理舊的選舉公報，斷斷續續寫了不少分析文件影像的程式，我可以試著處理看看。",
+                "id": "925643130845427"
+            },
+            {
+                "created_time": "2016-02-03T11:04:10+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "Jiahe Lin 有建議的原始檔案來源、可供下載使用嗎？",
+                "id": "925852147491192"
+            },
+            {
+                "created_time": "2016-03-04T11:14:13+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "感謝此資料庫推動人員，提供這本計畫書圖原圖檔案：\n\n「台北縣內湖鄉西南地區鄉街計劃說明書」原圖下載：https:\/\/www.dropbox.com\/sh\/0tx0yejiglmho21\/AABIFTvvosg2-dDjJ8LGWx75a?dl=0",
+                "id": "941959332547140"
+            },
+            {
+                "created_time": "2016-03-04T11:59:14+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "google docs 可行：\nhttps:\/\/docs.google.com\/document\/d\/1s-ZjAVvT2ctAVbpqHdfP01tnydUDd5VV4aeOW2fpVc4\/edit?usp=sharing",
+                "id": "941973389212401"
+            },
+            {
+                "created_time": "2016-03-04T14:50:01+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "提案簡報：\n\nhttps:\/\/docs.google.com\/presentation\/d\/1O8IQv-IUYFPsSx9H0RGyq3jWaYtt0jI7S8TC0Z0YPzc\/edit?usp=docslist_api",
+                "id": "942042365872170"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

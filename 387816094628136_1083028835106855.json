@@ -1,0 +1,58 @@
+{
+    "created_time": "2016-09-27T07:45:23+0000",
+    "message": "g0v 社群基礎建設松又來了，六月到現在進行的計畫有 g0v Hub（社群人力銀行）、g0v search（社群文件搜尋器）、g0v domain 申請規劃、g0v 專案雲端主機代管規劃、新手教學等，好像越來越有型了！\n\n這次活動是 10\/8（六），趕在 10\/15 大松前大家聚一下吃一下喝一下。目前名額只剩一半，歡迎報名：http:\/\/g0v-jothon.kktix.cc\/events\/infrath5n\n\n共筆：http:\/\/beta.hackfoldr.org\/g0v-infras\/ITWOf458uSt\nslack: g0v slack #infras",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1083028835106855",
+    "link": "http:\/\/g0v-jothon.kktix.cc\/events\/infrath5n",
+    "description": "g0v 社群由「人、坑、松」組成，如何讓參與者容易串連協作，需要更多好用的工具與平台。兩年前曾經召開過第零次基礎建設松，揪松團近期重啟社群基礎建設，希望持續常態經營！",
+    "name": "g0v 第伍次基礎建設松 - 10\/8",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBVxUtLv1aErh11&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F54844%2FScreen_Shot_2016-09-27_at_15.41.49_original.png&cfs=1&_nc_hash=AQBxhHq90IxpZxJI",
+    "updated_time": "2016-10-08T02:17:51+0000",
+    "caption": "g0v-jothon.kktix.cc",
+    "shares": {
+        "count": 3
+    },
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 92
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-09-27T07:45:48+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "林妍淨大大~",
+                "id": "1083028908440181"
+            },
+            {
+                "created_time": "2016-09-27T12:15:14+0000",
+                "from": {
+                    "name": "Kuang-Che Liu",
+                    "id": "10155418114061139"
+                },
+                "message": "還有默默進行的官網小改版xd",
+                "id": "1083156821760723"
+            },
+            {
+                "created_time": "2016-10-08T02:17:45+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "提案直播: http:\/\/youtu.be\/y3-vzhDeOzg",
+                "id": "1091717224238016"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

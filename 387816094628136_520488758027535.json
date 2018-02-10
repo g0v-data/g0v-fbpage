@@ -1,0 +1,53 @@
+{
+    "created_time": "2013-10-06T08:03:19+0000",
+    "message": "國家雲端工商行政開放資料分享計畫 ... 好像 g0v 已經做好 10% 了!?\nhttp:\/\/web.pcc.gov.tw\/tps\/main\/pms\/tps\/atm\/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50981131&tenderCaseNo=1020325\n\nRFP可看： https:\/\/docs.google.com\/document\/d\/1D_N_Wb8p6sZ1Q6HGHmp5PQOVY7_GJmgQjKqEGHwLHe4\/edit?usp=sharing",
+    "story": "Charles Chuang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_520488758027535",
+    "link": "http:\/\/web.pcc.gov.tw\/tps\/main\/pms\/tps\/atm\/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=50981131&tenderCaseNo=1020325",
+    "name": "政府電子採購網",
+    "updated_time": "2013-10-06T16:35:03+0000",
+    "caption": "web.pcc.gov.tw",
+    "from": {
+        "name": "Charles Chuang",
+        "id": "10156747652751988"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 11
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-10-06T08:05:31+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "請他們以 70% 價格轉包給社群？",
+                "id": "520489124694165"
+            },
+            {
+                "created_time": "2013-10-06T10:08:12+0000",
+                "from": {
+                    "name": "Sorry Lin",
+                    "id": "10156171470746683"
+                },
+                "message": "價值四百萬的 crawler（誤）",
+                "id": "520512961358448"
+            },
+            {
+                "created_time": "2013-10-06T16:35:03+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "Chia-liang Kao 這樣黑客松就吃更好?",
+                "id": "520660694677008"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

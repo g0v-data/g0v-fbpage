@@ -1,0 +1,41 @@
+{
+    "created_time": "2014-11-04T07:37:54+0000",
+    "message": "http:\/\/data.moi.gov.tw\/MoiOD\/Data\/DataDetail.aspx?oid=F4478CE5-7A72-4B14-B91A-F4701758328F\n稍早發現一個很重要的文件，籍行軍後的人口資料終於出現了，目前我先製作臺北市的資料樣版(設計是方便QGIS做地圖資料接合)，大家一起分身伐樹，盡快做出各選區的預期選民消長。\n\np.s. 五都和2010年10月的人口資料做比較、其他縣市跟2009年11月的人口資料做比較\n\nGISthon這邊可以分配各行政區做資料地圖的呈現。",
+    "story": "Chen Kai Chang uploaded a file in the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_705800419496367",
+    "updated_time": "2014-11-05T04:49:43+0000",
+    "from": {
+        "name": "Chen Kai Chang",
+        "id": "2046452738704722"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 7
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-11-04T20:45:36+0000",
+                "from": {
+                    "name": "Robin Lee",
+                    "id": "10155632917792946"
+                },
+                "message": "要怎麼幫，我該參考哪個hackpad?",
+                "id": "706076696135406"
+            },
+            {
+                "created_time": "2014-11-05T04:41:06+0000",
+                "from": {
+                    "name": "Chen Kai Chang",
+                    "id": "2046452738704722"
+                },
+                "message": "https:\/\/g0v.hackpad.com\/cMxpnj1roqw\n(斧頭在此！)",
+                "id": "706215486121527"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

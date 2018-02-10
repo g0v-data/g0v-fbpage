@@ -1,0 +1,81 @@
+{
+    "created_time": "2012-12-15T14:54:05+0000",
+    "message": "這裡需要一個簡易的 gists 入門 for non technical people... \n\n主要 use case: 說明如何 fork https:\/\/gist.github.com\/4290860, 編輯 README.md 和 index.html, 餵入投票相關資訊 然後利用對應的http:\/\/bl.ocks.org\/4290860 顯示結果. 這樣公督盟或其他朋友，有在看立法院最新的投票的話，就可以用這個工具產生一目了然的表決圖",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_393315624078183",
+    "link": "https:\/\/gist.github.com\/4290860",
+    "description": "民進黨團提案刪除核四101年度預算投票結果：出席 93 贊成 45 反對 47 棄權 1提案不通過。立委投票結果產生器幫你把立委在國會表決的結果畫成一目了然的圖表！ Generated with http:\/\/bl.ocks.org\/4248542",
+    "name": "README.md",
+    "updated_time": "2012-12-30T09:10:08+0000",
+    "caption": "gist.github.com",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 9
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2012-12-15T15:02:55+0000",
+                "from": {
+                    "name": "Lynn Lu Lynn",
+                    "id": "10209322917064431"
+                },
+                "message": "看了眼都花了... 為什麼座位一直跳來跳去呢",
+                "id": "393318194077926"
+            },
+            {
+                "created_time": "2012-12-15T15:03:38+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "有跳的應該是 demo 吧 :p 核四預算應該是不跳的",
+                "id": "393318390744573"
+            },
+            {
+                "created_time": "2012-12-15T15:11:52+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Lynn Lu Lynn 所以要認領 gists 使用說明了嗎?",
+                "id": "393322427410836"
+            },
+            {
+                "created_time": "2012-12-15T15:20:22+0000",
+                "from": {
+                    "name": "Lynn Lu Lynn",
+                    "id": "10209322917064431"
+                },
+                "message": "Chia-liang Kao 哈... 正在努力理解中",
+                "id": "393325177410561"
+            },
+            {
+                "created_time": "2012-12-20T07:38:19+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "這邊有後續嗎? ^^",
+                "id": "395248907218188"
+            },
+            {
+                "created_time": "2012-12-30T09:10:08+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "我就是需要被入門的non technical people之一 ...(舉手) :p\n連上去只看到程式碼，不知道怎麼叫它跑 :)",
+                "id": "399444286798650"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

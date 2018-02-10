@@ -1,0 +1,100 @@
+{
+    "created_time": "2014-04-02T13:28:37+0000",
+    "message": "Dear g0v.tw,\n\nSOS. THANK YOU.\n\nLove,\nIan",
+    "story": "Ian Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_602441956498881",
+    "link": "http:\/\/technews.tw\/2014\/04\/02\/total-war-on-sunflower-protest-vandalism\/",
+    "description": "全面的網路戰爭！維基百科太陽花學運相關條目被惡意修改！作者Infotron學運的爭議跑到大家都愛查閱的維基百科上。PTT 八卦板有人反應（#1JEJb8RF (Gossiping) [ptt.cc] [爆卦] 維基的黃國昌老師資?）此次學運要角黃國昌的維基百科條目變 404 錯誤。其他網友推文表示其他與太陽花學運相關的條目也是 404，甚至連幾年前的野草莓學運的維基頁面也出現 404 錯誤。到底學運相關維基條目出現 404 是怎麼回事呢？八卦板網友有人看了原始碼發現內容仍在。而維基板上維基人的調查是結果發現是相當惡劣的模版破壞（#1JEK56RX (Wikipedia) [ptt.cc] Fw...",
+    "name": "全面的網路戰爭！維基百科太陽花學運相關條目被惡意修改！",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQABzntcve9yoI0k&w=130&h=130&url=http%3A%2F%2Fimg.technews.tw%2Fwp-content%2Fuploads%2F2014%2F04%2FNew-Wikimedia-page-not-found.png&cfs=1&_nc_hash=AQAJFAf7d5TIXu8p",
+    "updated_time": "2014-04-03T04:35:23+0000",
+    "caption": "technews.tw",
+    "from": {
+        "name": "Ian Chen",
+        "id": "10156098900798523"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 59
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-02T13:36:21+0000",
+                "from": {
+                    "name": "Johnny Hwang",
+                    "id": "10155571928516359"
+                },
+                "message": "牠們呼叫中國網軍出任務了吧",
+                "id": "602443863165357"
+            },
+            {
+                "created_time": "2014-04-02T13:53:28+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "已經都恢復了，維基百科內建頁面保護\/半保護機制，不用特別擔心。",
+                "id": "602449289831481"
+            },
+            {
+                "created_time": "2014-04-02T13:54:14+0000",
+                "from": {
+                    "name": "Ian Chen",
+                    "id": "10156098900798523"
+                },
+                "message": "Thanks tons!",
+                "id": "602449459831464"
+            },
+            {
+                "created_time": "2014-04-02T15:50:19+0000",
+                "from": {
+                    "name": "Ian Chen",
+                    "id": "10156098900798523"
+                },
+                "message": "guys from g0v! you're the very best in the universe. get rest.",
+                "id": "602487466494330"
+            },
+            {
+                "created_time": "2014-04-02T22:24:26+0000",
+                "from": {
+                    "name": "Bryan Lee",
+                    "id": "10155112148905880"
+                },
+                "message": "終於有媒體發現了",
+                "id": "602631503146593"
+            },
+            {
+                "created_time": "2014-04-02T23:44:09+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "萌典是不是也被攻擊了?\nhttps:\/\/www.moedict.tw\/太陽花",
+                "id": "602652179811192"
+            },
+            {
+                "created_time": "2014-04-03T03:04:12+0000",
+                "from": {
+                    "name": "Sheepy Lin",
+                    "id": "1691564610889336"
+                },
+                "message": "好像相關的條目(例如林飛帆)在抗爭開始的兩三天就被惡意修改過了...@ @",
+                "id": "602708223138921"
+            },
+            {
+                "created_time": "2014-04-03T04:35:23+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "萌典恢復了，剛好架在同一台主機上... 今天會移到別的主機。",
+                "id": "602727943136949"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

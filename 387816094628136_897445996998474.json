@@ -1,0 +1,36 @@
+{
+    "created_time": "2015-12-08T03:13:11+0000",
+    "message": "固定污染源管制地圖 上線\n\n網址 - http:\/\/kiang.github.io\/chimney_map\/\n\n高雄市政府資料開放平台 最近公開了一些固定污染源的即時監測資料：\n\n* 高雄市空污指標視覺化資料( http:\/\/data.kaohsiung.gov.tw\/Opendata\/DetailList.aspx?CaseNo1=AH&CaseNo2=23&Lang=C )\n* CEMS工廠名單 ( http:\/\/data.kaohsiung.gov.tw\/Opendata\/DetailList.aspx?CaseNo1=AH&CaseNo2=24&Lang=C )\n* 空污指標 cems 資料參數說明( http:\/\/data.kaohsiung.gov.tw\/Opendata\/DetailList.aspx?CaseNo1=AH&CaseNo2=26&Lang=C )\n\n基於這些資料製作了 固定污染源管制地圖 ，下面說明相關功能\n\n一開始進入網頁會看到地圖，圖中有數個紅色標記，每個標記代表一個公司或工廠\n\n點選個別標記後，畫面下方就會展開這個公司或工廠的即時監測統計圖表\n\n圖表的標題會說明監測項目，圖中可能有一或多條統計線，代表的是該公司或工廠內的管制點，曲線的數值就是當日觀測數據，點選標題下方右側的 \"排放標準\" 連結會提示個別管制點的排放標準\n\n在圖表上方的左右按鈕，以及顯示日期的表單都可以進一步切換不同日期的資料顯示，目前有 2015\/11\/16 迄今的監測資料\n\n圖表右邊上方提供了兩個下拉選單進行資料過濾，圖表過濾指的是顯示圖表類型，預設只會顯示 不透光率、二氧化硫、氮氧化物、氯化氫 的監測資料，進一步的可以選擇 \"觀測值\" 來顯示所有觀測項目， \"均值\" 則是呈現個別觀測項目一小時平均數值的統計圖表， \"全部顯示\" 會展開上述所有圖表。\n\n部份環境可能無法正確顯示地圖，所以保留了個別管制點的下拉選單，也適合精確的找尋指定單位資訊。\n\n高雄市政府率先公開了這些污染監測資訊，未來期望其他縣市或甚至中央能夠跟進，讓監測數值可以開放給所有民眾共同檢視與監督。這份資料的公開要感謝高雄市研考會與環保局共同努力，以及 TonyQ ( https:\/\/www.facebook.com\/1656544711278162\/ ) 等社群朋友的溝通協調，期望資訊公開後可以有更多學有專精的朋友可以善加運用，共同為改善居住環境努力。",
+    "story": "Finjon Kiang shared 江明宗's post to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_897445996998474",
+    "link": "http:\/\/k.olc.tw\/2015\/12\/%e5%9b%ba%e5%ae%9a%e6%b1%a1%e6%9f%93%e6%ba%90%e7%ae%a1%e5%88%b6%e5%9c%b0%e5%9c%96-%e4%b8%8a%e7%b7%9a\/",
+    "description": "固定污染源管制地圖 上線\n\n網址 - http:\/\/kiang.github.io\/chimney_map\/\n\n高雄市政府資料開放平台 最近公開了一些固定污染源的即時監測資料：\n\n* 高雄市空污指標視覺化資料( http:\/\/data.kaohsiung.gov.tw\/Opendata\/DetailList.aspx?CaseNo1=AH&CaseNo2=23&Lang=C )\n* CEMS工廠名單 ( http:\/\/data.kaohsiung.gov.tw\/Opendata\/DetailList.aspx?CaseNo1=AH&CaseNo2=24&Lang=C )\n* 空污指標 cems 資料參數說明( http:\/\/data.kaohsiung.gov.tw\/Opendata\/DetailList.aspx?CaseNo1=AH&CaseNo2=26&Lang=C )\n\n基於這些資料製作了 固定污染源管制地圖 ，下面說明相關功能\n\n一開始進入網頁會看到地圖，圖中有數個紅色標記，每個標記代表一個公司或工廠\n\n點選個別標記後，畫面下方就會展開這個公司或工廠的即時監測統計圖表\n\n圖表的標題會說明監測項目，圖中可能有一或多條統計線，代表的是該公司或工廠內的管制點，曲線的數值就是當日觀測數據，點選標題下方右側的 \"排放標準\" 連結會提示個別管制點的排放標準\n\n在圖表上方的左右按鈕，以及顯示日期的表單都可以進一步切換不同日期的資料顯示，目前有 2015\/11\/16 迄今的監測資料\n\n圖表右邊上方提供了兩個下拉選單進行資料過濾，圖表過濾指的是顯示圖表類型，預設只會顯示 不透光率、二氧化硫、氮氧化物、氯化氫 的監測資料，進一步的可以選擇 \"觀測值\" 來顯示所有觀測項目， \"均值\" 則是呈現個別觀測項目一小時平均數值的統計圖表， \"全部顯示\" 會展開上述所有圖表。\n\n部份環境可能無法正確顯示地圖，所以保留了個別管制點的下拉選單，也適合精確的找尋指定單位資訊。\n\n高雄市政府率先公開了這些污染監測資訊，未來期望其他縣市或甚至中央能夠跟進，讓監測數值可以開放給所有民眾共同檢視與監督。這份資料的公開要感謝高雄市研考會與環保局共同努力，以及 TonyQ ( https:\/\/www.facebook.com\/1656544711278162\/ ) 等社群朋友的溝通協調，期望資訊公開後可以有更多學有專精的朋友可以善加運用，共同為改善居住環境努力。",
+    "name": "江明宗",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAxi-gAer_A9MKX&w=130&h=130&url=http%3A%2F%2Fk.olc.tw%2Fwp-content%2Fuploads%2F2015%2F12%2FScreenshot-from-2015-12-08-105251-1024x576.png&cfs=1&_nc_hash=AQAoaiPE6igH8-xr",
+    "updated_time": "2015-12-11T03:01:12+0000",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-12-11T03:01:12+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/www.facebook.com\/k.olc.tw\/photos\/a.373836309456505.1073741829.282921805214623\/516156741891127\/\n\n固定污染源管制地圖( http:\/\/kiang.github.io\/chimney_map\/ ) 加入了台中的資料！\n\n在高雄資料完成後才知道原來台中環保局早就公佈了同樣的資料( http:\/\/220.130.204.202\/program\/menu\/maintainhomepp2.asp )，只是網頁程式已經過時，在大部分新版瀏覽器已經無法使用\n\n所以為此另外寫了些程式，把台中的資料匯入 固定污染源管制地圖\n\n需要額外一提的是程式也加入了一些調整，現在每個畫面都會有一個固定的網址，方便將看到的資訊分享給朋友，像是這樣\n\n台灣電力股份有限公司台中發電廠 - http:\/\/kiang.github.io\/chimney_map\/#2015-12-11\/L0200473",
+                "id": "898724390203968"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

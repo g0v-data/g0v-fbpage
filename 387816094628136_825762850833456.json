@@ -1,0 +1,99 @@
+{
+    "created_time": "2015-06-29T03:21:46+0000",
+    "message": "http:\/\/join.g0v.today\/ 重大事件發生時，除了fb社團很多事情會在社群 irc (聊天室)加速進行協作，還沒掛 g0v 的 slack 群組可以加加看。自己的邀請自己寄吧～",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_825762850833456",
+    "link": "http:\/\/join.g0v.today\/",
+    "name": "inviteyoself",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAqxhANinj4vYlf&w=130&h=130&url=http%3A%2F%2Fjoin.g0v.today%2Fimg%2Fg0vsla-02.png&cfs=1&_nc_hash=AQCpfY8eNSnPQ1kV",
+    "updated_time": "2015-06-29T17:18:23+0000",
+    "caption": "join.g0v.today",
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 27
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-29T03:59:14+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "hmm .. 這個縮圖 XDD",
+                "id": "825776107498797"
+            },
+            {
+                "created_time": "2015-06-29T04:05:23+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "下面說明加一行：覺得縮圖醜也可以找 g0v 的 Ly Cheng XDD",
+                "id": "825811364161938"
+            },
+            {
+                "created_time": "2015-06-29T05:17:37+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "有人問道：「用 irc\/slack 跟用 fb 討論有何不同？」\n以下開放作答：",
+                "id": "825867360823005"
+            },
+            {
+                "created_time": "2015-06-29T05:32:04+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "「你找的到你昨天在 fb 上討論的內容嗎?」",
+                "id": "825876480822093"
+            },
+            {
+                "created_time": "2015-06-29T05:44:14+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "其實 Facebook 可以用比較 geeky 的語法找到，或是看所有活動慢慢找，如果要維持夠懶又有效率就該換用 Slack。",
+                "id": "825878667488541"
+            },
+            {
+                "created_time": "2015-06-29T05:49:50+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "就算用 newsgroup 也比用 fb 好啊，現在還可以在 google groups 搜尋到 12 年前使用者對於 nokia 3310 的心得討論，用 fb 你找的到今年使用者對 iphone 6s 的討論嗎?",
+                "id": "825879680821773"
+            },
+            {
+                "created_time": "2015-06-29T05:53:27+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "那開 google group應該是最好的選擇了 XD",
+                "id": "825880344155040"
+            },
+            {
+                "created_time": "2015-06-29T17:18:23+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "Slack 的問題是訊息量超過一個數字就得付費才能夠檢索舊資料， google groups 功能性來說是最適合的，但大家好像都被 FB 黏住了（這都是 *** 的陰謀）",
+                "id": "826153180794423"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

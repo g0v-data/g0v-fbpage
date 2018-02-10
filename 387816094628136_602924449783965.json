@@ -1,0 +1,76 @@
+{
+    "created_time": "2014-04-03T16:35:32+0000",
+    "message": "懇請有心人把這篇文章最下面的投票所資料檔，用這篇論文：\n\nhttp:\/\/www.santafe.edu\/news\/item\/pnas-thurner-fingerprints-election-thieves\/\n\n的研究方法畫一下 heatmap。\n\n（論文裡面是說去掉小於 5000 人的投票所，然後 x=投票人數\/總選舉人數，y=贏家比例標點，沒看錯的話。）",
+    "id": "387816094628136_602924449783965",
+    "updated_time": "2014-04-14T05:24:56+0000",
+    "from": {
+        "name": "Timothy Chien",
+        "id": "10156289921808203"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 39
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-03T17:08:31+0000",
+                "from": {
+                    "name": "Alex Wang",
+                    "id": "10155564651818577"
+                },
+                "message": "神分析~!!",
+                "id": "602933269783083"
+            },
+            {
+                "created_time": "2014-04-03T17:21:33+0000",
+                "from": {
+                    "name": "Austin Wang",
+                    "id": "10160111516545694"
+                },
+                "message": "媽我在這...我可試試看Orz",
+                "id": "602936639782746"
+            },
+            {
+                "created_time": "2014-04-13T22:44:31+0000",
+                "from": {
+                    "name": "Hoskiss Lin",
+                    "id": "10156282082398746"
+                },
+                "message": "依據smaller.xlsx裡面的data, 用matplotlib畫了一下paper裡面的\nFig1(沒去掉500以下的點)\nFig2(沒有其他國家data沒做normalize) \n\n自己不懂統計看起來是還好  請有興趣大大分析評論\nhttp:\/\/imgur.com\/VzovOwq\nhttp:\/\/imgur.com\/gkQVnvT",
+                "id": "607369352672808"
+            },
+            {
+                "created_time": "2014-04-13T22:48:28+0000",
+                "from": {
+                    "name": "Austin Wang",
+                    "id": "10160111516545694"
+                },
+                "message": "其實我畫完了啦....\nhttps:\/\/www.facebook.com\/notes\/austin-wang\/2012投票箱能看出作票嗎-part-ii\/10152357677771797",
+                "id": "607370912672652"
+            },
+            {
+                "created_time": "2014-04-14T02:33:01+0000",
+                "from": {
+                    "name": "Timothy Chien",
+                    "id": "10156289921808203"
+                },
+                "message": "Austin Wang Hoskiss Lin 兩位太厲害了！",
+                "id": "607440179332392"
+            },
+            {
+                "created_time": "2014-04-14T05:24:56+0000",
+                "from": {
+                    "name": "Hoskiss Lin",
+                    "id": "10156282082398746"
+                },
+                "message": "太強了!  看了長知識推",
+                "id": "607489719327438"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

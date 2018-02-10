@@ -1,0 +1,40 @@
+{
+    "created_time": "2015-01-24T08:15:58+0000",
+    "message": "最近新聞都在報禽流感，針對這次禽流感事件，大家覺得有什麼資訊或資料是一定公佈的呢？",
+    "id": "387816094628136_749403315136077",
+    "updated_time": "2015-01-24T09:25:25+0000",
+    "from": {
+        "name": "Mandy Lee",
+        "id": "10215420714022228"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-01-24T08:34:49+0000",
+                "from": {
+                    "name": "Lannes Yang",
+                    "id": "10215830081653708"
+                },
+                "message": "撲殺總數?",
+                "id": "749406768469065"
+            },
+            {
+                "created_time": "2015-01-24T09:25:25+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "農業法規 | 動物防檢疫目 \n\nhttp:\/\/law.moj.gov.tw\/LawClass\/LawClassList.aspx?TY=M013",
+                "id": "749416991801376"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

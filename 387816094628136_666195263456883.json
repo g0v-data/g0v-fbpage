@@ -1,0 +1,55 @@
+{
+    "created_time": "2014-08-13T21:07:31+0000",
+    "message": "［挖坑］臺灣的用電著色地圖，或是雷同的運用。\n\n主旨：臺灣的用電著色地圖，或是雷同的運用。\n\n說明︰\n1.我在維基百科看到一句話，觀察台電用電量就能得知全台灣的空屋率一樣。\n\n　其實在更早幾年前在別人文章中，描述美國大學開放式課程，也有研究過美國各地的「用電量跟經濟成長」的關係。\n\n2.順帶一提昨晚的新聞\n　總統：核四封存　給後代保留選擇權（20140813公視晚間新聞） \n　（文字）http:\/\/news.pts.org.tw\/detail.php?NEENO=276714\n　（影片）https:\/\/www.youtube.com\/watch?v=9BDJDDPsu74\n\n3.雷同的運用，可能是「全台灣的醫院病床數量」、「人口分布」、「緊急疏散計畫、之前與之後人口分布」、「工業區、商業區、住宅區，土地面積」……等等。\n\n　只要有固定的資料結構（甚至是辦公室文書軟體試算表），直接讓軟體系統圖讀取就能畫出來。\n\n4.已經開好Hackpad了，請大家自己跳進來吧！\n　https:\/\/g0v.hackpad.com\/iTzLaacxmov\n\n以上約略說明\n\nMichael_LI\n2014-08-14\n\n----\n梁啟源：核四封存有感衝擊（本文是中華經濟研究院董事長梁啟源口述） - 中華經濟研究院\n資料來源：2014-04-29\/經濟日報\/A3版\/話題 \nhttp:\/\/www.cier.edu.tw\/ct.asp?xItem=22134&ctNode=52&mp=1\n----",
+    "story": "Hsingyu Li shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_666195263456883",
+    "link": "http:\/\/news.pts.org.tw\/detail.php?NEENO=276714",
+    "description": "核四目前已經決定安檢後先封存三年，環保團體批評這是選舉考量，今天總統馬英九，再度針對封存表示意見，認為是替下一代保留選擇權，不過他強調，未來經濟會持續發展，「用電零成長」不切實際，因此台灣該追隨國際潮流，不能輕易放棄核電。 為了平息反核聲浪，政府決定讓核四安檢完、先封存三年，總統馬英九上午參加民間舉辦的「能源願景高峰論壇」強調，這麼做不是因為核四不安全，而是核四已經讓國內投資環境出現疑慮，封存給後代做決定，不直接宣判核四死刑。 ==總統 馬英九== 期盼能夠 以此來降低社會爭議 並保留因應國內外能源發展情勢 所需要的彈性 也就是為我們的下一代 保留一個選擇權 馬總統重申，只有非常少數國家廢核，…",
+    "name": "總統:核四封存 給後代保留選擇權-公視新聞網",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQA9iGvFv8Ziqcc_&w=130&h=130&url=http%3A%2F%2Fnews.pts.org.tw%2FPTS_Logo_News.jpg&cfs=1&_nc_hash=AQBF-NrdqsRtwhdh",
+    "updated_time": "2014-08-14T03:28:23+0000",
+    "caption": "news.pts.org.tw",
+    "from": {
+        "name": "Hsingyu Li",
+        "id": "1994967050516923"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 24
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-14T00:05:40+0000",
+                "from": {
+                    "name": "Rockey Liao",
+                    "id": "10215150665949520"
+                },
+                "message": "台電好像沒有詳細的用電量資訊",
+                "id": "666241200118956"
+            },
+            {
+                "created_time": "2014-08-14T01:08:36+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "臺灣地區空屋狀況變遷與原因分析 An Analysis of High Housing Vacancy Rates in Taiwan\nhttps:\/\/db1n.sinica.edu.tw\/textdb\/tssci\/listsrchpr.php?_op=?paperID:8675\n\n本研究透過臺電用電不足底度戶數資料推估各縣市歷年的空屋率以彌補每十年一次住宅普查的不足，發現三次住宅普查時各縣市空屋率雖已明顯偏高，但大多並非該縣市空屋率的最高峰，且在過去二十年間各縣市空屋率均有相當明顯的波動趨勢。",
+                "id": "666260006783742"
+            },
+            {
+                "created_time": "2014-08-14T03:28:23+0000",
+                "from": {
+                    "name": "KoFan Lu",
+                    "id": "10209469647973007"
+                },
+                "message": "http:\/\/www.taipower.com.tw\/content\/govern\/govern01.aspx?MType=5&MSType=20\n有資料\nhttp:\/\/ebas1.ebas.gov.tw\/pxweb\/Dialog\/Saveshow.asp\n可繪製地圖\n之前好像有看過界面更好用的但現在一直找不到= =+\n有找到再貼上來～",
+                "id": "666295463446863"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

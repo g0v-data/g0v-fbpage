@@ -1,0 +1,180 @@
+{
+    "created_time": "2014-10-02T13:57:03+0000",
+    "message": "[詢問]  有人知道哪裡可以下載台灣日治時期的地圖圖資嗎？（.png）我在網站裡繞來繞去都找不到。\n\n另外想要問，像日治時期的圖資，是有版權的嗎？還是已經在公領域了？\n\nhttp:\/\/gissrv4.sinica.edu.tw\/gis\/taipei.aspx\nhttp:\/\/www.historygis.udd.taipei.gov.tw\/urban\/swipe\/index.aspx",
+    "story": "Muyueh Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_688840021192407",
+    "link": "http:\/\/www.historygis.udd.taipei.gov.tw\/urban\/swipe\/index.aspx",
+    "name": "臺北市歷史圖資展示系統",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC4dGJMxZiGqBUn&w=130&h=130&url=http%3A%2F%2Fwww.historygis.udd.taipei.gov.tw%2Furban%2Fswipe%2Fimages%2FswipeStart.png&cfs=1&_nc_hash=AQB8W4KHyPUD-eW2",
+    "updated_time": "2014-10-03T10:38:50+0000",
+    "caption": "historygis.udd.taipei.gov.tw",
+    "from": {
+        "name": "Muyueh Lee",
+        "id": "1594217104027518"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 17
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-10-02T14:10:14+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "我只知道現在的地號是可以轉換回日治時代的地籍的， http:\/\/zh.wikipedia.org\/wiki\/%E8%87%BA%E5%8C%97%E5%B8%82%E8%88%8A%E7%94%BA%E5%90%8D%E5%88%97%E8%A1%A8",
+                "id": "688845364525206"
+            },
+            {
+                "created_time": "2014-10-02T14:14:36+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "http:\/\/tpebuilding.g0v.ronny.tw\/index\/license\/?id=0390005  例如這一張 39 年的建築執照，他的日治門牌是「太平町二丁目三三番地」，照上面 wiki 下面的對照表，太平町就是現在的太平段，所以這張建築就是今天的「太平段二小段33號」",
+                "id": "688846624525080"
+            },
+            {
+                "created_time": "2014-10-02T14:17:45+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "天啊，這蠻酷的",
+                "id": "688847487858327"
+            },
+            {
+                "created_time": "2014-10-02T14:18:23+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "我不知道你有爬過這一組資料",
+                "id": "688847631191646"
+            },
+            {
+                "created_time": "2014-10-02T14:19:36+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "你不知道的可多了 XD 最近正在爬全台灣的建築執照中，希望接下來可以畫一些全台灣相關的地圖，例如建築高度、房屋年齡、建商地圖之類的",
+                "id": "688848077858268"
+            },
+            {
+                "created_time": "2014-10-02T14:20:06+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "我原本想要地圖，是我想要把一個區域跨好幾年的小區域抓出來比較，可是我現在還沒有概念這些地圖到底有沒有版權",
+                "id": "688848204524922"
+            },
+            {
+                "created_time": "2014-10-02T14:21:01+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "你有考慮做一個資料入口網站嗎 XD 我其實有幾次要找你曾經做過的圖都找了一下（像是鄉鎮等級的地圖，我現在又失去連結了）",
+                "id": "688849077858168"
+            },
+            {
+                "created_time": "2014-10-02T14:24:34+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "來 tag 一下 Dongpo Deng",
+                "id": "688851167857959"
+            },
+            {
+                "created_time": "2014-10-02T14:25:06+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "哈哈，該來整理一個 data.ronny.tw 了 XD",
+                "id": "688851281191281"
+            },
+            {
+                "created_time": "2014-10-02T14:26:09+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "我剛剛才寫信給 Dongpo Deng XD。\n\n噢對啊，趕快開一個 ronny 國的data portal ！",
+                "id": "688851544524588"
+            },
+            {
+                "created_time": "2014-10-02T14:53:43+0000",
+                "from": {
+                    "name": "Dongpo Deng",
+                    "id": "10215101816163036"
+                },
+                "message": "我有收到! 也回囉! Ronny Wang 建一個地理資訊平台啦!",
+                "id": "688861351190274"
+            },
+            {
+                "created_time": "2014-10-02T15:30:01+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "cc 陳信屹",
+                "id": "688875251188884"
+            },
+            {
+                "created_time": "2014-10-02T15:32:34+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "鄉鎮等級地圖是 https:\/\/github.com\/ronnywang\/twgeojson ？",
+                "id": "688876977855378"
+            },
+            {
+                "created_time": "2014-10-02T15:35:05+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "http:\/\/timemap.kuansim.com\/hychen\/tainan-historic-maps  右上角可以選",
+                "id": "688877524521990"
+            },
+            {
+                "created_time": "2014-10-02T16:04:32+0000",
+                "from": {
+                    "name": "Rex Tsai",
+                    "id": "10156168938287915"
+                },
+                "message": "* 中央研究院嘉義百年歷史地圖 WMTS 服務 http:\/\/gis.sinica.edu.tw\/chiayi\/\n* 台灣圖資資料 - osmtw.hackpad.com https:\/\/osmtw.hackpad.com\/%E5%8F%B0%E7%81%A3%E5%9C%96%E8%B3%87%E8%B3%87%E6%96%99-yQUYI6ee30z\n* 用 1932 年的嘉義地圖看「KANO」 | Rex's blah blah blah http:\/\/blog.nutsfactory.net\/2014\/03\/09\/chiayi-map-for-kano\/\n* 以 Leaflet 濫用^H^H呈現開放街圖資料 http:\/\/zh.slideshare.net\/chihchun\/osm-leaflet",
+                "id": "688886854521057"
+            },
+            {
+                "created_time": "2014-10-03T03:40:30+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "推樓上，這一個 hackpad 實在太猛了：https:\/\/osmtw.hackpad.com\/yQUYI6ee30z",
+                "id": "689205424489200"
+            },
+            {
+                "created_time": "2014-10-03T10:38:50+0000",
+                "from": {
+                    "name": "Lunar  Tennoji",
+                    "id": "751509675052437"
+                },
+                "message": "\"國土測繪圖資網路地圖服務系統\"看不出圖資年代,也沒列出圖資更新資訊(僅列出改版資訊,但這跟內容無關),內容更新說明提及\"通用版電子地圖自民國96年起採分年分區測製，至100年全部測製完竣，後續並以3年為週期，以分年分區局部更新方式維持其時效性與正確性。\"但系統未顯示更新經歷(google是有的).經比對台北市數處測量資訊可知,圖資應超過一年以上未更新,使用時請特別注意.",
+                "id": "689328251143584"
+            }
+        ],
+        "summary": {
+            "total_count": 17
+        }
+    }
+}

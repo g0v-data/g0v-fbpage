@@ -1,0 +1,58 @@
+{
+    "created_time": "2014-03-22T23:07:57+0000",
+    "message": "［建議］是否直播時有機會加上日期時間碼？（如果技術上可行）\n\n示意圖\nhttps:\/\/www.facebook.com\/photo.php?fbid=822726811074292&set=a.820703047943335.1073741837.100000109433022\n----\n\n示意圖用的電腦軟體\n名稱：網路校時軟體\n用途：連線到，國家時間與頻率標準實驗室，校時用主機NTP(Network Time Protocol)。\n介紹：服務說明與軟體下載：\n　　　http:\/\/www.stdtime.gov.tw\/chinese\/index_b\/b_4.htm\n\n#改善計畫\n----",
+    "id": "387816094628136_597764766966600",
+    "updated_time": "2014-03-23T02:53:25+0000",
+    "from": {
+        "name": "Hsingyu Li",
+        "id": "1994967050516923"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-23T02:44:46+0000",
+                "from": {
+                    "name": "Tyler Lin",
+                    "id": "10100919368810556"
+                },
+                "message": "我之前用 Cam Twist。比較複雜，影像本來從攝影機到 Google Hangout，現在變成 攝影機 -> Cam Twist -> Google Hangout",
+                "id": "597822076960869"
+            },
+            {
+                "created_time": "2014-03-23T02:45:28+0000",
+                "from": {
+                    "name": "Tyler Lin",
+                    "id": "10100919368810556"
+                },
+                "message": "當然除了加時鐘你要加什麼酷炫特效都可以",
+                "id": "597822243627519"
+            },
+            {
+                "created_time": "2014-03-23T02:52:04+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "Tyler Lin++　／太好了，謝謝，因為可以加快整理所有直播URL的工作，這份工作量漸漸加大了／\n\n以及這個提示：建議，請事後（或當下）把直播的中文標題改動，方便日後有效率查詢。\nhttps:\/\/www.facebook.com\/groups\/g0v.general\/permalink\/596989323710811\n\n----",
+                "id": "597824066960670"
+            },
+            {
+                "created_time": "2014-03-23T02:53:25+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "開玩笑地～特效就幫馬總統耳朵長出些毛好了　ＸＤＤＤ",
+                "id": "597824490293961"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

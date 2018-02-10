@@ -1,0 +1,54 @@
+{
+    "created_time": "2015-02-10T15:22:33+0000",
+    "message": "在 http:\/\/join.gov.tw\/openup\/policies\/detail\/07409767-16cb-49db-a56c-73b13abca2f6 的留言：\n\n\" http:\/\/en.wikipedia.org\/wiki\/We_the_People_%28petitioning_system%29\n\n美國一開始設定的門檻是 5000 ，人多了才慢慢變成 25000 -> 100000 ，而且美國的人口是 3 億，台灣的人口才 23433753 ，一開始就設下 30000 的門檻有點詭異。\n\n另外，通過後 \"相關機關具體回復採行措施\" 重點是要公開回應，希望不是雷聲大雨點小...\"\n\n聽說政府網站資料容易遺失，所以自己備份一下，否則打字很辛苦的 ;)",
+    "id": "387816094628136_758406670902408",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10203841046330654&set=gm.758406670902408&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/10665838_10203841046330654_8449606396808355828_n.jpg?oh=edb5a54ba6f17e4e81a6c69df7b15ba8&oe=5B0BD627",
+    "updated_time": "2015-02-11T01:48:38+0000",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 28
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-02-10T16:19:54+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "只是回應也沒用，現在政府信箱就有回應了。",
+                "id": "758449724231436"
+            },
+            {
+                "created_time": "2015-02-10T16:22:23+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "其實我比較希望有個 public issue tracker ，由非政府組織控制，所有發表的資料都不能夠刪除，而且回應滿意度視為績效基礎 XD",
+                "id": "758450327564709"
+            },
+            {
+                "created_time": "2015-02-11T01:48:38+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "這就要看KPI是回覆率還是啥了...\nhttp:\/\/charlesc.ilovemeow.net\/node\/1218",
+                "id": "758623574214051"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

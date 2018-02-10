@@ -1,0 +1,121 @@
+{
+    "created_time": "2014-11-12T13:52:37+0000",
+    "message": "今天想說花點時間研究一下這專案的頁面，但總覺得README講的不夠詳細...\n\nhttps:\/\/github.com\/g0v\/councilor-voter-guide\n\n遇到的問題如下：\n1. git clone發現Project太大（已解）\n2. 非Ubuntu系統環境架設失敗（已解）\n3. Django設定參數未齊全（AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'）\n\n希望這裡有Contributor能解決我的問題，這樣我才有辦法協助大家",
+    "id": "387816094628136_709984179077991",
+    "updated_time": "2014-11-13T05:01:44+0000",
+    "from": {
+        "name": "Tony Hsu",
+        "id": "984533338363333"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-11-12T13:58:10+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "問題1建議：大型資料變動比較希望是另外放置到其他平台上，用github不適合\n問題2建議：整理出架設流程，再依系統給予相應的指令\n問題3希望：設定檔希望會有一個example上github",
+                "id": "709986055744470"
+            },
+            {
+                "created_time": "2014-11-12T14:06:09+0000",
+                "from": {
+                    "name": "駱勁成",
+                    "id": "10154935361642202"
+                },
+                "message": "林雨緣: 先感謝參與了！\n2 的部分有網友也碰到，正在著手增加，也歡迎幫忙增加\n3 的部分需手動建立local_settings: https:\/\/github.com\/g0v\/councilor-voter-guide#django-settingspy",
+                "id": "709991455743930"
+            },
+            {
+                "created_time": "2014-11-12T14:09:09+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "3的部份我已經手動建立（依據Readme提供的規格）\n錯誤訊息在此：AttributeError: 'Settings' object has no attribute 'ROOT_URLCONF'\n貌似是URL Rewrite的問題，請問還有哪些細節是我該注意的嗎？",
+                "id": "709992645743811"
+            },
+            {
+                "created_time": "2014-11-12T14:21:38+0000",
+                "from": {
+                    "name": "駱勁成",
+                    "id": "10154935361642202"
+                },
+                "message": "可否檢查一下這行 https:\/\/github.com\/g0v\/councilor-voter-guide\/blob\/master\/voter_guide\/voter_guide\/settings.py#L110\n雖然說理論上clone下來應該都一樣...",
+                "id": "709996852410057"
+            },
+            {
+                "created_time": "2014-11-12T14:24:34+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "ok，我找到原因了，因為我是使用git --depth去取得最少資料\n（畢竟整個專案我抓不回來）\n謝謝你的協助，只是整個專案clone不回來還是有點困擾",
+                "id": "709997829076626"
+            },
+            {
+                "created_time": "2014-11-12T14:29:54+0000",
+                "from": {
+                    "name": "駱勁成",
+                    "id": "10154935361642202"
+                },
+                "message": "目前大概180MB，data folder 大概就130MB",
+                "id": "710001205742955"
+            },
+            {
+                "created_time": "2014-11-12T15:34:31+0000",
+                "from": {
+                    "name": "Tim Hsu",
+                    "id": "10215885987722991"
+                },
+                "message": "請問是哪個平台裝失敗呢？ 可以立即整合進 README",
+                "id": "710023895740686"
+            },
+            {
+                "created_time": "2014-11-12T15:41:18+0000",
+                "from": {
+                    "name": "Tim Hsu",
+                    "id": "10215885987722991"
+                },
+                "message": "之前類似的狀況，會把資料另外丟到 Dropbox 去",
+                "id": "710025795740496"
+            },
+            {
+                "created_time": "2014-11-13T04:54:09+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "===以下開始討論UI部份====\n因為是使用Bootstrap2和Semantic UI，所以我先使用現有的東新去動（只動該頁面）",
+                "id": "710307439045665"
+            },
+            {
+                "created_time": "2014-11-13T04:57:09+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "附圖是調整參數後用span6 + margin:0.6410255%;調整結果\n（這數值是Bootstrap2給的，Responsive會在width:960~1200處變成單邊排列）",
+                "id": "710308152378927"
+            },
+            {
+                "created_time": "2014-11-13T05:01:44+0000",
+                "from": {
+                    "name": "Tim Hsu",
+                    "id": "10215885987722991"
+                },
+                "message": "有開 ISSUE 了  https:\/\/github.com\/g0v\/councilor-voter-guide\/issues\/31  這個討論移到 ISSUE 應該會更聚焦",
+                "id": "710308945712181"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

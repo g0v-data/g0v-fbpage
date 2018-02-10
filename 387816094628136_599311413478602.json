@@ -1,0 +1,181 @@
+{
+    "created_time": "2014-03-26T08:48:34+0000",
+    "message": "建立了一個用Sikuli自動備份的工具，目前是以一對一的方式，一台電腦自動定時去備份一個hackpad :)",
+    "story": "唐宗浩 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_599311413478602",
+    "link": "https:\/\/github.com\/g0v\/restore",
+    "description": "restore - auto backup tool",
+    "name": "g0v\/restore",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBIhQ68rzioigUX&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F2668086%3Fs%3D400&cfs=1&_nc_hash=AQCyqRYVy0gRMtDj",
+    "updated_time": "2014-03-27T16:37:14+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "唐宗浩",
+        "id": "1993696087313952"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 34
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-26T08:58:08+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "有哪些pad特別需要備份呢?\n可以集中成一張list嗎?",
+                "id": "599314456811631"
+            },
+            {
+                "created_time": "2014-03-26T12:58:23+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "這裡有 g0v site 底下的備份 \nhttps:\/\/github.com\/g0v-data\/hackpad-backup-g0v\n\n然後 hackpad 也可以連結 dropbox 做備份。  多重管道 (y)",
+                "id": "599370320139378"
+            },
+            {
+                "created_time": "2014-03-26T15:42:04+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "唐宗浩 感謝！我可以很貪心的說，目前所有在 CongressOccupied collection 裡的 pad 都建議備份嗎？因為目前是非常時期啊～\n之前整理的集成頁面（尚不完整但已掃過大部分）https:\/\/g0v.hackpad.com\/-pads--4AKHvZRwM59\nCO collection https:\/\/g0v.hackpad.com\/ep\/group\/EUGv0krDCHk",
+                "id": "599423800134030"
+            },
+            {
+                "created_time": "2014-03-26T15:44:44+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "如果在電腦裡建立虛擬機器，這樣可以用一台電腦自動備份很多個 hackpad 嗎?",
+                "id": "599425280133882"
+            },
+            {
+                "created_time": "2014-03-26T21:22:37+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "鄭文吉 我對虛擬器不熟，可能要麻煩直接試試看了 :)",
+                "id": "599551526787924"
+            },
+            {
+                "created_time": "2014-03-26T21:28:30+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "李俊緯 請問g0v site 底下的備份是多久自動備一次呢? 如果很快的話是不是我們就不必在電腦上用精靈備了?",
+                "id": "599553380121072"
+            },
+            {
+                "created_time": "2014-03-26T23:53:08+0000",
+                "from": {
+                    "name": "Syu Dian-siang",
+                    "id": "1749598841759420"
+                },
+                "message": "虛擬電腦很簡單的",
+                "id": "599593420117068"
+            },
+            {
+                "created_time": "2014-03-26T23:54:03+0000",
+                "from": {
+                    "name": "Syu Dian-siang",
+                    "id": "1749598841759420"
+                },
+                "message": "照他的解釋去操作就好",
+                "id": "599593603450383"
+            },
+            {
+                "created_time": "2014-03-26T23:54:53+0000",
+                "from": {
+                    "name": "Syu Dian-siang",
+                    "id": "1749598841759420"
+                },
+                "message": "需要XP安裝光碟嗎？還是XP的序號",
+                "id": "599593773450366"
+            },
+            {
+                "created_time": "2014-03-26T23:55:19+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "我是用mac",
+                "id": "599593856783691"
+            },
+            {
+                "created_time": "2014-03-26T23:55:32+0000",
+                "from": {
+                    "name": "Syu Dian-siang",
+                    "id": "1749598841759420"
+                },
+                "message": "我有企業版序號可提供喔",
+                "id": "599593893450354"
+            },
+            {
+                "created_time": "2014-03-26T23:56:12+0000",
+                "from": {
+                    "name": "Syu Dian-siang",
+                    "id": "1749598841759420"
+                },
+                "message": "==",
+                "id": "599593996783677"
+            },
+            {
+                "created_time": "2014-03-26T23:56:23+0000",
+                "from": {
+                    "name": "Syu Dian-siang",
+                    "id": "1749598841759420"
+                },
+                "message": "瞭解",
+                "id": "599594020117008"
+            },
+            {
+                "created_time": "2014-03-26T23:57:18+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "晚點用parallel試試看，先修一下記者證",
+                "id": "599594213450322"
+            },
+            {
+                "created_time": "2014-03-26T23:59:33+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "許典翔有空的話或許先跑備份精靈試試看?",
+                "id": "599594670116943"
+            },
+            {
+                "created_time": "2014-03-27T00:06:12+0000",
+                "from": {
+                    "name": "Syu Dian-siang",
+                    "id": "1749598841759420"
+                },
+                "message": "好",
+                "id": "599597113450032"
+            },
+            {
+                "created_time": "2014-03-27T16:37:14+0000",
+                "from": {
+                    "name": "Kuang-che Wu",
+                    "id": "10155699622615379"
+                },
+                "message": "g0v 的 hackpad 每天備份一次. 如果有其他 site 的 hackpad 需要用一樣的方式備份可以跟我說 (或是自己抓程式自己跑)\nhttps:\/\/github.com\/kcwu\/hackpad-backup",
+                "id": "599895470086863"
+            }
+        ],
+        "summary": {
+            "total_count": 17
+        }
+    }
+}

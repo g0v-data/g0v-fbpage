@@ -1,0 +1,55 @@
+{
+    "created_time": "2014-04-18T17:45:26+0000",
+    "message": "剛看到 TonyQ 大大做的反挑針小幫手\n不知道有沒有人願意填 Firefox \/ Safari 的坑？",
+    "story": "Hiraku Wang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_609430702466673",
+    "link": "http:\/\/antispite.tonyq.org\/",
+    "description": "網路上一直充斥著蓄意離題與回應與文章無關，但與其欲打擊的對象有關之留言， 也有部份蓄意謾罵以激起使用者怒火，當使用者回嗆時蒐集資料提出訴訟之訟棍。",
+    "name": "反跳針服務中心",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBnezibVKqJh-Ux&w=130&h=130&url=http%3A%2F%2Fantispite.tonyq.org%2Fimg%2Fexample.png&cfs=1&_nc_hash=AQAxqSkKlTiCKAGo",
+    "updated_time": "2014-04-19T06:14:50+0000",
+    "caption": "antispite.tonyq.org",
+    "from": {
+        "name": "Hiraku Wang",
+        "id": "10210672628676683"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 24
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-18T17:50:38+0000",
+                "from": {
+                    "name": "Hsu Ching Fong",
+                    "id": "2052164491467186"
+                },
+                "message": "我覺得可以跟新聞小幫手合併，變成其中一個功能，可以選擇啟用或關閉",
+                "id": "609432682466475"
+            },
+            {
+                "created_time": "2014-04-19T05:16:00+0000",
+                "from": {
+                    "name": "Hsu Ching Fong",
+                    "id": "2052164491467186"
+                },
+                "message": "不然多開了一個extension, 又多了一個jQuery lib, 會讓loading速度變慢..",
+                "id": "609725829103827"
+            },
+            {
+                "created_time": "2014-04-19T06:14:50+0000",
+                "from": {
+                    "name": "謝昇遠",
+                    "id": "1756436164375869"
+                },
+                "message": "如果可以跟新聞小幫手功能合併似乎是個好選擇！",
+                "id": "609738129102597"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

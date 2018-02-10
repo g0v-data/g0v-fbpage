@@ -1,0 +1,35 @@
+{
+    "created_time": "2016-08-09T06:03:08+0000",
+    "message": "看到美國政府 CIO 跟 CAO (Chief Acquisition Officer) 才剛聯席簽署公布的美國《聯邦政府源碼政策：藉由可重複利用且開放源碼軟體達到效率化、透明度以及創新》備忘錄。\n.\n目前美國政府年度資訊採購花費 $6B，約 42K 次採購，但往往重複購買或無法續用，導致很多資源浪費。\n.\n備忘錄中明確指出，在往後評估資訊需求時，需要經過三個步驟的研究分析：\n\nStep 1 (Conduct Strategic Analysis and Analyze Alternatives)\nStep 2 (Consider Existing Commercial Solutions)\nStep 3 (Consider Custom Development)\n\n除了三步驟外，還需要考量下列諸點：\n\nA. Hybrid Solutions\nB. Modular Architecture\nC. Cloud Computing\nD. Open Standards\nE. Targeted Considerations\n.\n客製軟體 (Custom Development of Software) 則需要滿足以下需求：\n\nA. Secure Rights for Government Reuse and Ensure Delivery of Source Code\n要有能力執行聯邦政府開源等級的源碼客製，且要能夠使用 best practice 確保開源過程和足夠的分享與重複利用。\n\nB. Inventory All Custom-Developed Code and Make It Available Government-Wide\n要維護一個 up-to-date 的 code inventory 並且開源在 https\/\/www.code.gov\n.\n剩下還有滿多的，搬到台灣來用應該一些靠接案維生的公司直接 GG (但另一方面是有能力的廠商可以抬價拿大案子)。\n.\n原文：https:\/\/www.whitehouse.gov\/sites\/default\/files\/omb\/memoranda\/2016\/m_16_21.pdf\n\n關於政府資訊委外預算之前有一個坑在這邊：https:\/\/www.facebook.com\/groups\/g0v.general\/permalink\/1038672876209118\/",
+    "story": "Clement Tang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1041996032543469",
+    "link": "https:\/\/www.whitehouse.gov\/sites\/default\/files\/omb\/memoranda\/2016\/m_16_21.pdf",
+    "name": "www.whitehouse.gov",
+    "updated_time": "2016-08-09T06:34:21+0000",
+    "caption": "whitehouse.gov",
+    "from": {
+        "name": "Clement Tang",
+        "id": "10214020199392779"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 20
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-08-09T06:34:17+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/g0v.hackpad.com\/u8CNOxAvvvF 也有討論過，我是覺得應該讓共通需求能夠培養政府自有開發團隊，過度倚賴採購外包的結果就是許多業務的承辦早就都將需求分析工作交給了外部廠商，導致許多錢花了卻很難用...",
+                "id": "1042016242541448"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

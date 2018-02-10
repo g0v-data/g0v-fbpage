@@ -1,0 +1,46 @@
+{
+    "created_time": "2014-05-07T16:51:42+0000",
+    "message": "政府開放資料應該要有什麼樣的準則，品質該怎樣檢驗？有想法的人，來共筆一下吧：\n",
+    "story": "Kirby Wu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_618833984859678",
+    "link": "https:\/\/g0v.hackpad.com\/529BJcUTTmS",
+    "description": "緣起 5\/2 零時政府參與者 jimmyhuang, muyueh & tkirby 前往科技部參與開放資料座談，座談中提及五星開放資料與資料品質的問題，張善政部長談到請零時政府評估是否可能協助建立資料品質檢測的機制。 由於資料品質定義廣，從資料量、更新頻率、正確性、詳細度、精確度、修改記錄到大家常談論的格式等都屬於品質的一環，希望能夠透過社群討論出一個完整且有效的方式，來提升政府開放資料的整體素質。 *討論 (先隨便列些綱目，請自己加) 政府開放資料應該要注意的地方 *釋出格式應為開放格式 *可建立常見\/推薦格式列表 *程式可讀性 *提供恰當授權",
+    "name": "政府開放資料品質檢驗機制",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQDL0JJ0Gvq8EGPU",
+    "updated_time": "2014-05-08T07:48:09+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Kirby Wu",
+        "id": "10154535277327168"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 22
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-05-08T06:48:55+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "資料品質檢驗...看起來是個好問題，不過，連政治獻金都可以工人ㄈㄈ尺...oh..不是，是人工OCR了，一顆星的開放授權其實還是最基礎且重要的。不過這大概也不歸科技部管就是了。",
+                "id": "619058854837191"
+            },
+            {
+                "created_time": "2014-05-08T07:48:09+0000",
+                "from": {
+                    "name": "Roland Tai",
+                    "id": "1841423529263863"
+                },
+                "message": "政府已經電子化的文件，資料釋出，\n竟然還要靠網友人力，再電子化一次，\n...我們真的是先進國家嗎？",
+                "id": "619067911502952"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

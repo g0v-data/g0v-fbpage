@@ -1,0 +1,71 @@
+{
+    "created_time": "2014-01-16T18:27:44+0000",
+    "message": "一時興起，把這個網頁的資料拆成 json\nparser: https:\/\/github.com\/kiang\/data\/blob\/master\/app\/tasks\/RadiationTask.php\ndata: https:\/\/github.com\/kiang\/data\/raw\/master\/public\/files\/trmc.aec.gov.tw.json\n\n另外有一個民間設置的背景輻射觀測網站 - http:\/\/www.knownuke.tw\/map\/ ，但是裡面的資訊可信度相對薄弱些\n\n希望能夠出現更多第三方公正單位提供的數據...XD",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_568019799941097",
+    "link": "http:\/\/www.trmc.aec.gov.tw\/utf8\/showmap\/taiwan_out.php",
+    "name": "環境輻射監測網",
+    "updated_time": "2014-01-17T05:12:38+0000",
+    "caption": "trmc.aec.gov.tw",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 8
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-16T18:41:03+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "json是個好物XDD",
+                "id": "568023549940722"
+            },
+            {
+                "created_time": "2014-01-17T04:25:47+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "今天下午四點，立院中興館有一場民間輻射地圖製作討論，要來嗎？",
+                "id": "568234763252934"
+            },
+            {
+                "created_time": "2014-01-17T04:47:36+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "張弘憲 不是套圖，是有實際偵測數據能力，像是 http:\/\/publiclab.org\/ 做的事情。\n\nHsiao-hsien Yang 如果 立院中興館 在台南的話 XD",
+                "id": "568238706585873"
+            },
+            {
+                "created_time": "2014-01-17T04:48:52+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Finjon 請參考： https:\/\/g0v.hackpad.com\/91ZImrFjGvx",
+                "id": "568239046585839"
+            },
+            {
+                "created_time": "2014-01-17T05:12:38+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "恩，目前的數據都是來自官方，缺乏第三方公正單位的檢驗，所以會有一言堂的疑慮...",
+                "id": "568243079918769"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

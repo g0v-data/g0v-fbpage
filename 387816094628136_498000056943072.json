@@ -1,0 +1,76 @@
+{
+    "created_time": "2013-08-17T16:31:26+0000",
+    "message": "週末夜不平安。正在忙著補落後的工作進度，忽然又發生一件大事，Flickr 對台灣用戶移除「安全搜尋」選項，現在看到的結果只能是「安全搜尋」下的結果。\n\n是不是有哪位能對這件事進行瞭解？技術方面或是內部說法都好。\n\nP.S. 剛剛註冊 Yahoo! 帳號也發現 blogspot 網址會被判讀成猥褻文字。",
+    "id": "387816094628136_498000056943072",
+    "updated_time": "2013-08-19T15:26:04+0000",
+    "from": {
+        "name": "Hsiao-hsien Yang",
+        "id": "10156175249445984"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 17
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-08-17T16:42:33+0000",
+                "from": {
+                    "name": "Luoh Ren-Shan",
+                    "id": "10213482055980337"
+                },
+                "message": "英文版的說明連韓國都進來了 If your login ID is based in Singapore, Hong Kong, India, Korea, Taiwan or with Maktoob.com you will only be able to view safe content based on your local Terms of Service (this means you won’t be able to turn SafeSearch off).",
+                "id": "498003730276038"
+            },
+            {
+                "created_time": "2013-08-17T16:47:15+0000",
+                "from": {
+                    "name": "Luoh Ren-Shan",
+                    "id": "10213482055980337"
+                },
+                "message": "我準備要發 ticket, 已經慢了一步. 23 小時前已經有 custom care 的人發了.",
+                "id": "498005776942500"
+            },
+            {
+                "created_time": "2013-08-17T16:55:03+0000",
+                "from": {
+                    "name": "Luoh Ren-Shan",
+                    "id": "10213482055980337"
+                },
+                "message": "在後面加了 comment 希望快修, 有顧客在懷疑公司幫助政府箝制網路自由了.",
+                "id": "498008193608925"
+            },
+            {
+                "created_time": "2013-08-17T17:59:49+0000",
+                "from": {
+                    "name": "Luoh Ren-Shan",
+                    "id": "10213482055980337"
+                },
+                "message": "從這篇的comment來看, Tenz Shih大大已經先在處理了. 敬請期待.. https:\/\/www.facebook.com\/dennis.huang2\/posts\/10200895526648503",
+                "id": "498041283605616"
+            },
+            {
+                "created_time": "2013-08-19T02:21:30+0000",
+                "from": {
+                    "name": "Tenz Shih",
+                    "id": "10157128299477306"
+                },
+                "message": "跟大家報告一下最新情形：目前確認這是因為上線前準備工作中發生的問題，台灣這邊將會重新開放安全搜尋選項，但也需要一點時間。謝謝各位對此事的關心。",
+                "id": "498604363549308"
+            },
+            {
+                "created_time": "2013-08-19T15:26:04+0000",
+                "from": {
+                    "name": "Tenz Shih",
+                    "id": "10157128299477306"
+                },
+                "message": "今天中午已恢復正常。",
+                "id": "498819126861165"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

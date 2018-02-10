@@ -1,0 +1,21 @@
+{
+    "created_time": "2016-10-02T16:06:53+0000",
+    "message": "有人用過日本或新加坡的 OpenVZ 架構的 VPS 嗎？最近要搬家了，想試試看 OpenVZ 的套房。",
+    "id": "387816094628136_1087456904664048",
+    "updated_time": "2016-10-02T16:06:53+0000",
+    "from": {
+        "name": "吳政璋",
+        "id": "2009669035713198"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 2
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "created_time": "2013-07-06T17:16:42+0000",
+    "message": "用剛才 Hsin-chan Chien 那份作為範例，寫了一下資料要求步驟。",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_478686125541132",
+    "link": "http:\/\/blog.clkao.org\/post\/54760979509",
+    "description": "台灣政府自 2013 年四月 data.gov.tw 上線後，最大的新聞應該就是：從七月開始，紛紛擾擾的「實價登錄資訊」變成(幾乎)名符其實的 open data 了。雖然目前尚不提供歷史資料，每兩週公布的資料，根據「政府資料開放平臺資料使用規範」應該是可以自由運用了。在此要感謝所有努力過的人，包括政府內部的有識之士，全台實價地圖作為敲門磚的先行者們，還有寫過相關文章闡述 open data...",
+    "name": "開放資料要求三部曲",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBOZXSThemOBoVT&w=130&h=130&url=http%3A%2F%2Fmedia.tumblr.com%2F40b823968d95920143508a6123355f93%2Ftumblr_inline_mpivi2TJIh1qz4rgp.png&cfs=1&_nc_hash=AQCo3_If-l61Il77",
+    "updated_time": "2013-07-06T17:34:53+0000",
+    "caption": "blog.clkao.org",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 9
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-07-06T17:34:53+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "誰要認領一下 http:\/\/www.alaveteli.org\/ 嗎？上次被 Liang-Bin Hsueh 打槍，說是 rails2.. 他們前陣子好像終於換 rails3 (但是 4 又出了... XD)",
+                "id": "478690292207382"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

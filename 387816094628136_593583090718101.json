@@ -1,0 +1,116 @@
+{
+    "created_time": "2014-03-14T17:37:08+0000",
+    "message": "[d3\/c3 坑] http:\/\/env.g0v.tw\/air\/ 現在滑鼠移到測站會出現很醜的過去 24hr 數值了。有沒有人要幫忙美化一下？ cc 零傳媒 \/ 0media",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_593583090718101",
+    "link": "http:\/\/env.g0v.tw\/air\/",
+    "name": "http:\/\/env.g0v.tw\/air\/",
+    "updated_time": "2014-03-17T08:03:38+0000",
+    "caption": "env.g0v.tw",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 24
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-14T17:39:35+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "不過 datapipes 壞掉了... Kang-min Liu 可以幫忙把 graphite cors 打開嗎？",
+                "id": "593583757384701"
+            },
+            {
+                "created_time": "2014-03-14T23:10:49+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "喔喔，我知道問題在哪",
+                "id": "593870164022727"
+            },
+            {
+                "created_time": "2014-03-14T23:11:13+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "我今天可以改一下",
+                "id": "593870277356049"
+            },
+            {
+                "created_time": "2014-03-14T23:45:26+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "我其實剛剛才知道有 c3.js XD\n\n我還不知道 c3 底下要怎改，可是在 d3.js 底下應該是 .x0 或著是 fill\n\n可是現在好像有資料端有東西壞了",
+                "id": "593879797355097"
+            },
+            {
+                "created_time": "2014-03-15T05:42:17+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "感謝 李泰德！現在看起來比較像一回事了 XD width 768 - 100 之間好像可以把 evabox 縮小一下",
+                "id": "593979650678445"
+            },
+            {
+                "created_time": "2014-03-15T06:24:54+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "圖上顯示出實心的點 會跳出這個錯誤  是 bug 嗎?",
+                "id": "593988777344199"
+            },
+            {
+                "created_time": "2014-03-15T06:25:56+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "patch 一下吧... 沒有 dataum.length 的話就不要 chart.load ? :p",
+                "id": "593988974010846"
+            },
+            {
+                "created_time": "2014-03-16T11:44:25+0000",
+                "from": {
+                    "name": "Lunar  Tennoji",
+                    "id": "751509675052437"
+                },
+                "message": "吃便當時間: 粒子擴散的視覺顯示是否可能加入風向與風速參數?這樣在看全區圖時,便能得知這些粒子下一步的去向.",
+                "id": "594563200620090"
+            },
+            {
+                "created_time": "2014-03-17T07:46:23+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "那樣就要設法引入各地氣象站的資料，不知道能不能直接從氣象局網站擷取下來?",
+                "id": "595002267242850"
+            },
+            {
+                "created_time": "2014-03-17T08:03:38+0000",
+                "from": {
+                    "name": "Lunar  Tennoji",
+                    "id": "751509675052437"
+                },
+                "message": "導入中央氣象局資料即可,風速\/風向\/級數皆有.",
+                "id": "595005183909225"
+            }
+        ],
+        "summary": {
+            "total_count": 10
+        }
+    }
+}

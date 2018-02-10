@@ -1,0 +1,29 @@
+{
+    "created_time": "2017-02-15T07:25:35+0000",
+    "message": "台水 \"黑客入寶山-尋寶松\" 已經開始報名了，有興趣的朋友歡迎直接線上報名：\n\nhttp:\/\/www.accupass.com\/event\/register\/1701190804582347581510",
+    "story": "Finjon Kiang shared 江明宗's post to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1221357644607306",
+    "link": "http:\/\/k.olc.tw\/2017\/02\/%e5%8f%b0%e6%b0%b4%e4%be%9b%e6%b0%b4%e7%b3%bb%e7%b5%b1%e5%9c%b0%e5%9c%96%e4%b8%8a%e7%b7%9a\/",
+    "description": "台水供水系統地圖上線\n\n網址： https:\/\/kiang.github.io\/taiwater\/sys\/\n\n台水公司釋出了 \"供水系統供水資料\" ( http:\/\/www.water.gov.tw\/ct.aspx?xItem=153656&CtNode=3395&mp=1 ) ，主要描述著台水公司供水區域的劃分以及對應的供水統計資料，運用這份資料做了簡單的展示地圖，進入畫面就會呈現供水區範圍，點選個別供水區就可以取得該供水區 100~104 年的供水資料。\n\n眼尖的朋友應該可以發現，其實製作出來的地圖有些偏移的情況，目前的猜測是台水的系統跟我們一般常見的地理圖資處理系統不太一樣，我對於這方面還不是非常熟悉，所以只用常見的方式進行資料轉換，也許在黑客松活動中可以有高手幫忙看看這個問題。\n\n台水 \"黑客入寶山-尋寶松\" 已經開始報名了，有興趣的朋友歡迎直接線上報名： http:\/\/www.accupass.com\/event\/register\/1701190804582347581510",
+    "name": "江明宗",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBeebvY_xQjrD22&w=130&h=130&url=http%3A%2F%2Fk.olc.tw%2Fwp-content%2Fuploads%2F2017%2F02%2Fog_image-1024x576.png&cfs=1&_nc_hash=AQCHS-0glUh0py-u",
+    "updated_time": "2017-02-15T07:25:36+0000",
+    "shares": {
+        "count": 2
+    },
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

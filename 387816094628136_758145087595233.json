@@ -1,0 +1,266 @@
+{
+    "created_time": "2015-02-10T02:29:01+0000",
+    "message": "北市都更雲端平台建置 198 萬元招標中，RFP 如附。\n\n看完之後總結就是這個標案要做的就是把 SA 的東西整個委外出去，然後要附帶一個駐點一年的五年年資 SA，月薪 42K，最後要產出一個 105 年真正系統需求的 RFP。\n\n我在想的是這種事情由公民協作會不會比較有效率？不然等到今年底產出 RFP，105 年才能開發系統，等真正系統上線都是 106 年的事情了。\n\n部分資訊節錄如下：\n\n一、 專案緣起\n協助民間更新重建為本府都市再生、都市發展政策的重要執行策略之ㄧ，惟本處因人力不足且人員流動率高，致各承辦人一離職則所辦業務資料保存不易或不完全。又因都市更新法規變動大，承辦人經驗若無法傳承，更新業務將實施困難。故本處亟待開發一系統將各業務科資料加以盤點、分類、儲存及分享，以降低人員異動頻繁所造成的衝擊，對於同仁未來專業知識之增長有極大助益。\n\n二、 專案範圍：\n1. 分析規劃臺北市都市更新雲端平臺需求\n透過專家學者座談會，進行資訊管理議題討論，協助規劃整體作業時程，評估各項軟、硬體採購作業進行方式(統包或分批辦理)，提出專業建議報告。\n2. 建立專業團隊\n結合政府機關及企業顧問之資源，尋求具知識管理資訊系統開發經驗之廠商，提供評估分析、專業諮詢及具體建議，以產出各項採購案需求計畫書初稿。\n\n噢對了，看到一個有趣的是專案工作團隊從計畫主持人開始都要附 LINE ID... 哈哈 :P",
+    "story": "Clement Tang uploaded a file in the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_758145087595233",
+    "updated_time": "2015-02-14T17:36:30+0000",
+    "from": {
+        "name": "Clement Tang",
+        "id": "10214020199392779"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 27
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-02-10T02:44:22+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "沒辦法，這就是現行規定。由市政府做這案子就一定要照採購法來開標招標，之後再依照進度慢慢核撥經費。如果主辦單位敢自己找人做，馬上就會被轟說圖利特定廠商? 錢從哪裡來? 藐視議會....等等\n~當然，如果有不用錢的可用，應該就沒有這些問題。所以如果可以透過公民協作直接生一個平台來用，整個案子就可以省下來了\n~就像他們就沒有另外開標弄一個「北市公務資訊聯繫雲端平台」之類的建置案，直接用LINE來聯繫就行了",
+                "id": "758150017594740"
+            },
+            {
+                "created_time": "2015-02-10T03:46:50+0000",
+                "from": {
+                    "name": "Peter Chung",
+                    "id": "1985004071751728"
+                },
+                "message": "怎麼不委託給g0v做呢",
+                "id": "758164874259921"
+            },
+            {
+                "created_time": "2015-02-10T03:47:19+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "直接委託恐有擋人財路之嫌...",
+                "id": "758164964259912"
+            },
+            {
+                "created_time": "2015-02-10T03:48:14+0000",
+                "from": {
+                    "name": "Peter Chung",
+                    "id": "1985004071751728"
+                },
+                "message": "vtaiwan.tw不就是行政院委託給g0v處理的專案嗎",
+                "id": "758165087593233"
+            },
+            {
+                "created_time": "2015-02-10T03:49:26+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "那應該是開會討論講好的吧?\n~還是有沒有人認識柯P可以直接給他建議一下嗎?",
+                "id": "758165260926549"
+            },
+            {
+                "created_time": "2015-02-10T03:54:50+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "vtaiwan 的淵源也許需要請 唐鳳 說明了，猜測應該是擔任顧問工作去架設平台\n\n基本上也不會出現 \"委託 g0v 處理\" 這種事情，因為 g0v 沒有人啊 XD",
+                "id": "758166690926406"
+            },
+            {
+                "created_time": "2015-02-10T03:55:42+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "所以就算想委託也不知道該委託誰了",
+                "id": "758166907593051"
+            },
+            {
+                "created_time": "2015-02-10T03:58:21+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "應該是可以透過 開放文化基金會 去承接專案，然後僱用 g0v 成員執行，只是正式的專案承接總是會讓問題變得複雜許多，因為要應付許多非關問題的工作，既有坑主也不一定會想跳下來吧",
+                "id": "758167787592963"
+            },
+            {
+                "created_time": "2015-02-10T04:00:41+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "我覺得 KM 系統應該有很多現成的解決方案，為了都更處的需求要自幹一個總覺得有點大費周章，而且效率很低...。",
+                "id": "758168420926233"
+            },
+            {
+                "created_time": "2015-02-10T04:07:52+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "vTaiwan.tw 是標準的 g0v 坑，由 Jaclyn Tsai 來黑客松提案，填坑的朋友執行這個案子（包括我）都沒有收錢，所以成果才能用 CC0 & Open Source license 釋出。\n\nvTaiwan.org.tw 資策會科法所的內容編輯是他們的全職工作。如果收了資策會的委託案，據說現在是沒有開源的先例。\n\n也可以說 vTaiwan.tw 是 vTaiwan.org.tw 的野生官網。",
+                "id": "758170057592736"
+            },
+            {
+                "created_time": "2015-02-10T04:10:25+0000",
+                "from": {
+                    "name": "Ivan Lin",
+                    "id": "10156038515016585"
+                },
+                "message": "這樣應該是可行",
+                "id": "758170834259325"
+            },
+            {
+                "created_time": "2015-02-10T04:11:34+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "另外我接顧問是在有 vTaiwan.tw 案之前... 那只是一個月去 EY 開四小時會的車馬費而已，和專案產出無關。",
+                "id": "758171170925958"
+            },
+            {
+                "created_time": "2015-02-10T04:46:50+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "哈哈哈台北市都市發展局要不要與時俱進阿～ 對於公私協力，除了專家諮詢、聘任委員與委託案、促參方法、與特定產業公會進行諮詢之外？Open Office 先？\n\n都市更新條例爭議多多，還要抱緊處理？這個 198萬的系統是為了都更處內部的公務運作優化，還是說，真心關照生活在台北市的全體人民呢？\n\n聯想到一個 project\n\nURBAN REVIEWER: A New Tool Examining the Legacy of Urban Renewal in NYC\n\nhttp:\/\/596acres.org\/en\/news\/2014\/06\/16\/launch-of-urbanreviewerorg\/\n\nThe data on this map is hosted on CartoDB, and we're grateful for the space they provided for this project. If you would like to find data for a specific borough or plan, you can find the data on GitHub.\n\nhttps:\/\/github.com\/596acres\/urbanreviewer\/tree\/gh-pages\/data\/geojson\/us\/ny\/nyc\/",
+                "id": "758187907590951"
+            },
+            {
+                "created_time": "2015-02-10T08:30:03+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "RFP的RFP...理論上好像是比較好的流程..其實只要作RFP徵文比賽就可以交差了，分成廠商組跟婉君組來試試（誤）...",
+                "id": "758245837585158"
+            },
+            {
+                "created_time": "2015-02-10T08:54:44+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "我想了一天，可能還是要參與單位內的流程才能給比較好的提案。Outsider 大概沒有辦法提供較佳的 solution，所以乖乖走標案吧XD",
+                "id": "758257647583977"
+            },
+            {
+                "created_time": "2015-02-10T09:00:39+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "體驗一週公務員黃金傳說、大小會議開放報名參加、市民與公部門一起進行服務設計工作坊...\n\n市民：什麼時候我們才能一起解任務？",
+                "id": "758258827583859"
+            },
+            {
+                "created_time": "2015-02-11T02:13:15+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "說到駐點，其實這也是抄我們的（誤）：\n\nThe Fellowship program sends teams of civic-minded developers, designers, and product managers into local governments across the country to work full-time for a year in partnership with government officials.\n\nhttp:\/\/www.codeforamerica.org\/about\/fellowship\/",
+                "id": "758634460879629"
+            },
+            {
+                "created_time": "2015-02-11T07:55:35+0000",
+                "from": {
+                    "name": "If Hsu",
+                    "id": "2021625151188492"
+                },
+                "message": "應該先知道到底要怎樣做都更，而不是一味幫助市府提升效率。目前都更條例處於修法過程中，北市府最後提出的修法意見竟是把都更程序中的公聽會為效率降級為說明會，傷害程序保障。再者，目前看來都更條例草案將會越修越狠，不只維持強拆，還可以強制斷水斷電等。修過了台北市不會例外，不知道幫助提高都更處工作效率，對公民（要炒地皮的除外）到底有甚麼好處？",
+                "id": "758740860868989"
+            },
+            {
+                "created_time": "2015-02-11T08:19:03+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "也是，不過目前看來是市府內都更處的人自己的知識管理都有問題了。",
+                "id": "758776820865393"
+            },
+            {
+                "created_time": "2015-02-12T09:02:50+0000",
+                "from": {
+                    "name": "Pei-Cheng Huang",
+                    "id": "2034321466584963"
+                },
+                "message": "都更是圈地行為\n相關的法規記得滿多的\n記得,得都更戶過半數同意\n所以容易衍生出糾紛\n\nhttp:\/\/zh.wikipedia.org\/zh-tw\/%E6%96%87%E6%9E%97%E8%8B%91%E9%83%BD%E5%B8%82%E6%9B%B4%E6%96%B0%E7%88%AD%E8%AD%B0",
+                "id": "759344187475323"
+            },
+            {
+                "created_time": "2015-02-13T02:17:18+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "滋事管理（？\n\n記得把被起訴公務員的資料納入追蹤@@\n\nhttps:\/\/www.facebook.com\/groups\/368972756282\/permalink\/10152231428591283\/",
+                "id": "759722584104150"
+            },
+            {
+                "created_time": "2015-02-14T17:36:30+0000",
+                "from": {
+                    "name": "Peggy Ho",
+                    "id": "1678870928843631"
+                },
+                "message": "Wow!\n不小心看到了國家大事@_@",
+                "id": "760556140687461"
+            },
+            {
+                "created_time": "2016-10-10T21:07:24+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "不曉得現況如何了。",
+                "id": "1094009024008836"
+            },
+            {
+                "created_time": "2016-10-11T09:47:51+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "http:\/\/web.pcc.gov.tw\/tps\/main\/pms\/tps\/atm\/atmAwardAction.do?newEdit=false&searchMode=common&method=inquiryForPublic&pkAtmMain=51572248&tenderCaseNo=104013",
+                "id": "1094561183953620"
+            },
+            {
+                "created_time": "2016-10-11T14:06:49+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "招標 198 萬，底價 197 萬，噗...",
+                "id": "1094704423939296"
+            },
+            {
+                "created_time": "2016-10-12T02:33:15+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "很好奇是怎麼議價的:P",
+                "id": "1095176150558790"
+            },
+            {
+                "created_time": "2016-10-12T05:23:41+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "不過其實底價跟招標價格沒有差太多對廠商是好事，不然有些採購都會砍個 10 - 15% 做業績，如果承辦人當初沒有事先把價格 markup 上去，很容易導致廠商小虧承接。",
+                "id": "1095244367218635"
+            }
+        ],
+        "summary": {
+            "total_count": 27
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "created_time": "2016-08-28T16:47:53+0000",
+    "message": "因為我想給日本的開源社群的人知道台灣的狀況，在翻譯g0v x gov的新挑戰那個文件。\n現在還在我自己的Hackpad作業（還沒完了），請問我可不可以直接加這個到g0v的Hackpad？\n\n",
+    "story": "Hisahiro Omura shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1057020121041060",
+    "link": "https:\/\/hackpad.com\/g0v-gov--GASl1OuFI7Q",
+    "description": "この共有ノートはオープンなライセンスで公開されており、編集の禁止には同意しません。メディアが引用する場合は、以下のライセンス条項を明示してください： CC BY 4.0 g0v contributors at https:\/\/bit.ly\/g0v-autang 由 g0v 貢獻者以創用 CC 姓名標示 4.0 授權，網址：https:\/\/bit.ly\/g0v-autang g0vの貢献者によってクリエイティブ・コモンズ CC BY 4.0 でライセンスされています： https:\/\/bit.",
+    "name": "デジタル政委：g0v × gov の新挑戰",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB-RvGRIu3_9XS0&w=130&h=130&url=https%3A%2F%2Fd29bt26wntaesq.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQCPPYuVdFR6K2mF",
+    "updated_time": "2016-08-31T03:07:51+0000",
+    "caption": "hackpad.com",
+    "from": {
+        "name": "Hisahiro Omura",
+        "id": "1531848126931366"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 36
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-08-28T16:59:09+0000",
+                "from": {
+                    "name": "Poren Chiang",
+                    "id": "2025988234085953"
+                },
+                "message": "只要是相關的都沒問題吧XD 放心加都加（？",
+                "id": "1057026557707083"
+            },
+            {
+                "created_time": "2016-08-28T17:01:31+0000",
+                "from": {
+                    "name": "Hisahiro Omura",
+                    "id": "1531848126931366"
+                },
+                "message": "謝謝你喔",
+                "id": "1057027487706990"
+            },
+            {
+                "created_time": "2016-08-29T01:24:43+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Pad owner 可以用搬移的方法在自己加入的 workspaces 間移動。移到 g0v workspace 搜尋相關字串才能被找到。",
+                "id": "1057525347657204"
+            },
+            {
+                "created_time": "2016-08-29T13:43:48+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "因為原始文件還有可能會更動，可以註明一下最後翻譯更新日期，還有您自己的翻譯貢獻 :)",
+                "id": "1057973477612391"
+            },
+            {
+                "created_time": "2016-08-31T00:53:28+0000",
+                "from": {
+                    "name": "陳彥佑",
+                    "id": "10155053919762274"
+                },
+                "message": "強大DER!",
+                "id": "1059166180826454"
+            },
+            {
+                "created_time": "2016-08-31T03:07:46+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Hisahiro 作法請參考這裡：https:\/\/hackpad.com\/Hackpad-FAQ-tq56fI63mz3#:h=Can-I-move-a-Pad-between-Works",
+                "id": "1059230644153341"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

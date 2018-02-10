@@ -1,0 +1,53 @@
+{
+    "created_time": "2014-03-23T14:14:35+0000",
+    "message": "鑑於目前的文字轉播方式似乎是用 reload 網頁的方式. 如此在心理上力量比較不足. 因為\n\n1. 使用者需要自行 reload\n2. 使用不知道多久要 reload 一次\n3. 如果改成自動 reload, 對  server 負擔又太重.\n\n因此轉播的力道就打了折扣. \n\n我正用台大的伺服器 talk.daiwan.cc (140.112.30.190) 　架設一個即時的聊天室(使用 html5 的 websocket). 希望可以同步轉播到那裡. 就解決以上問題了. 預計一天內完成.  (其實現在已經可以用了, 但要加強一下.)\n\n而如果 g0v 的技術組能將 talk.daiwan.cc 變成 g0v 的頁框之部份, 那麼不影響目前收看 g0v 的使用者之習慣. 而其他不是透過 g0v 收看的人, 也可以加入.",
+    "story": "Farmer Lu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_598002210276189",
+    "link": "http:\/\/140.112.30.190\/",
+    "name": "http:\/\/140.112.30.190\/",
+    "updated_time": "2014-03-23T15:17:16+0000",
+    "caption": "140.112.30.190",
+    "from": {
+        "name": "Farmer Lu",
+        "id": "10155293921413616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 7
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-23T15:02:15+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "已經是自動 reload 了喔",
+                "id": "598038326939244"
+            },
+            {
+                "created_time": "2014-03-23T15:07:53+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "Farmer Lu 其實原本是用 socket.io\/comet 的，因為流量太大才改成靜態 proxy + refresh header。\n\nAnyway, 當然歡迎你的協助! 請參考 https:\/\/github.com\/g0v\/padnews ，最好是能整合 irc 和 hackpad 兩個文字直播源，又能支援目前的流量，一旦架好了在這裡或 IRC 說一聲，就會有人更新 g0v.today 的連結列表。",
+                "id": "598040836938993"
+            },
+            {
+                "created_time": "2014-03-23T15:17:16+0000",
+                "from": {
+                    "name": "Toley Huang",
+                    "id": "10211133994085317"
+                },
+                "message": "是不是受不了崩了阿 讀不到",
+                "id": "598043813605362"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

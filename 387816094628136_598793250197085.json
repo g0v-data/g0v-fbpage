@@ -1,0 +1,76 @@
+{
+    "created_time": "2014-03-25T05:19:33+0000",
+    "message": "這次活動很多人體會到通訊不良導致資訊傳遞錯誤及不即時。IOS在3G網路壅塞或惡意遮斷的環境下可以使用FireChat來做資訊傳遞的工作，Android平台雖然有Telegram，但Telegram需要聯絡人的電話號碼才可以溝通。不知道有無類似FireChat的軟體呢？",
+    "id": "387816094628136_598793250197085",
+    "updated_time": "2014-03-25T15:01:14+0000",
+    "from": {
+        "name": "HaoYen Wei",
+        "id": "10215584494714274"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 7
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-25T05:45:54+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "open garden",
+                "id": "598797950196615"
+            },
+            {
+                "created_time": "2014-03-25T05:46:59+0000",
+                "from": {
+                    "name": "Simon Pai",
+                    "id": "10154930548076403"
+                },
+                "message": "open garden 上次廣場松測的結果是不太行?",
+                "id": "598798093529934"
+            },
+            {
+                "created_time": "2014-03-25T05:47:55+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "不過後來隔天好像有聽到說有人測試是 ok 的，可以實測一下",
+                "id": "598798180196592"
+            },
+            {
+                "created_time": "2014-03-25T06:06:42+0000",
+                "from": {
+                    "name": "Francis Paul",
+                    "id": "10204199334019403"
+                },
+                "message": "BIS network ?",
+                "id": "598801620196248"
+            },
+            {
+                "created_time": "2014-03-25T06:20:30+0000",
+                "from": {
+                    "name": "Jia-Hong Henry Lee",
+                    "id": "1661806887206914"
+                },
+                "message": "http:\/\/firebase.github.io\/firechat\/",
+                "id": "598803403529403"
+            },
+            {
+                "created_time": "2014-03-25T15:01:14+0000",
+                "from": {
+                    "name": "Sandy Chiu",
+                    "id": "10208997059117585"
+                },
+                "message": "open garden 還是要有網路才行(我看他介紹是shares Internet connections，這意味著其中一人還是要有對外的網路？沒有測我不敢斷言)，以那周邊 3G 網路整天爆炸的狀態來說真的很難，本以為要等FireChat 有了 Android 版本才能讓 Android user 也享用好處，稍早靈機一動隨手找了一下，原來 Google Play 上早有很多以藍牙作為傳輸媒介的聊天工具，剛剛跟朋友測試了13款，終於有一款是我心目中認為好用又方便的，晚點會有簡易教學跟介紹！",
+                "id": "599021123507631"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

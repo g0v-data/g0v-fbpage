@@ -1,0 +1,41 @@
+{
+    "created_time": "2016-04-16T10:11:51+0000",
+    "message": "這是日本 osm 社群針對九州地震開設的群組，如果有熟悉日文的朋友不妨將其中看到的問題帶出來，也許可以結合 g0v 過去做過的東西",
+    "story": "Finjon Kiang shared a group to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_972831149459958",
+    "updated_time": "2016-04-19T00:27:50+0000",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 39
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-04-18T04:40:06+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "\" 因為交通中斷，物資難以送入災區，已經送達的物資又因為行政混亂、人手不足等等因素，無法迅速送到有需要的人手上。\n\n有志工的需求，但是又因為餘震不斷，暫時婉拒外縣市志工(不確定發文此時是否已經開放外縣市志工)。\n\n有不少缺物資向外請求的訊息，但是有時不是物資未進到熊本，是未能即時分配。\"\n\nhttps:\/\/www.facebook.com\/groups\/japantaiwan\/permalink\/1093743293997704\/",
+                "id": "973862232690183"
+            },
+            {
+                "created_time": "2016-04-19T00:27:50+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "有看到新奇的歡迎分享補充 ;) -> https:\/\/g0v.hackpad.com\/0414--8U1OqBzFuu4",
+                "id": "974330252643381"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

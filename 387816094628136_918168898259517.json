@@ -1,0 +1,103 @@
+{
+    "created_time": "2016-01-18T17:53:05+0000",
+    "message": "重新用六角座標[1]畫了一次選區簡圖，如果想做一些動態視覺化的話可以直接用。（現在看到 wikipedia 和 economist 上，還有另一個英國人畫的應該都是用手畫的，沒辦法在上面做變化）\n\nhttp:\/\/bl.ocks.org\/clkao\/3ebd5eab1b5be9bd664a\n\n基本上就是每個選區一個座標: https:\/\/gist.github.com\/clkao\/3ebd5eab1b5be9bd664a#file-index-coffee-L12\n\nTODO: topojson 加上縣市邊界，還有加上大安溪、大肚溪、濁水溪示意\n\n[1] https:\/\/stackoverflow.com\/questions\/2049196\/generating-triangular-hexagonal-coordinates-xyz",
+    "id": "387816094628136_918168898259517",
+    "updated_time": "2016-01-19T04:07:35+0000",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 127
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-01-18T17:57:27+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "許願：做一個真實地圖和這個圖之間的 transform (就是先把原來選區的 polygon 切很多個等分點，對應到六角形上）",
+                "id": "918170311592709"
+            },
+            {
+                "created_time": "2016-01-18T18:04:35+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "許願：每個六角形中放上當選人大頭貼",
+                "id": "918173378259069"
+            },
+            {
+                "created_time": "2016-01-18T18:07:16+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "許願：依照投票人口縮放六角形，表現票票不等值 (連江一票 = 新竹 40 票)",
+                "id": "918174191592321"
+            },
+            {
+                "created_time": "2016-01-19T00:21:29+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "https:\/\/www.facebook.com\/TheEconomist\/photos\/a.10150279872209060.361054.6013004059\/10153882106029060\/?type=3&fref=nf",
+                "id": "918310701578670"
+            },
+            {
+                "created_time": "2016-01-19T02:42:34+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "economist 這個位置都亂放 嘉義放到東邊去了，汐止變成新北最西邊 XD 我比較喜歡這個： https:\/\/t.co\/vlR9LwLNOD",
+                "id": "918349598241447"
+            },
+            {
+                "created_time": "2016-01-19T03:29:51+0000",
+                "from": {
+                    "name": "Silva Shih",
+                    "id": "10156062237088698"
+                },
+                "message": "這是經濟學人智庫做的圖，上週他們在選前預測席次時，就用了同樣的圖。在twitter上跟他們人提到過位置錯亂問題，但他們覺得很好啊 xd",
+                "id": "918374354905638"
+            },
+            {
+                "created_time": "2016-01-19T03:47:33+0000",
+                "from": {
+                    "name": "游知澔",
+                    "id": "616600329330"
+                },
+                "message": "++!",
+                "id": "918378088238598"
+            },
+            {
+                "created_time": "2016-01-19T03:50:18+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "PS: 對六角座標轉換跟各種演算法有興趣的話可以看這個 http:\/\/www.redblobgames.com\/grids\/hexagons\/",
+                "id": "918378664905207"
+            },
+            {
+                "created_time": "2016-01-19T04:07:35+0000",
+                "from": {
+                    "name": "Shoichi Chou",
+                    "id": "10155727226259064"
+                },
+                "message": "有回合制戰略遊戲的感覺 :)",
+                "id": "918381911571549"
+            }
+        ],
+        "summary": {
+            "total_count": 9
+        }
+    }
+}

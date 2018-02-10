@@ -1,0 +1,46 @@
+{
+    "created_time": "2015-05-06T08:21:16+0000",
+    "message": "從 https:\/\/consumer.fda.gov.tw\/Food\/UnsafeFood.aspx?nodeID=170 下載的違規食品資料，雖然看起來像是冰山一角 XD",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_800565456686529",
+    "link": "https:\/\/github.com\/kiang\/consumer.fda.gov.tw\/blob\/master\/list.csv",
+    "description": "working with https:\/\/consumer.fda.gov.tw",
+    "name": "kiang\/consumer.fda.gov.tw",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD-qDopzeJ7SqSp&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F47844%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQBdDqNtXXIDOZBe",
+    "updated_time": "2015-05-09T15:13:52+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 15
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-05-09T06:17:43+0000",
+                "from": {
+                    "name": "Licas Chiou",
+                    "id": "10156054076594054"
+                },
+                "message": "拿這份資料用 d3 將其中部分資料視覺化\n\n1. 處置情形沒有適當編碼相當可惜。\n2. 違規原因裡的\"其它衛生項目不符規定\"有點亂。\n3. 將來或許可以把這份資料和一開始沒查到後來爆炸的案件表放在一起比較看看哪邊有漏洞。\n\n5\/12\n新增和台灣食品安全事件列表的年份比較，其中台灣食品安全事件列表取和 FDA 資料共通年份 2007 ~ 2015。\n\n台灣食品安全事件列表\nhttp:\/\/zh.wikipedia.org\/wiki\/%E5%8F%B0%E7%81%A3%E9%A3%9F%E5%93%81%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6%E5%88%97%E8%A1%A8\n\nSource :\nhttp:\/\/github.com\/licaschiou\/FDA_Food_Standards_Violation\ngh-pages :  \nhttp:\/\/licaschiou.github.io\/FDA_Food_Standards_Violation\/",
+                "id": "801632333246508"
+            },
+            {
+                "created_time": "2015-05-09T15:13:52+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "Hsiaofen Lai",
+                "id": "801765249899883"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

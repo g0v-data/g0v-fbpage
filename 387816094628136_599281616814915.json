@@ -1,0 +1,21 @@
+{
+    "created_time": "2014-03-26T06:14:05+0000",
+    "message": "新加入社團, 希望有些貢獻\n對於今後類似活動有個想法, \n如果能有個即時推播的app讓現場的人下載安裝\n這樣不管對於要公告訊息,策劃臨時活動或是人員調度應該都很方便\n所以小弟用Parse.com做了一個測試程式出來, 目前只有單向的推播\n接下來預計會加入雙向讓現場人員可以回報\n已將目前的進度放上github\n\nhttps:\/\/github.com\/g0vParseTeam\/ParseTest.git\n\n但小弟是Android苦手, 再看看是否有興趣的人可以一起幫忙\n\n另外, Parse.com的後台管理者帳號已經申請好,\n有興趣想測試的人可以私訊我, 我再傳給您\n\nhttps:\/\/www.parse.com\/",
+    "id": "387816094628136_599281616814915",
+    "updated_time": "2014-03-26T06:14:05+0000",
+    "from": {
+        "name": "Kuma Lin",
+        "id": "1923498214331818"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 10
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

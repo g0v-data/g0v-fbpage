@@ -1,0 +1,91 @@
+{
+    "created_time": "2014-04-28T16:18:34+0000",
+    "message": "別讓貧富差距數據消失！\n財政部要停止發布貧富差距分配統計了，理由是「為符合國際慣例，並與國際接軌」？！參考報導：http:\/\/bit.ly\/S24sPx\n\n瞄到黃哲斌先生五味文四之一，發現竟然漏了這麼重要的資料不開放新聞，在坑滿為患的情況下再怒開一坑，徵求法律研究、國際趨勢研究、斧頭幫、數據處理，與視覺化夥伴協力填坑。\n\nhttps:\/\/g0v.hackpad.com\/Ko9q8O2Y1rr",
+    "story": "Hsiao-hsien Yang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_614853325257744",
+    "link": "https:\/\/g0v.hackpad.com\/Ko9q8O2Y1rr",
+    "description": "直指問題 請先看這篇報導，『自今年起，財政部將不再公布依560餘萬綜所稅申報戶算得的10等分位、20等分位所得分配統計，這項廣為各界引用的數據將吹熄燈號，停止發布的理由是「為符合國際慣例，並與國際接軌」』。 缺乏貧富差距分佈，最大的直接影響就是無法（或難以）判斷貧富差距是否惡化，往後將只有總體經濟數據，無法衡量經濟政策的所得重分配效果。 *資料在哪裡 主計總處統計專區家庭收支調查 *不確定不公佈所得分配統計之後，還有沒有資料可以自行生出貧富差距。 *開發資源",
+    "name": "貧富差距數據透明化",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBoev90GUVqvQZ8&w=130&h=130&url=https%3A%2F%2Fg0v.hackpad.com%2Fstatic%2Fimg%2Fhackpad-logo.png&cfs=1&_nc_hash=AQD0IewDm4T6z7-0",
+    "updated_time": "2014-04-29T05:40:24+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Hsiao-hsien Yang",
+        "id": "10156175249445984"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 156
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-28T16:23:48+0000",
+                "from": {
+                    "name": "李柏鋒",
+                    "id": "10156157524664375"
+                },
+                "message": "Gene Hong\n\n明明大部份的先進國家不只畫分 10, 20 分等級, 甚至更高, 所謂的 5 分等級是因為一些資訊不夠開發的國家才這樣做, 而像 World Bank 這樣只好用 \"即使是未開發國家至少大家都有的\" 5 分等級做比較基準, 但他還是有列出 10 分等級的級距阿..\n\n說這是世界潮流, .... 哈哈哈哈...\n\n* world bank distribution of income: http:\/\/wdi.worldbank.org\/table\/2.9\n* 美國圖例: http:\/\/37.media.tumblr.com\/a25740511066fb3ea974bdeeb40bcc02\/tumblr_mht7sopr8g1qg4lyzo1_1280.png\n* 英國圖例: http:\/\/tutor2u.net\/blog\/index.php\/economics\/comments\/life-in-the-middle-income-distribution-in-the-uk\/\n\n這些都不只是 20 分等級阿....",
+                "id": "614856861924057"
+            },
+            {
+                "created_time": "2014-04-28T16:30:38+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Po-Feng 請求協助編輯 hackpad，這方面我實在懂的不多。",
+                "id": "614859155257161"
+            },
+            {
+                "created_time": "2014-04-28T18:10:59+0000",
+                "from": {
+                    "name": "Johnson Hsieh",
+                    "id": "10210772997783127"
+                },
+                "message": "我三月份的舊文正好和這個議題有關，可供參考:)\nhttp:\/\/readata.org\/datasci\/lie-and-statistics\/",
+                "id": "614896878586722"
+            },
+            {
+                "created_time": "2014-04-28T18:14:39+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Johnson 請直接點進 hackpad 分身伐樹，拜託了！",
+                "id": "614898038586606"
+            },
+            {
+                "created_time": "2014-04-28T20:44:56+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Ricky Chou 上次黑客松整理的資料先貼一下吧",
+                "id": "614954745247602"
+            },
+            {
+                "created_time": "2014-04-29T05:29:44+0000",
+                "from": {
+                    "name": "Ricky Chou",
+                    "id": "10156644879134119"
+                },
+                "message": "已貼~~QQ",
+                "id": "615107481898995"
+            },
+            {
+                "created_time": "2014-04-29T05:40:24+0000",
+                "from": {
+                    "name": "Blake HS",
+                    "id": "2098202660401011"
+                },
+                "message": "http:\/\/inequality.org\/inequality-data-statistics\/\n美國有top 1%的資料",
+                "id": "615118871897856"
+            }
+        ],
+        "summary": {
+            "total_count": 7
+        }
+    }
+}

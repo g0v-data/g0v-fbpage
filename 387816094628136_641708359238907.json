@@ -1,0 +1,73 @@
+{
+    "created_time": "2014-06-24T01:47:23+0000",
+    "message": "\"台灣黑客松活動史上最高獎金10萬元的Hack Tainan競賽，共計吸引40隊，106人參與，包含來自成大、台大、中正、東海、崑山科大等大專院校資訊、設計領域的學生，還有程式設計、IT工程師背景的社會人士組隊參賽，以台南主題創意的開源（Open Data）馬拉松型態，在成大33小時不斷電的黑客競賽中，由「沒有人隊」以「台南百年文史地圖APP」獲得第一名，抱回10萬獎金！\"",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_641708359238907",
+    "link": "http:\/\/www.tainan.gov.tw\/tainan\/dep_news.asp?id=8EEE18B1-6DDB-47AA-9638-913ABEFF94F7",
+    "description": "提供臺南市市政新聞、活動公告、社會福利及生活資訊等各項便民服務資訊。",
+    "name": "臺南市政府全球資訊網",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDXQCYCkjPFOOHt&w=130&h=130&url=http%3A%2F%2Fwww.tainan.gov.tw%2Ftainan%2Fwarehouse%2FX10000%2F2014%25E8%2597%259D%25E8%25A1%2593%25E9%2580%25B2%25E5%258D%2580105x105-01.jpg&cfs=1&_nc_hash=AQBaHZ07Kal8Cvm4",
+    "updated_time": "2014-06-24T02:10:30+0000",
+    "caption": "tainan.gov.tw",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 25
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-06-24T01:47:41+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "稍微整理了一下：\nhttps:\/\/g0v.hackpad.com\/-2014-HackTainan--Jb0sDjfc5cq",
+                "id": "641708572572219"
+            },
+            {
+                "created_time": "2014-06-24T01:57:56+0000",
+                "from": {
+                    "name": "Bert Wang",
+                    "id": "861294890742239"
+                },
+                "message": "利害耶。快都來台南玩吧",
+                "id": "641711319238611"
+            },
+            {
+                "created_time": "2014-06-24T02:08:33+0000",
+                "from": {
+                    "name": "Bert Wang",
+                    "id": "861294890742239"
+                },
+                "message": "有些點的位置好像跑掉了。不知有沒有修正的機會",
+                "id": "641714469238296"
+            },
+            {
+                "created_time": "2014-06-24T02:09:21+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "Hsin Yi Chen 還在整理程式碼，就等他囉 ;)",
+                "id": "641714715904938"
+            },
+            {
+                "created_time": "2014-06-24T02:10:30+0000",
+                "from": {
+                    "name": "Bert Wang",
+                    "id": "861294890742239"
+                },
+                "message": "原來如此。如果好了。就可以來推動導覧員來實際實用了",
+                "id": "641715055904904"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

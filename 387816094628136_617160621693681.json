@@ -1,0 +1,31 @@
+{
+    "created_time": "2014-05-03T21:01:11+0000",
+    "message": "5\/3下午參加了g0v  Kirby Wu 的 #d3js 講座，學習適合的工具來提供給參與直播專案的人員實作一些 零時直播整合平台 上夢寐以求的功能。歡迎有興趣的人加入 :3 \n我們會出席2014-5-10 g0v x CCSP 黑客松\n零時直播平台工廠  黑客松 報名意願調查\nhttp:\/\/on.fb.me\/1hpAn1L\n其他project要不要也一起來啊~\nG8V TV直播相關專案資料集中地 http:\/\/hackfoldr.org\/G8VTV\n\n上d3.js之前：\ng8vTV目前可以Demo到以下部分功能：\n以419黑客松當天的華山藝文場地為例，假設我們有直播組在華山各區入口有建立直播，G8V可以呈現如下畫面\nhttp:\/\/i.imgur.com\/iMNgo0f.png?1\n\n利用把背景圖換成華山場地藍圖，並把定點直播畫面拖動到藍圖上相應位置。當鏡頭黑掉、斷掉、被蓋住，監看人員馬上可以在chat聊天室反應，call人去相對應位置處理。\n\n上了d3.js之後：\n我學到有工具可以把上面的範圍擴及全台灣地圖，\n這邊我借用與會強者之一的 李泰德 的 d3.js 專案 Photo Dashboard 抓圖來示範概念。（ 專案網址：http:\/\/muyueh.com\/30\/pixnet\/dashboard.html ）\n\n想像這張地圖上每個會移動的紅點都是趴趴走的機動直播者，而我們點每一個紅點都會出現該直播者的 Ustream \/ Youtube \/ Justin.tv 直播影音畫面，概念呈現如下圖\nhttp:\/\/i.imgur.com\/XkE5xhV.png\n\n也就是說，我們可以利用直播者 手機\/平板 等直播設備的GPS定位，與 該直播者的正在直播的網址作對應，再利用d3.js 即時將 GPS 定位overlay到googlemap上，呈現全台灣地圖遍地開花直播電視牆！\n\n美江語音系統表示：你看，你看，你看看；\n　　　　　　　　　有沒有，覺得，好興奮！ >:o\n\nlast but not least\n把直播地點的GPS放在地圖上，結合g8vTV電視牆，源自於這篇文章\n【挖坑】公民記者轉播地圖\nhttps:\/\/www.facebook.com\/groups\/g0v.general\/permalink\/615165045226572\/?stream_ref=2\n\n歡迎有興趣的人加入 :3 \nG8V直播相關專案資料集中地 http:\/\/hackfoldr.org\/G8VTV",
+    "id": "387816094628136_617160621693681",
+    "updated_time": "2014-05-09T19:01:26+0000",
+    "from": {
+        "name": "鈕克力",
+        "id": "947477968789427"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 18
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-05-09T19:01:26+0000",
+                "from": {
+                    "name": "鈕克力",
+                    "id": "947477968789427"
+                },
+                "message": "【5\/10 g0v x CCSP 支持松】行前通知\n\nHello g0v Contributors,\n\n明天（5\/10 週六）就是《支持松》的舉辦日囉！以下是關於這次黑客松的細節，請大家過目。\n\n【舉辦地點】\n台灣大學資訊工程學系。請從南邊（和電機二館北門相對）的側門進入會場，該門後設有報到處。\n\nhttp:\/\/i.imgur.com\/TP1OTSK.png\n\nhttp:\/\/i.imgur.com\/otLHE2v.png\n\nhttp:\/\/i.imgur.com\/ljCRmzb.png\n【時間流程】\n\n9:00 ~ 9:30 開放進場 1F 南側門 \n9:30 ~ 12:30 Hack for your Faith! B1, R110 \n12:30 ~ 13:30 午餐／交流時間 B1 \n13:30 ~ 18:00 Rush! Rush! Rush! B1, R110 \n18:00 ~ 18:30 Pizza Time／交流時間 B1 \n18:30 ~ 20:30 Show Time! （每組兩分鐘報告時間） R103 \n20:30 ~ 21:00 交流時間 系館 1F \n\n注意事項\n報到時請報報名人報名時使用的名字。較早報名、有回報衣服尺寸的組別，我們會把衣服保留、一起交給報名人；沒有回報過衣服尺寸的組別，則以個人方式領取衣服，先到先挑尺寸。\n若有需要進出系館，衣服會是重要的入場憑證。\n報到後就可以在 B1 或 R110 挑選位子了。現場沒有排定座位，請小組各自盤踞喜歡的位子。\nShow Time 在 18:00 時開放報名，每一組可以用 2 分鐘的時間報告今日戰績。R103 沒有電源且網路不一定穩，請各組在 Show Time 前先充電 + 確認在離線狀況也能報告。\n\n【攜帶物品】\n自己的名牌／Badge。（現場也會提供標籤紙可以寫 + 貼身上）\n電源延長線；若會場提供延長線不夠，可以自己拉電。\n實體網路線；會場會提供 Wifi 與可接網路線的 Switch。需要實體網路的夥伴，建議自備夠長的網路線，並且早點來盤踞 Switch 附近的位子。\n餐具；免洗餐具有限，希望大家可以自備餐具。\n\n會有專門給 hackathon 用的 WIFI SSID。\n請自備延長線與網路線，我們這裡也會盡量準備給沒有帶的參與者。\n地下室會有兩台 24 port switch 置於場地內，若有需要可能要盡量坐得接近 switch 或備齊夠長的網路線。\n\n沒有大家就沒有這次的 Hackathon，感謝大家的踴躍支持！希望大家在這次黑客松能夠盡情填坑 :)\n\nCheers,\nCCSP TA Group",
+                "id": "619703394772737"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

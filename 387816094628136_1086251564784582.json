@@ -1,0 +1,37 @@
+{
+    "created_time": "2016-10-01T07:52:32+0000",
+    "message": "【10\/2電力供需黑客松考前大複習】\n明天就是電力供需黑客松\n不知道參賽者準備的如何\n特別公開進行中專案的雛型\nhttp:\/\/210.61.46.39\/web\/guest\/3\n這明明就是第4題供電資訊視覺化的參考答案\n感謝英丰寶(http:\/\/www.infopower.com.tw\/)的技術支援\n目前正在克服公司內部即時資料的串接與歷史資料的儲存\n(這個可能需要 江明宗 （Finjon Kiang） Saul Peng 的技術指導)\n所以展示的只是測試資料\n不過都可以點選試看看相關功能\n頁面整合了5個網頁並加強了其間的關聯性\n今日電力資訊\nhttp:\/\/www.taipower.com.tw\/content\/new_info\/new_info_in.aspx?LinkID=30\n今日用電曲線(區域別)\nhttp:\/\/www.taipower.com.tw\/content\/new_info\/new_info_in.aspx?LinkID=11\n今日用電曲線(能源別)\nhttp:\/\/www.taipower.com.tw\/content\/new_info\/new_info_in.aspx?LinkID=25\n今日備轉容量率\nhttp:\/\/www.taipower.com.tw\/content\/new_info\/new_info_in.aspx?LinkID=26\n各機組發電量\nhttp:\/\/www.taipower.com.tw\/content\/new_info\/new_info_in.aspx?LinkID=27\n視覺化的目的只是開始\n主要讓大家更瞭解資料間的關聯\n上線後\n下方會增加畫面裡所有資料的下載\n終極目標是開發API讓大家更容易使用\n話說...這黑客松還真血汗!真血汗!真血汗!",
+    "id": "387816094628136_1086251564784582",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=1365915006754754&set=gm.1086251564784582&type=3",
+    "name": "Photos from 林日崧's post",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/14463045_1365915006754754_5095669885437150775_n.jpg?oh=0b9bb034735fe6a0e0a4f27c35ebb7b0&oe=5B1E3CFB",
+    "updated_time": "2016-10-01T08:06:37+0000",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "林日崧",
+        "id": "1907690392577210"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 17
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-10-01T08:06:10+0000",
+                "from": {
+                    "name": "林日崧",
+                    "id": "1907690392577210"
+                },
+                "message": "先前大家提供的意見我們也沒忘\n我們逐步在精進台電網的圖表\n例如\n新版\nhttp:\/\/www.taipower.com.tw\/......\/new_info-c36.aspx......\n舊版\nhttp:\/\/www.taipower.com.tw\/......\/new_info-c36_old......\n以後網站圖表都會逐步改成新版模式\n用google chart畫並加上csv下載而不是只是一張圖",
+                "id": "1086257394783999"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

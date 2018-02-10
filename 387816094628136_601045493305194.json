@@ -1,0 +1,242 @@
+{
+    "created_time": "2014-03-30T03:39:56+0000",
+    "message": "感謝@Luke Sun 支援企業cer，\n還有 的流程圖， ＠黃柏誌，還有g0v的各位的支援。\n初版iOS beta，\n\n（請用手機打開連結）\nhttps:\/\/dl.dropboxusercontent.com\/u\/20472372\/g0v.html\n\n請低調下 XD\n麻煩協助測試，有什麼建議和bug 請到\nhttps:\/\/www.facebook.com\/AntiTaiwanBlackBox\n留言，我會盡力處理 ，（抱歉我是新手沒把握一定能處理掉。 orz)\n\n其實好幾天前就放了，但是後來幾天有點忙碌。\n還有很多要改善的部份，先應急 QQ\n\n有什麼要加的頻道可以在下面留言，我會把它更新。  ＠＠ 謝謝～",
+    "story": "Thor Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_601045493305194",
+    "link": "https:\/\/dl.dropboxusercontent.com\/u\/20472372\/g0v.html",
+    "name": "安裝g0v企業版",
+    "updated_time": "2014-04-01T05:20:36+0000",
+    "caption": "dl.dropboxusercontent.com",
+    "from": {
+        "name": "Thor Lin",
+        "id": "1870568239621204"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 28
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-30T06:44:54+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "更新，追加凱道的直播，請選 0330的版本唷。\n抱歉我只能用這種原始人的方式更新   XDD",
+                "id": "601085773301166"
+            },
+            {
+                "created_time": "2014-03-30T07:03:24+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "開個hackpad來協作吧 ^^",
+                "id": "601089403300803"
+            },
+            {
+                "created_time": "2014-03-30T08:44:55+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "我我先研究一下hackpad怎麼用 XD\n之前有吧github的source先po上了！台灣加油！",
+                "id": "601109569965453"
+            },
+            {
+                "created_time": "2014-03-30T14:03:54+0000",
+                "from": {
+                    "name": "Frank Wu",
+                    "id": "1925216524159186"
+                },
+                "message": "iOS 的話不知道我有沒有辦法幫到忙?\nps. 6.0 是不是無法使用?",
+                "id": "601203763289367"
+            },
+            {
+                "created_time": "2014-03-30T14:07:25+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "6.0沒測過耶... 應該能用才對 (我是7.1)",
+                "id": "601204679955942"
+            },
+            {
+                "created_time": "2014-03-30T14:08:02+0000",
+                "from": {
+                    "name": "Frank Wu",
+                    "id": "1925216524159186"
+                },
+                "message": "應該是專案要改成支援 6.0 設備 不然無法裝!!\n-- 手邊兩台 6.0 無法",
+                "id": "601204836622593"
+            },
+            {
+                "created_time": "2014-03-30T14:09:48+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "等 Thor Lin 開Github來協作吧 ^^",
+                "id": "601205326622544"
+            },
+            {
+                "created_time": "2014-03-30T14:25:46+0000",
+                "from": {
+                    "name": "Richard Wu",
+                    "id": "10208673676674277"
+                },
+                "message": "iOS 7.1 on iPhone 5 看來是正常的",
+                "id": "601210696622007"
+            },
+            {
+                "created_time": "2014-03-30T15:23:02+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "感謝，我剛剛也有想到這點，所以剛剛在抓iOs 6.0的模擬器  非",
+                "id": "601232686619808"
+            },
+            {
+                "created_time": "2014-03-30T15:23:27+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "我先把git hub挖出來唷\nhttps:\/\/github.com\/coolthor\/PracticeProject\/tree\/master\/AntiBlackBox\n請問一下這樣看的到嗎？ :",
+                "id": "601232816619795"
+            },
+            {
+                "created_time": "2014-03-31T13:30:55+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "https:\/\/glassy.hackpad.com\/K6KzZVq4dRp",
+                "id": "601582616584815"
+            },
+            {
+                "created_time": "2014-03-31T13:49:49+0000",
+                "from": {
+                    "name": "Richard Wu",
+                    "id": "10208673676674277"
+                },
+                "message": "03\/31 文字直播抓不到資料了",
+                "id": "601588289917581"
+            },
+            {
+                "created_time": "2014-03-31T13:56:08+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "咦，目前測試是OK的，是否可以測試重開一下，\n因為目前只是讀該網頁，目前看到最後訊息為：\n\n[打字員] 抱歉，前面的「場外」都是「場內」，很不好意思\n\n＠＠",
+                "id": "601589766584100"
+            },
+            {
+                "created_time": "2014-03-31T13:57:32+0000",
+                "from": {
+                    "name": "Richard Wu",
+                    "id": "10208673676674277"
+                },
+                "message": "關閉後重開就正常了",
+                "id": "601590096584067"
+            },
+            {
+                "created_time": "2014-03-31T14:00:25+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "由於對這個語言還不是很熟，我會在研究一下，（我在想是不是休眠後造成的，目前是用url 的request去做的，之前發現會自動更新就沒往下鑽了。 :)）\n\n剛剛在其他的社群發問，有大大支援，所以現在手上的版本（尚未release)可以支援到iOS 6 XD",
+                "id": "601590859917324"
+            },
+            {
+                "created_time": "2014-03-31T14:03:29+0000",
+                "from": {
+                    "name": "Richard Wu",
+                    "id": "10208673676674277"
+                },
+                "message": "我從GitHub Fork下來, 確實可以在iOS 6 Simulator執行",
+                "id": "601591586583918"
+            },
+            {
+                "created_time": "2014-04-01T00:16:31+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "https:\/\/g0v.hackpad.com\/0beLMET4Typ\n更新到g0v的workspace\n位避免混淆 glassy上的會刪除。  :)",
+                "id": "601803839896026"
+            },
+            {
+                "created_time": "2014-04-01T04:17:19+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "被apple  reject 理由是app太簡單，請參考一下偉大的app怎麼做。\n\n以下為全文。  XD\nWe found that your app only provides a very limited set of features. It only allows users to view news events via other streaming channels, but the app provides no additional features. While we value simplicity, we consider simplicity to be uncomplicated - not limited in features and functionality.\n\nWe understand that there are no hard and fast rules to define entertaining, but Apple and Apple customers expect apps to provide a really great user experience. Apps should provide on-going entertaining, draw people in by offering compelling capabilities or content, or enable people to do something they couldn't do before or in a way they couldn't do it before.\n\nWe encourage you to review your app concept and evaluate whether you can incorporate additional content and features to provide a more robust user experience. For information on the basics of creating great apps, watch the video \"The Ingredients of Great Apps\".",
+                "id": "601897609886649"
+            },
+            {
+                "created_time": "2014-04-01T05:04:29+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "辛苦了,  也很不情願的說: 這是意料中事... (攤手)",
+                "id": "601913643218379"
+            },
+            {
+                "created_time": "2014-04-01T05:06:24+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "有時候apple審核會ㄎㄅ到你想打人... (幾個月前有一口氣被退4支app的經驗, 其中一個還是政府單位的案子...)",
+                "id": "601914179884992"
+            },
+            {
+                "created_time": "2014-04-01T05:14:57+0000",
+                "from": {
+                    "name": "Frank Wu",
+                    "id": "1925216524159186"
+                },
+                "message": "喔對…只接網路資料一定被認定太簡單退回…",
+                "id": "601916906551386"
+            },
+            {
+                "created_time": "2014-04-01T05:14:57+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "哈哈，沒關係，反正就改，就當多學幾招。XD",
+                "id": "601916909884719"
+            },
+            {
+                "created_time": "2014-04-01T05:18:14+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "可惜我最近工作太忙無法幫填坑... Orz",
+                "id": "601917489884661"
+            },
+            {
+                "created_time": "2014-04-01T05:20:36+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "不會啦，其實這也是一個很好的學習機會。 XD",
+                "id": "601917879884622"
+            }
+        ],
+        "summary": {
+            "total_count": 24
+        }
+    }
+}

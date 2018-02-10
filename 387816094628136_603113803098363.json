@@ -1,0 +1,46 @@
+{
+    "created_time": "2014-04-04T03:24:19+0000",
+    "message": "用這個來玩直播？www",
+    "story": "Peng  Chan shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_603113803098363",
+    "link": "https:\/\/www.amazon.com\/Amazon-CL1130-Fire-TV\/dp\/B00CX5P8FC",
+    "description": "Amazon Fire TV is a tiny box that connects your HDTV to a world of online entertainment. With a huge selection of TV episodes and movies, voice search that really works, plus exclusive features like Amazon FreeTime, it’s the easiest way to enjoy Netflix, Prime Instant Video, Hulu Plus, low...",
+    "name": "Amazon Fire TV",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCzm8jTh89eNl9T&w=130&h=130&url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F31AMfovGmRL._SS500_.jpg&cfs=1&_nc_hash=AQCPY0bNpEPbpyNn",
+    "updated_time": "2014-04-04T04:05:20+0000",
+    "caption": "amazon.com",
+    "from": {
+        "name": "Peng  Chan",
+        "id": "1598266990293748"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-04T03:44:37+0000",
+                "from": {
+                    "name": "Ginger Chen",
+                    "id": "10211762142914594"
+                },
+                "message": "可以唷",
+                "id": "603120523097691"
+            },
+            {
+                "created_time": "2014-04-04T04:05:20+0000",
+                "from": {
+                    "name": "Cyril Hong",
+                    "id": "10214269764114529"
+                },
+                "message": "可行",
+                "id": "603125253097218"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

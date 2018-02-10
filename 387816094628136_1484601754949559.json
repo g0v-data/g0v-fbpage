@@ -1,0 +1,81 @@
+{
+    "created_time": "2017-11-27T11:33:13+0000",
+    "message": "嗨大家，\n\n最近看到關心空氣議題的公民團體，在拿 Windy.com 與空汙地圖作比較，於是我想何不把他們做在一起。Windy 除了有漂亮的風向視覺化之外，也有溫度、濕度等氣象資訊，或許可以更方便分析空污資訊。\n\n原本嘗試申請 Windy.com 的 API，不過沒有得到回覆，於是換個做法：用 Chrome Extension 插入 JS Code 去操作 Windy.com 的 Leaflet 地圖來繪製。\n\n使用方法是：裝了 extension 後，打開 windy.com ，再點擊插件的 icon，就會將 PM2.5 資訊繪製在 Windy 地圖上，如圖。\n\n專案位址如下：\nhttps:\/\/github.com\/meisheep\/taiwan-pm2_5-map-on-windyty\n\n還沒有上架到 Chrome Store，若有興趣試用的要麻煩自己 clone 下來載入到 chrome之中，謝謝！",
+    "id": "387816094628136_1484601754949559",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=1580600848690361&set=gm.1484601754949559&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/q92\/s130x130\/23844414_1580600848690361_2824172939608982168_n.jpg?oh=8dcd9ebaf8faa23c1a0afab4d7ba6392&oe=5B204A64",
+    "updated_time": "2017-11-28T01:42:38+0000",
+    "shares": {
+        "count": 55
+    },
+    "from": {
+        "name": "楊孟勳",
+        "id": "1667757016641410"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 283
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-11-27T12:26:38+0000",
+                "from": {
+                    "name": "Hông-bûn Hô",
+                    "id": "10215420967141043"
+                },
+                "message": "好強！！這真的太棒了",
+                "id": "1484636118279456"
+            },
+            {
+                "created_time": "2017-11-27T13:35:07+0000",
+                "from": {
+                    "name": "Ling-Jyh Chen",
+                    "id": "10214847577560029"
+                },
+                "message": "太讚了！可否再多一個IDW 的版本呢？感恩不盡！\nhttps:\/\/pm25.lass-net.org\/GIS\/IDW\/",
+                "id": "1484678508275217"
+            },
+            {
+                "created_time": "2017-11-27T13:46:08+0000",
+                "from": {
+                    "name": "Lewis Chen",
+                    "id": "1762087103850104"
+                },
+                "message": "有神 快拜",
+                "id": "1484689978274070"
+            },
+            {
+                "created_time": "2017-11-27T14:43:55+0000",
+                "from": {
+                    "name": "Yun-Chen Chien",
+                    "id": "10214518142641877"
+                },
+                "message": "太帥啦",
+                "id": "1484734178269650"
+            },
+            {
+                "created_time": "2017-11-28T01:05:44+0000",
+                "from": {
+                    "name": "Sean Chang",
+                    "id": "10209365749015673"
+                },
+                "message": "https:\/\/ngis.wra.gov.tw\/NgisWeb\/\n這裡「搶鮮看」裡面有一個類似的功能，是結合地表風場圖和空氣盒子的資訊，空氣盒子的資料是公開的不難找到，不過這些資料畢竟沒有經過QA，僅供參考～另外自然環境資料庫本身的gis圖台也有蠻多有趣的資訊可以看看喔～",
+                "id": "1485127948230273"
+            },
+            {
+                "created_time": "2017-11-28T01:29:19+0000",
+                "from": {
+                    "name": "Chun-hsi Tso",
+                    "id": "10210701341441001"
+                },
+                "message": "太猛了，當初我們為了植入風向到g0v觀測網裡苦惱很久\n結果原來山不轉路轉，反把pm2.5植入風向站就成正解XDDD",
+                "id": "1485142031562198"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

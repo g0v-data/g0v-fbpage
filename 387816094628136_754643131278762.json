@@ -1,0 +1,53 @@
+{
+    "created_time": "2015-02-03T16:42:14+0000",
+    "message": "這是用內政部的人口資料畫的( http:\/\/data.moi.gov.tw\/MoiOD\/Data\/DataDetail.aspx?oid=F4478CE5-7A72-4B14-B91A-F4701758328F )，不過只有去年 4~12 月的資料\n\n這些圖是整理滿 20 歲人口的異動量，全部人口異動量可以看 http:\/\/kiang.github.io\/tw_population\/charts\/chart1.html\n\n只是在想也許從這個數字可以看出選舉動員的情況，所以試著做看看\n\nhttps:\/\/github.com\/kiang\/tw_population 也有過程使用的程式與中間格式資料",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_754643131278762",
+    "link": "http:\/\/kiang.github.io\/tw_population\/charts\/chart2.html",
+    "name": "公民人口異動量曲線圖表",
+    "updated_time": "2015-02-04T17:19:42+0000",
+    "caption": "kiang.github.io",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 30
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-02-03T16:53:24+0000",
+                "from": {
+                    "name": "葉小美",
+                    "id": "10215636703847802"
+                },
+                "message": "選舉結束後某些地區的淨增加量高出一般情況...",
+                "id": "754646537945088"
+            },
+            {
+                "created_time": "2015-02-03T19:32:27+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "剛剛有做了些修正，因為原始資料排序不一樣（2014-12 桃園改制造成），修正前的圖表比較誇張些",
+                "id": "754699524606456"
+            },
+            {
+                "created_time": "2015-02-04T17:19:42+0000",
+                "from": {
+                    "name": "Sheepy Lin",
+                    "id": "1691564610889336"
+                },
+                "message": "有些曲線真是...",
+                "id": "755231021219973"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

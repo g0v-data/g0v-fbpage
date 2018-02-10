@@ -1,0 +1,69 @@
+{
+    "created_time": "2014-05-19T14:15:56+0000",
+    "message": "問題:Google Map API 透明化\n小弟想製作一個類似導航的功能的APP\n因為Map的部分會擋到視線所以想將fragment layout透明化\n使用的裝置為\"UDOO dual\",原意是想製成可以戴在頭上而且能現場轉播的行動裝置(Android)",
+    "id": "387816094628136_624377524305324",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=682974095098541&set=gm.624377524305324&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/10268629_682974095098541_7519776008673681327_n.jpg?oh=7e7460c7075f5757a71bbda946273daa&oe=5B0D0B62",
+    "updated_time": "2014-05-20T04:34:30+0000",
+    "from": {
+        "name": "陳柏翰",
+        "id": "1690637057665568"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 10
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-05-19T14:53:26+0000",
+                "from": {
+                    "name": "Hsing-yu Tsai",
+                    "id": "10215095538762549"
+                },
+                "message": "Google map要半透明應該只能用javascript把所有element都加上\ncss  opacity:0.5 ?",
+                "id": "624391937637216"
+            },
+            {
+                "created_time": "2014-05-19T14:55:08+0000",
+                "from": {
+                    "name": "陳柏翰",
+                    "id": "1690637057665568"
+                },
+                "message": "不好意思我沒說清楚,我們是Android",
+                "id": "624392610970482"
+            },
+            {
+                "created_time": "2014-05-19T15:03:08+0000",
+                "from": {
+                    "name": "Hsing-yu Tsai",
+                    "id": "10215095538762549"
+                },
+                "message": "換個方向操作把直播畫面半透明蓋在地圖上?",
+                "id": "624395560970187"
+            },
+            {
+                "created_time": "2014-05-19T15:44:15+0000",
+                "from": {
+                    "name": "Chun-Pei Huang",
+                    "id": "10210482383608454"
+                },
+                "message": "使用 原有的Theme: android: style\/Theme.Translucent 不知道有沒有用，沒有使用過......詳情請看下面網址\nhttp:\/\/www.360doc.com\/content\/10\/1009\/22\/475245_59725703.shtml",
+                "id": "624412877635122"
+            },
+            {
+                "created_time": "2014-05-20T04:34:30+0000",
+                "from": {
+                    "name": "Alibobo  Liang",
+                    "id": "2029831987295691"
+                },
+                "message": "那就拷貝圖像   過來就好啦~ 因為實務上~~ 你不可能會動太快\n所以只需要 利用location change listener. + accuracy 設定範圍..移動了十公尺後, 再換一張圖就可以了~~我是還沒試過真的去改alpha..不過你要考慮到持久性,.GPS 也應該要跑頻率低一點",
+                "id": "624683740941369"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

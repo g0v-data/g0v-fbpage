@@ -1,0 +1,154 @@
+{
+    "created_time": "2016-06-05T15:04:15+0000",
+    "message": "可能會試著在台南社大開課，但有沒有機會開成或是課程內容等都還沒有一定，就先丟出初步的想法看看大家能否給些建議 ;)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1001521653257574",
+    "link": "https:\/\/g0v.hackpad.com\/--GMeKw612zum",
+    "description": "kiang 剛好有機會在台南社大試著開課，所以慢慢整理一些資料，歡迎各種評論。 預期是 18 週的課程，每週一次 3 小時，希望最後能夠每個人都能產出一些實做性質的東西 為什麼想開這門課？希望帶領學員共同學習甚麼 *過去關心社會議題往往需要耗費大量的心力，在議題變多時參與者就會顯得有些力不從心，或是個別議題經驗傳承不易等 * *運用科技工具的協助，像是網路直播、錄影、協作與電腦自動處理等，公民關心各種社會議題不再有著那麼高的門檻，希望藉由這個課程交流這些資訊工具的運用 *修此門課需具備什麼條件？ ** 不介意課程全程錄影且全程公開上網，且影片使用開放授權",
+    "name": "公民與科技 課程",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQBbByMKcqWNggkP",
+    "updated_time": "2016-06-06T01:18:26+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 35
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-06-05T15:05:30+0000",
+                "from": {
+                    "name": "洪申翰",
+                    "id": "1821411931211758"
+                },
+                "message": "哇！",
+                "id": "1001522113257528"
+            },
+            {
+                "created_time": "2016-06-05T15:06:37+0000",
+                "from": {
+                    "name": "阿旺",
+                    "id": "1542723579156594"
+                },
+                "message": "讚",
+                "id": "1001522553257484"
+            },
+            {
+                "created_time": "2016-06-05T15:11:23+0000",
+                "from": {
+                    "name": "Saul Peng",
+                    "id": "10210715509153638"
+                },
+                "message": "教到程式有點硬",
+                "id": "1001524286590644"
+            },
+            {
+                "created_time": "2016-06-05T15:15:49+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "楊志彬 供參",
+                "id": "1001528036590269"
+            },
+            {
+                "created_time": "2016-06-05T15:17:22+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "「資料+地圖」可能也是社大與學員感興趣的面向\n---\n\n例如：\n都市生態綠網共筆地圖\nhttp:\/\/goo.gl\/QSqTYv\n\n針對都市綠道綠意品質進行踏查與評價，由社區大學進行調查，NGO協助彙整\n\n---\n例如：\n新北市永和社區大學曾開設過在地河流踏查社團，地圖呈現踏查成果\n-\nhttps:\/\/m.facebook.com\/Yunghocc\/photos\/a.10152209923008436.1073741840.164561163435\/10152596099828436\/?refsrc=https%3A%2F%2Fzh-tw.facebook.com%2FYunghocc%2Fphotos%2Fa.10152209923008436.1073741840.164561163435%2F10152596099828436%2F\n\n---\n台南社大過往的 ppgis 推動經驗\nhttp:\/\/tncomu.tw\/modules\/tad_book3\/pda.php?tbsn=9\n\n---\n台南公園工作坊\nhttps:\/\/www.facebook.com\/photo.php?fbid=10156123209395290&set=gm.938910626174407&type=3",
+                "id": "1001529173256822"
+            },
+            {
+                "created_time": "2016-06-05T15:18:16+0000",
+                "from": {
+                    "name": "Ching-Hui Chao",
+                    "id": "1835590239786904"
+                },
+                "message": "社大重視生態",
+                "id": "1001529549923451"
+            },
+            {
+                "created_time": "2016-06-05T15:57:37+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "iOS強烈推薦的APP，就屬這套莫屬了，\n衝組強力推薦！但操作上有些小技巧就是了\nhttp:\/\/teradek.com\/pages\/liveair-solo\n\n如果加上他家的VidiU直播盒，外加強力802.11ac網路的支援，就可以用iPAD搞導播機了，但目前我還在克服一點也就是，如何把頻寬整合做上IoT，還有光纖網路的線路器材部分，\n\nAndroid的話，由於現有的APP都寫得很爛，勘用RTMP的APP也是少的可憐，還有就是只有RTMP，不支援新版的FB直播綁定，一年沒更新了，所以Android可用直播APP相當的有限\nhttps:\/\/play.google.com\/store\/apps\/details?id=com.trial.android.bigve&hl=zh-TW",
+                "id": "1001549576588115"
+            },
+            {
+                "created_time": "2016-06-06T00:25:40+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "我也覺得社大長輩(?)教程式太難\n還是給個 code.org 跟孫子(?)一起學 ?\n我小朋友五年級學校有用 https:\/\/studio.code.org\/hoc\/1\n當補充教材",
+                "id": "1001800706563002"
+            },
+            {
+                "created_time": "2016-06-06T00:50:44+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "絕大部分公司\/政府單位都是用 excel 處理資料\n如果用 excel 資料能夠帶入 primary key , 欄位 的概念\n後面的人就好接手了",
+                "id": "1001811953228544"
+            },
+            {
+                "created_time": "2016-06-06T00:51:19+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "Excel 要$$ ...",
+                "id": "1001812079895198"
+            },
+            {
+                "created_time": "2016-06-06T00:53:02+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "我把它改成 \"google form + google spreadsheet\" 了，應該會比較沒那麼嚇人，寫 MySQL 大概是環繞著自己的實做經驗",
+                "id": "1001813753228364"
+            },
+            {
+                "created_time": "2016-06-06T00:53:35+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "讚讚 !!",
+                "id": "1001813863228353"
+            },
+            {
+                "created_time": "2016-06-06T00:53:54+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "對 其實一樣難 哈哈",
+                "id": "1001814039895002"
+            },
+            {
+                "created_time": "2016-06-06T00:53:56+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "有沒有搔到觀眾的癢處才是重點，觀眾到底想要聽什麼，那就餵養什麼給觀眾",
+                "id": "1001814046561668"
+            }
+        ],
+        "summary": {
+            "total_count": 14
+        }
+    }
+}

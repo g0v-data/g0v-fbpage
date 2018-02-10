@@ -1,0 +1,108 @@
+{
+    "created_time": "2014-01-29T02:47:29+0000",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_573475726062171",
+    "link": "http:\/\/wp.me\/p17Hsv-uL",
+    "description": "「一切歷史都是當代史」，義大歷史學家克羅齊在1917 留下的這句話，對曾花過時間，去耙梳台灣歷史課綱角力的人，…",
+    "name": "歷史課綱到底改了什麼？",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDr64hCoyRKXsgg&w=130&h=130&url=http%3A%2F%2Falberttzeng.files.wordpress.com%2F2014%2F01%2Fhistory-42.jpg&cfs=1&_nc_hash=AQAk0veW84AhbAwQ",
+    "updated_time": "2014-01-29T08:20:34+0000",
+    "caption": "alberttzeng.wordpress.com",
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 29
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-29T03:08:33+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "勤勉之人的手工 diff。",
+                "id": "573481109394966"
+            },
+            {
+                "created_time": "2014-01-29T03:26:21+0000",
+                "from": {
+                    "name": "Albert Tzeng",
+                    "id": "10101089947314011"
+                },
+                "message": "更慘的是，昨晚開始整理時，手上有一個版本還是不能copy的pdf版，得重新打字。整理完才發現教育部的公聽會資料檔，當場冒煙。\n\n其實昨晚整理時，就覺得這應該是g0v最擅長的 (除了第四段) ...",
+                "id": "573485316061212"
+            },
+            {
+                "created_time": "2014-01-29T03:30:30+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "第四段指的是有搬移的部份嗎？（抱歉，深綠底色字有點難閱讀）其實也是可以作。如果有新舊表格文字檔，應該有人可以幫忙",
+                "id": "573486376061106"
+            },
+            {
+                "created_time": "2014-01-29T03:42:01+0000",
+                "from": {
+                    "name": "Albert Tzeng",
+                    "id": "10101089947314011"
+                },
+                "message": "深綠色的字，都出現在下一張表的亮綠色。所以第四張表的真正用途，只是去找出哪些東西被刪除。\n\n我覺得比較困難的地方在於，有些現行課綱中的內容，在新版還是在，只是完全換了一種說法。意義層面（而不只是與語句層次）的比對，還是需要回到人工。",
+                "id": "573489126060831"
+            },
+            {
+                "created_time": "2014-01-29T03:49:02+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "當然，語句標色易於閱讀，是為了讓語意解讀更容易。",
+                "id": "573490866060657"
+            },
+            {
+                "created_time": "2014-01-29T04:38:02+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "意義層面的機器比對可能要等到 Data 出現？http:\/\/en.wikipedia.org\/wiki\/Data_(Star_Trek)",
+                "id": "573502196059524"
+            },
+            {
+                "created_time": "2014-01-29T05:07:03+0000",
+                "from": {
+                    "name": "陳柏儒",
+                    "id": "2020687477948223"
+                },
+                "message": "看照片還以為是馬英丸....",
+                "id": "573508906058853"
+            },
+            {
+                "created_time": "2014-01-29T05:07:52+0000",
+                "from": {
+                    "name": "Albert Tzeng",
+                    "id": "10101089947314011"
+                },
+                "message": "這個聯想還蠻有寓意的",
+                "id": "573509046058839"
+            },
+            {
+                "created_time": "2014-01-29T08:20:34+0000",
+                "from": {
+                    "name": "張弘憲",
+                    "id": "2022548554436723"
+                },
+                "message": "陳柏儒 不可以侮辱Data ...",
+                "id": "573566432719767"
+            }
+        ],
+        "summary": {
+            "total_count": 9
+        }
+    }
+}

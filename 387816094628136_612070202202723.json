@@ -1,0 +1,71 @@
+{
+    "created_time": "2014-04-23T01:19:28+0000",
+    "message": "這是另一個針對政治獻金專案設置的網站，將 Ronny Wang 提供的政治獻金帳戶清單匯入，透過討論區回應的方式可以進行帳戶資料列印與掃描工作的認領或討論。\n\n已經有網友認領了另外兩個帳戶，今天會去監察院挖資料\n\n簡單的說就是一個認領工作的地方，主要的目的是避免有重複認領的情況，也歡迎提供各種意見來推薦哪些帳戶應該提前去處理。\n\n關於政治獻金：\n# 處理 SOP - http:\/\/bit.ly\/PoliticalContribution\n# 目前認領進度 - http:\/\/bit.ly\/ScanProgress\n# 已上傳圖檔處理現況 - http:\/\/bit.ly\/ScanPoliticalContribution\n\n有興趣提供掃描圖檔的朋友可以透過線上表單 https:\/\/docs.google.com\/forms\/d\/108LkUakP8qC5G3AGXMaX8t8d7yklf05M_PBphUqe6vg\/viewform",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_612070202202723",
+    "link": "http:\/\/campaign-finance.g0v.olc.tw\/",
+    "name": "Recent Discussions on g0v 開放政治獻金",
+    "updated_time": "2014-04-25T01:20:43+0000",
+    "caption": "campaign-finance.g0v.olc.tw",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 24
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-23T01:44:08+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "http:\/\/www.ptt.cc\/bbs\/Gossiping\/M.1398217326.A.B06.html\n\n為了避免被刪除找不到，所以備份一下 XD\n\n---\n\n其實這個網址就有提供政治獻金帳戶清單： http:\/\/goo.gl\/pNjfHE\n\n但是這些帳戶的明細，目前監察院只允許申請進入查閱，查閱的結果也只能列印後攜出，\n所以 Ronny 將上述清單資料取出公開\nhttps:\/\/github.com\/ronnywang\/sunshine.cy.gov.tw\n\n他也將取出過程錄製為一個教學提供後面的朋友學習參考\nhttps:\/\/www.youtube.com\/watch?v=E2nG3SqqpTk\n\n接著這份資料生出了下面網站\nhttp:\/\/campaign-finance.g0v.olc.tw\/\n\n這是另一個針對政治獻金專案設置的網站，將 Ronny 提供的政治獻金帳戶清單匯入，透過\n討論區回應的方式可以進行帳戶資料列印與掃描工作的認領或討論，主要的目的是避免有\n重複認領的情況，也歡迎提供各種意見來推薦哪些帳戶應該提前去處理。\n\n網站上已經有朋友認領了兩個新帳戶，準備今天下午過去印出來\n\n如果剛好時間允許，也不介意花點小錢，歡迎共襄盛舉 ;)\n\n關於政治獻金：\n# 處理 SOP - http:\/\/bit.ly\/PoliticalContribution\n# 目前認領進度 - http:\/\/bit.ly\/ScanProgress\n# 上傳圖檔通報位置 - http:\/\/bit.ly\/1lCq4up\n# 已上傳圖檔處理現況 - http:\/\/bit.ly\/ScanPoliticalContribution",
+                "id": "612077218868688"
+            },
+            {
+                "created_time": "2014-04-25T01:16:54+0000",
+                "from": {
+                    "name": "吉古拉",
+                    "id": "2046006315680723"
+                },
+                "message": "是網路的問題還是現在大家都趁上班時間幫忙key?!圖檔慢到一個誇張的地步,昨晚在家key時就已經有點類格了,沒想到到辦公室更慘....",
+                "id": "613032888773121"
+            },
+            {
+                "created_time": "2014-04-25T01:17:35+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "可能看到的人更多了吧，摸魚救國正夯？",
+                "id": "613033252106418"
+            },
+            {
+                "created_time": "2014-04-25T01:19:34+0000",
+                "from": {
+                    "name": "吉古拉",
+                    "id": "2046006315680723"
+                },
+                "message": "Finjon Kiangg 哈哈哈~可能是喔\/\/\/本想說趁現在剛好沒事幫忙一下,沒想到....已經開了兩個分頁,忍不住再開了兩個,這樣會不會害網路更慢啊????",
+                "id": "613034105439666"
+            },
+            {
+                "created_time": "2014-04-25T01:20:43+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "ptt 的神人都說一次開四個視窗以上了，大概大家都這樣子做了吧 XD",
+                "id": "613034385439638"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

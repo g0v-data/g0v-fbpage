@@ -1,0 +1,54 @@
+{
+    "created_time": "2015-09-28T06:03:03+0000",
+    "message": "各位中秋佳節愉快！\n近來小弟我開發了一個 跨平台即時協作的 Markdown 筆記服務\n叫做 HackMD https:\/\/hackmd.io\n目前經過大約一年的努力，昨天釋出一個穩定版本\n還請各位試用看看！附上中文版的介紹：\nhttps:\/\/hackmd.io\/CwYwhgzAbApgHFAtHAnAIzY4awBNkwCsA7ImFCBCHAIxwBMhhIQAAA==\n\n很常看見 g0v 的各位使用共同筆記或是共同討論空間\n不知道大家是否願意多學一種語法來討論？\n希望能夠透過 md 的多樣性、通用性、攜帶性\n進而提供更多不同的便利功能 (例如簡報、文件、部落格等)\n\n目前正在進行大改版，為了能夠更符合大家的需求\n我們想要多收集各位的意見，這裡附上 HackMD 改版的共筆：\nhttps:\/\/hackmd.io\/MYRgTARuYgtMAzAHGWAWMCDssCcBWAUwVi1wiUKwBNqAGAQwYiA=\n\n非常感謝各位的協助！您也可以自己架設一個來玩玩看喔！\nGitHub：https:\/\/github.com\/hackmdio\/hackmd\nFB 粉絲團：https:\/\/www.facebook.com\/TakeHackMD\nTwitter：https:\/\/twitter.com\/hackmdio",
+    "story": "ChengHan Wu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_868658226543918",
+    "link": "https:\/\/hackmd.io\/",
+    "description": "Realtime collaborative markdown notes on all platforms.",
+    "name": "HackMD - Collaborative notes",
+    "updated_time": "2015-09-28T14:48:20+0000",
+    "caption": "hackmd.io",
+    "from": {
+        "name": "ChengHan Wu",
+        "id": "10211473718506311"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 125
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-09-28T06:35:10+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "喜歡右邊自動展開的 TOC :D",
+                "id": "868673459875728"
+            },
+            {
+                "created_time": "2015-09-28T09:29:39+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "又發現一個新的 md collab editor: https:\/\/github.com\/prosemirror\/prosemirror 居然有支援 wysiwyg",
+                "id": "868714023205005"
+            },
+            {
+                "created_time": "2015-09-28T14:47:39+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "好好好　我最喜歡文書作業的工具　看完說明書了　好像很優　再抽空研究好不好用",
+                "id": "868793543197053"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

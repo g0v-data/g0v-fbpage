@@ -1,0 +1,289 @@
+{
+    "created_time": "2014-03-24T12:23:52+0000",
+    "message": "最近很多新加入的朋友，如果一時不知道要做什麼，也許可以幫忙翻譯一下 http:\/\/loomio.org 的中文介面。loomio 是一個新的討論及共識形成平台，最大特點是在討論串中有提案和表決的功能（範例：https:\/\/www.loomio.org\/g\/WmPCB3IR\/motions）。\n希望這樣的工具有助於之後各社團及民間團體的內部溝通及擴大參與。從這裡幫忙翻譯：https:\/\/www.transifex.com\/projects\/p\/loomio-1\/language\/zh_TW\/",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_598416203568123",
+    "link": "https:\/\/www.transifex.com\/projects\/p\/loomio-1\/language\/zh_TW\/",
+    "description": "Translate Loomio into your own language.",
+    "name": "The Loomio translation project on Transifex",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAvgpWaK0GcexdP&w=130&h=130&url=https%3A%2F%2Fds0k0en9abmn1.cloudfront.net%2Fstatic%2Fimages%2Ftx-logo-square.562de6a8f334.png&cfs=1&_nc_hash=AQCVBXs8ExdIsmjS",
+    "updated_time": "2014-03-28T16:14:40+0000",
+    "caption": "transifex.com",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 108
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-24T13:24:36+0000",
+                "from": {
+                    "name": "Emily Ho",
+                    "id": "2005590586124962"
+                },
+                "message": "已加入！一起加油！",
+                "id": "598437120232698"
+            },
+            {
+                "created_time": "2014-03-24T14:13:20+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "main resources 已經 26% -> 40% 了，大家太威了！",
+                "id": "598469390229471"
+            },
+            {
+                "created_time": "2014-03-24T14:15:05+0000",
+                "from": {
+                    "name": "Emily Ho",
+                    "id": "2005590586124962"
+                },
+                "message": "^+++^b   大概是被凌晨的鎮壓激到了",
+                "id": "598470130229397"
+            },
+            {
+                "created_time": "2014-03-24T14:15:43+0000",
+                "from": {
+                    "name": "Emily Ho",
+                    "id": "2005590586124962"
+                },
+                "message": "大家注意語法的引用要按照原本的喔～不然會有點麻煩",
+                "id": "598470276896049"
+            },
+            {
+                "created_time": "2014-03-24T14:19:11+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "可以給個例子嗎? 不太懂, 3Q",
+                "id": "598471406895936"
+            },
+            {
+                "created_time": "2014-03-24T14:19:36+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "另外 loomio 是 open source 的，他們的紐西蘭團隊目前有在群眾募資。若想看到新民主工具更快速的發展，可以直接小額贊助（我知道社群裡已經有幾位衝了）: https:\/\/love.loomio.org\/",
+                "id": "598471573562586"
+            },
+            {
+                "created_time": "2014-03-24T14:22:11+0000",
+                "from": {
+                    "name": "Emily Ho",
+                    "id": "2005590586124962"
+                },
+                "message": "歐歐～就是像 %{who} @{which} <p><\/p><h2><\/h2>這些東西記得要留～跟程式有關",
+                "id": "598473510229059"
+            },
+            {
+                "created_time": "2014-03-24T14:29:20+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "oh, np, 3q",
+                "id": "598476263562117"
+            },
+            {
+                "created_time": "2014-03-24T15:20:22+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "main resource: 56% completed",
+                "id": "598495430226867"
+            },
+            {
+                "created_time": "2014-03-24T17:07:23+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "main resource: 90% completed, 沒力了... see you tomorrow~~",
+                "id": "598537533555990"
+            },
+            {
+                "created_time": "2014-03-24T17:07:42+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "感謝高手卯起來翻, 速度超快ㄉ",
+                "id": "598537603555983"
+            },
+            {
+                "created_time": "2014-03-24T18:52:12+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "超讚的啦大家！（上次看還只有26%）",
+                "id": "598575123552231"
+            },
+            {
+                "created_time": "2014-03-24T19:01:06+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "接下來要請熟 rails 的幫忙開 PR 了，不確定一般是用 zh-Hant, zht 還是 zh_TW ?",
+                "id": "598577436885333"
+            },
+            {
+                "created_time": "2014-03-24T19:06:10+0000",
+                "from": {
+                    "name": "Johnson Liang",
+                    "id": "1639694792780135"
+                },
+                "message": "rails 好像是 zh-TW 喔～",
+                "id": "598579080218502"
+            },
+            {
+                "created_time": "2014-03-24T19:18:21+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "猜了三個還猜錯... WangShen Lu 就拿送此 PR 來當新人面試的考題好了?",
+                "id": "598587556884321"
+            },
+            {
+                "created_time": "2014-03-25T02:28:33+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Loomio 來信說已經 deploy 了，ㄒ面可以選語言了！https:\/\/www.loomio.org\/g\/WmPCB3IR\/motions?locale=zh-Hant",
+                "id": "598742016868875"
+            },
+            {
+                "created_time": "2014-03-25T03:56:41+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "大家加油，這翻譯平台比古時候的好用多了 XD",
+                "id": "598774163532327"
+            },
+            {
+                "created_time": "2014-03-25T05:09:44+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "有在幫忙翻譯的朋友可以加入這個討論串：https:\/\/www.loomio.org\/d\/pTn0lEWY\/chinese",
+                "id": "598790156864061"
+            },
+            {
+                "created_time": "2014-03-25T07:06:00+0000",
+                "from": {
+                    "name": "楊雅筑",
+                    "id": "1711995538820504"
+                },
+                "message": "剛剛看到已經翻完了，接下來就等校閱，辛苦各位了。",
+                "id": "598812890195121"
+            },
+            {
+                "created_time": "2014-03-25T07:31:23+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "在翻譯過程中很龜毛地把詞彙表與譯文的 position 都改成「立場」而不是觀點，不知道這翻譯工具的用語怎麼協調 XD",
+                "id": "598817326861344"
+            },
+            {
+                "created_time": "2014-03-25T15:17:54+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "到上面那個 group 討論吧",
+                "id": "599026486840428"
+            },
+            {
+                "created_time": "2014-03-25T15:38:19+0000",
+                "from": {
+                    "name": "Hammer Chen",
+                    "id": "10215174609975873"
+                },
+                "message": "沒跟到",
+                "id": "599033816839695"
+            },
+            {
+                "created_time": "2014-03-26T06:15:57+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "請有意參與翻譯的大家來玩玩看，我開了一個討論串來練習\n敬請加入玩玩\nhttps:\/\/www.loomio.org\/d\/W6buDwvc\/position",
+                "id": "599281943481549"
+            },
+            {
+                "created_time": "2014-03-27T05:51:18+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "陳正閔 現在可以參與修整翻譯",
+                "id": "599688780107532"
+            },
+            {
+                "created_time": "2014-03-27T09:35:39+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "Cc Phoebe Tsai",
+                "id": "599733480103062"
+            },
+            {
+                "created_time": "2014-03-28T13:20:23+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "https:\/\/www.loomio.org\/?locale=zh\n首頁、系統、與說明文件都已經是中文介面，可以進來玩了",
+                "id": "600303820046028"
+            },
+            {
+                "created_time": "2014-03-28T15:43:03+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Hsin-lin Cheng 似乎可以在上面成立一個 loomio 中文使用者社群？讓大家在上面用交流使用心得跟問題？",
+                "id": "600347506708326"
+            },
+            {
+                "created_time": "2014-03-28T16:12:51+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "Chia-liang Kao 已成立（把之前討論翻譯的改個名） XD\nLoomio 正體中文使用者社群：\nhttps:\/\/www.loomio.org\/g\/DMHSrLTl\/loomio?locale=zh",
+                "id": "600355503374193"
+            },
+            {
+                "created_time": "2014-03-28T16:14:40+0000",
+                "from": {
+                    "name": "Hsin-lin Cheng",
+                    "id": "10155509164913198"
+                },
+                "message": "不過我比較期待他們募資成功弄出 mobile app，感覺很方便\n（剛不小心搬移討論串測出 bug ...）",
+                "id": "600355876707489"
+            }
+        ],
+        "summary": {
+            "total_count": 29
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "created_time": "2014-08-18T14:21:32+0000",
+    "message": "https:\/\/facebook.com\/story.php?story_fbid=1450250165257925&id=100008188663228",
+    "id": "387816094628136_668236959919380",
+    "updated_time": "2014-08-18T14:21:32+0000",
+    "from": {
+        "name": "Ted Hung",
+        "id": "10159926195620287"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 17
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "created_time": "2013-08-05T12:35:45+0000",
+    "message": "不曉得來這裡獻醜好不好> <，我是資訊系的學生\n剛剛看到 http:\/\/goo.gl\/oWpHi4 的分享\n真的覺得,這就是我心中想做的東西呀！！\n\n而我在大四下的時候和我的同學做了一個project\n名叫Newstracker，我們希望做到的就是用關鍵字去追蹤新聞\n以瞭解整建個新聞事件的來龍去脈\nDemo Version: \nhttp:\/\/140.112.251.126\/newstracker\/search_knn.php\n\nex. 輸入：\"毒澱粉\"  就會有時間軸出現\n不過說真的，我們還沒有做的很好，我很想改進它，但我剛出國一個月回來，很多事情都還沒處理好，剛剛看到這個slide提出這樣的想法，真的覺得跟我的好像，如果可以，真的希望可以幫上什麼忙！\n\n不過我是剛剛加入台灣零時政府的人，可能犯了什麼錯誤，還請多多指正！\n如果這篇不應該放在這裡的話，請馬上告訴我，我會放在對的地方的！\n\n其他細節：\n資料庫裡面目前其實只有20幾萬篇新聞，而且我的crawler已經停止運作一個月\n所以新聞應該都會是6月以前的><",
+    "id": "387816094628136_491753537567724",
+    "updated_time": "2013-08-06T03:59:24+0000",
+    "from": {
+        "name": "Wei-Ming Chen",
+        "id": "1758545054164994"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 38
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-08-05T12:41:03+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "可以加入零時政府檔案管理局.... CC 黃雋",
+                "id": "491755047567573"
+            },
+            {
+                "created_time": "2013-08-05T12:48:23+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "要不要把 code 先整理好，用任何一種符合 open source 原則的 license，然後丟上 github    :)",
+                "id": "491757087567369"
+            },
+            {
+                "created_time": "2013-08-05T12:51:00+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "yes，看能不能open source，再來重整一下。另可參考\nhttp:\/\/angry.g0v.tw\/",
+                "id": "491757827567295"
+            },
+            {
+                "created_time": "2013-08-05T13:13:54+0000",
+                "from": {
+                    "name": "Kuang-che Wu",
+                    "id": "10155699622615379"
+                },
+                "message": "抓新聞的部分也許也可以跟 newsdiff project 交流一下",
+                "id": "491764107566667"
+            },
+            {
+                "created_time": "2013-08-05T13:17:22+0000",
+                "from": {
+                    "name": "Wei-Ming Chen",
+                    "id": "1758545054164994"
+                },
+                "message": "好的  我會盡快整理code! \n請問一下 Kuang-che Wu 你說的那個project要怎麼進去呢?",
+                "id": "491767920899619"
+            },
+            {
+                "created_time": "2013-08-05T13:18:23+0000",
+                "from": {
+                    "name": "Kuang-che Wu",
+                    "id": "10155699622615379"
+                },
+                "message": "我一時找不到, 誰可以幫忙一下?",
+                "id": "491768207566257"
+            },
+            {
+                "created_time": "2013-08-05T13:18:43+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "newsdiff是吧？呼叫 呂昭寬",
+                "id": "491768287566249"
+            },
+            {
+                "created_time": "2013-08-05T13:27:56+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "http:\/\/tinyurl.com\/mxbxpth 先看一下影片",
+                "id": "491770597566018"
+            },
+            {
+                "created_time": "2013-08-05T13:36:03+0000",
+                "from": {
+                    "name": "Cliff Chao-kuan Lu",
+                    "id": "10208698307095405"
+                },
+                "message": "hi, news-diff 本質是 news crawler & parser，但我們會重抓已經有的文件，比對稿件內容是否變動。Parser 在 7 月後半趕工重寫，目前穩定運作，而且每 15 分鐘都會 throw Exception XD\n\n未來我們會透過 API 給 鄉民關心你 提供資料 (新聞、關鍵字比對等，可能靠 sphinx)，後端資料會移到世界奇觀 (一個 Graph Data project)。\n\n新聞內容方面，我們的前身 (news-pac, by Rad) 應該有持續在抓新聞；而另一個併行專案 (cassi，做新聞討論) 聽說也有做 crawler，拼湊起來應該能避免大時間段內的取樣空白。\n\n目前 鄉民、news-diff、世界奇觀 三個計畫都在猛烈徵人。news-diff host 在 github (clifflu\/news-diff)，有興趣的話可以看看 XD 另外提供資料給我們負責維護也是可以的。\n\n我這邊的近期計劃是兩週左右完善 input (refactor，修掉目前編碼問題)，兩週左右寫出基本 output api 與示範頁面 (篩選變動過的內文並列表顯示)，然後花 1-2 週手動把 rad 的資料匯入。",
+                "id": "491772600899151"
+            },
+            {
+                "created_time": "2013-08-05T14:00:13+0000",
+                "from": {
+                    "name": "Mervyn Wang",
+                    "id": "1818357461509930"
+                },
+                "message": "這個不錯, 資料來源可以擴大嗎?",
+                "id": "491778840898527"
+            },
+            {
+                "created_time": "2013-08-05T14:11:14+0000",
+                "from": {
+                    "name": "Kuang-che Wu",
+                    "id": "10155699622615379"
+                },
+                "message": "若寫一份文件, 說要改那幾個檔案, 用那些 class 填哪些欄位. 就可以號召會 python 的人寫其他新聞網站的 parser",
+                "id": "491781540898257"
+            },
+            {
+                "created_time": "2013-08-05T14:54:30+0000",
+                "from": {
+                    "name": "Cliff Chao-kuan Lu",
+                    "id": "10208698307095405"
+                },
+                "message": "Mervyn Wang 增加 parser 目前問題不大，比較怕錯誤與修改可能要有人能處理，不然就要像 Greg KH 一樣，一個上午打 12 隻 patch :p\n我對 \"解析失敗\" 的處理邏輯近期會做些修正，這是第一期 refactor 的主要目標。系統此後對這類問題的處理能力會較強，或許比現在適合猛烈擴張 parser (ctlr)。\n\nKuang-che Wu 多謝建議；雖說現在打算是寫在 doc\/ 底下，但好像 github wiki 更適合。我有預想群眾協作 ctlr 的需求，因此其實作已盡可能簡化。各位覺得有什麼需要改進也歡迎提出。小弟算是 python 菜鳥，趁人少、扣少的時候修正，比較省時間 XD",
+                "id": "491796464230098"
+            },
+            {
+                "created_time": "2013-08-05T15:15:12+0000",
+                "from": {
+                    "name": "Cliff Chao-kuan Lu",
+                    "id": "10208698307095405"
+                },
+                "message": "啊，我可能會錯 Mervyn 的意了 XD 若如此請別介意",
+                "id": "491802970896114"
+            },
+            {
+                "created_time": "2013-08-06T03:39:35+0000",
+                "from": {
+                    "name": "Mervyn Wang",
+                    "id": "1818357461509930"
+                },
+                "message": "沒有會錯意, 是用 python 寫得??",
+                "id": "492125340863877"
+            },
+            {
+                "created_time": "2013-08-06T03:59:24+0000",
+                "from": {
+                    "name": "Cliff Chao-kuan Lu",
+                    "id": "10208698307095405"
+                },
+                "message": "Mervyn Wang https:\/\/github.com\/clifflu\/news-diff\ncrawler 與 parser 都是 python，api 我想用 django ，但若有熱血伐木工跳進來想用 K 語言接手也 ok，先搶先贏！\n\nController (crawler + parser) 有盡可能簡化，可以參考 https:\/\/github.com\/clifflu\/news-diff\/blob\/master\/ctlr\/coolloud\/ctlr_20130726.py 。最近有空會把 19, 20 兩行 (if (hits), build new lxml tree) 簡化合併",
+                "id": "492130910863320"
+            }
+        ],
+        "summary": {
+            "total_count": 15
+        }
+    }
+}

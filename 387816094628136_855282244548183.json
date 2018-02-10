@@ -1,0 +1,46 @@
+{
+    "created_time": "2015-08-30T15:53:56+0000",
+    "message": "疾管暑釋出了 1998 至今的登革熱病例資料 - http:\/\/nidss.cdc.gov.tw\/download\/Dengue_Daily.csv\n\n雖然看起來這份資料還需要做些清理，但對於有興趣研究的朋友應該是個不錯的資料來源",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_855282244548183",
+    "link": "https:\/\/hackpad.com\/CDC-RCq1iirBb6N",
+    "description": "（緣由 & 討論串來源：LINK ） 需求列表 *希望村里可以使用主計總處代碼 *大約年齡、性別欄位釋出 *重症者居住的集中區域 以及 重症治療的醫療院所　(如果能配合街道地圖, 可以決定防治的重點區域) *順便問了一下目前CDC的資料取得流程 *以下感謝CDC劉醫師仔細說明~~~ * 台南市產生資料的方式我不太清楚，我講一下我們CDC。有關登革熱資料的產生的流程可分三段， 1.",
+    "name": "CDC登革熱資料需求",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB-RvGRIu3_9XS0&w=130&h=130&url=https%3A%2F%2Fd29bt26wntaesq.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQCPPYuVdFR6K2mF",
+    "updated_time": "2015-09-09T06:44:39+0000",
+    "caption": "hackpad.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 29
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-09-04T15:40:51+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "後來疾管署自己做了個地圖： http:\/\/cdcdengue.azurewebsites.net\/\n\n從這個地圖爬到了病例的最小統計區中心點座標：\nhttps:\/\/github.com\/kiang\/TainanDengueMap\/blob\/gh-pages\/cdc\/points.json\n\n可以做進一步的分析",
+                "id": "857766434299764"
+            },
+            {
+                "created_time": "2015-09-09T06:44:39+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "用上面資料做了簡單的示範\n\nhttps:\/\/www.facebook.com\/k.olc.tw\/photos\/a.373836309456505.1073741829.282921805214623\/489550507885084\/",
+                "id": "860127914063616"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

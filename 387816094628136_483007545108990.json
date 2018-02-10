@@ -1,0 +1,45 @@
+{
+    "created_time": "2013-07-16T16:50:53+0000",
+    "message": "想處理 open legislation or open government directory 的朋友，不妨關注 Popolo 這個計畫，以便日後和國際接軌。（該計畫已經被 mySociety, Sunlight & OKFN 採用）\n\nThe goal of the Popolo project is to author, through community consensus, international open government data specifications relating to the legislative branch of government. \n\n然而，根據計畫發起人 James McKinney 剛剛寄來的信，本計劃目前重點在於處理政府組織的「人事時地物」，而非法律條文。",
+    "story": "Chia-Kai Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_483007545108990",
+    "link": "http:\/\/popoloproject.com\/",
+    "description": "A data specification for open government data",
+    "name": "The Popolo Project",
+    "updated_time": "2013-07-17T00:38:38+0000",
+    "caption": "popoloproject.com",
+    "from": {
+        "name": "Chia-Kai Liu",
+        "id": "2006145672758812"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-07-16T17:35:28+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "將會和這份規格接軌的實作計畫，比較有趣的應該是強者我朋友 @evdb 的 popit, 在 http:\/\/popit.mysociety.org\/ 有 hosted version, 可以自己開一個 domain 來編輯公開人物資料，之後會能用 popolo 格式存取。",
+                "id": "483024031774008"
+            },
+            {
+                "created_time": "2013-07-17T00:38:38+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "日前已經接鬼？XD",
+                "id": "483171845092560"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

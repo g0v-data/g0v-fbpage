@@ -1,0 +1,21 @@
+{
+    "created_time": "2012-12-01T06:39:09+0000",
+    "message": "請大家幫忙加人進來！",
+    "id": "387816094628136_387816631294749",
+    "updated_time": "2012-12-01T06:39:09+0000",
+    "from": {
+        "name": "Kirsten Liu",
+        "id": "10155360770811527"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 1
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

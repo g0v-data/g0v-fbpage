@@ -1,0 +1,57 @@
+{
+    "created_time": "2017-07-01T08:17:32+0000",
+    "message": "大家好,\nso this morning I gave a brief presentation on Foodsharing Taiwans foodsaving tool.\nFoodsaving Taiwan is a project to fight food waste in Taiwan by enabling people to p2p share food, by organising cooperations with food retailers to pick up their surplus food and by setting up public fridges all over Taiwan. \nCheck our facebook group here: https:\/\/www.facebook.com\/foodsharingtaiwan\nIn Germany all this is organised through a website (www.foodsharing.de), which just exists in german so far. So to give people all over the world the chance to use foodsharing in their countries we are currently working on a international multi-language version: https:\/\/foodsaving.world\/\nopen-source and live coded on github!\nWe are currently looking for developer, programmer and coder who might be willing to contribute and help to save food more efficiently in Taiwan and all over the world in the near future!\nThe Framework we use is Angular JS fronted a django API server\nIf you are interested please get back to me on facebook! \nMany thanks and see you soon!",
+    "story": "Stefan Simon shared a Page to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1355461747863561",
+    "link": "https:\/\/www.facebook.com\/foodsharingtaiwan\/",
+    "description": "Foodsharing 是非營利、非慈善、有系統地對抗食物浪費的一項運動，用一種大規模簡單管理的方式與商家組織合作。",
+    "name": "享食台灣 Foodsharing Taiwan",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-1\/p200x200\/13177047_1742186859332746_6161141330438943391_n.jpg?oh=62f2a642cdd7e8589c4a9676c33868a4&oe=5B2656AF",
+    "updated_time": "2017-07-07T16:58:06+0000",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "Stefan Simon",
+        "id": "10215586585435655"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 26
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-07-01T16:06:11+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "大家好，我是球球。我之前為「食物浪費」議題做過翻譯與資訊查詢工作：\nhttp:\/\/mkhere.blogspot.com\/2015\/11\/lwt-food-waste.html\n一本初衷，現在也會協助Stefan的專案進行必要翻譯。歡迎大家來一起關注食物分享議題喔！",
+                "id": "1355771924499210"
+            },
+            {
+                "created_time": "2017-07-02T05:20:17+0000",
+                "from": {
+                    "name": "Macpaul Lin",
+                    "id": "10156042494092910"
+                },
+                "message": "Here's the video recording of the presentation. :)\n\nhttps:\/\/www.youtube.com\/watch?v=SpWFn2HRbd8&index=7&list=PLdwQWxpS513AEJ0RDP33sfOuvxmNRlXrB",
+                "id": "1356322514444151"
+            },
+            {
+                "created_time": "2017-07-07T16:58:05+0000",
+                "from": {
+                    "name": "Stefan Simon",
+                    "id": "10215586585435655"
+                },
+                "message": "Thanks for sharing! The Framework we use is Angular JS fronted a django API server. Every help welcome! Cheers!",
+                "id": "1361623937247342"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

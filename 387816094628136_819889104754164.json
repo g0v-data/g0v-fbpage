@@ -1,0 +1,37 @@
+{
+    "created_time": "2015-06-15T11:02:37+0000",
+    "message": "2015 年 6 月悠遊卡公司 Easy Wallet 應用軟體封鎖 root 、JailBreak 過的手機使用者使用事件\nhttps:\/\/hackpad.com\/2015-6-Easy-Wallet-root-JailBreak--VHo4BTwl5EA\n不太確定是否真的跟 g0v 有關係，如果無關請見諒\n\n歡迎分身伐樹\n\n#自己的裝置自己root 悠遊卡 EasyCard",
+    "story": "林博仁 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_819889104754164",
+    "link": "https:\/\/hackpad.com\/2015-6-Easy-Wallet-root-JailBreak--VHo4BTwl5EA",
+    "description": "Ｖ字龍於 2015\/6\/15 所做的回應 Easy Wallet - 請取消可笑的 root 最高權限使用者帳號存取權檢查 致 Easy Wallet 的開發人員： root 只是類 Unix(Unix-like) 作業系統的最高權限的使用者帳號，就如同 Windows 作業系統中的 Administrator 使用者帳號一樣，並非妖魔鬼怪，貴公司產品於啟動時檢查使用者是否有 root 最高權限使用者帳號存取權作為是否繼續運行的依據是極其可笑且不適當地，如果貴公司有「擁有系統管理員權限不能使用貴公司產品的合理理由(?)」請公開在應用軟體介紹文字中",
+    "name": "2015 年 6 月悠遊卡公司 Easy Wallet 應用軟體封鎖應 root 、JailBreak 過的手機使用者使用事件",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC75P0QZMdg2HRZ&w=130&h=130&url=https%3A%2F%2Fhackpad.com%2Fstatic%2Fimg%2Fhackpad-logo-112.png&cfs=1&_nc_hash=AQAcrSgKDllYzvNH",
+    "updated_time": "2015-06-15T12:46:11+0000",
+    "caption": "hackpad.com",
+    "from": {
+        "name": "林博仁",
+        "id": "2266870563338714"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 14
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-15T12:46:11+0000",
+                "from": {
+                    "name": "Jerry Wang",
+                    "id": "1826294830723564"
+                },
+                "message": "是說MOD也有檢察root，而且supersu的暫時關閉沒有用...",
+                "id": "819915031418238"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

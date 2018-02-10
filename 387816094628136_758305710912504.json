@@ -1,0 +1,40 @@
+{
+    "created_time": "2015-02-10T12:15:35+0000",
+    "story": "Chia-Hung Liu was added to g0v.tw 後勤中心 by William Fan.",
+    "id": "387816094628136_758305710912504",
+    "updated_time": "2015-02-11T13:38:08+0000",
+    "from": {
+        "name": "William Fan",
+        "id": "2078516602160364"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-02-11T09:25:16+0000",
+                "from": {
+                    "name": "Chia-Hung Liu",
+                    "id": "10210361594146469"
+                },
+                "message": "Hi, everyone!",
+                "id": "758788814197527"
+            },
+            {
+                "created_time": "2015-02-11T13:38:08+0000",
+                "from": {
+                    "name": "孫瑋孜",
+                    "id": "10156101247471764"
+                },
+                "message": "Welcome!!",
+                "id": "758855947524147"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

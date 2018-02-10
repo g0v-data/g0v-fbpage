@@ -1,0 +1,103 @@
+{
+    "created_time": "2016-11-22T13:03:04+0000",
+    "message": "各位好，大家要抓政府資料除了用爬蟲來爬政府網站，或是從政府開放資料平臺( http:\/\/data.gov.tw\/ )撈open data之外。在跟創業方面的資源(e.g： 補助、融資、競賽、輔導...ect)，不曉得大家有哪些資料需求，但又還沒被開放為open data的呢？\n\n像是有些站的資訊蠻有幫助，目前沒開出open data出來：\n中小企業商機媒合整合服務網： https:\/\/goo.gl\/eME33X\nAplustart： https:\/\/goo.gl\/xoojmc\n天使與新創資源平台： https:\/\/goo.gl\/SJgdRH",
+    "story": "Jacky Chang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1132736086802796",
+    "link": "http:\/\/data.gov.tw\/",
+    "description": "防範登革熱，社群推群聚感染地圖。利用雲端大數據的彙算，每天自動更新，由於統計範圍較村里小，可以呈現疫情重點區域，隨時檢視街道分布、衛星空照或擴大村里檢視，讓民眾清楚登革熱集中區域，強化社區動員。",
+    "name": "政府資料開放平臺",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBYk7S4sKpIJpol&w=130&h=130&url=http%3A%2F%2Ffile.data.gov.tw%2Fmisc%2Fbannerbanner_v2.jpg&cfs=1&_nc_hash=AQAQxa57RqkQ1zKy",
+    "updated_time": "2016-11-23T14:53:17+0000",
+    "caption": "data.gov.tw",
+    "shares": {
+        "count": 3
+    },
+    "from": {
+        "name": "Jacky Chang",
+        "id": "10155338815579632"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 10
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-11-22T21:08:54+0000",
+                "from": {
+                    "name": "Chen Hung-Han",
+                    "id": "10216115892278606"
+                },
+                "message": "希望 http:\/\/data.gov.tw\/ 可以收pull request，用的好痛苦，好想幫改",
+                "id": "1133069186769486"
+            },
+            {
+                "created_time": "2016-11-23T04:04:03+0000",
+                "from": {
+                    "name": "Lorex L. Yang",
+                    "id": "1823869637637266"
+                },
+                "message": "個人覺得在擴大資料量以前，我們應該協助政府想一套辦法去確保這些 open data 的品質。有些單位做出來的文件根本慘不忍睹。",
+                "id": "1133301583412913"
+            },
+            {
+                "created_time": "2016-11-23T04:05:56+0000",
+                "from": {
+                    "name": "Lorex L. Yang",
+                    "id": "1823869637637266"
+                },
+                "message": "舉個我最近爬資料時遇到比較崩潰的例子：\n1) 人口密度調查\n\n用 XML 我沒太大意見，但是 Key 直接塞中文就算了，還是中英文夾雜，Value 則是莫名其妙被塞進全形空白 (?",
+                "id": "1133302363412835"
+            },
+            {
+                "created_time": "2016-11-23T04:07:57+0000",
+                "from": {
+                    "name": "Lorex L. Yang",
+                    "id": "1823869637637266"
+                },
+                "message": "2) 計程車資料統計，下載下來居然是 RAR，有夠開放。\n\n打開來看內容超崩潰，欄位取超流水號的變數，另外他雖然號稱是 csv，不過所有資料擠在同一個欄位。整個就是一個給你一條活豬要你自己殺自己煮的概念。",
+                "id": "1133302853412786"
+            },
+            {
+                "created_time": "2016-11-23T04:29:13+0000",
+                "from": {
+                    "name": "Lorex L. Yang",
+                    "id": "1823869637637266"
+                },
+                "message": "然後還有 tab + space 一起來的狀況。一個摩斯電碼的概念XD\n搞半天才發現原來 space == NULL，問題是這是兩種不同的東西QQ",
+                "id": "1133310893411982"
+            },
+            {
+                "created_time": "2016-11-23T04:30:04+0000",
+                "from": {
+                    "name": "Lorex L. Yang",
+                    "id": "1823869637637266"
+                },
+                "message": "話說回來，我們有辦法去協助政府修正資料格式，或是協助政府訂定一個統一的資料格式嗎？\n\n像是表格限定用 csv，複雜資料限定用 json 之類的東西",
+                "id": "1133311083411963"
+            },
+            {
+                "created_time": "2016-11-23T04:30:42+0000",
+                "from": {
+                    "name": "Lorex L. Yang",
+                    "id": "1823869637637266"
+                },
+                "message": "比起資料需求，我覺得現階段政府應該做的不是量的提升，而是質的提升",
+                "id": "1133311266745278"
+            },
+            {
+                "created_time": "2016-11-23T05:26:54+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "Leo Cheng 有個草案來讓裡面的資料可以更好，順便tag他～",
+                "id": "1133343223408749"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

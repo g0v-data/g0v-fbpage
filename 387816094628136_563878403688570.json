@@ -1,0 +1,127 @@
+{
+    "created_time": "2014-01-07T09:08:06+0000",
+    "message": "發現台灣農夫市集地圖的連結點不進去了，不知道有沒有人有興趣來重做一份呢?\n\n好像把互認地圖改一改就行了，但是需要接得上使用者，才會有人上去登錄~",
+    "story": "唐宗浩 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_563878403688570",
+    "link": "http:\/\/www.kskk.org.tw\/food\/node\/129",
+    "description": "Submitted by Ryneh on Tue, 04\/23\/2013 - 12:15類型: 圖片台灣有多少農夫市集呢？正確的答案是：『問google』，因為增加的速度實在太快了，現在寫在網頁上恐怕沒多久又有新的了。短短幾年前，我們在介紹農夫市集時說的是合樸、興大、248、竹蜻蜓，後來零星聽說某某地方又成立了某某市集，沒想到今天查了一下，居然在農委會農民學院的網站上找到了這張圖（首頁 > 找通路 > 農民市集 > 市集導覽），算算已經有34個了呢！就只有這34個了嗎？其實我有一點懷疑。畢竟這張圖作得這麼漂亮，想必更新也不太容易吧。用google搜尋「台灣 農夫市集」，找到第二筆資料是「直接...",
+    "name": "台灣農夫市集地圖 | 食在很重要",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCIjsp025UBid1I&w=130&h=130&url=http%3A%2F%2Fwww.kskk.org.tw%2Ffood%2Fsites%2Fall%2Fthemes%2Ffood%2Ftitle.gif&cfs=1&_nc_hash=AQDvcnDIZ8hIEVQC",
+    "updated_time": "2014-01-08T07:49:30+0000",
+    "caption": "kskk.org.tw",
+    "from": {
+        "name": "唐宗浩",
+        "id": "1993696087313952"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 12
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-07T09:15:58+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "農夫市集地圖和農夫地圖應該是兩回事，規模也差很多。可以的話，直接作農夫地圖應該會比較實用一點",
+                "id": "563879497021794"
+            },
+            {
+                "created_time": "2014-01-07T09:18:05+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "這邊有農村市集的open data\nhttp:\/\/data.coa.gov.tw\/Query\/ServiceDetail.aspx?id=033",
+                "id": "563879760355101"
+            },
+            {
+                "created_time": "2014-01-07T09:34:22+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "鄭文吉: 完全同意~我想如果要做，可以把個人和市集整合在一張圖中\n如自學2.0有家庭、團體...等等",
+                "id": "563884367021307"
+            },
+            {
+                "created_time": "2014-01-07T09:36:08+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "技術小問題: 這個.aspx連進去是json格式，代表可以直接getJson抓它囉?\nhttp:\/\/m.coa.gov.tw\/OpenData\/FarmerMarketData.aspx",
+                "id": "563884680354609"
+            },
+            {
+                "created_time": "2014-01-07T11:06:46+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "瀏覽器跨網域抓 JSON 有限制，建議存檔之後再匯入 Firebase 即可。",
+                "id": "563908793685531"
+            },
+            {
+                "created_time": "2014-01-07T11:37:14+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "瞭解...但是這樣如果對面更新很快，就無法同步?\n(還是其實對面大概不會更新得很快呢?我對政府open data習慣不大瞭解)",
+                "id": "563915797018164"
+            },
+            {
+                "created_time": "2014-01-07T11:57:42+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "依 http:\/\/data.g0v.ronny.tw\/index\/data\/7277 的說明，這份資料是「不定期」更新，所以可以寫程式每小時同步，也可以打電話問聯絡人實際的更新頻率。",
+                "id": "563920503684360"
+            },
+            {
+                "created_time": "2014-01-07T12:20:34+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "市集的位置本身應該不太會更新，畢竟要再開一個新的點設市集就有一堆手續要辦，還得辦個活動熱鬧一下。\n~以那個[農村市集通]的平台來說，從2013\/2\/17之後就沒有[最新消息]了\nhttp:\/\/ruralmarket.swcb.gov.tw\/",
+                "id": "563927350350342"
+            },
+            {
+                "created_time": "2014-01-07T13:40:21+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "我用Meshlet微地圖做了一份，請參考看看。\nhttp:\/\/www.meshlet.com\/#!jwjcheng\n裡面有60個點，另外有兩個(安心家有機農夫市集,牛尾假日市集)沒有經緯度，也沒有地址可查，只好先擺著了",
+                "id": "563954680347609"
+            },
+            {
+                "created_time": "2014-01-08T06:28:22+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "台灣農夫市集地圖恢復了(from 開拓): http:\/\/farmersmarket.ushahidi.tw\/",
+                "id": "564330053643405"
+            },
+            {
+                "created_time": "2014-01-08T07:49:30+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/github.com\/ushahidi - 看樣子 ushahidi 可以用來做蠻多事情的 ;)",
+                "id": "564342153642195"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

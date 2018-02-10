@@ -1,0 +1,82 @@
+{
+    "created_time": "2013-11-20T09:10:25+0000",
+    "message": "新聞小幫手的網站是不是掛了？有人可以幫忙測試看看嗎?",
+    "story": "Wang Chih Wei shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_542982932444784",
+    "link": "http:\/\/newshelper.g0v.tw\/",
+    "description": "「新聞小幫手」瀏覽器擴充套件，隨時偵測問題新聞以守護您的網路閱聽品質",
+    "name": "新聞小幫手",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBtN8-eKJL3Hse-&w=130&h=130&url=http%3A%2F%2Fnewshelper.g0v.tw%2Fimages%2Fnewshelper-scaled-256x256.png&cfs=1&_nc_hash=AQCG6PTqlhe1kIX5",
+    "updated_time": "2013-11-20T15:50:39+0000",
+    "caption": "newshelper.g0v.tw",
+    "from": {
+        "name": "Wang Chih Wei",
+        "id": "10211778609960698"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-11-20T09:14:04+0000",
+                "from": {
+                    "name": "陳奕孝",
+                    "id": "10155342428535954"
+                },
+                "message": "我這邊也連不上，好像真的掛了",
+                "id": "542983669111377"
+            },
+            {
+                "created_time": "2013-11-20T09:17:15+0000",
+                "from": {
+                    "name": "葉書維",
+                    "id": "1979531268728343"
+                },
+                "message": "我這邊測可以正常連上",
+                "id": "542984172444660"
+            },
+            {
+                "created_time": "2013-11-20T09:20:10+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "最近ronnywang把服務從hicloud移到linode上, 連不上的可能是dns的問題",
+                "id": "542984749111269"
+            },
+            {
+                "created_time": "2013-11-20T10:19:18+0000",
+                "from": {
+                    "name": "馬志瑋",
+                    "id": "10215504417033165"
+                },
+                "message": "8.8.8.8 最近常常死掉阿",
+                "id": "543002195776191"
+            },
+            {
+                "created_time": "2013-11-20T11:02:24+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "正常了！",
+                "id": "543011519108592"
+            },
+            {
+                "created_time": "2013-11-20T15:50:39+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "呃，我昨天下午四點多切換過去的，到今天早上才把 hicloud 的停掉，沒想到還有 DNS 沒更新，以後要更新 DNS 可能要預留兩天的 buffer time 了",
+                "id": "543093942433683"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

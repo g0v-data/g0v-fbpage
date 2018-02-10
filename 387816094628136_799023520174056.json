@@ -1,0 +1,145 @@
+{
+    "created_time": "2015-05-01T19:11:07+0000",
+    "message": "台南新的 1999 網站 - http:\/\/1999.tainan.gov.tw\/\n\n這個新網站已經可以透過 api 存取資料，雖然不是很漂亮的作法，但總是一個開始。我寫了簡單的 PHP 範例程式以及透過程式取得的格式，有興趣的朋友可以進一步看官方文件\n\nhttp:\/\/1999.tainan.gov.tw\/OpenExplain.aspx",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_799023520174056",
+    "link": "https:\/\/github.com\/kiang\/1999.tainan.gov.tw",
+    "description": "working with http:\/\/1999.tainan.gov.tw",
+    "name": "kiang\/1999.tainan.gov.tw",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD-qDopzeJ7SqSp&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F47844%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQBdDqNtXXIDOZBe",
+    "updated_time": "2015-05-04T06:44:19+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 42
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-05-01T19:17:12+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "不錯唷，希望能夠衍生更多應用。\n\n不過網站的 UI 就... (眼神死",
+                "id": "799024803507261"
+            },
+            {
+                "created_time": "2015-05-01T22:08:10+0000",
+                "from": {
+                    "name": "Scott Tsai",
+                    "id": "1838942296177821"
+                },
+                "message": "API 部份真的不錯啊，看能不能跟技術人緣直接搭上線",
+                "id": "799061110170297"
+            },
+            {
+                "created_time": "2015-05-02T10:42:28+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "ServiceRequestAdd api 隨便踹就會吐 500 error XD\n\n有人踹成功的嗎？\n\nhttps:\/\/github.com\/kiang\/1999.tainan.gov.tw\/blob\/master\/request.php",
+                "id": "799263586816716"
+            },
+            {
+                "created_time": "2015-05-02T10:56:34+0000",
+                "from": {
+                    "name": "Thor Lin",
+                    "id": "1870568239621204"
+                },
+                "message": "好帖推　ＸＤ",
+                "id": "799266106816464"
+            },
+            {
+                "created_time": "2015-05-03T10:13:06+0000",
+                "from": {
+                    "name": "張家榮",
+                    "id": "1558965424157577"
+                },
+                "message": "江明宗我用測試Tool可成功新增，您可以給我新增案件那筆XML讓我Try看看。",
+                "id": "799572260119182"
+            },
+            {
+                "created_time": "2015-05-04T02:42:42+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/github.com\/kiang\/1999.tainan.gov.tw\/blob\/master\/request.php\n\n塞資料的也可以了，只是名稱欄位不能使用非中文字元\n\n感謝 張家榮 幫忙測試",
+                "id": "799809463428795"
+            },
+            {
+                "created_time": "2015-05-04T06:12:57+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "UI我是可以協作的說....但會跟你目前的頁面變化較大",
+                "id": "799844976758577"
+            },
+            {
+                "created_time": "2015-05-04T06:19:15+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "林雨緣 官方的應該不會去碰，目前我寫的程式都沒有顯示介面，你要直接寫個前端嗎？\n\n我有想說要寫個前端直接把表單轉成 xml 餵給伺服器，不過要看有沒有時間做了 XD",
+                "id": "799846526758422"
+            },
+            {
+                "created_time": "2015-05-04T06:34:13+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "有幾點我想先確認一下\n\n1. 目前範例如果只有PHP版本的話，我會嘗試寫成js版本，如果可以請跟我說明一下你的範例流程\n\n2. 如果範你有用過github page的話，我想直接在該專案的gh-pages分支開發，弄個頁面",
+                "id": "799849906758084"
+            },
+            {
+                "created_time": "2015-05-04T06:35:36+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "sure, your github account please?",
+                "id": "799850123424729"
+            },
+            {
+                "created_time": "2015-05-04T06:36:42+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "https:\/\/github.com\/s890081tonyhsu",
+                "id": "799850226758052"
+            },
+            {
+                "created_time": "2015-05-04T06:43:21+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "done - https:\/\/github.com\/kiang\/1999.tainan.gov.tw\/issues\/4",
+                "id": "799851336757941"
+            },
+            {
+                "created_time": "2015-05-04T06:44:19+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "ok，那我的issue就視為前端頁面好了",
+                "id": "799851490091259"
+            }
+        ],
+        "summary": {
+            "total_count": 13
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "created_time": "2014-08-06T00:47:01+0000",
+    "message": "[請問]\n影片 08:16 所談到的，法案修正協作介面 (Bill Diff)\nhttps:\/\/www.youtube.com\/watch?v=MMLTaq-Ycw4\n的專案名稱是@___@ ？\n\n--\n以下是想針對《文資法》修法的專案\nhttp:\/\/hackfoldr.org\/cultural-heritage\/\n內容上似乎是很相近。目前這個專案的進度，處於正在整理具體的文化資產個案經驗，以及相對應的法條修正，素材的累積。",
+    "story": "Che Wei Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_662259620517114",
+    "link": "https:\/\/www.youtube.com\/watch?v=MMLTaq-Ycw4",
+    "description": "http:\/\/clkao.kktix.cc\/events\/around-the-world-2014 2014 四月底到六月初，clkao 去了智利 (PoplusCon)、英國 (Open Data Institute, Government Digital Service)、加拿大 (PGCon)、美國 (b...",
+    "name": "[Open Data x Open Gov x g0v] clkao 環球考察分享會 (全)",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCFBAl43xHIp-WT&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FMMLTaq-Ycw4%2Fmaxresdefault.jpg&cfs=1&_nc_hash=AQBYhdQ0-xs383wV",
+    "updated_time": "2014-09-08T00:58:27+0000",
+    "caption": "youtube.com",
+    "from": {
+        "name": "Che Wei Liu",
+        "id": "10156142432594038"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 4
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-06T02:12:57+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Billab - github.com\/clkao\/billab",
+                "id": "662287353847674"
+            },
+            {
+                "created_time": "2014-08-06T02:33:22+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "嗯…(理解不能，低頭整理素材XD) \n\n除文資法之外，會回顧住宅法、濕地法、景觀法(草案)，的立法醞釀過程",
+                "id": "662293643847045"
+            },
+            {
+                "created_time": "2014-09-08T00:58:27+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "http:\/\/regulationroom.org\/\n\nRegulationRoom is an experimental platform for public participation in government rulemaking processes created by a cross-disciplinary group of Cornell researchers, the Cornell eRulemaking Initiative (CeRI). CeRI uses selected live rulemakings to experiment with human and computer support for public engagement and discussion. The ultimate goal of RegulationRoom is to provide guidance on design, technological, and human intervention strategies—grounded in theory and tested in practice—for effective Rulemaking 2.0 systems.\n\n---\nhackAct\/ 編修\nBillLab\/ 法令應用\nRegulationRoom\/ 協商諮詢",
+                "id": "677121935697549"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

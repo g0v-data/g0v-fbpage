@@ -1,0 +1,25 @@
+{
+    "created_time": "2014-08-13T14:30:26+0000",
+    "message": "高雄沙包的最新更新整備狀況 (歡迎跳坑更新最新沙包數量)\n\n8\/13 晚間七點與民政局同步確認數量.\n\n8\/13 晚間去電詢問了六龜區公所以及甲仙區公所並確認沙包數量. 而衫林區負責的古先生已經離職, 建議直接轉總機 0 詢問.\n\n沙包數量也會更新於究平安平台\nhttps:\/\/geobingan.geothings.tw\/\n\n[為什麼不用 KML 圖層]\n大家可以利用 Google Map Engine 之類的工具來建立 KML 圖層, 絕對沒問題! 但因為我們同時提供 究平安 geoBingAn App 給 NGO 與救災組織, 他們比較不是網路的 power user, 所以把訊息更新的同時, 我們會同步於平台與App, 讓這些夥伴們可以透過行動平台即時收到最新訊息.\n\n[究平安為什麼看起來很陽春]\n1. 我們想要保持界面簡單好用 (之前已經被很多 NGO 嫌說功能太多, 或是說打開程式以後不知道從哪邊開始使用), 所以我們整個簡化, 打掉重練. 現在慢慢再透過 NGO 的使用回饋來增加功能.\n2. 我們在最近的幾個事件開始與更多 NGO 串接, 他們協調窗口蠻多都有智慧型手機. 因此我們也正在會持續改 (其實大改版很多次了) (誤), 希望讓不同 NGO 之間的救災訊息可以相對及時的交換, 甚至延續到物資請求與協調.\n\n有什麼建議或是挖坑要給 GeoThings (究心科技) 跳的, 請儘量建議 :-)",
+    "story": "Kuo-Yu Slayer Chuang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_666065673469842",
+    "link": "https:\/\/docs.google.com\/spreadsheets\/d\/1mmdRNgYZbmvFHj5f4OWp8cyoLVxOeD9svxXBZAiQpP4\/edit?usp=sharing",
+    "name": "高雄沙包 - Google Sheets",
+    "updated_time": "2014-08-13T14:30:26+0000",
+    "caption": "docs.google.com",
+    "from": {
+        "name": "Kuo-Yu Slayer Chuang",
+        "id": "10214214578175061"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 33
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

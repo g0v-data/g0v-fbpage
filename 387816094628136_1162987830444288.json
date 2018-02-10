@@ -1,0 +1,58 @@
+{
+    "created_time": "2016-12-18T15:16:31+0000",
+    "message": "(早上改了一些Typo，沒有人發現ＸＤＤ)\n\n大家好，\n看見思法國是會議觀測站的首頁出爐了！\n感謝設計師 Ct Tang  ，\n有一個好的設計師開發工作很開心 :)\n\n觀測站的上線，\n意味著有些coding work要陸續展開，\n在這裡我們要繼續招兵買馬，\n以執行觀測任務。\n\n目前已有想法的觀測任務有二：\n\n第一，\n我們計劃爬下所有的留言進行Mining，\n然後把『政治人物』與『司法相關詞彙』做詞頻分析，\n統計出數量以後，以『文字雲』的方式分別將兩個主題做呈現。\n\n目前缺政治人物的名字，懇請請大家提供，\n看能不能把今朝、前朝、前前朝的五院院長、大法官、\n部會首長與立法委員都收集到ＸＤ\n\n有前端工程師想做文字雲的也歡迎加入啊！\n我很潮（ㄖㄨㄛˋ），有用Reactjs與d3js喔ＸＤＤ\n所以想玩的可以一起！\n\n第二，\n我們計劃將網站上所有的議題，\n以樹狀圖配合時間軸的方式將其展開，\n方便大家瞭解涵蓋到了哪些方向，\n有多少民眾針對項目產生了什麼樣的看法。\n目前這個還在構思階段，\n希望有法律朋友願意一起來想想。\n\n目前是國是會議觀測站的第一步，\n歡迎大家一起集思廣益！\n\n預計週三以後，\n我會寫一個關於觀測站的Readme放在github上，\n以供大家參考！\n\n現在完成針對每一個階段做了倒數計時器，\n以利大家掌握國是會議各階段所剩下與即將開始的時間。\n\n我們也將繼續在g0v報告觀測站進度，\n來刷刷國是會議的存在感！\n希望大家為勞團、同婚爭取權益，也別忘了這件大事啊！！！\n\n我們的粉專也會針對國是會議的議題發表看法，\n（目前預計每週兩篇）\n大家可以在粉絲專頁一起討論，\n或是直接去國是會議網站留言！\n\n#司法改革\n#國是會議\n#開放政府\n#全民參與",
+    "story": "Yu-De Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1162987830444288",
+    "link": "http:\/\/vizjust.tw\/jrcf.html",
+    "description": "看見思法司法改革國是會議觀測站為社會大眾整理司法改革國是會議的最新狀況，讓人民有最簡易的管道了解司改國是會議的最新動態。",
+    "name": "看見思法 -- 屬於人民的視覺化司法資料庫",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDTJ_qEl9ksU_HR&w=130&h=130&url=https%3A%2F%2Fraw.githubusercontent.com%2Fyudazilian%2FVisualJusticeTW%2Fgh-pages%2Fsrc%2FJusticeVisualizingLOGO_3_fb_200x200.png&cfs=1&_nc_hash=AQBQ9_zwebUDzcSc",
+    "updated_time": "2016-12-19T00:00:02+0000",
+    "caption": "vizjust.tw",
+    "shares": {
+        "count": 2
+    },
+    "from": {
+        "name": "Yu-De Lin",
+        "id": "1718720644815489"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 46
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-12-18T15:29:03+0000",
+                "from": {
+                    "name": "Summit Suen",
+                    "id": "10215090592921193"
+                },
+                "message": "",
+                "id": "1162996287110109"
+            },
+            {
+                "created_time": "2016-12-18T15:48:32+0000",
+                "from": {
+                    "name": "Hsin Hsiao",
+                    "id": "10107963075020646"
+                },
+                "message": "footer飛起來了 (chrome)",
+                "id": "1163021233774281"
+            },
+            {
+                "created_time": "2016-12-19T00:00:01+0000",
+                "from": {
+                    "name": "Yu-De Lin",
+                    "id": "1718720644815489"
+                },
+                "message": "手機上的字會不會太小？？",
+                "id": "1163478323728572"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

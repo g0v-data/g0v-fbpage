@@ -1,0 +1,76 @@
+{
+    "created_time": "2014-03-18T03:20:15+0000",
+    "message": "駱勁成 你整理的獻金資料是否有原始來源, 我想找薛凌的沒看到",
+    "id": "387816094628136_595365703873173",
+    "updated_time": "2014-03-18T13:15:46+0000",
+    "from": {
+        "name": "Pofeng Lee",
+        "id": "10151088271244949"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 4
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-18T03:44:59+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "http:\/\/sunshine.cy.gov.tw\/GipOpenWeb\/wSite\/public\/Attachment\/f1353487232942.pdf\n\n看起來只有區域立法委員才有政治獻金專戶，薛凌是民進黨不分區的（把 IRC 討論貼過來）",
+                "id": "595371043872639"
+            },
+            {
+                "created_time": "2014-03-18T03:50:53+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "kiang++",
+                "id": "595373923872351"
+            },
+            {
+                "created_time": "2014-03-18T04:01:29+0000",
+                "from": {
+                    "name": "劉泰東",
+                    "id": "10156038268325070"
+                },
+                "message": "政治獻金法在93年3月18日經立法院三讀通過，並由總統於同年3月31日公布 .... 但登記為全國不分區、僑居國外國民立法委員選舉之候選人不得收受政治獻金.",
+                "id": "595376193872124"
+            },
+            {
+                "created_time": "2014-03-18T12:45:36+0000",
+                "from": {
+                    "name": "駱勁成",
+                    "id": "10154935361642202"
+                },
+                "message": "Finjon Kiang 貼的是原始來源，但我比較懶直接用soidid整理過的 http:\/\/ccw.site44.com\/",
+                "id": "595526027190474"
+            },
+            {
+                "created_time": "2014-03-18T13:07:21+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "對了 Finjon Kiang，, 我這邊 Acrobat ClearScan + OCR 初步結果已經都上載到 https:\/\/drive.google.com\/folderview?id=0B9tD1zENsweyUmZycEhWZjR5MUk&usp=sharing 了",
+                "id": "595538727189204"
+            },
+            {
+                "created_time": "2014-03-18T13:15:46+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "au++",
+                "id": "595540800522330"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

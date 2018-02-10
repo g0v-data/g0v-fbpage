@@ -1,0 +1,64 @@
+{
+    "created_time": "2015-03-02T10:44:57+0000",
+    "message": "call for comments. :)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_768629956546746",
+    "link": "https:\/\/github.com\/kiang\/drugs\/issues\/31",
+    "description": "健保署提供了健康存摺功能（ https:\/\/med.nhi.gov.tw\/ihke0000\/IHKE0100S01.aspx ）可以申請與下載過去一年的就醫資料，藥要看基於這份資料延伸了同樣取名為健康存摺的功能，下面說明兩者功能的操作方式。 連上健保署的網站 電腦接上讀卡機、自然人憑證後輸入身份證字號與密碼 進入後點選資料申請 畫面會有些提示 接著在申請情形就可以看到剛剛申請的記錄，基本上要下一個工作天才能夠下載資料 隔天進行同樣的登入程序後，進入...",
+    "name": "健康存摺功能說明 · Issue #31 · kiang\/drugs",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD-qDopzeJ7SqSp&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F47844%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQBdDqNtXXIDOZBe",
+    "updated_time": "2015-03-18T18:33:42+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 27
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-03-02T11:01:46+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "超強! Drug PHR 等同做完",
+                "id": "768641843212224"
+            },
+            {
+                "created_time": "2015-03-02T11:43:43+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "目前只有藥品連結吧，很多其他資訊都還沒辦法處理，當然，相關資料集也還沒有完整開放，也許像 DDI 一樣有授權問題吧",
+                "id": "768654416544300"
+            },
+            {
+                "created_time": "2015-03-03T07:17:06+0000",
+                "from": {
+                    "name": "Wendy Tan",
+                    "id": "2183112581702569"
+                },
+                "message": "好強",
+                "id": "769064436503298"
+            },
+            {
+                "created_time": "2015-03-18T18:33:42+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "開始製作簡易操作手冊\n\n網址： http:\/\/i.drugs.olc.tw\/\n\n目前只有介紹幾個功能，只是會講的比較深入，畢竟介面並不是那麼的直觀（我感受的到大家的怨念）\n\n使用 gitbook 製作，歡迎批評指教\nhttps:\/\/github.com\/kiang\/drugs\/issues\/38",
+                "id": "778539755555766"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

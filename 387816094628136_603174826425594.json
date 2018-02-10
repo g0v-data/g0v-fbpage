@@ -1,0 +1,46 @@
+{
+    "created_time": "2014-04-04T08:02:12+0000",
+    "message": "hi all 等等4:30 我會去板橋那邊幫忙文字直播，如果想了解最新狀況，\n\n1. 可以直接裝之前我寫的google chrome extension即時收聽狀況 ：https:\/\/chrome.google.com\/webstore\/detail\/g0v-text-news\/lfhgnllblbhgmjmfmjmmhiepbkobklfh?hl=zh-TW\n\n2. 文字列表：http:\/\/broadcast.iamblue.me\/20140404.txt",
+    "story": "陳柏儒 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_603174826425594",
+    "link": "https:\/\/chrome.google.com\/webstore\/detail\/g0v-text-news\/lfhgnllblbhgmjmfmjmmhiepbkobklfh?hl=zh-TW",
+    "description": "G0V 文字直播 Chrome Extension",
+    "name": "G0V text news",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBC5QD_gg4TSMwX&w=130&h=130&url=https%3A%2F%2Flh5.googleusercontent.com%2FDsLlQCQKZdxZVXr4b_IIbs18n_Hhjv3zoKBbFPktLuot3I4TEUaWI6SSHYLMxcvajfUTBMnNNQ%3Ds128-h128-e365&cfs=1&_nc_hash=AQBoBSqMY6GFZ0Ld",
+    "updated_time": "2014-04-04T16:10:16+0000",
+    "caption": "chrome.google.com",
+    "from": {
+        "name": "陳柏儒",
+        "id": "2020687477948223"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 27
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-04T08:12:13+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "Gooood",
+                "id": "603177699758640"
+            },
+            {
+                "created_time": "2014-04-04T16:10:16+0000",
+                "from": {
+                    "name": "鈕克力",
+                    "id": "947477968789427"
+                },
+                "message": "辛苦了！",
+                "id": "603337876409289"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

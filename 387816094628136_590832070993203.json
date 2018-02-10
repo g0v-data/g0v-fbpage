@@ -1,0 +1,262 @@
+{
+    "created_time": "2014-03-09T04:58:46+0000",
+    "message": "[有坑請填] 昨天的直播影片需要大家作時間碼共筆（只需標段落重點）歡迎跳坑\n為何要作時間碼重點？1. User friendly 2.Easy to reuse 3. Searchable 4. 協助廣宣團實驗、擬出 g0v 大型活動影音策略",
+    "story": "Hsin-chan Chien shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_590832070993203",
+    "link": "https:\/\/g0v.hackpad.com\/38--whFklJ4ppN7",
+    "description": "影片連結 http:\/\/tinyurl.com\/2014-3-8 *Youtube 快捷鍵：[space] 暫停 \/ 播放；[→ \/ ←] 往前 \/ 往回快轉 5 秒；[ctrl+→ \/ ←] 往前 \/ 往回快轉 10 秒（MAC 上無法達成 10 秒快轉，求解） *為何要作時間碼？ *User friendly：直播時間長達五個多小時，需要時間碼讓後來觀眾快速找到要看的地方 *Easy to reuse：影片本身目前採 CC by 4.",
+    "name": "3\/8 線路松：直播影片時間碼共筆",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQBbByMKcqWNggkP",
+    "updated_time": "2014-03-09T17:27:56+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Hsin-chan Chien",
+        "id": "10214807554037802"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 12
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-09T10:27:57+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "我把我朋友加進社團裡面 :) Chihao Yo",
+                "id": "590905564319187"
+            },
+            {
+                "created_time": "2014-03-09T10:28:47+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "done! 感謝 glll4678, lanf0n 迅速填坑～",
+                "id": "590905684319175"
+            },
+            {
+                "created_time": "2014-03-09T10:30:08+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "Ly 你本來是要留言在這裡，對嗎？ https:\/\/www.facebook.com\/groups\/g0v.general\/permalink\/590379881038422",
+                "id": "590905894319154"
+            },
+            {
+                "created_time": "2014-03-09T10:31:54+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "喔 可能看錯了 哈哈",
+                "id": "590906264319117"
+            },
+            {
+                "created_time": "2014-03-09T10:32:12+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "我的facebook 換新介面 有點不習慣 orz ...",
+                "id": "590906570985753"
+            },
+            {
+                "created_time": "2014-03-09T14:50:05+0000",
+                "from": {
+                    "name": "游知澔",
+                    "id": "616600329330"
+                },
+                "message": "大家好。",
+                "id": "590980370978373"
+            },
+            {
+                "created_time": "2014-03-09T15:08:24+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "做成 vtt 檔的話, youtube 是不是可以自動出 chapter marker?",
+                "id": "590986977644379"
+            },
+            {
+                "created_time": "2014-03-09T15:16:20+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "小聲問一下芝麻蒜皮的小小事： 為什麼hackpad裡的影片連結要用縮址？顯示原連結不好嗎？",
+                "id": "590989754310768"
+            },
+            {
+                "created_time": "2014-03-09T15:17:17+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "原連結會讓 hackpad 內嵌 youtube",
+                "id": "590990060977404"
+            },
+            {
+                "created_time": "2014-03-09T15:47:27+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "Pei-hsun Jiang 會用短網址，是因為當天直播組有手寫傳單、並告知媒體記者網址連結，因此必須好記、好打，以便現場群眾將直播連結第一手傳播出去。\n\nhackpad 上保留這個連結，算有紀念性的意義。另外底下也保留了 Youtube 原始連結。\n\nChia-liang Kao hackpad 上自動內嵌 youtube，可在影片畫面右上方按 (X) 取消。",
+                "id": "591003210976089"
+            },
+            {
+                "created_time": "2014-03-09T15:49:13+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "Chia-liang Kao vtt 檔 -> chapter marker 的問題我有點看不懂，現在正在研究這個文件，這是你想提的功能嗎？ \nhttps:\/\/developers.google.com\/youtube\/training\/player\/chapter-marker\/",
+                "id": "591003717642705"
+            },
+            {
+                "created_time": "2014-03-09T15:52:35+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Venev Chao 那個是利用 youtube api 自幹 chapter marker... 我想說 youtube 好像有內建的... 如 https:\/\/www.youtube.com\/watch?v=9pN52S3dxIM#t=37",
+                "id": "591006277642449"
+            },
+            {
+                "created_time": "2014-03-09T16:01:15+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "ok, 我了解了，這是 Youtube 的 annotation 功能，我們有作過：需管理權限、必須全手動，超～級～慢。\n\n（如果弄成這樣，轉換率是不賴，但那就得跑後製流程 orz http:\/\/youtu.be\/AoK6lgoslHo?t=2m58s ）\n\n有看過「Youtube 可自動將 vtt 轉 annotation」的說法或範例嗎？",
+                "id": "591009524308791"
+            },
+            {
+                "created_time": "2014-03-09T16:06:49+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "看來最快的方式是自己用 mediaelement 或 videojs 包一層: http:\/\/mediaelementjs.com\/examples\/?name=chapters",
+                "id": "591011560975254"
+            },
+            {
+                "created_time": "2014-03-09T16:14:34+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "呈現感覺不錯耶，先筆記下來，下個松教我～～（遞肉乾）",
+                "id": "591013854308358"
+            },
+            {
+                "created_time": "2014-03-09T16:34:25+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "VTT chapter markers演示： http:\/\/mkhere.blogspot.tw\/2014\/03\/2014-3-8.html\n\nVTT檔下載： https:\/\/dl.dropboxusercontent.com\/u\/5173388\/mkhere\/subtitles\/20140308.vtt\n\nclkao提到的mediaelement介面更好用，但我不知道它可不可以用在youtube影片上。\n\n（不過我們太多chapters了，顯示在介面上大多會擠在一起。原youtube link展示方式應該就很不錯了。）",
+                "id": "591019947641082"
+            },
+            {
+                "created_time": "2014-03-09T17:00:58+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "應該不用教啦，直接來這裡編輯： http:\/\/embed.plnkr.co\/MXZoHBStsqMKgrAYTAuY\/chapters.vtt 不過 chapter 超多好像太擠沒辦法用 之後再看怎麼改進他的介面吧!",
+                "id": "591028314306912"
+            },
+            {
+                "created_time": "2014-03-09T17:04:00+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "啊我不是要教，我是直接把vtt編好了吔。",
+                "id": "591029667640110"
+            },
+            {
+                "created_time": "2014-03-09T17:05:19+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Pei-hsun Jiang++ # 那 fork 那個 plunker 把 chapters.vtt 蓋掉試試看吧",
+                "id": "591030300973380"
+            },
+            {
+                "created_time": "2014-03-09T17:09:11+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "哈我不會fork～",
+                "id": "591032390973171"
+            },
+            {
+                "created_time": "2014-03-09T17:13:45+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "按 edit, 上面有 fork 按鈕 就可以改了... save 完再 share 出你的版本的網址",
+                "id": "591033457639731"
+            },
+            {
+                "created_time": "2014-03-09T17:14:19+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "http:\/\/embed.plnkr.co\/SUl93F57A8ATHRtKVN7z\/chapters.vtt\n其實我沒看到share鍵，只好直接用你連結改。",
+                "id": "591033647639712"
+            },
+            {
+                "created_time": "2014-03-09T17:16:43+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "好像不能有 \"Chapter\" 只能有數字",
+                "id": "591034437639633"
+            },
+            {
+                "created_time": "2014-03-09T17:19:14+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "不過網路上的範本都有Chapter的樣子，而且已經被jwplayer成功演示了。只有數字的應該是「字幕」版。",
+                "id": "591035227639554"
+            },
+            {
+                "created_time": "2014-03-09T17:25:09+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "那應該是 mediaelement 的 bug XD",
+                "id": "591039417639135"
+            },
+            {
+                "created_time": "2014-03-09T17:27:56+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "我也不太懂，說不定只有數字也可以cue，其實chapter和caption的embed語法不同（kind: \"chapters\"）。",
+                "id": "591040777638999"
+            }
+        ],
+        "summary": {
+            "total_count": 26
+        }
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "created_time": "2014-07-06T06:49:12+0000",
+    "message": "幫挖坑\n\n兩公約推動入法促進(?) 的 Yibee Huang ，提到有個 open source software 需要技術力協助中文化。(openevsys)\n\n人權侵害資料庫連結\nhttps:\/\/www.huridocs.org\/openevsys\/\n\n有夥伴有翻譯跟 github commit 技能的夥伴願意來協助協調與填坑嗎？:p",
+    "id": "387816094628136_647760865300323",
+    "updated_time": "2014-07-10T10:27:27+0000",
+    "from": {
+        "name": "Tonyq Wang",
+        "id": "10215957169947800"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 27
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-07-06T06:55:22+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "翻譯檔在這裡：https:\/\/github.com\/huridocs\/OpenEvSys\/tree\/master\/translate\/translated\/js",
+                "id": "647761895300220"
+            },
+            {
+                "created_time": "2014-07-06T06:56:25+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "謝謝高村長的補充～:D",
+                "id": "647762065300203"
+            },
+            {
+                "created_time": "2014-07-06T07:18:16+0000",
+                "from": {
+                    "name": "Chen-Han Hsiao",
+                    "id": "1839565876054184"
+                },
+                "message": "不然我來好了，我翻譯過幾場 TedTalk，會翻譯但不會 github 的朋友也歡迎加入，我可以幫忙commit 到 github 上。有興趣的可以到 hackpad 一起討論 https:\/\/g0v.hackpad.com\/openevsys--mouFan2X4Nd",
+                "id": "647767458632997"
+            },
+            {
+                "created_time": "2014-07-06T07:31:05+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "交給你了，我還要先以陪偵優先。XD",
+                "id": "647771058632637"
+            },
+            {
+                "created_time": "2014-07-06T07:38:39+0000",
+                "from": {
+                    "name": "Davidou Ou",
+                    "id": "10210991671290767"
+                },
+                "message": "有些好像比較需要前後文 或看過原本的功能用途才能翻譯",
+                "id": "647772631965813"
+            },
+            {
+                "created_time": "2014-07-06T07:39:23+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "我覺得可以先翻能翻的，專業部份可以留給 Yibee Huang review",
+                "id": "647772735299136"
+            },
+            {
+                "created_time": "2014-07-06T07:40:00+0000",
+                "from": {
+                    "name": "Davidou Ou",
+                    "id": "10210991671290767"
+                },
+                "message": "OK 可能翻完再CHECK修正一下語意",
+                "id": "647772861965790"
+            },
+            {
+                "created_time": "2014-07-06T07:40:20+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "Yibee 應該可以幫忙 review 與翻譯，他的障礙我觀察可能是將翻譯的結果 apply 回系統。",
+                "id": "647772945299115"
+            },
+            {
+                "created_time": "2014-07-06T07:41:23+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "這點我覺得是協力翻譯完後用一點時間說明如何使用或設定即可",
+                "id": "647773275299082"
+            },
+            {
+                "created_time": "2014-07-06T09:25:20+0000",
+                "from": {
+                    "name": "Hung-yu Lin",
+                    "id": "2195311297149306"
+                },
+                "message": "怎麼有些中國用語 XD",
+                "id": "647811145295295"
+            },
+            {
+                "created_time": "2014-07-06T10:42:37+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "自己修XD",
+                "id": "647839535292456"
+            },
+            {
+                "created_time": "2014-07-06T11:53:30+0000",
+                "from": {
+                    "name": "Yibee Huang",
+                    "id": "10155509350324856"
+                },
+                "message": "兩公約施行監督聯盟希望能夠有一個可以系統性記錄台灣人權侵害的工作平台與資料庫。非常謝謝大家襄助！",
+                "id": "647856035290806"
+            },
+            {
+                "created_time": "2014-07-10T10:27:27+0000",
+                "from": {
+                    "name": "Chen-Han Hsiao",
+                    "id": "1839565876054184"
+                },
+                "message": "剛用docker 簡單架了個網站，可以拿來測試用，帳號密碼請到hackpad查看。周末有空我會試著把目前的中文翻譯放上去看看 http:\/\/162.222.176.96\/demo",
+                "id": "649674245108985"
+            }
+        ],
+        "summary": {
+            "total_count": 13
+        }
+    }
+}

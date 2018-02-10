@@ -1,0 +1,82 @@
+{
+    "created_time": "2016-05-15T06:05:16+0000",
+    "message": "https:\/\/g0v.hackpad.com\/pOkOI3Iqtw7\n\n希望有人能夠協助我\n我有基礎使用PHP的能力\n但其實不是很會coding\n希望能夠推動這個專案",
+    "story": "Tzu Hung Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_989364454473294",
+    "link": "https:\/\/g0v.hackpad.com\/pOkOI3Iqtw7",
+    "description": "原因：司法院網站很爛 舉例：http:\/\/jirs.judicial.gov.tw\/FJUD\/ 很明顯排版段落是有問題的...... 怎麼做： 自由使用網站，開放給所有需要的人使用 希望使用者全文複製以後，貼到A欄，輸出B欄，是一份排版好的裁判書。 我自有虛擬主機 虛擬主機環境：ＰＨＰ5.5+MYSQL 目前曾經有看到有人做出來 http:\/\/lawsnote.",
+    "name": "司法院判決系統排版網站",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQBbByMKcqWNggkP",
+    "updated_time": "2016-05-17T04:37:28+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Tzu Hung Lee",
+        "id": "1831439950213551"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-05-15T09:10:07+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "請問判決書怎樣的排版是比較合適的？",
+                "id": "989420621134344"
+            },
+            {
+                "created_time": "2016-05-15T09:11:08+0000",
+                "from": {
+                    "name": "Tzu Hung Lee",
+                    "id": "1831439950213551"
+                },
+                "message": "在段落與段落之間，把斷句都刪除",
+                "id": "989421271134279"
+            },
+            {
+                "created_time": "2016-05-15T09:40:42+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "分享一下我之前做的 http:\/\/judicial.ronny.tw\/ 的判決書小幫手，如果在上面丟入判決書第一行的「臺灣高等法院刑事判決 104年度矚上重訴字第6號」，可以產生方便分享的判決書短網址 (Ex: http:\/\/judicial.ronny.tw\/TPH\/M\/104\/%E7%9F%9A%E4%B8%8A%E9%87%8D%E8%A8%B4\/6) ，而如果丟入判決書友善列印網址，就可以產生一個另外的 viewer ( Ex: http:\/\/judicial.ronny.tw\/TPH\/M\/104\/%E7%9F%9A%E4%B8%8A%E9%87%8D%E8%A8%B4\/6\/1041030\/3\/viewer ) ，這些動作可以做在純前端，可以參考看看",
+                "id": "989430434466696"
+            },
+            {
+                "created_time": "2016-05-15T10:16:40+0000",
+                "from": {
+                    "name": "ChengHan Wu",
+                    "id": "10211473718506311"
+                },
+                "message": "分享一下 biglaw ，已經全部開源，最近伺服器在維修，一周後會再次上線 https:\/\/github.com\/biglawtw\/biglaw\n文字表格部分有寫一個 python 的 parser 可以自動轉成正常 HTML 的 table https:\/\/github.com\/biglawtw\/parsing-ascii-table",
+                "id": "989439631132443"
+            },
+            {
+                "created_time": "2016-05-15T10:21:38+0000",
+                "from": {
+                    "name": "Tzu Hung Lee",
+                    "id": "1831439950213551"
+                },
+                "message": "原來已經有人做了",
+                "id": "989441201132286"
+            },
+            {
+                "created_time": "2016-05-15T15:15:29+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "這邊也有類似的坑：\n\nhttps:\/\/g0v.hackpad.com\/jzBYLYjZ2J4",
+                "id": "989565187786554"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

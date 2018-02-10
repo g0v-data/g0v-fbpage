@@ -1,0 +1,181 @@
+{
+    "created_time": "2014-03-04T11:20:46+0000",
+    "message": "手上有閒置的網路設備嗎？對網路管理有興趣嗎？想把開源協作精神推廣出去，讓台灣的公民行動能夠累積共用的知識和資源嗎？禮拜六 g0v 凱道黑客松等著你 ^-^\n\n3\/8 線路松 ",
+    "story": "ET Blue shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_588729964536747",
+    "link": "http:\/\/g0v-tw.kktix.cc\/events\/router-3-8",
+    "description": "詳情請見 線路松 Hackpad 頁面。原則上 11:00 再到場即可。 時程 8:30 中華電信的工程師會來牽線 8:30~11:00 先到場的朋友可以幫忙清點分類借用物資 ...",
+    "name": "3\/8 線路松",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD5DQtDzXEzjjCW&w=130&h=130&url=https%3A%2F%2Fassets0.kktix.com%2Fassets%2Fkktix-og-image-d78cd487cdb72fbf4b8b91185ff069bd.png&cfs=1&_nc_hash=AQDNAQgUjCSk8ySW",
+    "updated_time": "2014-03-08T09:34:41+0000",
+    "caption": "g0v-tw.kktix.cc",
+    "from": {
+        "name": "ET Blue",
+        "id": "10212097510645743"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 23
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-04T11:23:12+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "設備這邊也需要大家支援前線噢：\n\nhttps:\/\/g0v.hackpad.com\/38--jG9uno4d9H8",
+                "id": "588730537870023"
+            },
+            {
+                "created_time": "2014-03-04T13:06:57+0000",
+                "from": {
+                    "name": "Ian Wu",
+                    "id": "10156133119379549"
+                },
+                "message": "5port Gigi Port switch 可不可以",
+                "id": "588762937866783"
+            },
+            {
+                "created_time": "2014-03-04T16:24:31+0000",
+                "from": {
+                    "name": "黃冠儒",
+                    "id": "1527718633992473"
+                },
+                "message": "分享 希望有更多人可以一起來支援",
+                "id": "588835591192851"
+            },
+            {
+                "created_time": "2014-03-04T16:38:50+0000",
+                "from": {
+                    "name": "劉泰東",
+                    "id": "10156038268325070"
+                },
+                "message": "我有「一疊」switch 可借，但須有人來我這裡幫我確認他們的狀態是否可用^_^",
+                "id": "588840314525712"
+            },
+            {
+                "created_time": "2014-03-05T07:48:19+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "感謝 Ian Wu 和 劉泰東 ! 目前 switch 已全數募到，主要還差電力延長線 和 USB 乙太網路轉接卡。",
+                "id": "589121681164242"
+            },
+            {
+                "created_time": "2014-03-05T08:21:26+0000",
+                "from": {
+                    "name": "Wang Chih Wei",
+                    "id": "10211778609960698"
+                },
+                "message": "我想跳坑.....直接在hackpad上報名就好嗎?",
+                "id": "589128361163574"
+            },
+            {
+                "created_time": "2014-03-05T08:27:36+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "Wang Chih Wei 如果願意幫忙帶延長線或 USB 乙太網路卡，請在 hackpad 上「待募集設備」區打勾。如果願意幫忙設定\/除錯，請到 http:\/\/g0v-tw.kktix.cc\/events\/router-3-8 報名。感謝!",
+                "id": "589129417830135"
+            },
+            {
+                "created_time": "2014-03-05T09:55:39+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "Bropheus Huang 當天會來嗎？目前沒有網路轉播的規劃，但是如果有更好！",
+                "id": "589143517828725"
+            },
+            {
+                "created_time": "2014-03-05T22:07:41+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "hmmm, usb ethernet 轉接卡似乎非常冷門，不曉得有沒有人手上有，知道哪裡可以租之類的 https:\/\/g0v.hackpad.com\/38--jG9uno4d9H8",
+                "id": "589398107803266"
+            },
+            {
+                "created_time": "2014-03-06T00:29:16+0000",
+                "from": {
+                    "name": "Bropheus Huang",
+                    "id": "1897145036964963"
+                },
+                "message": "我和 Venev Chao 會去，可以支援小全套硬體設備（攝影機一組、擷取器、筆電），但直播平台沒有每家都很熟，徵求直播玩家幫忙調參數設定！",
+                "id": "589442131132197"
+            },
+            {
+                "created_time": "2014-03-06T00:29:54+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "oh ya!",
+                "id": "589442221132188"
+            },
+            {
+                "created_time": "2014-03-07T15:40:22+0000",
+                "from": {
+                    "name": "Gavin Chang",
+                    "id": "10156232534509695"
+                },
+                "message": "3\/8日 台北市 80%下雨 (借來的設備要小心防水)祝福有到場的朋友.活動順利. 明天見.",
+                "id": "590109797732097"
+            },
+            {
+                "created_time": "2014-03-07T15:47:23+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "Gavin Chang 原來你有在用 fb 呀 XD",
+                "id": "590112984398445"
+            },
+            {
+                "created_time": "2014-03-07T15:48:31+0000",
+                "from": {
+                    "name": "Gavin Chang",
+                    "id": "10156232534509695"
+                },
+                "message": "Fiona Lan??? 你是?",
+                "id": "590113214398422"
+            },
+            {
+                "created_time": "2014-03-07T16:56:21+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "msg XD",
+                "id": "590137734395970"
+            },
+            {
+                "created_time": "2014-03-08T02:34:51+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "Gavin Chang Fiona Lan 樓上兩位認親了 ??",
+                "id": "590307957712281"
+            },
+            {
+                "created_time": "2014-03-08T09:34:41+0000",
+                "from": {
+                    "name": "Venev Chao",
+                    "id": "10155484843009071"
+                },
+                "message": "今天遊行晚會的直播網址 http:\/\/tinyurl.com\/2014-3-8",
+                "id": "590398961036514"
+            }
+        ],
+        "summary": {
+            "total_count": 17
+        }
+    }
+}

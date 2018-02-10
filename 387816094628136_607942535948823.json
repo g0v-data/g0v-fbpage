@@ -1,0 +1,73 @@
+{
+    "created_time": "2014-04-15T06:10:03+0000",
+    "message": "[挖坑][g0v] 高階公務人員財產追蹤\n問題：常見有高階公務人員或是立法委員，財產所得大於其固定薪資來源。\n方法：想透過監察院財產申報資料查詢（http:\/\/ppt.cc\/Jks5），來追蹤特定公務人員自上任起的財產變化。\n目的：如果有不正常的財產收入，可以快速過濾出來。\n\nhttps:\/\/hackpad.com\/g0v--97Wwx93bxta",
+    "story": "Oliver Chou shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_607942535948823",
+    "link": "https:\/\/hackpad.com\/g0v--97Wwx93bxta",
+    "description": "問題：常見有高階公務人員或是立法委員，財產所得大於其固定薪資來源。 *方法：想透過監察院財產申報資料查詢（http:\/\/ppt.",
+    "name": "[g0v] 高階公務人員財產追蹤",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB-RvGRIu3_9XS0&w=130&h=130&url=https%3A%2F%2Fd29bt26wntaesq.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQCPPYuVdFR6K2mF",
+    "updated_time": "2014-04-22T02:15:12+0000",
+    "caption": "hackpad.com",
+    "from": {
+        "name": "Oliver Chou",
+        "id": "10211244492404519"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 42
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-15T06:14:40+0000",
+                "from": {
+                    "name": "Oliver Chou",
+                    "id": "10211244492404519"
+                },
+                "message": "土地部分，還可以透過公告地價及政府建設相關土地變更來分析",
+                "id": "607943405948736"
+            },
+            {
+                "created_time": "2014-04-15T07:58:01+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "駱勁成已經有作一些初步數位化，看看如何併坑？",
+                "id": "607961079280302"
+            },
+            {
+                "created_time": "2014-04-15T08:39:50+0000",
+                "from": {
+                    "name": "駱勁成",
+                    "id": "10154935361642202"
+                },
+                "message": "目前各類別各別一個sheet的excel檔：https:\/\/github.com\/thewayiam\/twly_fileHandler\/tree\/master\/legislator\/property\/output\/normal\n處理程式：\nhttps:\/\/github.com\/thewayiam\/twly_fileHandler\/blob\/master\/legislator\/property\/property.py\n\n來源是從圖檔轉的，所以肯定還是需要人工debug，周六會去黑客松報告",
+                "id": "607969259279484"
+            },
+            {
+                "created_time": "2014-04-21T02:46:49+0000",
+                "from": {
+                    "name": "Brett Chien",
+                    "id": "10155734895304818"
+                },
+                "message": "廉政專刊電子書的crawler跟pdftohtml的scripting\nhttps:\/\/github.com\/brettchien\/asset_tracking\n\n還有一點小bug...有空再來修",
+                "id": "610913442318399"
+            },
+            {
+                "created_time": "2014-04-22T02:15:12+0000",
+                "from": {
+                    "name": "Oliver Chou",
+                    "id": "10211244492404519"
+                },
+                "message": "看要不要整合進去立委投票指南",
+                "id": "611369475606129"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

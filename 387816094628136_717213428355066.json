@@ -1,0 +1,67 @@
+{
+    "created_time": "2014-11-28T05:52:01+0000",
+    "message": "以前曾經爬過台電贊助的一些活動資料，不知道合不合大家胃口？\n\n資料來源主要是從這裡來的：http:\/\/info.taipower.com.tw\/php\/main_4_6_d_new.php?kind=04&valu=[YYYY\/MM]&bg=1\n\n資料時間則是從2003年開始",
+    "id": "387816094628136_717213428355066",
+    "updated_time": "2014-11-28T06:05:00+0000",
+    "from": {
+        "name": "Faryne Hsieh",
+        "id": "10156200644925719"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 9
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-11-28T05:52:59+0000",
+                "from": {
+                    "name": "Faryne Hsieh",
+                    "id": "10156200644925719"
+                },
+                "message": "網址如下：http:\/\/ha2.tw\/energy\/neighbor",
+                "id": "717213595021716"
+            },
+            {
+                "created_time": "2014-11-28T05:53:29+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "可以把原始資料丟 github 公開嗎？感恩",
+                "id": "717213685021707"
+            },
+            {
+                "created_time": "2014-11-28T05:53:37+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "太好了　我馬上補上之前我的坑\n臺灣的用電著色地圖，或是雷同的運用。\nhttps:\/\/g0v.hackpad.com\/iTzLaacxmov",
+                "id": "717213775021698"
+            },
+            {
+                "created_time": "2014-11-28T05:59:27+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "也加到 https:\/\/g0v.hackpad.com\/eaVHzEftBFA 討論",
+                "id": "717215428354866"
+            },
+            {
+                "created_time": "2014-11-28T06:05:00+0000",
+                "from": {
+                    "name": "Faryne Hsieh",
+                    "id": "10156200644925719"
+                },
+                "message": "回饋金的部份有一隻陽春的API可以用：http:\/\/ha2.tw\/energy\/neighbor\/api?year=[YYYY]&month=[MM]  \n\n用電量的話，請參考：http:\/\/ha2api.faryne.tw\/taipower\n\n等有空我再把相關資料丟到 github 上",
+                "id": "717216491688093"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

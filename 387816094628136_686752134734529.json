@@ -1,0 +1,37 @@
+{
+    "created_time": "2014-09-28T04:02:58+0000",
+    "message": "Chun Wei Lee 的坑出現了！",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_686752134734529",
+    "link": "http:\/\/community.g0v.tw\/t\/topic\/242",
+    "description": "嗨大家好！ 我們是一群目前人在波士頓的學生，今天上午 g0v 的高嘉良在哈佛大學法學院跟哈佛法學院網路中心（Berkman Center）的一位智利駭客兼律師兼 open government 推動者 Felipe Heusser 一起進行了一場座談，我們有全程錄影。 這場座談主要是向一般人介紹 open government 與 open data 運動，以及台灣的 g0v 和智利的類似團體就此做了什麼貢獻。因為我們覺得這場座談很有意義很有啟發性，所以我們想要替這場用英文進行的座談製作中文字幕然後放上 youtube 跟大家分享。但因為我們對相關的技術很不熟悉，所以想到來這裡尋求協助。我們目…",
+    "name": "影片編輯尋求協助與協作者",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCRq9S9CItYAvIA&w=130&h=130&url=https%3A%2F%2Fraw.githubusercontent.com%2Fg0v%2Fstyle-guide%2Fgh-pages%2Flogo%2Fpng%2Fhorizontal%2Fg0v-horizontal-white-l.png&cfs=1&_nc_hash=AQBE-8nffwjjIDTr",
+    "updated_time": "2014-09-28T11:24:57+0000",
+    "caption": "community.g0v.tw",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 26
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-09-28T11:24:57+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "阿阿    匯出字幕功能，還沒做完~  \n逐字稿倒是可以運作了\n\n網站：http:\/\/coverbatim.com\/\n\nSource Code： https:\/\/github.com\/jessy1092\/coVerbatim",
+                "id": "686850938057982"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

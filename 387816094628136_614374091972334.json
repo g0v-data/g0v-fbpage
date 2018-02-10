@@ -1,0 +1,55 @@
+{
+    "created_time": "2014-04-27T16:37:37+0000",
+    "message": "幾天前在ptt上po的小應用。不是一個獨立的app，他在ios的passbook下運作，無需jb、免費下載、可任意轉發給其他iPhone。\n\n<!-- 0428_0116內文修正補充 -->\n\niPhone手機直接載點 http:\/\/bit.ly\/1f3dSVb\n\n用iPhone開的話，他會直接出現passbook預覽，右上角有加入功能\nOSX的話會下載一個.pkpass檔案，可以附件mail給自己用手機收信再開啟檔案\n\n通話功能需要iPhone，iPod touch可加入但無法撥話。\n\n<!-- end -->\n\n功能說明：\n1.正面：\nhttp:\/\/i.imgur.com\/aX6orRX.png\n遭逮捕SOP\n\n2.背面：\nhttp:\/\/i.imgur.com\/9200paZ.png\n點選電話即直接撥出通話(目前以顧立雄義務律師團為主)\n\n原設計有一個功能是進入立法院周邊500公尺時，手機會提示(我還需要再進行更多測試)。目前知道安卓系統也可以安裝passbook內容，這邊就請有意願的朋友接手安卓的部份。\n\n希望對每個上街頭的朋友有點幫助。任何建議，請fb訊息給我，謝謝。",
+    "story": "William Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_614374091972334",
+    "link": "https:\/\/api.passdock.com\/r46c6",
+    "description": "Passdock is the faster way to create customizable passes for Passbook, the new digital wallet by Apple.",
+    "name": "我要找律師",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDOR9OwecNQuXvo&w=130&h=130&url=https%3A%2F%2Fapi.passdock.com%2Fassets%2Flogo_passdock_phone.jpg&cfs=1&_nc_hash=AQDu5nCUuQixD58m",
+    "updated_time": "2014-04-27T17:12:21+0000",
+    "caption": "api.passdock.com",
+    "from": {
+        "name": "William Liu",
+        "id": "10210885401632952"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 20
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-27T17:06:48+0000",
+                "from": {
+                    "name": "廖勁智",
+                    "id": "10209802428171319"
+                },
+                "message": "要怎麼使用呢？",
+                "id": "614414875301589"
+            },
+            {
+                "created_time": "2014-04-27T17:08:59+0000",
+                "from": {
+                    "name": "William Liu",
+                    "id": "10210885401632952"
+                },
+                "message": "Kenji Liao \/ iPhone手機直接載點 http:\/\/bit.ly\/1f3dSVb",
+                "id": "614415615301515"
+            },
+            {
+                "created_time": "2014-04-27T17:12:21+0000",
+                "from": {
+                    "name": "廖勁智",
+                    "id": "10209802428171319"
+                },
+                "message": "剛用電腦看還摸不著頭緒，已經可以了，感謝",
+                "id": "614416725301404"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

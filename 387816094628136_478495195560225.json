@@ -1,0 +1,109 @@
+{
+    "created_time": "2013-07-06T03:42:06+0000",
+    "message": "Chen-Heng Chang 來信說怎麼沒人架個 https:\/\/globaleaks.org\/ - 這是一個匿名化保障爆料者安全的服務，有點類似 nytimes 和 aaron swartz 弄的 strongbox (http:\/\/www.newyorker.com\/strongbox\/, source: https:\/\/github.com\/deaddrop\/deaddrop)\n\n不過 g0v 的 motto 就是：【不要問為何沒有人做這個，先承認你就是『沒有人』】，w。有興趣開個專案起頭的話，可以參考現有的空白專案模版：http:\/\/hack.g0v.tw\/meta\/aCZGg48I5pX ，可能要翻譯不少文件就是了。",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_478495195560225",
+    "link": "https:\/\/globaleaks.org\/",
+    "description": "GlobaLeaks is the first open-source whistleblowing framework. It empowers anyone to easily set up and maintain an anonymous whistleblowing platform. GlobaLeaks can help many different types of users: media organizations, activist groups, corporations and public agencies.",
+    "name": "GlobaLeaks",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?w=130&h=130&url=https%3A%2F%2Fglobaleaks.org%2Fimg%2Flogo.png&cfs=1&_nc_hash=AQDoXIeIoZIWrpj9",
+    "updated_time": "2013-07-18T05:23:59+0000",
+    "caption": "globaleaks.org",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 19
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-07-06T03:57:15+0000",
+                "from": {
+                    "name": "Abbygail ET Wu",
+                    "id": "10212459428455662"
+                },
+                "message": "我願意提供反追蹤與安全代管的技術支援，一起來吧",
+                "id": "478498872226524"
+            },
+            {
+                "created_time": "2013-07-06T04:01:03+0000",
+                "from": {
+                    "name": "陳柏儒",
+                    "id": "2020687477948223"
+                },
+                "message": "其實早在之前新聞爆料毒澱粉事情，食品業界早就傳開了...剛好我室友就在這行服務，但他不敢講...如果早就有這個的話就好了XD",
+                "id": "478499828893095"
+            },
+            {
+                "created_time": "2013-07-06T17:43:38+0000",
+                "from": {
+                    "name": "Kirsten Liu",
+                    "id": "10155360770811527"
+                },
+                "message": "如果有需要幫忙翻譯文件的話我可以略盡棉薄之力",
+                "id": "478692508873827"
+            },
+            {
+                "created_time": "2013-07-14T15:41:21+0000",
+                "from": {
+                    "name": "Mervyn Wang",
+                    "id": "1818357461509930"
+                },
+                "message": "公部門有很多人常常夢到一元關切, 但爆料馬上就會知道是誰, 這案子承辦就一個人怎麼爆料啊. 可能對私營企業的一些問題比較有幫助. 或是很大的案子牽涉比較大，但爆料不見的是真的, 像今天問了我朋友那奇怪的太極事件, 果然爆料是有問題。",
+                "id": "482095521866859"
+            },
+            {
+                "created_time": "2013-07-14T15:58:23+0000",
+                "from": {
+                    "name": "Mervyn Wang",
+                    "id": "1818357461509930"
+                },
+                "message": "http:\/\/disp.cc\/b\/163-680a  這個適合用這種服務架設 XD",
+                "id": "482101215199623"
+            },
+            {
+                "created_time": "2013-07-14T16:03:22+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "看來萬事皆備 只等原坑主 Chen-Heng Chang 登高一呼開專案分派任務了",
+                "id": "482102688532809"
+            },
+            {
+                "created_time": "2013-07-15T02:42:31+0000",
+                "from": {
+                    "name": "Chen-Heng Chang",
+                    "id": "2058298217520796"
+                },
+                "message": "要是有心力把這研究透徹我老早就當「沒有人」自己衝了啊Orz",
+                "id": "482316808511397"
+            },
+            {
+                "created_time": "2013-07-15T12:41:44+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "訣竅之一就是，不需一人研究透徹，寫個hackpad提個點子也是「沒有人」的重要拋專功能唷  :) http:\/\/hack.g0v.tw\/g0v-hackath3n\/aCZGg48I5pX 專案空白模版",
+                "id": "482458225163922"
+            },
+            {
+                "created_time": "2013-07-18T05:23:59+0000",
+                "from": {
+                    "name": "Ymow Wu",
+                    "id": "10215433571651703"
+                },
+                "message": "我突然想到\n如果要發佈恐怖攻擊或是假爆料\n也可以透過這種匿名帳號發佈嗎？",
+                "id": "483728478370230"
+            }
+        ],
+        "summary": {
+            "total_count": 9
+        }
+    }
+}

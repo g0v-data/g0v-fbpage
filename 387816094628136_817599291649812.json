@@ -1,0 +1,58 @@
+{
+    "created_time": "2015-06-10T13:43:21+0000",
+    "message": "https:\/\/www.google.com\/maps\/d\/viewer?mid=zCFhsykrgbCQ.kQ1sz2rnnHB4\n\n這種圖，有辦法弄成協作形式，讓成員自己標上去嗎？",
+    "id": "387816094628136_817599291649812",
+    "updated_time": "2015-06-10T15:32:22+0000",
+    "from": {
+        "name": "劉泰東",
+        "id": "10156038268325070"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 1
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-10T14:43:53+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "用開放街圖？",
+                "id": "817652451644496"
+            },
+            {
+                "created_time": "2015-06-10T14:46:47+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "試試 https:\/\/crowdmap.com\/welcome?locale=zh_TW\n\nor http:\/\/www.ushahidi.com\/",
+                "id": "817653204977754"
+            },
+            {
+                "created_time": "2015-06-10T15:26:41+0000",
+                "from": {
+                    "name": "Johnson Liang",
+                    "id": "1639694792780135"
+                },
+                "message": "他只是沒有開放協作吧 @@\n我記得高雄氣爆那張就是協作的呀",
+                "id": "817667424976332"
+            },
+            {
+                "created_time": "2015-06-10T15:32:22+0000",
+                "from": {
+                    "name": "Johnson Liang",
+                    "id": "1639694792780135"
+                },
+                "message": "噢不我錯了 QQ\n剛開了一個新的 my map 然後設定成「Anyone with link can edit」加上「No sign-in required」，但是開無痕視窗之後仍然無法編輯 orz",
+                "id": "817668648309543"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

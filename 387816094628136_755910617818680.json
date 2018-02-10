@@ -1,0 +1,82 @@
+{
+    "created_time": "2015-02-05T15:18:11+0000",
+    "message": "【國會調查兵團API】\n\n各位，國會調查兵團網站（https:\/\/cic.tw）現在提供API功能了，裡面的內容是「國會調查兵團」的成果，內容以CC-BY-ND 3.0 TW授權放出，看大家要怎麼接。\n\n如果API需要調整請跟我說，我可以儘快處理。\n\n文件在此：\n\nhttps:\/\/g0v.hackpad.com\/API-bSmx3h922jc",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_755910617818680",
+    "link": "https:\/\/cic.tw\/",
+    "description": "【國會風雲】管碧玲質詢選舉週高鐵優惠票價學生優惠減班次",
+    "name": "國會調查兵團 CIC",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDF9MHKnPgf-iqe&w=130&h=130&url=https%3A%2F%2Fcic.tw%2Fimages%2FFB-img-default.gif&cfs=1&_nc_hash=AQD6Oi7vezKmxEKh",
+    "updated_time": "2015-02-05T16:52:47+0000",
+    "caption": "cic.tw",
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 44
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-02-05T15:27:38+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/github.com\/kiang\/ivod.ly.gov.tw\n\n之前一時興起把 ivod 影片的清單都抓下來",
+                "id": "755913217818420"
+            },
+            {
+                "created_time": "2015-02-05T15:29:51+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "我ivod內容是去爬 http:\/\/ivod.ly.gov.tw\/",
+                "id": "755913867818355"
+            },
+            {
+                "created_time": "2015-02-05T15:36:49+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "你的 api 看起來是只提供有備份到 youtube 的部份，我也只是製作一個完整的清單而已",
+                "id": "755916091151466"
+            },
+            {
+                "created_time": "2015-02-05T16:33:51+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "江明宗 其實他不是去抓所有的ivod來放，而是大家覺得有梗的ivod可以自己放進去。新聞、影片，都是。這只是一個希望可以集眾人之力，收集立委言行的平台。",
+                "id": "755934334482975"
+            },
+            {
+                "created_time": "2015-02-05T16:35:57+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "有些梗是事後才會想到的，像是台南謝龍介的梗想要回味的時候已經不知道被藏到哪裡去了 XD",
+                "id": "755934921149583"
+            },
+            {
+                "created_time": "2015-02-05T16:52:47+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "立法院追訴期比較久XD",
+                "id": "755940304482378"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

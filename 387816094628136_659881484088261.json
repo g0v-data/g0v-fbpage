@@ -1,0 +1,31 @@
+{
+    "created_time": "2014-08-01T09:15:20+0000",
+    "message": "g8v 電視新聞選台器 http:\/\/j.mp\/1n9IBx0\n天佑高雄！願所有高雄氣爆事件受災朋友平安\n\n感謝 a0000778 辛苦寫的 g8v 電視牆及新增功能，\n我把 高雄氣爆資訊整合站 (hackfoldr)\n裡面全部的 台灣各新聞台頻道 影音實況整理成\ng8v 電視牆選台器 http:\/\/j.mp\/1n9IBx0 \n麻煩大家測試看看並提供意見 <(_ _)>\n右下角目前放的是 tonyq 建立的及時訊息 hackpad。\n如果沒甚麼大問題就會放回 高雄氣爆資訊hackfoldr 接受鄉民蹂躪 >:o \n\n分流(1) ks-0801 ( 後端 google spreadsheet )\n　　　　http:\/\/j.mp\/1oc45Ol \n　　　　http:\/\/j.mp\/1ofZztL （hackfoldr 2.0）\n\n分流(2) Kaohsiung-explode-20140801 ( 後端 ethercalc )\n　　　　http:\/\/j.mp\/1oc8z7x\n　　　　http:\/\/j.mp\/1oc8DUN （hackfoldr 2.0）\n\n（分流2由 唐鳳 每小時手動更新，因此可能您看到的時候連結尚未生效）\n\n有問題或任何建議，歡迎來這裡留言，請大家多多指教\nhttp:\/\/hackfoldr.org\/G8VTV\/t4zB7x0MPD2\ng8v電視牆感謝您 :3\n\n #天佑高雄  #高雄氣爆",
+    "id": "387816094628136_659881484088261",
+    "updated_time": "2014-08-01T12:31:16+0000",
+    "from": {
+        "name": "鈕克力",
+        "id": "947477968789427"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 14
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-01T12:31:16+0000",
+                "from": {
+                    "name": "鈕克力",
+                    "id": "947477968789427"
+                },
+                "message": "by the way 這次事件電視牆的後端在這裡 https:\/\/ethercalc.org\/G8V_20140801\n您有發現品質更好的新聞影音實況嗎？\n想加入的朋友可以自己動手來喔 :3",
+                "id": "659934080749668"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

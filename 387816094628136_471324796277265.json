@@ -1,0 +1,44 @@
+{
+    "created_time": "2013-06-18T13:58:09+0000",
+    "message": "有人在這裡查過資料嗎 \n\n檔案管理局-機關檔案目錄查詢網\n",
+    "story": "Pofeng Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_471324796277265",
+    "link": "https:\/\/near.archives.gov.tw\/",
+    "name": "https:\/\/near.archives.gov.tw\/",
+    "updated_time": "2013-06-18T14:32:38+0000",
+    "caption": "near.archives.gov.tw",
+    "from": {
+        "name": "Pofeng Lee",
+        "id": "10151088271244949"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 0
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-06-18T14:31:09+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "有耶，不過他好像只是可以申請那些檔案抄本，並無線上內文。",
+                "id": "471333892943022"
+            },
+            {
+                "created_time": "2013-06-18T14:32:38+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "喔, 瞭解, 謝謝 ( 所以算政府資料公開, 還不到 open data )",
+                "id": "471334292942982"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "created_time": "2014-07-20T12:28:04+0000",
+    "message": "https:\/\/speakerdeck.com\/igdshare\/save-your-own-game-industry\n\n很哀桑的 OpenOffice 3.x 跟 4.x 目前都和 Google Noto Sans 字體衝突，我只好改回微軟正黑體然後馬上發 Lightning Talk 0-day patch... 自己的 Lightning Talk 自己救，嗚嗚嗚\n\n其實我下午在做 slide 的時候就覺得有問題了，但是都已經在 kcwu 的場子上謝謝他，自己做 slide 還在用微軟正黑體，感覺不太對，所以硬著頭皮賭他在上台時不會 crash。而且事實是當時做到一半，才發現 crash 頻率大增，我已經花時間在現場 download OpenOffice 4.1，以為只有 OO 3.x 有問題，最後要改回來也來不及\n\n果然上台還是出事了。看在 live debug 的份上，在 COSCUP 聽了覺得有趣的朋友麻煩幫忙轉貼吧。XD",
+    "story": "Johnson Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_654307051312371",
+    "link": "https:\/\/speakerdeck.com\/igdshare\/save-your-own-game-industry",
+    "description": "Save your own game industry",
+    "name": "Johnson Lin @ COSCUP 2014 Lightning Talk post-lightning-talk notice: 很哀桑的 OpenOffice 3.x 跟 4.x...",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCol1pFV2nffjJf&w=130&h=130&url=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2F814eb170f235013163b70aec731e246e%2Fslide_0.jpg&cfs=1&_nc_hash=AQBNRXKD15t8dIeG",
+    "updated_time": "2014-07-21T05:57:04+0000",
+    "caption": "speakerdeck.com",
+    "from": {
+        "name": "Johnson Lin",
+        "id": "1839947506029238"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 59
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-07-20T12:42:50+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "很中肯的觀點，為課金做遊戲感覺有夠糟。",
+                "id": "654311124645297"
+            },
+            {
+                "created_time": "2014-07-20T13:25:17+0000",
+                "from": {
+                    "name": "Ping-yu Chou",
+                    "id": "1564155610320500"
+                },
+                "message": "https:\/\/www.youtube.com\/watch?v=YSud7SiozpI\nMacpaul Lin大上傳的Live debug影片XDDDD",
+                "id": "654329881310088"
+            },
+            {
+                "created_time": "2014-07-20T13:26:20+0000",
+                "from": {
+                    "name": "Johnson Lin",
+                    "id": "1839947506029238"
+                },
+                "message": "好快 XDXD",
+                "id": "654330104643399"
+            },
+            {
+                "created_time": "2014-07-20T17:06:00+0000",
+                "from": {
+                    "name": "TW Yang",
+                    "id": "1960902447493410"
+                },
+                "message": "看書、看電視、看電影、聽音樂…與玩遊戲有一個差別，玩遊戲通常更耗神，會同時用到多個感官。對老一輩的人來說，很難適應，進而產生偏見。",
+                "id": "654411657968577"
+            },
+            {
+                "created_time": "2014-07-21T05:57:04+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "聯想到的：\n\n圈地遊戲\n\n\" 他們開發一款最新 App 遊戲 Run An Empire，把實體環境結合進虛擬的圈地遊戲，只要你輸入住家所在地，它就會把附近的地圖算進遊戲的範圍，你只要帶著手機在住家附近跑一圈，這塊地就歸你所有，作為你的領土，不過如果有其他玩家繞過你的領土，這塊地馬上就會變成他的。為了要擴大新領地和維護舊領土，建立自己的帝國，你勢必得時不時的親自「巡視」，才能把地都圈成自己的，成為遊戲排行榜的冠軍。\" \nhttp:\/\/www.biosmonthly.com\/contactd.php?id=4598\n\nHello Lamp Post\n\nHow did people play? During play testing we identified two common player behaviours – some wanted to hunt down as many different objects as possible, and some wanted feel a sense of connection and ownership over one, or two, particular objects.We built inter-object variety into the mechanic to reward the exploring players – post boxes would tend to ask questions about correspondence with friends; bus stops would ask about travel; bridges would ask about boats and river life.\nhttp:\/\/panstudio.co.uk\/folio\/hello-lamp-post\/",
+                "id": "654661531276923"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

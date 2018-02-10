@@ -1,0 +1,49 @@
+{
+    "created_time": "2014-06-27T00:47:28+0000",
+    "message": "嗯 ... g0v 跟 nonuke 後臺怪怪的，好像掛了\n然後就是 nonuke 後台死掉前台一起掛，\n但g0v由於是一段時間自動備份，\n因此可以加上若是All null 不備份機制，\n以防後台掛了前台沒畫面，尤其像是重要副本正在發生時 ...",
+    "id": "387816094628136_643218405754569",
+    "updated_time": "2014-06-27T01:52:33+0000",
+    "from": {
+        "name": "Wei-Cheng Lee",
+        "id": "10160184588235599"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-06-27T00:49:24+0000",
+                "from": {
+                    "name": "Harry Wu",
+                    "id": "2020260864914379"
+                },
+                "message": "這時候備援就很重要了( ? )\n\nhttp:\/\/harrywutv.info\/\n\n偷打廣告XDDDDDDDD",
+                "id": "643218872421189"
+            },
+            {
+                "created_time": "2014-06-27T01:52:00+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "看來 OK 了，現在都有自動備份 (e.g. https:\/\/ethercalc.org\/static\/history\/nonuke2014\/ ) 後台每半小時也會自動檢查重啟。",
+                "id": "643241289085614"
+            },
+            {
+                "created_time": "2014-06-27T01:52:33+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "3QQ 感恩",
+                "id": "643241645752245"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

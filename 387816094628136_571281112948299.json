@@ -1,0 +1,45 @@
+{
+    "created_time": "2014-01-24T06:49:38+0000",
+    "message": "好料的 ;)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_571281112948299",
+    "link": "http:\/\/cft.io\/discussion\/18",
+    "description": "實價登錄的資料，透過正式管道所購買取得者，和網站上的公布有什麼不同呢？試試看，研究看看。",
+    "name": "購買來的實價登錄資料（含下載連結）",
+    "updated_time": "2014-01-25T05:59:14+0000",
+    "caption": "cft.io",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 15
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-25T02:08:51+0000",
+                "from": {
+                    "name": "Chage Wang",
+                    "id": "10155971178808971"
+                },
+                "message": "解壓縮時是亂碼耶 無法解耶",
+                "id": "571599096249834"
+            },
+            {
+                "created_time": "2014-01-25T05:59:14+0000",
+                "from": {
+                    "name": "Toley Huang",
+                    "id": "10211133994085317"
+                },
+                "message": "使用zip就可以解壓縮了，不要用rar",
+                "id": "571667779576299"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "created_time": "2015-06-22T07:35:42+0000",
+    "message": "網路上看到的，但字幕裡 有些字聽不太懂，\n因此懇請懂的人，幫忙填空一下了，感謝！\n\n另外中間跟後面有不少字幕錯置問題，\n我就自動忽略了，因為鮮少會出現一些艱澀的英文單字，\n\n只是之後如果大量的這類演講，要上字幕時，\n個人認為第一階段還是先以電腦語音辨識自動帶入，\n然後再做修正會比較輕鬆吧，否則一大堆錯置的字幕\n還真的會讓人翻白眼的說 ...\n\n關於這點，是否有好的SOP可自動帶入語音辨識的字幕，\n然後再做人工校對呢？\n\n感謝吳大註解，修正已放上該影片下方留言內了，\n就看管理者幾時更新上去了，關於整段影片請見：\nhttps:\/\/youtu.be\/OQQO08EX6TM",
+    "story": "Wei-Cheng Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_822849201124821",
+    "link": "https:\/\/youtu.be\/OQQO08EX6TM?t=2m31s",
+    "description": "~緊急通知~ 各位朋友抱歉!!影片在後製時並未調整成雙聲道! 小編在此切腹..不!土下座道歉!請聽不到的粉絲們 把兩個喇叭都打開唷!!! 翟神來逢甲了!~~臨時追加場次! 沒有選到「世界趨勢與本土關懷」通識課程的同學有福了~~ 歡迎前來，自由入座~~ 講 題：大數據的理念與應用 演講者：翟本喬博士(和沛科技創辦人...",
+    "name": "On Line !【逢甲通識】 翟本喬大數據的理念與應用 2015.03.02",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCc1WzOezscN41E&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FOQQO08EX6TM%2Fhqdefault.jpg&cfs=1&sx=38&sy=0&sw=360&sh=360&_nc_hash=AQC2koFKUp8yKIgu",
+    "updated_time": "2015-06-22T08:15:49+0000",
+    "caption": "youtube.com",
+    "from": {
+        "name": "Wei-Cheng Lee",
+        "id": "10160184588235599"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 12
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-22T07:41:21+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "可以來跳坑　https:\/\/g0v.hackpad.com\/ep\/pad\/static\/ATtAnSyQnOM\n\n逐字稿切豆腐工具ＵＲＬ\nhttp:\/\/coverbatim.com\/",
+                "id": "822850124458062"
+            },
+            {
+                "created_time": "2015-06-22T08:08:16+0000",
+                "from": {
+                    "name": "吳東曄",
+                    "id": "1671441889545009"
+                },
+                "message": "2m31s query language\n3m33s SQL 資料庫\n3m44s tera byte (TB)",
+                "id": "822857684457306"
+            },
+            {
+                "created_time": "2015-06-22T08:09:01+0000",
+                "from": {
+                    "name": "吳東曄",
+                    "id": "1671441889545009"
+                },
+                "message": "4m23 Moore's Law",
+                "id": "822857901123951"
+            },
+            {
+                "created_time": "2015-06-22T08:13:43+0000",
+                "from": {
+                    "name": "吳東曄",
+                    "id": "1671441889545009"
+                },
+                "message": "5m57 intelligence\nsmart tagging\ndynamic typing\n\n6m16s tag\n6m22 XML (然後是他的全名)\n6m28 schema\n6m32 同上\n\n8m31 sample\n\n18m36 editing distance\n18m39同上",
+                "id": "822858587790549"
+            },
+            {
+                "created_time": "2015-06-22T08:15:37+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "感謝吳大,我來做更新補充",
+                "id": "822859077790500"
+            },
+            {
+                "created_time": "2015-06-22T08:15:49+0000",
+                "from": {
+                    "name": "吳東曄",
+                    "id": "1671441889545009"
+                },
+                "message": "19m13 Bill Clinton\n19m17 Clinton\n19m23 請你把Clinton改成Klingon(StarTrek的克林貢)",
+                "id": "822859114457163"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

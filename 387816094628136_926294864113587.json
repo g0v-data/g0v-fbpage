@@ -1,0 +1,93 @@
+{
+    "created_time": "2016-02-04T06:58:17+0000",
+    "message": "我是人資部落客，之前經常用g0v的求職小幫手在查詢。\n因為最近求職旺季，許多黑心公司又開始蠢蠢欲動。\n用更改名稱或相關的方式規避，但在人力銀行上還是沒辦法查到。\n不知道有哪位高手可以幫忙，把眾多裁罰案件做個資料庫。\n方便民眾查詢\n\n原始官方網站：http:\/\/jobhelper.g0v.ronny.tw\/\n但好像最近沒更新了....\n\n小弟拙作：http:\/\/blog.mitchellchen.com\/2016\/02\/blog-post_4.html",
+    "story": "Mitchell Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_926294864113587",
+    "link": "http:\/\/jobhelper.g0v.ronny.tw\/",
+    "description": "求職小幫手是一個瀏覽器套件，安裝之後當你在瀏覽像是 104, 1111, yes123, 518, ejob 等求職網站時，他會自動告訴你一些求職網站不會主動告訴你的事情（例如：這家公司最近是否有因為違反勞基法被罰錢），讓你有更多面向可以評價你要選擇的公司。",
+    "name": "求職小幫手",
+    "updated_time": "2016-02-05T05:43:02+0000",
+    "caption": "jobhelper.g0v.ronny.tw",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "Mitchell Chen",
+        "id": "1941169562564289"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 51
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-02-04T07:11:33+0000",
+                "from": {
+                    "name": "Samuel Sung",
+                    "id": "10156130015694596"
+                },
+                "message": "大多是超過一年的資料了",
+                "id": "926297307446676"
+            },
+            {
+                "created_time": "2016-02-04T07:13:55+0000",
+                "from": {
+                    "name": "Mitchell Chen",
+                    "id": "1941169562564289"
+                },
+                "message": "對.....303天前",
+                "id": "926297740779966"
+            },
+            {
+                "created_time": "2016-02-04T08:14:45+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "王向榮 小幫手之大幫手",
+                "id": "926309440778796"
+            },
+            {
+                "created_time": "2016-02-04T08:52:34+0000",
+                "from": {
+                    "name": "Hc Chang",
+                    "id": "1598199296934754"
+                },
+                "message": "把人資業務外包給派遣公司，你怎樣都查不到",
+                "id": "926318767444530"
+            },
+            {
+                "created_time": "2016-02-04T08:54:39+0000",
+                "from": {
+                    "name": "Mitchell Chen",
+                    "id": "1941169562564289"
+                },
+                "message": "至少盡一些人事啊",
+                "id": "926319134111160"
+            },
+            {
+                "created_time": "2016-02-05T00:59:40+0000",
+                "from": {
+                    "name": "Mitchell Chen",
+                    "id": "1941169562564289"
+                },
+                "message": "沒人可以幫忙跳坑嗎？",
+                "id": "926677697408637"
+            },
+            {
+                "created_time": "2016-02-05T05:41:13+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "哭哭，我資料好久沒更新了",
+                "id": "926763334066740"
+            }
+        ],
+        "summary": {
+            "total_count": 7
+        }
+    }
+}

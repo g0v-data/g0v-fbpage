@@ -1,0 +1,63 @@
+{
+    "created_time": "2013-12-20T00:30:26+0000",
+    "message": "紐約時報製作了這個互動網頁，呈現出幾十年來美國總統大選各州對兩黨支持者比例的改變。台灣的歷屆縣市首長選舉統計，應該也可以來做一張看看。\nhttp:\/\/www.nytimes.com\/interactive\/2012\/10\/15\/us\/politics\/swing-history.html?_r=0",
+    "story": "Wen-Chi Cheng shared PanSci 科學新聞網's photo to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_555648017844942",
+    "link": "https:\/\/www.facebook.com\/PanSci\/photos\/a.155962291134790.37539.114408138623539\/632272943503720\/?type=3",
+    "description": "http:\/\/www.nytimes.com\/interactive\/2012\/10\/15\/us\/politics\/swing-history.html?_r=0\r\n紐約時報製作了這個互動網頁，呈現出幾十年來美國總統大選各州對兩黨支持者比例的改變。台灣的歷屆縣市首長選舉統計，應該也可以來做一張。\r\n\r\n延伸閱讀：\r\n網路極化了政治嗎？\r\nhttp:\/\/pansci.tw\/archives\/11140\r\n選顏與能？\r\nhttp:\/\/pansci.tw\/archives\/9741\r\n長得高攸關選票－怪咖心理學\r\nhttp:\/\/pansci.tw\/archives\/50481",
+    "name": "PanSci 科學新聞網",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/1491609_632272943503720_1409844884_n.png?oh=e15664dc54aef3dd803584c3613a7483&oe=5ADE29F0",
+    "updated_time": "2013-12-22T09:11:56+0000",
+    "from": {
+        "name": "Wen-Chi Cheng",
+        "id": "10156311430844284"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 17
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-12-20T07:50:26+0000",
+                "from": {
+                    "name": "Ian Wu",
+                    "id": "10156133119379549"
+                },
+                "message": "中選會有 9 - 13 屆總統大選的資料，看起來 source 還不錯\n\nhttp:\/\/db.cec.gov.tw\/",
+                "id": "555745334501877"
+            },
+            {
+                "created_time": "2013-12-20T09:02:37+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Cheng-Yu Lin++ 已砍: https:\/\/github.com\/ntuaha\/TWVoteData",
+                "id": "555759501167127"
+            },
+            {
+                "created_time": "2013-12-20T16:08:51+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "周易正社長大人出沒，什麼時候也來黑客松一下 XD",
+                "id": "555879074488503"
+            },
+            {
+                "created_time": "2013-12-22T09:11:56+0000",
+                "from": {
+                    "name": "周易正",
+                    "id": "10156306112244575"
+                },
+                "message": "蓄勢待發中，明年一定會看到我！！",
+                "id": "556561574420253"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

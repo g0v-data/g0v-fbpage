@@ -1,0 +1,829 @@
+{
+    "created_time": "2014-08-03T16:02:54+0000",
+    "message": "歡迎大家共襄盛舉, 分身伐樹 ^.^\n\n",
+    "story": "Tom Shih shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_660961490646927",
+    "link": "https:\/\/g0v.hackpad.com\/vtLwiUfYgcc",
+    "description": "源頭 : 衛服部網頁 URL: http:\/\/www.mohw.gov.tw\/CHT\/DOMA\/DM1_P.",
+    "name": "全國重度級急救責任醫院急診即時訊息",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC59obiu8SVwA-t&w=130&h=130&url=https%3A%2F%2Fg0v.hackpad.com%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQCd4tb6KYrhZXMZ",
+    "updated_time": "2014-08-12T16:09:55+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Tom Shih",
+        "id": "10156061479633373"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 60
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-03T16:15:41+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "因為樹很多，希望先定好欄位名稱，然後有興趣參與的朋友可以考慮用 morph.io 這個服務... 想練習也別忘了可以參加斧頭幫：http:\/\/axe.g0v.tw\/",
+                "id": "660965827313160"
+            },
+            {
+                "created_time": "2014-08-03T16:27:25+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "Wow, 要用到 regular expression , 趕快惡補一下",
+                "id": "660970370646039"
+            },
+            {
+                "created_time": "2014-08-03T16:30:20+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/github.com\/kiang\/data\/blob\/master\/app\/tasks\/EmergencyTask.php\n\n曾經有想要抓一些大醫院的即時掛號資訊，就曾經...",
+                "id": "660971037312639"
+            },
+            {
+                "created_time": "2014-08-03T16:31:26+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "阿, 就完工了 orz",
+                "id": "660971537312589"
+            },
+            {
+                "created_time": "2014-08-03T16:32:29+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "還不完整吧，就看看有沒有人要接手處理，因為原始資料還蠻亂的，缺乏動力...",
+                "id": "660972127312530"
+            },
+            {
+                "created_time": "2014-08-03T16:36:01+0000",
+                "from": {
+                    "name": "Jimmy Huang",
+                    "id": "2103283919688011"
+                },
+                "message": "有要輸入驗證碼的",
+                "id": "660973013979108"
+            },
+            {
+                "created_time": "2014-08-03T16:36:39+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "大部分是用這幾個keyword ; 但長庚是用 \"圖\" \n\n是否已向119通報滿床 \n等待看診人數 \n等待推床人數 \n等待住院人數 \n等待加護病床人數",
+                "id": "660973203979089"
+            },
+            {
+                "created_time": "2014-08-03T16:37:58+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "OMG , 這家用PDF , 而且每十分鐘 update \nhttp:\/\/www.vghks.gov.tw\/ISCenter\/data\/VGHKERINFO.PDF \n\nPS : 各家醫院 Update 的間隔沒有統一",
+                "id": "660973810645695"
+            },
+            {
+                "created_time": "2014-08-03T16:39:29+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "需要驗證碼\nhttp:\/\/www.tsmh.org.tw\/~webapp\/b\/web_dg\/show_web_page.php?edsno=1002",
+                "id": "660974423978967"
+            },
+            {
+                "created_time": "2014-08-03T16:40:59+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "等待看診人數 分 \"內外兒\" => 應該直接merge 成一個\n\nhttp:\/\/www.vghtc.gov.tw\/GipOpenWeb\/wSite\/sp?xdUrl=\/wSite\/query\/Doctor\/GetEmgBedInform.jsp&ctNode=55658&mp=1&idPath=213_55658",
+                "id": "660975043978905"
+            },
+            {
+                "created_time": "2014-08-03T16:47:35+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "pdf & 驗證碼都可以破解，但格式不統一真的需要很強大的意志去面對 XD",
+                "id": "660977173978692"
+            },
+            {
+                "created_time": "2014-08-03T16:52:52+0000",
+                "from": {
+                    "name": "Yukiko Young",
+                    "id": "10204391987277216"
+                },
+                "message": "原始資料是怎樣的格式 .. 最近在練大批清洗資料格式的方法~",
+                "id": "660979183978491"
+            },
+            {
+                "created_time": "2014-08-03T16:53:45+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "就 \"什麼都有，什麼都不奇怪\" 的概念，不妨跳坑試試吧（推）",
+                "id": "660979507311792"
+            },
+            {
+                "created_time": "2014-08-03T16:53:45+0000",
+                "from": {
+                    "name": "Yukiko Young",
+                    "id": "10204391987277216"
+                },
+                "message": "看到了...HTML ~\"~",
+                "id": "660979510645125"
+            },
+            {
+                "created_time": "2014-08-03T16:54:31+0000",
+                "from": {
+                    "name": "Yukiko Young",
+                    "id": "10204391987277216"
+                },
+                "message": "我先爬一下看看...(準備繫安全索衝坑)",
+                "id": "660979843978425"
+            },
+            {
+                "created_time": "2014-08-04T01:28:42+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "也許可以看看網頁架構，瞭解醫院內資訊能力到那裡（隨然外包居多）",
+                "id": "661240387285704"
+            },
+            {
+                "created_time": "2014-08-04T02:46:38+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "可以到 hackpad 上認領你在進行的醫院 以免重複砍柴",
+                "id": "661276733948736"
+            },
+            {
+                "created_time": "2014-08-04T05:11:01+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "開個 github repo 或直接用 gist 吧! 另外最後那些應該輸出成 json 以便整理",
+                "id": "661315753944834"
+            },
+            {
+                "created_time": "2014-08-04T05:17:44+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "Json 格式的sample ?",
+                "id": "661317250611351"
+            },
+            {
+                "created_time": "2014-08-04T05:19:13+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "直接 serialize 就好了: https:\/\/docs.python.org\/2\/library\/json.html",
+                "id": "661317617277981"
+            },
+            {
+                "created_time": "2014-08-04T13:39:45+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "請問是這樣嗎? \nhttps:\/\/gist.github.com\/f40aab166fb536ae3e1b.git",
+                "id": "661487237261019"
+            },
+            {
+                "created_time": "2014-08-04T18:03:06+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "cc\/李昕迪 請問醫療院所的基本資料是不是之前有處理過了？",
+                "id": "661588303917579"
+            },
+            {
+                "created_time": "2014-08-04T19:12:04+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "啊，發現我不大會用 Hackpad.. Orz\nparser 有限定語言嗎?",
+                "id": "661619333914476"
+            },
+            {
+                "created_time": "2014-08-04T19:27:54+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "慈濟的資料有 JSON http:\/\/hlm.tzuchi.com.tw\/html\/HLinfo\/Hlinfo.php",
+                "id": "661623977247345"
+            },
+            {
+                "created_time": "2014-08-05T00:16:56+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "我看到的資料只有醫療院所名字聯絡方式，科別和人力是以鄉鎮市區為單位，而且不分科別一律稱為西醫師... (皆來自 data.gov.tw)",
+                "id": "661724790570597"
+            },
+            {
+                "created_time": "2014-08-05T00:33:42+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "我發現有的醫院提供資訊是1分鐘update 一次，有的是10分鐘 想問一下，如果parsing ready 那g0v 要自己archive data也是1分鐘 抓一次嗎？ （方便後續統計） 還是像氣象pm2.0 讓user 自己隨時抓？",
+                "id": "661729763903433"
+            },
+            {
+                "created_time": "2014-08-05T01:19:51+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "Wow, 一夜之間就砍完了! 只剩有驗證碼的\n立委的醫院程度就是不一樣 \n(http:\/\/www.tsmh.org.tw\/~webapp\/b\/web_dg\/show_web_page.php?edsno=1002)",
+                "id": "661741097235633"
+            },
+            {
+                "created_time": "2014-08-05T04:27:07+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "https:\/\/gist.github.com\/mcdlee\/a3a7d55767e6f26fec44 砍到醫院的 GPS 了 (不過我比較希望砍到醫院的健保代碼)",
+                "id": "661788377230905"
+            },
+            {
+                "created_time": "2014-08-05T04:33:03+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "是 醫事機構代碼 嗎？https:\/\/gist.github.com\/clkao\/760f162de2bb7e832224",
+                "id": "661789707230772"
+            },
+            {
+                "created_time": "2014-08-05T04:34:31+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "健保署的資料比較漂亮呀 !!!",
+                "id": "661790003897409"
+            },
+            {
+                "created_time": "2014-08-05T05:52:18+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "大醫院的代碼沒問題,但是小診所的偶爾會被健保屬fire, 所以欄位會隨時間而變",
+                "id": "661805573895852"
+            },
+            {
+                "created_time": "2014-08-05T11:59:47+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "有 Captcha 的那個似乎要寫個 solver 才行.. Orz\n但是 CV 不是我的專長，只憑著以前的印象寫到這樣  Q__Q\n\nhttp:\/\/cornguo.nlplab.tw\/temp\/hospital\/crawer\/guessCaptcha.php",
+                "id": "661941857215557"
+            },
+            {
+                "created_time": "2014-08-05T15:46:23+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "好像已經砍完了? 不確定安泰那個是不是一直都OK",
+                "id": "662057423870667"
+            },
+            {
+                "created_time": "2014-08-05T15:59:53+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "我也....不確定XD",
+                "id": "662062037203539"
+            },
+            {
+                "created_time": "2014-08-05T16:17:44+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "安泰那個剛剛試了一下，似乎直接打 er_show_db.php 就可以拿到，用瀏覽器開才會跑出驗證碼.. 有點奇妙",
+                "id": "662067853869624"
+            },
+            {
+                "created_time": "2014-08-05T16:19:40+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "我先在 local 每兩分鐘跑抓一次了XD\n放到明早看有沒有 crash....\n((希望不要被鎖 ip QQQQ",
+                "id": "662068423869567"
+            },
+            {
+                "created_time": "2014-08-05T16:21:11+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "我的放在這裡\nhttp:\/\/cornguo.nlplab.tw\/temp\/hospital\/crawler\/skh.php (其他醫院以此類推)",
+                "id": "662068917202851"
+            },
+            {
+                "created_time": "2014-08-05T16:22:08+0000",
+                "from": {
+                    "name": "Yukiko Young",
+                    "id": "10204391987277216"
+                },
+                "message": "我我我 ...手腳很慢 還沒砍完QQ",
+                "id": "662069210536155"
+            },
+            {
+                "created_time": "2014-08-05T16:22:14+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "要玩玩看 influxdb.com 嗎？",
+                "id": "662069227202820"
+            },
+            {
+                "created_time": "2014-08-05T16:31:14+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "滿有趣的 ww，有空來玩玩看 :p",
+                "id": "662072953869114"
+            },
+            {
+                "created_time": "2014-08-06T07:47:02+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Kuo Yu-Min, php 是不是需要另外處理 timezone? Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone",
+                "id": "662377653838644"
+            },
+            {
+                "created_time": "2014-08-06T07:47:55+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "Chia-liang Kao 看起來是 php.ini 沒有設定時區",
+                "id": "662377793838630"
+            },
+            {
+                "created_time": "2014-08-06T07:48:31+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "我是用 cli",
+                "id": "662377917171951"
+            },
+            {
+                "created_time": "2014-08-06T07:50:07+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "php.ini 要設定 timezone，不過考慮到可能會放在其他地方跑，確實應該在程式內加上時區設定",
+                "id": "662378180505258"
+            },
+            {
+                "created_time": "2014-08-06T07:50:33+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "我處理一下",
+                "id": "662378240505252"
+            },
+            {
+                "created_time": "2014-08-06T07:55:11+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "@Chia-liang Kao: 改好了，pull 之後再試試看吧 :)",
+                "id": "662379033838506"
+            },
+            {
+                "created_time": "2014-08-06T08:05:28+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "寫一寫發現，應該要想個辦法把這些零零碎碎的 regExp 整理起來變成一個小 class，各醫院的 parsing rule 寫成 config 丟進去跑之類的  :p",
+                "id": "662380483838361"
+            },
+            {
+                "created_time": "2014-08-06T15:48:19+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "發現光田醫院的兩個分院是一樣的醫事機構... 可能要想辦法分辨",
+                "id": "662579563818453"
+            },
+            {
+                "created_time": "2014-08-06T16:20:27+0000",
+                "from": {
+                    "name": "Jasper Yu",
+                    "id": "1794925343861424"
+                },
+                "message": "所以這個專案是任何人都可以加入?",
+                "id": "662591663817243"
+            },
+            {
+                "created_time": "2014-08-06T16:21:26+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "尤理衡 ，其實所有的專案都是任何人可以加入的，因為裡面都沒有人？ XD",
+                "id": "662591980483878"
+            },
+            {
+                "created_time": "2014-08-06T16:22:12+0000",
+                "from": {
+                    "name": "Jasper Yu",
+                    "id": "1794925343861424"
+                },
+                "message": "原來如此 這個坑感覺不錯 跳了",
+                "id": "662592283817181"
+            },
+            {
+                "created_time": "2014-08-06T16:30:28+0000",
+                "from": {
+                    "name": "Jasper Yu",
+                    "id": "1794925343861424"
+                },
+                "message": "不過看來大部份都做完了啊QAQ",
+                "id": "662595060483570"
+            },
+            {
+                "created_time": "2014-08-06T16:36:15+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "@Chia-liang Kao: 咦咦，光田那個我已經查到大甲分院的代號，是 1536030075",
+                "id": "662596913816718"
+            },
+            {
+                "created_time": "2014-08-06T17:20:12+0000",
+                "from": {
+                    "name": "YuFei Faye Cheng",
+                    "id": "10154878000761653"
+                },
+                "message": "Shu Hua Lee",
+                "id": "662610013815408"
+            },
+            {
+                "created_time": "2014-08-08T08:22:00+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "不知道下一步是 ?",
+                "id": "663488370394239"
+            },
+            {
+                "created_time": "2014-08-09T04:25:56+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "Chia-liang Kao ++  好像差不多了, 剩下中文化 title \nthen let data speaks !",
+                "id": "663916747018068"
+            },
+            {
+                "created_time": "2014-08-09T05:57:16+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "用 Custom 把時間拉長, 奇怪有的data超前 ?\n(1131010011, 1111060015, 1131100010, 0401180014)",
+                "id": "663940157015727"
+            },
+            {
+                "created_time": "2014-08-09T10:57:04+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "http:\/\/er.mohw.g0v.tw\/ 上線",
+                "id": "664008220342254"
+            },
+            {
+                "created_time": "2014-08-09T15:56:39+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Even Wu 可以幫忙設計一個 mapbox 上的 地圖配色嗎？",
+                "id": "664113723665037"
+            },
+            {
+                "created_time": "2014-08-09T16:26:42+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "@Tom Shih: date 超前會不會是之前提到的 timezone 轉換問題? 看了一下好像是 py 的 crawlers @@",
+                "id": "664131830329893"
+            },
+            {
+                "created_time": "2014-08-09T16:27:06+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "哪支?",
+                "id": "664131970329879"
+            },
+            {
+                "created_time": "2014-08-09T16:28:30+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": ":D",
+                "id": "664132466996496"
+            },
+            {
+                "created_time": "2014-08-10T01:10:42+0000",
+                "from": {
+                    "name": "Chen Kai Chang",
+                    "id": "2046452738704722"
+                },
+                "message": "因為有人抱怨資料太多不易辨認，是否能增加查詢介面讓使用者選擇地點，以較近距離的醫院優先列出呢? \n(像人在高雄的話，基本上不會跑到台北的醫院急診)\n\n已在hackpad內加註了！ :D",
+                "id": "664320046977738"
+            },
+            {
+                "created_time": "2014-08-10T01:48:54+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Chen Kai Chang 可以直接加到 hackpad, 之前做的是資料彙整 附近查詢應該是 logical next step",
+                "id": "664330716976671"
+            },
+            {
+                "created_time": "2014-08-10T01:53:42+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "也許該分成民眾版和專業版；民眾版加在map ；專業版提供advance custom setting ?",
+                "id": "664331866976556"
+            },
+            {
+                "created_time": "2014-08-10T19:50:15+0000",
+                "from": {
+                    "name": "Dennis Chen",
+                    "id": "2477983155759489"
+                },
+                "message": "這些資料其實有些陷阱....巷仔內比較清楚, 在此\"誠摯\"各位高手加入我們耕耘好幾年的緊急醫療資訊透明化的Non-profit Project! ....https:\/\/sites.google.com\/site\/kamera119\/home",
+                "id": "664775120265564"
+            },
+            {
+                "created_time": "2014-08-11T01:58:54+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Dennis Chen++ 請問有什麼 action item 或 todo 嗎？網站上看不大出來需要什麼幫忙，不知道參與的機構目前有另行公開公布額外的資訊嗎？",
+                "id": "664889116920831"
+            },
+            {
+                "created_time": "2014-08-11T03:31:40+0000",
+                "from": {
+                    "name": "Dennis Chen",
+                    "id": "2477983155759489"
+                },
+                "message": "Many THX!! 請看一下連結簡介,  http:\/\/www.tma.tw\/ltk\/103570714.pdf   我們歡迎",
+                "id": "664914346918308"
+            },
+            {
+                "created_time": "2014-08-11T03:34:43+0000",
+                "from": {
+                    "name": "Dennis Chen",
+                    "id": "2477983155759489"
+                },
+                "message": "我們歡迎有這邊興趣的夥伴一齊解決每天上演的實境問題,我找時間與大夥分享實務經驗與陷阱",
+                "id": "664916756918067"
+            },
+            {
+                "created_time": "2014-08-11T04:21:04+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "Dannis Chen  你們的project 很棒, 不過比較是針對醫療單位應用(應該都是檢傷分類比較嚴重的), 有考慮哪些是可以直接對民眾開放的嗎?   這邊的資料不過就都是原來對民眾開放的, 只是不好顯示, 各院資料都四散.",
+                "id": "664927716916971"
+            },
+            {
+                "created_time": "2014-08-11T04:54:34+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "這個grafana 太強了，連手機看大小也是剛剛好",
+                "id": "664948846914858"
+            },
+            {
+                "created_time": "2014-08-11T05:07:12+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "Dennis Chen 問個有點離題的問題，據我所知台灣的電子病歷都是土炮，沒有開放的格式 (只有影像有依循 DICOM 規格)，有打算依循 HL7 來製作嗎？ (其實我也是 COSCUP 聽到慈濟大學的學生回饋才知道有這樣的格式) http:\/\/en.wikipedia.org\/wiki\/Health_Level_7",
+                "id": "664955546914188"
+            },
+            {
+                "created_time": "2014-08-11T05:13:56+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "李昕迪  請問您和同事接到EEC image exchange request 的一個月有幾例？ 我這邊一年下來個位數，大多燒光牒",
+                "id": "664957443580665"
+            },
+            {
+                "created_time": "2014-08-11T05:24:52+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "我現在的部門大約 <10\/月吧！以前顧內科病房大約一個病房一個月 5-8 吧 (影像燒光碟，病歷印紙本)。",
+                "id": "664959270247149"
+            },
+            {
+                "created_time": "2014-08-11T05:26:51+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "所以大都透過EEC 交換？",
+                "id": "664959683580441"
+            },
+            {
+                "created_time": "2014-08-11T05:39:33+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "no EEC protocol in my department yet~~~",
+                "id": "664964363579973"
+            },
+            {
+                "created_time": "2014-08-11T05:55:01+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "而且我強烈懷疑我們報告系統的 backend 是土炮，而非開放的格式...",
+                "id": "664968096912933"
+            },
+            {
+                "created_time": "2014-08-11T08:58:19+0000",
+                "from": {
+                    "name": "Dennis Chen",
+                    "id": "2477983155759489"
+                },
+                "message": "mcdlee你上次參加C4H時的講者朱老師就是HL7這方面的專家,我再幫你問一下...重點是你怎沒來共襄盛舉一下( http:\/\/cft.kktix.cc\/events\/cfh-2014-summer ) 這裡有許多急診壅塞更詳細的DATA可探勘....",
+                "id": "665015680241508"
+            },
+            {
+                "created_time": "2014-08-11T09:39:27+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "請問資料有可能開放出來嗎？僅限活動使用有點可惜",
+                "id": "665025260240550"
+            },
+            {
+                "created_time": "2014-08-11T09:59:13+0000",
+                "from": {
+                    "name": "Dennis Chen",
+                    "id": "2477983155759489"
+                },
+                "message": "透明化是趨勢..但管事的怕事實揭露後,被嫌無能解決.我也在摸索透明過程的步調 (巷子內談吧....)",
+                "id": "665029910240085"
+            },
+            {
+                "created_time": "2014-08-11T10:06:56+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "這週末被指派去上奇怪的課 (烏煙瘴氣)",
+                "id": "665031766906566"
+            },
+            {
+                "created_time": "2014-08-11T11:11:56+0000",
+                "from": {
+                    "name": "Hanson Lin",
+                    "id": "1883585361654505"
+                },
+                "message": "作手機導航 app",
+                "id": "665050270238049"
+            },
+            {
+                "created_time": "2014-08-11T15:00:49+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Dennis Chen 我覺得活動非常有意義，只是若資料沒有明確開放授權的話，貢獻者當天做出來的成果本身，所有權或授權方式會建議如何呢？",
+                "id": "665132573563152"
+            },
+            {
+                "created_time": "2014-08-11T15:40:44+0000",
+                "from": {
+                    "name": "Rockey Liao",
+                    "id": "10215150665949520"
+                },
+                "message": "最近幾年政府有在推電子病歷喔\n有統一的格式要求\n要求以XML的方式交換\n前幾年有經費可以申請\n所以有蠻多醫院有參與的\n網站也規定要有宣傳電子病歷\n不過已離開醫院\n所以不知最近一年的狀況\n是不是真的有在互通了\n醫院在交換上的阻力\n有一部分是怕淪為健保檢查用\n而不去進行",
+                "id": "665148186894924"
+            },
+            {
+                "created_time": "2014-08-11T16:20:23+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "小弟當年參與電子病歷交換格式 CDA R2 相關研究以及制定，可惜的是經費補助的部分到最後變成變相的申請補助花在別的地方，標準是符合了但真正能否交換就...。\n\n影像交換的部分也有點可惜，頻寬不夠即使在 Index 上查到，最後在傳輸交換上也有障礙。",
+                "id": "665162253560184"
+            },
+            {
+                "created_time": "2014-08-11T16:29:29+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "現有的電子病歷內的格式的確是土炮沒錯，但一些欄位當年在撰寫標準指引的時候還是有參考 SNOMED\/LOINC 等。只是標準規標準，醫院各家自己塞啥資料進去，以及 term 的部分是否有統一就... 嗯。",
+                "id": "665167123559697"
+            },
+            {
+                "created_time": "2014-08-11T16:40:11+0000",
+                "from": {
+                    "name": "Rockey Liao",
+                    "id": "10215150665949520"
+                },
+                "message": "要不要遵詢標準也是一個值得探討的問題\n因為拿高標準去訂，但醫院跟本沒記錄的話\n就會變成進入門檻，原本推電子病歷在醫院就有反對聲音了\n因為電子病歷讓要做的事更多的話，就‧‧‧\n\n或是醫院用的跟制定的標準不同\n變成資訊人員要去轉換名詞，很怕會轉錯XD\n\n撇開標準不說，光普通欄位就有很多問題了\n我記得名字就有字數上的限制\n只能忍痛把冠姓拿掉(茶)",
+                "id": "665170310226045"
+            },
+            {
+                "created_time": "2014-08-12T10:30:51+0000",
+                "from": {
+                    "name": "Joye  Lin",
+                    "id": "1565019010279997"
+                },
+                "message": "剛推了個地圖範例歡迎討論 https:\/\/github.com\/g0v\/er.mohw\/pull\/6",
+                "id": "665519430191133"
+            },
+            {
+                "created_time": "2014-08-12T16:09:55+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "Sang-Ju Yu wrote a new note: <診間田調> 怎麼來醫院? \"慢的聯想\".\n\nhttps:\/\/m.facebook.com\/notes\/sang-ju-yu\/%E8%A8%BA%E9%96%93%E7%94%B0%E8%AA%BF-%E6%80%8E%E9%BA%BC%E4%BE%86%E9%86%AB%E9%99%A2-%E6%85%A2%E7%9A%84%E8%81%AF%E6%83%B3\/10152384722003650\/",
+                "id": "665648783511531"
+            }
+        ],
+        "summary": {
+            "total_count": 90
+        }
+    }
+}

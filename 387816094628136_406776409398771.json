@@ -1,0 +1,136 @@
+{
+    "created_time": "2013-01-15T11:55:22+0000",
+    "message": "這個構想，看起來是很合理的，只是我目前沒有實做它的技術，所以先參與協力翻譯成中文的工作。",
+    "story": "唐宗浩 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_406776409398771",
+    "link": "http:\/\/www.wretch.cc\/blog\/bestian\/16825426",
+    "description": "aaron-swartz的構想，壯志未酬身先死。將其志譯成中文，放諸網路，以為悼念。  (原文出處：http:\/\/boingboing.net\/2013\/01\/12\/rip-aaron-swartz.html)  =======  First he decides to take over the whole California Senate, so he can do things at scal...",
+    "name": "悼念aaron-swartz - 光塵屋 - 無名小站",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCdYjpAo6y7mags&w=130&h=130&url=http%3A%2F%2Fl.yimg.com%2Ff%2Fi%2Ftw%2Fwretch%2Fsocial%2Ffacebook_icon_blog.gif&cfs=1&_nc_hash=AQBPQDr5u0YJq8Tv",
+    "updated_time": "2013-01-18T06:57:21+0000",
+    "caption": "wretch.cc",
+    "from": {
+        "name": "唐宗浩",
+        "id": "1993696087313952"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-01-15T13:09:33+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "其實也不是完全沒有技術...演算法和人因工程的部份，還算有些基礎，所以設計和測試的部份，應該出得上力，只是各種coding的語法都十分陌生，所以無法獨自完成就是。自己不會coding的話，在27號的黑客松，能提此案嗎?",
+                "id": "406799482729797"
+            },
+            {
+                "created_time": "2013-01-15T13:26:32+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "可以呀，如果可以稍微用什麼畫一下這個服務想長的樣子，使用的流程，需要的資料，訂一下最初的 user story，應該就比較好找人加入了",
+                "id": "406803772729368"
+            },
+            {
+                "created_time": "2013-01-16T00:34:36+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "像這樣嗎? (先寫了一部份開頭)\n\nhttps:\/\/hackpad.com\/草根議會-EXAYdPwkfcz",
+                "id": "407029092706836"
+            },
+            {
+                "created_time": "2013-01-16T04:19:06+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "「也就是說，發明新的、開放的選舉工具，重點並非奪權，而是一種能改變選舉的結構和文化的社會運動。」\n\n(--邀約技術內行的人參與偷跑共筆)\n\nhttps:\/\/hackpad.com\/草根議會-EXAYdPwkfcz",
+                "id": "407086599367752"
+            },
+            {
+                "created_time": "2013-01-16T04:25:15+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "有看過 http:\/\/liquidfeedback.org\/ 嗎？",
+                "id": "407088126034266"
+            },
+            {
+                "created_time": "2013-01-16T10:40:55+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "感謝Chia-liang Kao，剛剛首次看了LiquidFeedback簡介。感覺它是很好的「人民-民代」橋樑。異同和搭配寫在pad裡了。",
+                "id": "407203206022758"
+            },
+            {
+                "created_time": "2013-01-18T00:37:43+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "另外開了一個可能的先驅構想，應該比較泛用且簡易?\n\nhttps:\/\/hackpad.com\/認認網-認識彼此-nEgcvcnmJoN",
+                "id": "407845579291854"
+            },
+            {
+                "created_time": "2013-01-18T06:24:13+0000",
+                "from": {
+                    "name": "Demo Kao",
+                    "id": "1013013352198310"
+                },
+                "message": "附件ipad開不了",
+                "id": "407950755948003"
+            },
+            {
+                "created_time": "2013-01-18T06:39:55+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "這我就不懂了...hackpad也是第一次用 :)",
+                "id": "407954895947589"
+            },
+            {
+                "created_time": "2013-01-18T06:42:34+0000",
+                "from": {
+                    "name": "Demo Kao",
+                    "id": "1013013352198310"
+                },
+                "message": "所以你是在電腦pc作業嗎",
+                "id": "407955682614177"
+            },
+            {
+                "created_time": "2013-01-18T06:53:19+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "對",
+                "id": "407957835947295"
+            },
+            {
+                "created_time": "2013-01-18T06:57:21+0000",
+                "from": {
+                    "name": "Demo Kao",
+                    "id": "1013013352198310"
+                },
+                "message": "找時間用電腦看，希望有幫上忙的地方",
+                "id": "407958725947206"
+            }
+        ],
+        "summary": {
+            "total_count": 12
+        }
+    }
+}

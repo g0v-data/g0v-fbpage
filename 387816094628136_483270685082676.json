@@ -1,0 +1,67 @@
+{
+    "created_time": "2013-07-17T05:10:39+0000",
+    "message": "上回的 open data 資料要求收到回信了：http:\/\/data.g0v.tw\/questions\/168\/ => doc\/pdf 不是「資料」; http:\/\/data.g0v.tw\/questions\/1 => 你公蝦？基本上就是：如何禮貌的說「請勿答非所問，真的聽不懂的話，研考會同仁應該會很樂意協助貴單位提升素質」",
+    "id": "387816094628136_483270685082676",
+    "updated_time": "2013-07-17T05:42:56+0000",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 2
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-07-17T05:11:27+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "想請大家幫忙 draft 「請勿答非所問，真的聽不懂的話，研考會同仁應該會很樂意協助貴單位提升素質」的 template: 直接加在下面吧：https:\/\/g0v.hackpad.com\/g0v-template-essERP8VYxF cc Whiski Tajfun",
+                "id": "483270781749333"
+            },
+            {
+                "created_time": "2013-07-17T05:14:06+0000",
+                "from": {
+                    "name": "Chia-Kai Liu",
+                    "id": "2006145672758812"
+                },
+                "message": "ls this case closed or not?",
+                "id": "483271305082614"
+            },
+            {
+                "created_time": "2013-07-17T05:15:18+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "對我們來說當然是沒有 close; 對他們來說，我們沒再回信去戳應該就 close 了",
+                "id": "483271518415926"
+            },
+            {
+                "created_time": "2013-07-17T05:25:15+0000",
+                "from": {
+                    "name": "Louis Lo",
+                    "id": "10155981578951544"
+                },
+                "message": "primary key 的問題我在去年十月就當面跟他們提過了，他們的回應是: 羅先生，是是是，這個我會請同仁們研擬一下。",
+                "id": "483273708415707"
+            },
+            {
+                "created_time": "2013-07-17T05:42:56+0000",
+                "from": {
+                    "name": "Hsin-chan Chien",
+                    "id": "10214807554037802"
+                },
+                "message": "GG",
+                "id": "483278108415267"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

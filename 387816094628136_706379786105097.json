@@ -1,0 +1,64 @@
+{
+    "created_time": "2014-11-05T14:40:32+0000",
+    "message": "https:\/\/g0v.hackpad.com\/cMxpnj1roqw\n前幾天內政部終於釋出籍行軍之後的全台人口資料，預計此份資料會與選舉人口高度相似，我們可以開始嘗試做計算分析和地圖繪製。\n目前已經完成台北市今年九月人口資料的模板，大家可以幫忙分身伐樹來扭轉選戰，謝謝。",
+    "story": "Chen Kai Chang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_706379786105097",
+    "link": "https:\/\/g0v.hackpad.com\/cMxpnj1roqw",
+    "description": "資料來源 政府資料 http:\/\/data.moi.gov.tw\/MoiOD\/Data\/DataDetail.aspx?oid=F4478CE5-7A72-4B14-B91A-F4701758328F .csv檔模板 103年9月臺北市人口資料.",
+    "name": "選前選舉人口消長計算與地圖化",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC59obiu8SVwA-t&w=130&h=130&url=https%3A%2F%2Fg0v.hackpad.com%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQCd4tb6KYrhZXMZ",
+    "updated_time": "2014-11-13T14:27:55+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Chen Kai Chang",
+        "id": "2046452738704722"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 19
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-11-07T02:59:05+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "http:\/\/nbviewer.ipython.org\/github\/t0mst0ne\/Population\/blob\/master\/City%20all%20age%20statistics.ipynb",
+                "id": "707126806030395"
+            },
+            {
+                "created_time": "2014-11-07T05:59:00+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "我把部分parsing 完的資料暫時放這邊\nhttps:\/\/github.com\/t0mst0ne\/Population",
+                "id": "707226136020462"
+            },
+            {
+                "created_time": "2014-11-09T01:30:49+0000",
+                "from": {
+                    "name": "Robin Lee",
+                    "id": "10155632917792946"
+                },
+                "message": "這個可以作抓data 的教學用 : P",
+                "id": "708315579244851"
+            },
+            {
+                "created_time": "2014-11-13T14:27:55+0000",
+                "from": {
+                    "name": "Licas Chiou",
+                    "id": "10156054076594054"
+                },
+                "message": "我寫了一個小R script 把內政部抓下來的資料轉成模板需求的格式。目前 repo 上只有 10309 的資料，其他資料只要格式相同應該能夠照樣跑完。\n\nFYI.\nhttps:\/\/github.com\/licaschiou\/taiwanVoterDemography",
+                "id": "710439632365779"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

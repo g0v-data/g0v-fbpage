@@ -1,0 +1,352 @@
+{
+    "created_time": "2014-04-08T16:51:49+0000",
+    "message": "這看起來不像g0v填的坑，有誰知道是哪個社運團體的作品嗎@@",
+    "story": "Mike  Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_605139329562477",
+    "link": "http:\/\/appy.tw\/",
+    "description": "可割可棄，利大於弊",
+    "name": "割闌尾行動",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD5XvKdO-y5cwFD&w=130&h=130&url=http%3A%2F%2Fappy.tw%2Fassets%2Fimages%2Flogo.png&cfs=1&_nc_hash=AQB0NlWQXyEQWnik",
+    "updated_time": "2014-04-09T08:09:58+0000",
+    "caption": "appy.tw",
+    "from": {
+        "name": "Mike  Lin",
+        "id": "2452493584974982"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 33
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-08T16:54:49+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "裡面成員曾經來 g0v 挖坑過， 主要是在 ptt 上號召，  個人感覺不是社運團體所做。",
+                "id": "605141066228970"
+            },
+            {
+                "created_time": "2014-04-08T16:56:02+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "原來如此，不過看起來沒有用什麼特別的網頁技術，倒是美術排版做得還不錯",
+                "id": "605141486228928"
+            },
+            {
+                "created_time": "2014-04-08T16:57:26+0000",
+                "from": {
+                    "name": "Cindy Wang",
+                    "id": "10215479414639674"
+                },
+                "message": "好奇你怎麼判斷他不像 g0v 填的坑耶~ g0v 填的坑有什麼特色嗎?",
+                "id": "605141996228877"
+            },
+            {
+                "created_time": "2014-04-08T16:58:04+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "成果案例沒看到割闌尾行動，也未見討論",
+                "id": "605142199562190"
+            },
+            {
+                "created_time": "2014-04-08T16:58:41+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "此專案也有 Open Source 喔~  :) \n請見: https:\/\/hackpad.com\/--AmVsLL39nGZ",
+                "id": "605142402895503"
+            },
+            {
+                "created_time": "2014-04-08T17:00:18+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "原來如此，是我沒注意到有此討論，這樣要幫忙填坑就要追消息了@@",
+                "id": "605143019562108"
+            },
+            {
+                "created_time": "2014-04-08T17:02:28+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "請密切關注 irc     每天都有新鮮坑~   XD",
+                "id": "605143556228721"
+            },
+            {
+                "created_time": "2014-04-08T17:03:36+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "這些坑，大家應該是用PHP居多吧?",
+                "id": "605143852895358"
+            },
+            {
+                "created_time": "2014-04-08T17:06:39+0000",
+                "from": {
+                    "name": "Cindy Wang",
+                    "id": "10215479414639674"
+                },
+                "message": "好吧.. 我以為網站本身的寫法會隱含特殊的符碼 ^^|",
+                "id": "605144819561928"
+            },
+            {
+                "created_time": "2014-04-08T17:08:49+0000",
+                "from": {
+                    "name": "吳曉婷",
+                    "id": "1850490428316471"
+                },
+                "message": "https:\/\/m.facebook.com\/?refsrc=https%3A%2F%2Fzh-tw.facebook.com%2F#!\/Appendectomy?ref=bookmark 割闌尾計劃",
+                "id": "605145349561875"
+            },
+            {
+                "created_time": "2014-04-08T17:09:09+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "闌尾計畫是 後端: python  前端: jquery + css\n立法院各種專案: 主要是 livescript + less + jade + sass\ng0v 基礎建設: 官網、hackfoldr 等: livescript + less + jade + sass\n公司關係圖:  PHP\n公務員出國指南: PHP\n等~\n我記得也有 ruby 的，現在熊熊忘記。\n總之，什麼語言都有啦  XD",
+                "id": "605145606228516"
+            },
+            {
+                "created_time": "2014-04-08T17:10:14+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "那麼想問一下，我能理解使用PHP或其他語言開發帶來的架站成本優勢，那麼有人使用C#填坑的嗎?",
+                "id": "605146099561800"
+            },
+            {
+                "created_time": "2014-04-08T17:12:06+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "通常 專案要以什麼語言填坑，是以主要填坑者決定。  XD  C# 目前到沒聽說",
+                "id": "605146536228423"
+            },
+            {
+                "created_time": "2014-04-08T17:13:34+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "在我打算協助填坑之前，我也想要評估一下工具是否是自己能跟上的，我C#寫了超過五年了，這也代表我PHP已經五年沒碰，看來要翻出來了",
+                "id": "605147009561709"
+            },
+            {
+                "created_time": "2014-04-08T17:14:53+0000",
+                "from": {
+                    "name": "Cindy Wang",
+                    "id": "10215479414639674"
+                },
+                "message": "哩來來來來來呀~ 就有了 XD",
+                "id": "605147406228336"
+            },
+            {
+                "created_time": "2014-04-08T17:33:08+0000",
+                "from": {
+                    "name": "Johnson Liang",
+                    "id": "1639694792780135"
+                },
+                "message": "你被服貿了嗎和服貿地圖是 ruby (sinatra)~",
+                "id": "605155099560900"
+            },
+            {
+                "created_time": "2014-04-08T17:37:17+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "以往都只有在工作上與其他工程師同事交流，用的也都是公司指定的開發工具，幾年下來感覺還真是危險啊，二十多歲的時候還可以維持自己會的是當時算最新的開發工具跟技術，慢慢的就變成後端語言只專精C#，被綁在微軟的OS上，反而就像服貿被大陸綁著經濟一樣了。\n也藉這個機會從新手開始學Python好了，有不少現成的專案可以讓我研究@@",
+                "id": "605156119560798"
+            },
+            {
+                "created_time": "2014-04-08T17:38:10+0000",
+                "from": {
+                    "name": "Cindy Wang",
+                    "id": "10215479414639674"
+                },
+                "message": "唔.. 這樣你來也沒 C# 了.... XD",
+                "id": "605156389560771"
+            },
+            {
+                "created_time": "2014-04-08T17:40:20+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "不會啊，工作還是把我綁在C#內，PHP對我來說只是生疏了一段時間，而學點新的東西也是蠻不錯的，而且HTTP傳遞資料的架構原理已經是基本功，後端只是語言問題",
+                "id": "605156972894046"
+            },
+            {
+                "created_time": "2014-04-08T17:47:43+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "至於Python是因為可以做為「腳本語言」，讓系統可以外部載入可被方便更動的額外程式碼，國外遊戲很早就使用Python作為腳本，而系統本身仍然以C++開發，學會這個還可以在很多地方派上用場",
+                "id": "605159026227174"
+            },
+            {
+                "created_time": "2014-04-08T18:00:27+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "Yuren Ju 有空的話可以 tag 一下發團隊嗎 ? 感謝 !!",
+                "id": "605164682893275"
+            },
+            {
+                "created_time": "2014-04-08T18:24:25+0000",
+                "from": {
+                    "name": "Yuren Ju",
+                    "id": "10155044076171631"
+                },
+                "message": "恩，13pa.tw 主要是 Rails, 接下來一些後台會用 php 兜，事情變化的很快 XD",
+                "id": "605176519558758"
+            },
+            {
+                "created_time": "2014-04-08T18:25:29+0000",
+                "from": {
+                    "name": "Yuren Ju",
+                    "id": "10155044076171631"
+                },
+                "message": "計劃趕不上變化 哈",
+                "id": "605176716225405"
+            },
+            {
+                "created_time": "2014-04-08T18:27:37+0000",
+                "from": {
+                    "name": "Yuren Ju",
+                    "id": "10155044076171631"
+                },
+                "message": "負責 Rails 那段的是另外一個團隊",
+                "id": "605177179558692"
+            },
+            {
+                "created_time": "2014-04-08T18:28:35+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "irc 有人回報bug: http:\/\/logbot.g0v.tw\/channel\/g0v.tw\/2014-04-09#146\n\n其他 issue 可以在這裡回報嗎? https:\/\/github.com\/wangw\/13pa-static\/issues\n\n還是另有管道  XD",
+                "id": "605177819558628"
+            },
+            {
+                "created_time": "2014-04-08T18:32:22+0000",
+                "from": {
+                    "name": "Yuren Ju",
+                    "id": "10155044076171631"
+                },
+                "message": "恩... 看來有些人開在那邊了，就先開在那邊吧～ XD 因為 Rails 的部分我們很緊急的上線，所以 source code 暫時還沒整理好沒辦法丟出來",
+                "id": "605179099558500"
+            },
+            {
+                "created_time": "2014-04-08T18:33:31+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "OK  了解  XD   辛苦了 <(_ _)>",
+                "id": "605179476225129"
+            },
+            {
+                "created_time": "2014-04-08T18:35:04+0000",
+                "from": {
+                    "name": "Yuren Ju",
+                    "id": "10155044076171631"
+                },
+                "message": "我們團隊的關係有點微妙 XD 有個團隊負責了所有 13pa.tw 的工作，我這邊有另外一群人在弄 PDF 產生跟連署書管理的後台還有 landing page 等等，不過設計都是同樣一些人。所以... 有時候 13pa.tw 的部分我會有點狀況外 XDD",
+                "id": "605179836225093"
+            },
+            {
+                "created_time": "2014-04-08T18:50:14+0000",
+                "from": {
+                    "name": "PY Annie Lu",
+                    "id": "2046847248928616"
+                },
+                "message": "謝謝你們！我就是等著這個才去申請臉書的...你們怎麼這麼厲害！",
+                "id": "605185589557851"
+            },
+            {
+                "created_time": "2014-04-09T01:53:11+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "http:\/\/avatars.io\/ 回傳IMAGE的反應時間太長，瀏覽器取圖會TIMEOUT噴一堆ERROR\nJQUERY沒有removeWhitespace這個方法，CUSTOM.JS第一行就出錯了，搞不好有缺檔\nMAIN.JS是在別的站上面: https:\/\/maps.gstatic.com\/intl\/zh_tw\/mapfiles\/\n而不是在專案檔內，加上CODE被壓縮過更難DEBUG，雖然知道offsetWidth是包含卷軸在內的寬度，但應該沒人看得懂return new T(a[pb],a[kc])的意思吧?\n有時候要注意CROSS-SITE權限問題，雖然目前未發生這種錯誤就是了",
+                "id": "605293329547077"
+            },
+            {
+                "created_time": "2014-04-09T02:10:32+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "http:\/\/avatars.io\/ 確實有圖檔回傳為空，連MINE-TYPE都沒有",
+                "id": "605299032879840"
+            },
+            {
+                "created_time": "2014-04-09T04:48:39+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "趕快出現C# 的人來寫signalR吧 !!!",
+                "id": "605337659542644"
+            },
+            {
+                "created_time": "2014-04-09T04:48:58+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "讓我們用singalR  + angular!!!!",
+                "id": "605337722875971"
+            },
+            {
+                "created_time": "2014-04-09T06:12:59+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "有趣，正在看這方面資料，不過nuget沒看到singalR，正在安裝更新",
+                "id": "605351706207906"
+            },
+            {
+                "created_time": "2014-04-09T06:31:32+0000",
+                "from": {
+                    "name": "Mike  Lin",
+                    "id": "2452493584974982"
+                },
+                "message": "SignalR真的超猛，細節了解中",
+                "id": "605356546207422"
+            },
+            {
+                "created_time": "2014-04-09T08:09:58+0000",
+                "from": {
+                    "name": "莊承訓",
+                    "id": "1788477567838862"
+                },
+                "message": "c#初學中...",
+                "id": "605428582866885"
+            }
+        ],
+        "summary": {
+            "total_count": 36
+        }
+    }
+}

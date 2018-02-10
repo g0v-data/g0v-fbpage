@@ -1,0 +1,37 @@
+{
+    "created_time": "2015-02-12T03:34:52+0000",
+    "message": "中藥藥證抓完了， 清單 https:\/\/github.com\/kiang\/drugs\/blob\/master\/Console\/Command\/data\/mohw\/license_list.csv ，資料在 https:\/\/github.com\/kiang\/drugs\/tree\/master\/Console\/Command\/data\/mohw\/license 下，清單裡面有標示檔案位置",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_759238077485934",
+    "link": "https:\/\/github.com\/kiang\/drugs\/blob\/master\/Console\/Command\/data\/mohw\/license\/4000\/54db9ac6-48b0-4000-8450-756dd38a10d1.json",
+    "description": "source of http:\/\/drugs.olc.tw",
+    "name": "kiang\/drugs",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD-qDopzeJ7SqSp&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F47844%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQBdDqNtXXIDOZBe",
+    "updated_time": "2015-02-12T09:22:13+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 26
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-02-12T09:22:13+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "資料已經順利匯入 http:\/\/drugs.olc.tw\/ ，中西藥都併在一起搜尋",
+                "id": "759348940808181"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

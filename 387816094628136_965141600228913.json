@@ -1,0 +1,54 @@
+{
+    "created_time": "2016-04-03T09:38:37+0000",
+    "message": "Hello. I am mathematician from France, and since a long time I found logical structures of how to rebuild political structures based on freedom and a decentralized online social network. In particular I already thought about the main ideas of liquid democracy more than 10 years ago, but as a way to manage kinds of power other than vote so as to be directly effective independently of any official recognition by an enforcement institution. An example of such power is crowdfunding, but there are others: kinds of powers that may not address all issues but still many of them. Especially, a flexible and decentralized justice system whose decisions are logically automatically effective on a decentralized online money system. More recently I also defined a solution for an online voting system not only anonymous for organizers but also verifiable by all, and not so complicated. Only very recently I found programmers (in Ukraine) to start the implementation. Maybe we can find ways to coordinate our works ? See (incomplete) description at ",
+    "story": "Sylvain Poirier shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_965141600228913",
+    "link": "http:\/\/spoirier.lautre.net\/en\/infoliberalism.htm",
+    "description": "For a very abstract and general philosophical background (which is too general to effectively specify any particular solution and thus prove the possibility to indeed find one that works, but to provide a perspective about the general meaning of problems and solutions, and even eliminate a number of…",
+    "name": "Infoliberalism",
+    "updated_time": "2016-04-04T09:54:54+0000",
+    "caption": "spoirier.lautre.net",
+    "from": {
+        "name": "Sylvain Poirier",
+        "id": "10212420702807251"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 14
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-04-03T12:18:56+0000",
+                "from": {
+                    "name": "Poren Chiang",
+                    "id": "2025988234085953"
+                },
+                "message": "Thanks for sharing your research, Sylvain. I believe this would be valuable for liquid democracy projects (・∀・)\n動民主的專案有沒有考慮要拿來研究看看呢？",
+                "id": "965235283552878"
+            },
+            {
+                "created_time": "2016-04-03T12:19:40+0000",
+                "from": {
+                    "name": "Poren Chiang",
+                    "id": "2025988234085953"
+                },
+                "message": "tag 唐鳳 林雨蒼",
+                "id": "965235426886197"
+            },
+            {
+                "created_time": "2016-04-03T12:35:35+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "Hi Sylvain Poirier. I have just sent you an invite to CTA, the Collaborative Technology Alliance on Hylo (something very much resembling the forum system you envisioned), where English discussions from like-minded people who are implementing such ideas are readily found.",
+                "id": "965241086885631"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

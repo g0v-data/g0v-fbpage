@@ -1,0 +1,82 @@
+{
+    "created_time": "2014-11-21T04:02:08+0000",
+    "message": "當大數據技術成為統治工具\n以色列資安專家在中國世界互聯網大會論壇介紹了如何從互聯網上收集那些「不能檢索的」「隱藏起來並且有密碼的」信息，並以一個「示威活動」為例，展示了如何通過大數據分析「誰會參加示威遊行的活動」「他們所有的信息」 「他們在哪裏」「發帖的位置在哪裏」等。據BBC中文網記者從在場的觀眾那裏了解到，希勒在演講中所指的「示威活動」正是香港「佔中」示威行動。",
+    "story": "Scott Tsai shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_713932065349869",
+    "link": "http:\/\/www.bbc.co.uk\/zhongwen\/trad\/world\/2014\/11\/141120_china_internet_conference_israel?SThisFB",
+    "description": "世界互聯網大會19-21日在中國浙江水鄉烏鎮召開。在分論壇「網絡空間安全和國際合作」上，來自以色列的網絡安全專家謝∙希勒發表題為《從大數據當中發現情報》的演講。",
+    "name": "以色列專家在烏鎮峰會分析「佔中」情報",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDANP9UEKcDHC3f&w=130&h=130&url=http%3A%2F%2Fa.files.bbci.co.uk%2Fworldservice%2Flive%2Fassets%2Fimages%2F2014%2F11%2F20%2F141120112641_china_internet_conference_512x288_xinhua_nocredit.jpg&cfs=1&_nc_hash=AQCQT-HTXcuY6fvK",
+    "updated_time": "2014-11-22T14:07:52+0000",
+    "caption": "bbc.co.uk",
+    "from": {
+        "name": "Scott Tsai",
+        "id": "1838942296177821"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 48
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-11-21T04:30:20+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "我不小心看成『希特勒』…………",
+                "id": "713939232015819"
+            },
+            {
+                "created_time": "2014-11-21T04:34:06+0000",
+                "from": {
+                    "name": "Scott Tsai",
+                    "id": "1838942296177821"
+                },
+                "message": "若中國政府建一套此類 scrape FB, Twitter上抗爭活動資訊的系統，會是用在香港與台灣。中國國內的網路服務，可直接要求業者以固定 protocol 提供資料。",
+                "id": "713940342015708"
+            },
+            {
+                "created_time": "2014-11-21T05:09:09+0000",
+                "from": {
+                    "name": "Rex Tsai",
+                    "id": "10156168938287915"
+                },
+                "message": "WTF",
+                "id": "713950848681324"
+            },
+            {
+                "created_time": "2014-11-21T05:59:47+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "技術人的政治性!?",
+                "id": "713963478680061"
+            },
+            {
+                "created_time": "2014-11-22T13:28:01+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "所以要發展反搜集系統？",
+                "id": "714517658624643"
+            },
+            {
+                "created_time": "2014-11-22T14:07:52+0000",
+                "from": {
+                    "name": "Scott Tsai",
+                    "id": "1838942296177821"
+                },
+                "message": "Tom Shih, 可能要未雨綢繆公開、私密兩套社交網路？",
+                "id": "714535765289499"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

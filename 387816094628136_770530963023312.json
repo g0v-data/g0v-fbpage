@@ -1,0 +1,100 @@
+{
+    "created_time": "2015-03-06T05:56:25+0000",
+    "message": "各位大大， 公民監督國會聯盟小小編意外發現，立法院議事轉播IVOD系統雖然直到第七屆第四會期才公開，但其實系統內有放上第六屆的質詢影片！\n\n但IVOD網站只有對外開放近三會期的影片可供搜尋，所以舊影片就只能手動修改流水號，如流水號66666就是馬英九(as KMT主席) v.s.呂學樟( http:\/\/ivod.ly.gov.tw\/Play\/VOD\/66666\/300K ) ，而且流水號似乎沒甚麼準則（不是單純依日期也非依人）。\n\n不知道各位大大有沒有興趣研究怎麼抓下來，不然到時IVOD默默地把它刪掉就ＱＱ了～",
+    "story": "Kuochun Hung shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_770530963023312",
+    "link": "http:\/\/ivod.ly.gov.tw\/Play\/VOD\/66666\/300K",
+    "description": "會議簡介： 第6屆第4會期第1次全院委員會會議： 一、討論「本院委員呂學樟等60人，針對陳水扁先生就職以來紊亂國家體制，有辱官箴與總統之尊嚴，再次提出罷免案」案。",
+    "name": "立法院 議事轉播 網際網路多媒體隨選視訊(ivod)系統",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB4pRoYv_PK2_1k&w=130&h=130&url=http%3A%2F%2Fivod.ly.gov.tw%2Fthemes%2FIVOD%2Fzh-tw%2Fhtml%2Fimg%2Fivod-logo.png&cfs=1&_nc_hash=AQCt5_eN8rJaYXqW",
+    "updated_time": "2015-03-12T14:58:41+0000",
+    "caption": "ivod.ly.gov.tw",
+    "from": {
+        "name": "Kuochun Hung",
+        "id": "10155397609117914"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 22
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-03-06T08:15:57+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/github.com\/billy3321\/ivod-download-client\nhttps:\/\/github.com\/kiang\/ivod.ly.gov.tw\n\n之前就有發現，但是備份工作需要相當大的儲存空間",
+                "id": "770568403019568"
+            },
+            {
+                "created_time": "2015-03-06T08:18:31+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "咦，發現我的清單程式已經失效了，需要另外寫，不過 repo 裡面的影片位置備份應該還可以參考",
+                "id": "770568959686179"
+            },
+            {
+                "created_time": "2015-03-06T20:35:20+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "應該是上傳的流水號....\n我寫了 crawler 去爬了(從 No.1~79804 ) video-text 存成 csv ，因為數量有點大所以........說不定後天才會爬完(艸",
+                "id": "770808022995606"
+            },
+            {
+                "created_time": "2015-03-07T13:22:00+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "主要是沒有那麼大的閒置空間去備份所有影片吧，之前立院影城有試過全部塞進 youtube，但後來就沒人接手了",
+                "id": "771193136290428"
+            },
+            {
+                "created_time": "2015-03-07T13:50:25+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "流水號 1~60000 已經抓好了... 不過 csv 存得有點失敗(會議簡介有一堆 \\n 沒有replace...)，新手上路請多 patch (((艸\nhttps:\/\/github.com\/lanfon72\/ivod-list\n((push commit 少打一個 0 就...請無視吧 囧",
+                "id": "771201316289610"
+            },
+            {
+                "created_time": "2015-03-07T13:52:29+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "啊... 不過這是單純 list 各流水號網頁給的資料:\n\" 網址流水號,主辦單位,屆期,委員,發言時間,影片長度,會議時間,會議簡介,相關文檔(url) \"\n影片備份的話用雨蒼的抓吧O_Q\n((原文看起來是想要抓第六屆的各會期...",
+                "id": "771201852956223"
+            },
+            {
+                "created_time": "2015-03-07T15:27:46+0000",
+                "from": {
+                    "name": "Kuochun Hung",
+                    "id": "10155397609117914"
+                },
+                "message": "帥喔!!早期的影像因為立法院不對外轉播，所以鏡頭角度都很多元，能看到很多現在看不到的畫面耶",
+                "id": "771242859618789"
+            },
+            {
+                "created_time": "2015-03-08T00:06:36+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "除了少部份(60000+)沒有提供委員姓名跟發言名稱的流水號外，其他整理好了放在 \/data\/byLegislator\n(沒整理進 .csv 的流水號存在 fail_num.json)",
+                "id": "771469106262831"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "created_time": "2015-11-07T02:14:34+0000",
+    "message": "【公務員開放資料Lesson1專案 - 衛福部落實狀況】\n　\n前情提到 → https:\/\/goo.gl\/ZXcEk4\n 　\n跪謝疾管署的Yu-Lun Liu大大！g0v建議有格式問題的疾管署四筆資料都修正完畢囉~列一下清單推銷一下：\n 　\n1. 預防接種單位資訊\nhttp:\/\/data.gov.tw\/node\/8484\n 　　\n2.我國現行預防接種時程\nhttp:\/\/data.gov.tw\/node\/8483\n　\n3. 成人預防接種建議時程\nhttp:\/\/data.gov.tw\/node\/8482\n　\n4. 公費A型肝炎疫苗實施地區及接種時程\nhttp:\/\/data.gov.tw\/node\/8480\n 　\n--\nOS：原本的問題都滿像的，大部分是把meta資訊放到首行去了，這些都刪掉了，另外有一個是下載問題，已重新調整下載連結。感謝開放資料資優生疾管署啊啊啊~~~\n 　\n(針對這幾筆資料還有問題的話也歡迎留言\/共筆啦)",
+    "story": "Pei-Chi Lo shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_884113271665080",
+    "link": "https:\/\/hackpad.com\/6fYsoKdTZIw",
+    "description": "g0v社群的Ronny等人幫忙爬出國發會開放資料平台上，各部會上傳的開放資料，並依這些條件用程式判讀哪些有「格式問題」；衛福部希望藉由這些資料，進一步整理本部及所屬機關格式有改善空間的資料集清單、據以改善。以下是社群提出衛福部疾管署的開放資料中，格式錯誤、或有下載問題的概況&清單： 基本資訊 *社群爬出的資料：P1、P2、P3、P4 *總資料集數：160 *內容有問題的資料集數：3 *下載有問題的資料集數：1 *待改善資料清單〈total：4筆〉 *預防接種單位資訊 *社群程式判斷：LINK *國發會平台連結：LINK",
+    "name": "格式建議清單【疾管署】",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB-RvGRIu3_9XS0&w=130&h=130&url=https%3A%2F%2Fd29bt26wntaesq.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQCPPYuVdFR6K2mF",
+    "updated_time": "2015-11-19T03:45:01+0000",
+    "caption": "hackpad.com",
+    "from": {
+        "name": "Pei-Chi Lo",
+        "id": "10215091580704901"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 28
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-11-19T03:45:01+0000",
+                "from": {
+                    "name": "Yu-Lun Liu",
+                    "id": "10215305182047558"
+                },
+                "message": "謝謝Peggy 幫忙推銷，也非常感謝社群大大們費心幫忙抓出這些問題。另外，趁機再推銷一下，最近hTC和疾管署合作，使用這些open data dataset (其實還有些額外的專家知識)製作免費的預防接種還有記錄新生兒成長的App，目前先推出Android版，等Apple審核通過，會在Appstore有 iOS版本上架，歡迎新手爸媽使用。  https:\/\/play.google.com\/store\/apps\/details?id=com.htc.babyface",
+                "id": "889200771156330"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

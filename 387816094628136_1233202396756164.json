@@ -1,0 +1,67 @@
+{
+    "created_time": "2017-02-25T20:00:11+0000",
+    "message": "最近開始替 g0v band 的歌製作 MV，發現設定卡拉 ok 字幕的時間非常費時 orz 請問有沒有人知道比手敲 after effect text animation keyframe 更省事的方式？目前的 MV 影片工作檔在此 https:\/\/drive.google.com\/open?id=0B0NsS2a-Qx8ZOGdvN3F2ajdrQjA\n\n先前考慮過用 youtube 上字幕，但一來 youtube 內建的編輯器不支援顏色設定，不方便做卡拉 ok 效果，二來因為剛好這支 MV 的本體就是字幕，如果 youtube user 沒把字幕打開的話 MV 看起來會超怪 XD 所以就還是很老派地把字幕做在影片裡 www",
+    "id": "387816094628136_1233202396756164",
+    "updated_time": "2017-03-02T03:38:55+0000",
+    "from": {
+        "name": "ET Blue",
+        "id": "10212097510645743"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 23
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-02-26T05:37:48+0000",
+                "from": {
+                    "name": "Poren Chiang",
+                    "id": "2025988234085953"
+                },
+                "message": "我之前在練習歌詞也有想過！OwO) \n\n如果本機壓字幕還算好做，線上的話YouTube播放器API似乎沒有那麼精準，要做成卡拉OK好像不太容易(´・ω・｀)",
+                "id": "1233571420052595"
+            },
+            {
+                "created_time": "2017-02-26T08:23:25+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "竟然有社團了！我超 lag～～",
+                "id": "1233670836709320"
+            },
+            {
+                "created_time": "2017-02-27T14:56:52+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "貼同一串好了... 最近勞工議題很熱所以也做了慣老闆之歌的 MV，純原創，沒有類似雨夜花的授權問題，可放心整碗端去用 https:\/\/www.facebook.com\/ETBlue\/videos\/vb.1014354995\/10209363204209791\/",
+                "id": "1234848783258192"
+            },
+            {
+                "created_time": "2017-02-28T07:54:24+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "問 莊銘彥 新版的 MV 片頭放你的名字可嗎？會變這樣",
+                "id": "1235684486507955"
+            },
+            {
+                "created_time": "2017-02-28T16:27:47+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "卡拉 ok 伴唱帶完成，歡迎各路 vocal 來 cover XD https:\/\/www.facebook.com\/ETBlue\/videos\/vb.1014354995\/10209370845480818\/",
+                "id": "1236088019800935"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

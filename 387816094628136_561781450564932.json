@@ -1,0 +1,109 @@
+{
+    "created_time": "2014-01-03T00:34:16+0000",
+    "message": "我在一堆data中找關係時. 發現 Apriori 可能會有幫助, 節省我人工review data的機會, 還好有 opensource, github, 找到這個可以用\n\n也許哪天 g0v data 中有一堆 #人名 和 #地方 #案件 時, 可以用到這個找關係\n\nPS. 感謝 ET_blue 幫忙 !\n\n",
+    "story": "Tom Shih shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_561781450564932",
+    "link": "https:\/\/github.com\/asaini\/Apriori\/blob\/master\/apriori.py",
+    "description": "Python Implementation of Apriori Algorithm for finding Frequent sets and Association Rules",
+    "name": "Apriori",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAVO5MmYUiW6fK6&w=130&h=130&url=https%3A%2F%2Fgithub.global.ssl.fastly.net%2Fimages%2Fmodules%2Flogos_page%2FOctocat.png&cfs=1&_nc_hash=AQD_ro28nk9ecD7u",
+    "updated_time": "2014-01-03T23:06:25+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Tom Shih",
+        "id": "10156061479633373"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 15
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-03T00:46:20+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "［請教］所以，這段程式碼比較能夠把相同條件的東西or數個相同條件的抓出來嗎？\n\n譬如用在，哪個大財團（及子公司）在全臺灣所有地方幹了哪些事？",
+                "id": "561785637231180"
+            },
+            {
+                "created_time": "2014-01-03T00:50:48+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "他的邏輯是這樣\nhttp:\/\/aimotion.blogspot.tw\/2013\/01\/machine-learning-and-data-mining.html",
+                "id": "561787303897680"
+            },
+            {
+                "created_time": "2014-01-03T00:51:32+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "也有簡體中文 (http:\/\/blog.csdn.net\/wodemimi\/article\/details\/8306825) \n不過大家應該看英文沒有問題",
+                "id": "561787427231001"
+            },
+            {
+                "created_time": "2014-01-03T00:52:49+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "Tom Shih 超感謝提供，之後消化一下。\n\/\/我看拼音語言會有問題，技能弱，正在克服中。",
+                "id": "561787777230966"
+            },
+            {
+                "created_time": "2014-01-03T00:55:39+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "這是data mining滿經典的演算法",
+                "id": "561788823897528"
+            },
+            {
+                "created_time": "2014-01-03T14:23:42+0000",
+                "from": {
+                    "name": "Yen-Chi Edmund Chen",
+                    "id": "10215260409814318"
+                },
+                "message": "fp-growth or prefixSpan應該跑起來會更快 :D (更正一下: prefixSpan 做的是有順序性的 frequent pattern)",
+                "id": "562004873875923"
+            },
+            {
+                "created_time": "2014-01-03T17:59:17+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "阿, 不會寫程式,只好問github fp-growth\n(This module provides a pure Python implementation of the FP-growth algorithm for finding frequent itemsets)\nhttps:\/\/github.com\/enaeseth\/python-fp-growth",
+                "id": "562101277199616"
+            },
+            {
+                "created_time": "2014-01-03T18:49:16+0000",
+                "from": {
+                    "name": "Tom Shih",
+                    "id": "10156061479633373"
+                },
+                "message": "ruby to generate \"tree\"\nhttps:\/\/github.com\/thedamfr\/fpgrowth",
+                "id": "562121257197618"
+            },
+            {
+                "created_time": "2014-01-03T23:06:25+0000",
+                "from": {
+                    "name": "Carlos Chih-Ho Liu",
+                    "id": "1820799161266198"
+                },
+                "message": "如果需要延展性，例如也對時間條件過濾，用 pandas 的 DataFrame 物件來工作，比較有完整統計功能。",
+                "id": "562218663854544"
+            }
+        ],
+        "summary": {
+            "total_count": 9
+        }
+    }
+}

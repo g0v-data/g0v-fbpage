@@ -1,0 +1,60 @@
+{
+    "created_time": "2014-01-13T13:22:10+0000",
+    "message": "Open Source HK x Code for HK x Public Lab x g0v.tw\n香港米國荷蘭台灣，討論 open data, open source, open hardware, open gov",
+    "id": "387816094628136_566551206754623",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10202881986869833&set=gm.566551206754623&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/1551633_10202881986869833_196211018_n.jpg?oh=3db3a27740b545ccccd2fa745a0a48bc&oe=5B137985",
+    "updated_time": "2014-01-15T06:05:55+0000",
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 40
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-13T15:30:22+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "活動內容：clkao 介紹 g0v，liz barry 介紹 public lab，在地社群介紹。\n\n一些討論：大家想到的想做的都很類似，要如何讓更多人願意參與，建立生態圈和實作氣氛，把不滿變成行動，參與者不僅作中學也彼此學習，是建立社群重要的一環。",
+                "id": "566595156750228"
+            },
+            {
+                "created_time": "2014-01-13T15:43:40+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "http:\/\/publiclab.org\/",
+                "id": "566600643416346"
+            },
+            {
+                "created_time": "2014-01-15T04:40:07+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "public lab的idea很讚，若國內水質監測\/環保團體有類似概念、硬體可推，資料蒐集起來可能更有影響力。",
+                "id": "567306386679105"
+            },
+            {
+                "created_time": "2014-01-15T06:05:29+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "還有油品檢測也適合",
+                "id": "567328706676873"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

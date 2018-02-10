@@ -1,0 +1,55 @@
+{
+    "created_time": "2014-06-22T04:09:22+0000",
+    "message": "臺南市議會網站改造成果\n\n台南議會網站： http:\/\/www.tncc.gov.tw\/\n目前改造成果： http:\/\/k.olc.tw\/tncc\/\n簡介：\n# 首頁看到的氣泡圖是依據個別議員提案+連署數量畫出來的，氣泡顏色代表政黨\n# 議員頁面可以看到個別議員參與的議案\n# 議案頁面也可以直接看到對應的議員資訊\n已知問題：\n# 議案的附件還沒有連結\n如果有功能方面的問題或建議，可以發到\nhttps:\/\/github.com\/kiang\/parliamentary\n同樣的位置也可以下載所有的程式碼\n這是在台南黑客松的初步成果，也算是 g0v 議員投票指南的一個衍生作品\ng0v 議員投票指南還在開發中，相關資訊可以參考\nhttps:\/\/g0v.hackpad.com\/KjfdRZ08FZ3",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_640525736023836",
+    "link": "http:\/\/k.olc.tw\/2014\/06\/%e8%87%ba%e5%8d%97%e5%b8%82%e8%ad%b0%e6%9c%83%e7%b6%b2%e7%ab%99%e6%94%b9%e9%80%a0%e6%88%90%e6%9e%9c\/",
+    "description": "\n台南議會網站： http:\/\/www.tncc.gov.tw\/\n目前改造成果： http:\/\/k.olc.tw\/tncc\/\n簡介：\n# 首頁看到的氣泡圖是依據個別議員提案+連署數量畫出來的，氣泡顏色代表政黨\n# 議員頁面可以看到個別議員參與的議案\n# 議案頁面也可以直接看到對應的議員資訊\n已知問題：\n# 議案的附件還沒有連結\n如果有功能方面的問題或建議，可以發到\nhttps:\/\/github.com\/kiang\/parliamentary\n同樣的位置也可以下載所有的程式碼\n這是在台南黑客松的初步成果，也算是 g0v 議員投票指南的一個衍生作品\ng0v 議員投票指南還在開發中，相關資訊可以參考\nhttps:\/\/g0v.hackpad.com\/KjfdRZ08FZ3",
+    "name": "臺南市議會網站改造成果",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDt4VLdBJzEVB_0&w=130&h=130&url=http%3A%2F%2Fk.olc.tw%2Fwp-content%2Fuploads%2F2014%2F06%2F%E8%AD%B0%E5%93%A1%E8%A7%80%E6%B8%AC%E4%B8%AD%E5%BF%83-Pages.png&cfs=1&_nc_hash=AQDzdhkJjvji1OcN",
+    "updated_time": "2014-06-22T14:17:06+0000",
+    "caption": "江明宗 . 政 . 路過",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 50
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-06-22T09:24:16+0000",
+                "from": {
+                    "name": "薛智豪",
+                    "id": "1489003001177157"
+                },
+                "message": "黑客松推",
+                "id": "640619946014415"
+            },
+            {
+                "created_time": "2014-06-22T11:08:32+0000",
+                "from": {
+                    "name": "Jerry Hsu",
+                    "id": "10215497335688652"
+                },
+                "message": "d3畫的？",
+                "id": "640649982678078"
+            },
+            {
+                "created_time": "2014-06-22T14:17:06+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "是的，非常基本的 d3 繪圖",
+                "id": "640716636004746"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

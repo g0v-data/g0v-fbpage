@@ -1,0 +1,40 @@
+{
+    "created_time": "2014-04-06T10:07:50+0000",
+    "message": "Hello all,\n\n我朋友從前幾天起開始想做一個小遊戲來推廣這次議題，然後因為前天到立院外圍現場跟幾個朋友聊了一下，想看看有沒有辦法把這東西帶到現場跟大家互動，詳細請看 hackpad（右下角有各大段落 anchor）：\nhttps:\/\/hoehoekumamiso.hackpad.com\/HoeHoeKumaMiso-68Hqh09jpxW\n目前最新的版本是（hackpad 裡也有 link）：\nhttps:\/\/dl.dropboxusercontent.com\/u\/48503256\/hoehoekuma\/index.html\ngit repository 在 https:\/\/github.com\/poga\/hoehoekuma\n\n想說今天吃完晚飯後到現場看看狀況，把目前的成果拿來跟現場朋友互動一下（1) 把想講的一個短句寫下來，直接更新到目前程式中、2) 邀請現場朋友來設計熊的造型） \n\n不知大家覺得如何 : p",
+    "id": "387816094628136_604104886332588",
+    "updated_time": "2014-04-06T13:34:38+0000",
+    "from": {
+        "name": "Johnson Lin",
+        "id": "1839947506029238"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 30
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-06T10:15:38+0000",
+                "from": {
+                    "name": "王瀚宇",
+                    "id": "1604837966259600"
+                },
+                "message": "Nice",
+                "id": "604106456332431"
+            },
+            {
+                "created_time": "2014-04-06T13:34:38+0000",
+                "from": {
+                    "name": "Johnson Lin",
+                    "id": "1839947506029238"
+                },
+                "message": "沒雨備 qq  今天只好撤退了",
+                "id": "604162996326777"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

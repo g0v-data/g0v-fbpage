@@ -1,0 +1,136 @@
+{
+    "created_time": "2014-04-15T16:12:45+0000",
+    "message": "科技會報\/科技部方面來函，希望蒐集社群對政府目前推行 open data 政策的想法與建議，請大家共筆。",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_608102062599537",
+    "link": "https:\/\/g0v.hackpad.com\/-review-DLs5vrnsYNv",
+    "description": "前情提要 科技會報\/科技部方面來函，邀請 g0v 的朋友在 2014\/5\/2 參與座談，提出對政府目前推行 open data 政策的回顧與建議。 以下為共筆彙整社群想法，授權以 CC-BY 4.",
+    "name": "政府開放資料政策 review",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDrY2_8yij0EuvO&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fgoog.png&cfs=1&_nc_hash=AQAT2IJC9CfD4SOo",
+    "updated_time": "2014-04-16T15:17:21+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 87
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-15T16:48:11+0000",
+                "from": {
+                    "name": "Rick Li",
+                    "id": "1199250466875788"
+                },
+                "message": "實價登錄 歷史資料 \n希望可以無條件提供給非營利使用\n不然現在想用相關開放資料去做一些服務，都只有當期的，沒有歷史的可以用...\n\n再來就是很多資料申請步驟太過繁雜 假如今天學生想申請開放資料 有些流程複雜到不行",
+                "id": "608113649265045"
+            },
+            {
+                "created_time": "2014-04-15T17:01:25+0000",
+                "from": {
+                    "name": "彭啟明",
+                    "id": "10213477452524270"
+                },
+                "message": "週六可否給我 10 min 講。我要資料的經歷",
+                "id": "608117799264630"
+            },
+            {
+                "created_time": "2014-04-15T17:02:33+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "可以啊，直接登記下午短講，目前還有空～ http:\/\/hack.g0v.tw\/g0v-hackath8n\/0AjGJ4qvz2D3EdGdfZFZXanhwdUp2dWxSTjRBLW9GYWc",
+                "id": "608118112597932"
+            },
+            {
+                "created_time": "2014-04-15T17:22:48+0000",
+                "from": {
+                    "name": "Minway Hsu",
+                    "id": "10214036883950118"
+                },
+                "message": "陽光法案的檔案都是掃描檔，可以換成文字檔嗎?\n\nhttp:\/\/sunshine.cy.gov.tw\/",
+                "id": "608124205930656"
+            },
+            {
+                "created_time": "2014-04-16T00:35:26+0000",
+                "from": {
+                    "name": "Harry Wu",
+                    "id": "2020260864914379"
+                },
+                "message": "請問可以去旁聽就好嗎?",
+                "id": "608258322583911"
+            },
+            {
+                "created_time": "2014-04-16T02:44:43+0000",
+                "from": {
+                    "name": "Steven Lai",
+                    "id": "10204488010118355"
+                },
+                "message": "科技部 似乎對於 g0v.tw 的 open data 部分的提案與成果感到有興趣了[3]\n\nLinus 說過這樣的結論(BBC 原文[2]) : [1]\n\n\"...BBC 採訪了 Linux創始人Linus Torvalds。Linus在採訪中回答：\n他最早發佈內核源代碼時根本沒有預計到會有人參與開發，他只是想听取用戶反饋和建議。Linus認為，開源的真正特色是能讓人人能“自私”，而非讓每個人出於社會公益的偉大意義作出貢獻。開源不是“讓我們圍著篝火唱歌，使這個世界變得更美好”。只有人人因為自私的理由貢獻時，開源才能真正創造奇蹟。他所指的“自私”不是“經濟回報”，而是追求樂趣。他說，“編程是我的愛好——激情，真實——學習如何控制硬件是我個人的自私目標。結果證明我並不是唯一這麼想的人。”參與開源項目的人會擔心自己的努力為他人利用，GPLv2許可證解決了這個問題。GPLv2採用了一種“一報還一報”的模式，我給你我的成果，如果你也承諾回報你的成果。它是一種公平的許可證。...\"\n\n科技部做不出 g0v.tw 能做的東西 , 原因已經讓 Linus 說得差不多了 .\n\ngov.tw 是個能讓 各類 規劃師 設計師 工程師 與有榮焉的參與感平台 .\n每個個人 , 以個人工作之餘的 5% 甚至更高的時間比例 來實行理想與計畫 (一方面也是砥礪自己的技術 , 以及接觸更多神人) 說這個是比 Google 還好的組織 (除了薪水 和 隨處有的零食之外) 一點也不為過 .\n\n科技部對於創意是幫不上忙的 (畢竟不是創意部) , 把 規劃師 設計師 工程師 所需要的 open data 準備好 , 確實是 科技部 該做的事情 .\n\n[1] http:\/\/www.solidot.org\/story?sid=30048\n[2] http:\/\/www.bbc.com\/news\/technology-18419231\n[3] https:\/\/www.facebook.com\/groups\/g0v.general\/permalink\/608102062599537\/?stream_ref=2",
+                "id": "608301115912965"
+            },
+            {
+                "created_time": "2014-04-16T02:49:35+0000",
+                "from": {
+                    "name": "JS Lee",
+                    "id": "10156049817423529"
+                },
+                "message": "很簡單想法就是「利大於弊」",
+                "id": "608302379246172"
+            },
+            {
+                "created_time": "2014-04-16T02:52:52+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Oliver Chou 我國行政權與立法權分立，無法強制跨院上課。另外這邊目前討論的是行政院科技部的 open data 相關政策議題",
+                "id": "608303202579423"
+            },
+            {
+                "created_time": "2014-04-16T02:54:15+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Otters Lin 可以直接針對此議題提出您的看法，若官方認為您的想法很有價值，也許會邀請您參加。",
+                "id": "608303529246057"
+            },
+            {
+                "created_time": "2014-04-16T08:53:10+0000",
+                "from": {
+                    "name": "Bert Wang",
+                    "id": "861294890742239"
+                },
+                "message": "這是4月1日。\n法務部的公開內容。\n對於E化。\n完全有二個世界的味道。",
+                "id": "608387819237628"
+            },
+            {
+                "created_time": "2014-04-16T10:07:28+0000",
+                "from": {
+                    "name": "JS Lee",
+                    "id": "10156049817423529"
+                },
+                "message": "如果是私人公司，寫這種報告的人明天應該就有警衛陪伴你收東西打包了，還法務部咧。",
+                "id": "608406445902432"
+            },
+            {
+                "created_time": "2014-04-16T15:17:21+0000",
+                "from": {
+                    "name": "Bert Wang",
+                    "id": "861294890742239"
+                },
+                "message": "這是給律師的公開內容",
+                "id": "608511729225237"
+            }
+        ],
+        "summary": {
+            "total_count": 12
+        }
+    }
+}

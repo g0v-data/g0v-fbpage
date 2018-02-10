@@ -1,0 +1,58 @@
+{
+    "created_time": "2015-06-12T09:30:22+0000",
+    "message": "Does Taiwan have an open data set on \"who represents you\" as your elected officials?\n\nOr is there a website where you can put in your address and see a list of your elected officials across multiple levels of government? \n\nFinally, how about a map that shows all the various government jurisdictions with perhaps links to their official websites?\n\nI am curious to understand where the 10,000+ local elected officials in Taiwan serve and if by chance people in g0v have explored creating a directory of where to find and friend elected officials on social media\/Facebook.\n\nThanks.",
+    "id": "387816094628136_818372314905843",
+    "updated_time": "2015-06-18T17:45:26+0000",
+    "from": {
+        "name": "Steven Clift",
+        "id": "10160172810540151"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 11
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-12T13:45:12+0000",
+                "from": {
+                    "name": "Licas Chiou",
+                    "id": "10156054076594054"
+                },
+                "message": "FYI.\n\nData from central election commission which lists the candidates and elects of recent elections by districts.  \n\nhttp:\/\/db.cec.gov.tw\/histMain.jsp\n\nAnd csv file \n\nhttp:\/\/data.gov.tw\/node\/13119",
+                "id": "818529498223458"
+            },
+            {
+                "created_time": "2015-06-12T15:53:55+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "There used to be one with the source https:\/\/github.com\/sfhuang\/MyServant . But it looked like be dropped.\n\nI also built one for candidates, http:\/\/k.olc.tw\/elections\/ . You could select an area and then it will show you related candidates in specified year, like http:\/\/k.olc.tw\/elections\/areas\/map\/53c02018-16bc-4e68-9f62-5460acb5b862 .\n\nIt shouldn't be hard to build another one for all current representatives base on the source at https:\/\/github.com\/kiang\/elections\/",
+                "id": "818559548220453"
+            },
+            {
+                "created_time": "2015-06-14T00:19:52+0000",
+                "from": {
+                    "name": "Steven Clift",
+                    "id": "10160172810540151"
+                },
+                "message": "Very exciting. I wonder if you can take that CSV file of who won the election, adapt code from YourNextMP - https:\/\/yournextmp.com\/help\/about\/ - and then use it to effectively crowdsource the social media and other official links about elected officials into a site and crucially an open data set for re-use. Making it far easier for citizens to both figure out who their local official is and find them on Facebook (their personal profile first, then Page) in the same act could be powerfully connecting. Elected officials are people too. Let's \"get friendly\" with them.",
+                "id": "819251828151225"
+            },
+            {
+                "created_time": "2015-06-18T17:45:26+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "If anyone want to have a site base on it, I would love to help providing necessary dataset. I'm not familiar with python based sites.",
+                "id": "821212347955173"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

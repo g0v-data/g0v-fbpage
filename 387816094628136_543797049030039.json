@@ -1,0 +1,72 @@
+{
+    "created_time": "2013-11-22T05:11:02+0000",
+    "message": "我決定模仿 Google Chart API，讓大家可以套用我寫好的視覺化：不需要會寫程式，只要把資料形態整理成同樣的格式，上傳到 Google Spreadsheet 或著是 Dropbox 就可以使用了：\n\n目前先測試三個網址：\n\n星座圖\nhttp:\/\/muyueh.com\/draw\/constellation\/try_w_parse.html#https:\/\/dl.dropboxusercontent.com\/u\/17186654\/test\n\n客制加權：\nhttp:\/\/muyueh.com\/draw\/weighting\/index.html#https:\/\/docs.google.com\/spreadsheet\/pub?key=0AgcMEBpS0DppdEhTbDJqTVZadG1PREZTYy1DbE1rYmc&output=csv\n\nRonny Wang 報關直條圖：\nhttp:\/\/muyueh.com\/draw\/bar\/import_export_w_avgp.html#http:\/\/portal.g0v.ronny.tw\/api\/searchgoodidcountry\/in\/82\/%E5%90%88%E8%A8%88\n\n使用方法：\n\n\"#\" + 公開的資料連結；比方說\n\nhttp:\/\/muyueh.com\/draw\/constellation\/try_w_parse.html\n是視覺化，\n\n後面再加上\"#\"，\n\nhttps:\/\/dl.dropboxusercontent.com\/u\/17186654\/test\n是資料來源\n\n完整連結就是：http:\/\/muyueh.com\/draw\/constellation\/try_w_parse.html#https:\/\/dl.dropboxusercontent.com\/u\/17186654\/test\n\n----\n\n注意：上傳的資料來源可能需要先研究一下，以星座圖做比方資料格式是：\n\n[\n [\"John\", \"Marry\", \"Steve\"],\n [\"John\", \"Steve\"],\n [\"Marry\", \"Steve\"],\n [\"Ray\", \"Steve\"],\n [\"Ray\", \"Jennifer\", \"Marry\"],\n [\"Marry\", \"Amber\"]\n]",
+    "story": "Muyueh Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_543797049030039",
+    "link": "http:\/\/muyueh.com\/draw\/constellation\/try_w_parse.html#https:\/\/dl.dropboxusercontent.com\/u\/17186654\/test",
+    "name": "Constellation",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAjQ5jMGFs5zrgI&w=130&h=130&url=http%3A%2F%2Fmuyueh.com%2Fseeall%2Fimage%2Fconstellation.jpeg&cfs=1&_nc_hash=AQCEoZNLAdgvbTn3",
+    "updated_time": "2013-11-22T12:43:40+0000",
+    "caption": "muyueh.com",
+    "from": {
+        "name": "Muyueh Lee",
+        "id": "1594217104027518"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 36
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-11-22T09:06:54+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "請問資料擺放的前後順序有差嗎?\n[\"John\", \"Marry\", \"Steve\"] 和 [\"Marry\", \"Steve\", \"John\"] 會有不同結果嗎? \n還是只要放在一起，就表示這幾個是倆倆互相關聯的?",
+                "id": "543846322358445"
+            },
+            {
+                "created_time": "2013-11-22T09:16:32+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "是，順序沒有差別：）",
+                "id": "543848375691573"
+            },
+            {
+                "created_time": "2013-11-22T12:28:58+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "那個客制加權按+號會增加，但好像沒有辦法減少的樣子...",
+                "id": "543888379020906"
+            },
+            {
+                "created_time": "2013-11-22T12:31:58+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "發現了，按左邊就可以了，只是沒有另外放個 - 號而已...",
+                "id": "543889075687503"
+            },
+            {
+                "created_time": "2013-11-22T12:43:40+0000",
+                "from": {
+                    "name": "Muyueh Lee",
+                    "id": "1594217104027518"
+                },
+                "message": "對啊，我一直有在考慮要不要放",
+                "id": "543892352353842"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "created_time": "2015-04-26T16:54:32+0000",
+    "message": "不知道大家週末有沒有幫忙畫尼泊爾的地圖[1]？邊畫不禁想到這樣的災害若發生在台灣.... 其實去年氣爆事件後，消防署有開始研議如何讓緊急應變中心的資訊和非官方的資訊相互串接，目前收到了一份這樣的規格希望和社群討論。同時防災科技中心（各類災防資訊整合釋出目前主要由他們負責，如 google now 所利用的 CAP 格式），以希望和社群討論災前與災時的合作。\n\n對這個主題有興趣的朋友，歡迎在 hackpad 上補充想法，也歡迎幫忙把過往的 hackpad (印象中有過類似的討論) 再挖出來彙整一番。\n\n[1] https:\/\/www.facebook.com\/photo.php?fbid=10153037713540668&set=a.443101975667.251316.713795667&type=1",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_796787517064323",
+    "link": "https:\/\/g0v.hackpad.com\/qSFITFaEbfT",
+    "description": "消防署：企業(社群)協助災情收集資料介接會議 時間: 5\/14 10am 出席: (有意願請簽名，受限於場地，需待主辦單位最後邀請確認)： 基本上是討論這個「災情資料介接 簡報 規格」實際內容 NCDR 防災應用討論 時間: (TBD) 出席: (有意願請簽名，受限於場地，需待主辦單位最後邀請確認)： 一、如何建立政府防災資訊與社群的雙向交流-尤其在平常即建立好管道。 二、假設發生大災害時，如何有效結合網絡社群的力量。 三、社群如何協助提昇民眾防災意識",
+    "name": "防救災開放資料需求與災防協作",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC75P0QZMdg2HRZ&w=130&h=130&url=https%3A%2F%2Fhackpad.com%2Fstatic%2Fimg%2Fhackpad-logo-112.png&cfs=1&_nc_hash=AQAcrSgKDllYzvNH",
+    "updated_time": "2015-04-27T06:22:13+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 70
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-04-26T17:00:29+0000",
+                "from": {
+                    "name": "Yuren Ju",
+                    "id": "10155044076171631"
+                },
+                "message": "平日上班時間就是有點麻煩...",
+                "id": "796789553730786"
+            },
+            {
+                "created_time": "2015-04-26T17:01:13+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "感覺這整套經驗結合之前高雄氣爆事件可以變成一個防災救難資訊的 SOP",
+                "id": "796789770397431"
+            },
+            {
+                "created_time": "2015-04-27T06:13:03+0000",
+                "from": {
+                    "name": "Cognos Chen",
+                    "id": "1443122555817066"
+                },
+                "message": "",
+                "id": "797038273705914"
+            },
+            {
+                "created_time": "2015-04-27T06:22:13+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "回想起防災開放資料應用典範的一些初步內容\n\nhttp:\/\/hackfoldr.org\/OpenGeoData\/LKgdTOFMlpD",
+                "id": "797040050372403"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

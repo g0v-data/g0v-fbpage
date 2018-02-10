@@ -1,0 +1,24 @@
+{
+    "created_time": "2014-01-25T15:24:30+0000",
+    "message": "Hi, 有沒有 devops 或者想玩 chef 的朋友可以幫忙？想把 g0v 的各種服務逐漸自動化佈署。目前立院一些服務及 lqfb 測試機有用 chef，不過還不夠自動，希望之後能把 docker support 也加進去。有興趣的話請 irc 上 ping 我，謝謝！",
+    "id": "387816094628136_571808976228846",
+    "updated_time": "2014-01-25T15:24:30+0000",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

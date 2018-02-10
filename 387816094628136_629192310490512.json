@@ -1,0 +1,42 @@
+{
+    "created_time": "2014-05-29T14:06:02+0000",
+    "message": "感謝FRANKLIN協助完成EZGO 可寫入，達成可還原",
+    "id": "387816094628136_629192310490512",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=867981986549666&set=gm.629192310490512&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/10409339_867981986549666_4211659326662021521_n.jpg?oh=5d9e896495ee08bdf4fe89069d07c21f&oe=5B1BFD88",
+    "updated_time": "2014-06-16T14:15:39+0000",
+    "from": {
+        "name": "Max Yang",
+        "id": "2007561755925011"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 14
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-06-16T01:58:54+0000",
+                "from": {
+                    "name": "鈕克力",
+                    "id": "947477968789427"
+                },
+                "message": "看到這篇忍不住手癢分享一下自己去年用 Grub4Dos 做的開機選單畫面效果，如果這篇也是用 Grub4Dos 的話套用以下檔案再自行修改自己要的 menu.lst 內容即可。\n\nhttps:\/\/mega.co.nz\/#!LJpX3J4Q!9Rc0pahKiweNsmbSRd_ilPSt4aUQqAB4R8ZL-ZCsueI",
+                "id": "637573996319010"
+            },
+            {
+                "created_time": "2014-06-16T14:15:39+0000",
+                "from": {
+                    "name": "Max Yang",
+                    "id": "2007561755925011"
+                },
+                "message": "是類似的 但沒用BCD引導開機，不過還是有一些差異在，最近再找時間分享設計的思考",
+                "id": "637788469630896"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "created_time": "2016-06-14T09:03:31+0000",
+    "message": "[詢問] 公園綠地、社區園圃的主題地圖協作工具\n\n一些繪製特性：\n1.polygon \n2.欄位描述\n3.需要線上協作\n4.繪製的成果希望能匯出下載\n\n目前試了一些方案：\n1.可以支援繪製 polygon 線上協作平台\n・Umap or GoogleMyMap，似乎無法將描述欄位內容予以結構化？日後如果要應用於其他情境可能還是需要人工將描述欄位手動加工\n・Localwiki，匯出匯入有程式門檻，且也有內容結構化的問題\n・OSM，唯 tag 系統可能無法涵蓋主題地圖所關心的欄位種類\n2.無法作為繪製 polygon 的線上協作平台\n・GoogleSpreadsheet + 外掛 Mapping Sheets\n・FusionTable \n\n不曉得還有沒有推薦的簡易上手的方案呢？\n\n相關討論頁面：\nhttps:\/\/g0v.hackpad.com\/a1BIZhjPD82\n\n截圖：\nhttps:\/\/umap.openstreetmap.fr\/zh-tw\/map\/map_50075#20\/25.04687\/121.55682",
+    "id": "387816094628136_1006839306059142",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10154314773224038&set=gm.1006839306059142&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/13428003_10154314773224038_185710201647243392_n.jpg?oh=1d7336b6e8b376be25881be57bb9e501&oe=5B1FE027",
+    "updated_time": "2016-06-14T09:07:28+0000",
+    "from": {
+        "name": "Che Wei Liu",
+        "id": "10156142432594038"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 1
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-06-14T09:07:28+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "如果是固定人編輯，可以嘗試自己定義輸入形式，但容易出現例外就是了\n\nUshahidi V3 可以有自訂欄位，也可以繪製 polygon ，只是幾個月前的測試還不是相當流暢",
+                "id": "1006840259392380"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

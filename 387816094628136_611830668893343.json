@@ -1,0 +1,44 @@
+{
+    "created_time": "2014-04-22T18:30:34+0000",
+    "message": "Ronny 針對政治獻金專案設計了一個介面，可以手動加入線條，只是目前這個介面只能夠加入直線，而且透過表單輸入的方式不是那麼直覺。\n\n不知道有沒有前端工程師想要試試用 Sketch.js 或 Kinetic.js 之類的工具組合一個能夠線上畫出線段並且取得對應格式數值的介面，有這樣的工具就可以簡化切豆腐時人工校對的難度",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_611830668893343",
+    "link": "http:\/\/ronnywang.github.io\/tw-campaign-finance\/edit0421.html",
+    "name": "政治獻金",
+    "updated_time": "2014-04-23T00:47:49+0000",
+    "caption": "ronnywang.github.io",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 19
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-22T20:51:56+0000",
+                "from": {
+                    "name": "Eva Hsieh",
+                    "id": "10157104705258989"
+                },
+                "message": "請問這個工具的需求是為了要能夠把原本的圖檔資料轉換成可用資料嗎",
+                "id": "611929892216754"
+            },
+            {
+                "created_time": "2014-04-23T00:47:49+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "是的，要將圖檔切割為儲存格，才能進一步讓人進行 OCR 或校對工作",
+                "id": "612061245536952"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

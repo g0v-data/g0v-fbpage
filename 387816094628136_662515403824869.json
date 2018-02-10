@@ -1,0 +1,91 @@
+{
+    "created_time": "2014-08-06T13:14:45+0000",
+    "message": "既然被推坑\n就來寫寫有關chicago與oakland\n犯罪地圖的一些看法\n(絕對不是剛剛廟會勤務，神的啟發....)\n芝加哥在1960年代是犯罪率很高的地方\n所以也興起了犯罪學派---芝加哥學派\n太學術，跳過...\n反正他們很早就開始有犯罪資料的統計\n也有專門的api公開\n所以就陸續有些crime map的服務出現\n我今天在另一篇回應中記錯了XD\n是奧克蘭市\n----------------------------------------------------------\n另外一個奧克蘭市\n一開始官方只提供產生犯罪地圖的服務\n就像之前實價登陸一樣\n只吐出一張圖給你\n所以就要用爬蟲與影像處理\n去偷資料，最後也被擋掉了....\n後來就是去跟官方討論啊～\n認為說這個做法可以提高民眾警覺\n與安全心裡\n並且有效減低淺在犯罪\n所以後來官方就固定的把資料送給網站\n網站也陸續開發很多其他功能\n像是訂閱犯罪警示、回報功能等等\nhttp:\/\/oakland.crimespotting.org\n附註\b：詳細可再參考<資料之美>一書\n---------------------------------------------------------\n另一部份想來討論\n開放犯罪資料的一些看法\n之前有跟一些人聊過\n開放犯罪資料的看法\n大多都把犯罪資料當作環境負指標\n在各種因素下，傾向不開放\n在美國，人們把安全看得超級重...\n(可能跟開放槍枝、犯罪問題等等有關係)\n任何有關我生命安全的，我都要知道！\n犯罪資料的解讀與分析\n是需要一些背景知識與情境的\n就以公開犯罪資料來說就是可以提升\n民眾的警覺與參考\n但離\"治安\"的狀況呈現，我想還有點差距\n我認為\"治安\"的狀況是一種風險的呈現\n呈現民眾受到生命、財產刑事上損害的一種風險\n單純開放資料、呈現熱點還不夠\n我希望能建立\"治安指標\"\n綜合犯罪資料、民眾報案資料等等\n來更能反映給民眾\"治安\"的概念",
+    "story": "柯維然 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_662515403824869",
+    "link": "http:\/\/oakland.crimespotting.org\/",
+    "description": "The names used here are based on Oakland’s categorization of its crime statistics on the CrimeWatch website. We have additionally grouped them into violent crimes (red), property crimes (green), and “quality of life” crimes (blue).",
+    "name": "Oakland Crimespotting",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?w=130&h=130&url=http%3A%2F%2Foakland.crimespotting.org%2Fimg%2Flogo-small.png&cfs=1&_nc_hash=AQDIAIzyjuqpqdA5",
+    "updated_time": "2014-08-06T17:47:23+0000",
+    "caption": "oakland.crimespotting.org",
+    "from": {
+        "name": "柯維然",
+        "id": "10211293662437543"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 19
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-06T13:15:38+0000",
+                "from": {
+                    "name": "柯維然",
+                    "id": "10211293662437543"
+                },
+                "message": "下班先隨手寫一下，可能不甚完善\n在討論補齊XDD",
+                "id": "662515663824843"
+            },
+            {
+                "created_time": "2014-08-06T15:01:49+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "神的啟發讚! XD",
+                "id": "662560093820400"
+            },
+            {
+                "created_time": "2014-08-06T15:52:01+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "Chiraq ~~~\nhttp:\/\/www.youtube.com\/watch?v=01Xa2oKKVR0",
+                "id": "662580930484983"
+            },
+            {
+                "created_time": "2014-08-06T16:45:11+0000",
+                "from": {
+                    "name": "YuFei Faye Cheng",
+                    "id": "10154878000761653"
+                },
+                "message": "Oakland,CA 還是很亂喔~ \nGoogle 附近的 East Palo Alto 我門都叫他 \"Small Oakland\" 因為也是很亂,天天會聽到槍聲~",
+                "id": "662599697149773"
+            },
+            {
+                "created_time": "2014-08-06T16:50:22+0000",
+                "from": {
+                    "name": "Chihwei Hubert Yeh",
+                    "id": "10101765748063569"
+                },
+                "message": "就我所知美國犯罪資料好像跟地方警局也有關係，像我這邊本地警局提供的資料就比另一區要少 (製造治安好假象？）不過像性侵犯地圖就是全國都有",
+                "id": "662601087149634"
+            },
+            {
+                "created_time": "2014-08-06T17:46:34+0000",
+                "from": {
+                    "name": "YuFei Faye Cheng",
+                    "id": "10154878000761653"
+                },
+                "message": "可以追蹤誰有犯過罪的網站 \n忘了哪看到了",
+                "id": "662617417148001"
+            },
+            {
+                "created_time": "2014-08-06T17:47:23+0000",
+                "from": {
+                    "name": "YuFei Faye Cheng",
+                    "id": "10154878000761653"
+                },
+                "message": "http:\/\/www.crimemapping.com\/",
+                "id": "662617733814636"
+            }
+        ],
+        "summary": {
+            "total_count": 7
+        }
+    }
+}

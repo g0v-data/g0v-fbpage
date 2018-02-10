@@ -1,0 +1,64 @@
+{
+    "created_time": "2015-12-06T12:36:06+0000",
+    "message": "感謝 王向榮 製作原形，我改出了一個可以塞資料庫的php爬蟲，會自動爬出塞入參數當天的所有判決。\n\nhttps:\/\/github.com\/JRF-tw\/jrf_data\/blob\/master\/get_judgements.php\n\n資料庫的結構，可以參考這個檔案：\n\nhttps:\/\/github.com\/billy3321\/judgements-database\/blob\/master\/db\/schema.rb\n\n再來就是開機器、塞資料，和製作前端了，另外也亟需regex高手，製作可以解析法官、檢察官或關鍵內文資訊的程式。歡迎有興趣的朋友一起來幫忙～",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_896732220403185",
+    "link": "https:\/\/github.com\/JRF-tw\/jrf_data\/blob\/master\/get_judgements.php",
+    "description": "Contribute to jrf_data development by creating an account on GitHub.",
+    "name": "JRF-tw\/jrf_data",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDPQJ24eq23O1x_&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F10635289%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQBPUTmUcro5_h15",
+    "updated_time": "2015-12-07T04:23:37+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 97
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-12-06T12:50:17+0000",
+                "from": {
+                    "name": "Sean Wei",
+                    "id": "2040508102887705"
+                },
+                "message": "簡單的 RegEx 我可以幫忙，請問要去哪裡協助？",
+                "id": "896736760402731"
+            },
+            {
+                "created_time": "2015-12-06T16:09:45+0000",
+                "from": {
+                    "name": "Kirsten Liu",
+                    "id": "10155360770811527"
+                },
+                "message": "簡單的regex我可以試試看, 但是我超菜(遮臉) \n法官跟檢察官應該會比較好撈(如果判決都長差不多格式的話), 主文是指理由上面那兩行嗎? 這幾項目前看起來可以用暴力法完成, 但我不確定判決的格式是不是固定的?\n有沒有hackpad之類的可以讓我進入狀況一下",
+                "id": "896833760393031"
+            },
+            {
+                "created_time": "2015-12-06T16:49:50+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "header = re.compile(r\"^((.+\\n)+)壹、\", re.M)\ntailer = re.compile(r\"^(中    華    民    國.+\\n(.+\\n)+.+)\", re.M)\n內文要先 .replace('\\n    ', '')\n其他交給後面的((((艸",
+                "id": "896852110391196"
+            },
+            {
+                "created_time": "2015-12-07T03:35:36+0000",
+                "from": {
+                    "name": "ChengHan Wu",
+                    "id": "10211473718506311"
+                },
+                "message": "分享一下之前BigLaw的成果，可惜最近比較忙，無法全力支援QQ\nhttps:\/\/github.com\/biglawtw\/biglaw\/tree\/master\/BigLaw_Spider\nhttps:\/\/gist.github.com\/jackycute\/d6600792d6ec40792cd3",
+                "id": "897018423707898"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

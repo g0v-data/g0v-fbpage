@@ -1,0 +1,82 @@
+{
+    "created_time": "2013-09-13T08:31:18+0000",
+    "message": "這個應該可以做出台灣版本，感覺對食品安全跟企業良心有正面效果。",
+    "story": "Vincent Chien shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_511326032277141",
+    "link": "http:\/\/www.seinsights.asia\/news\/131\/1240",
+    "description": "編譯：郭鵬宇 美國民主黨國會議員參選人，也是前微軟軟體工程師Darcy Burner，在2012年的一場演講中，向在網路產業任職的上千名聽眾拋出了一項挑戰，希望有人能開發一款手機應用程式，讓消費者可以透過掃描條碼，而得知貨架上的商品是否和Charles Koch與David Koch有所關聯。（編按：Charles和David是二兄弟，分別為Koch Industries的執行長和副執行長",
+    "name": "Buycott：抵制無良企業的新武器",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCItbyFeVGSdlYR&w=130&h=130&url=http%3A%2F%2Fwww.seinsights.asia%2Fsites%2Fdefault%2Ffiles%2Fupload%2Fbuycott.jpg&cfs=1&_nc_hash=AQDieIUF3lfblLUq",
+    "updated_time": "2013-09-16T02:20:35+0000",
+    "caption": "seinsights.asia",
+    "from": {
+        "name": "Vincent Chien",
+        "id": "10155237918591517"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 45
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-09-13T09:08:50+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "抵制小幫手 XD",
+                "id": "511331748943236"
+            },
+            {
+                "created_time": "2013-09-13T09:18:37+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "早上 Teng-hao Chang 看到東森一堆轉載的新聞怒了說要抵制，跟他講了 Ronny Wang 的抵制小幫手 idea：設定抵制某公司後，看到該公司網頁或轉貼會先 mask 住，說「你已經說要抵制他一個月，確定要看\/打開？」",
+                "id": "511333468943064"
+            },
+            {
+                "created_time": "2013-09-15T13:41:37+0000",
+                "from": {
+                    "name": "Teng-hao Chang",
+                    "id": "10155092833395877"
+                },
+                "message": "這邊試做了一個 Safari Extension 版的，歡迎參考看看XD\nhttp:\/\/zhusee2.github.io\/boycott-helper\/",
+                "id": "512159185527159"
+            },
+            {
+                "created_time": "2013-09-16T02:07:22+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "Teng-hao Chang ++! 不過名字 boycott 是不是寫錯了 XD",
+                "id": "512390772170667"
+            },
+            {
+                "created_time": "2013-09-16T02:17:10+0000",
+                "from": {
+                    "name": "Teng-hao Chang",
+                    "id": "10155092833395877"
+                },
+                "message": "什麼我拼錯了嗎!!?",
+                "id": "512392705503807"
+            },
+            {
+                "created_time": "2013-09-16T02:20:35+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "沒有，我錯了....buycutt 才是故意拼錯的 orz",
+                "id": "512393365503741"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

@@ -1,0 +1,288 @@
+{
+    "created_time": "2014-03-26T19:24:29+0000",
+    "message": "李易修 唐鳳 協力作出了第一版公民記者證，強調【憲法保障公民記者採訪自由】。為不帶 G0V、零傳媒標示，採 CC0 授權，自填姓名、自貼照片的空白模板。徵求勇者接力，製作成「輸入名字，即可列印，再貼照片」的公民記者證產生器。\n\nibon 列印碼 : 9025535443（參考 w8.9 x h13.8cm 識別牌套作設計，A4 印會有點大 or 空）\npdf: https:\/\/drive.google.com\/file\/d\/0B7siTy-rqehnT1lLUF9mQjFROVU\/edit?usp=sharing\nsketch: https:\/\/drive.google.com\/file\/d\/0B7siTy-rqehnT1lLUF9mQjFROVU\/edit?usp=sharing\nhackpad 討論過程: https:\/\/g0v.hackpad.com\/JqRmqeNceAT\n（兩人說去睡了但我猜 au 沒睡，我是被腦波控制來貼文＆徵求沒有人的）",
+    "story": "Bropheus Huang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_599518663457877",
+    "link": "https:\/\/dchtm6r471mui.cloudfront.net\/hackpad.com_JqRmqeNceAT_p.66898_1395859056604_613-689.png",
+    "name": "https:\/\/dchtm6r471mui.cloudfront.net\/hackpad.com_JqRmqeNceAT_p.66898_1395859056604_613-689.png",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB0Bp9nXtl4F5fR&w=130&h=130&url=https%3A%2F%2Fdchtm6r471mui.cloudfront.net%2Fhackpad.com_JqRmqeNceAT_p.66898_1395859056604_613-689.png&cfs=1&sx=0&sy=0&sw=408&sh=408&_nc_hash=AQAbNDewfUHZKxP_",
+    "updated_time": "2014-03-27T10:26:58+0000",
+    "caption": "dchtm6r471mui.cloudfront.net",
+    "from": {
+        "name": "Bropheus Huang",
+        "id": "1897145036964963"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 109
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-26T19:30:13+0000",
+                "from": {
+                    "name": "Justin Lee",
+                    "id": "10160069346375051"
+                },
+                "message": "尺寸是按照這個做的，在台北車站那邊的光南大批發就有賣。識別證套+吊繩共16元，在二樓的第12櫃最上面。",
+                "id": "599520530124357"
+            },
+            {
+                "created_time": "2014-03-26T19:37:08+0000",
+                "from": {
+                    "name": "Bropheus Huang",
+                    "id": "1897145036964963"
+                },
+                "message": "其實你們都還沒睡嘛 XD",
+                "id": "599522363457507"
+            },
+            {
+                "created_time": "2014-03-26T19:38:12+0000",
+                "from": {
+                    "name": "Justin Lee",
+                    "id": "10160069346375051"
+                },
+                "message": "是該去睡了，不過聽到FB通知又回到電腦旁。",
+                "id": "599522603457483"
+            },
+            {
+                "created_time": "2014-03-26T19:41:19+0000",
+                "from": {
+                    "name": "Hsu Ching Fong",
+                    "id": "2052164491467186"
+                },
+                "message": "圖片連結居然是cloudfront cdn耶!",
+                "id": "599523860124024"
+            },
+            {
+                "created_time": "2014-03-26T19:42:12+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "是，那是 hackpad 不被打掛的技巧之一。:p",
+                "id": "599524160123994"
+            },
+            {
+                "created_time": "2014-03-26T21:10:48+0000",
+                "from": {
+                    "name": "YuFei Faye Cheng",
+                    "id": "10154878000761653"
+                },
+                "message": "= - =技術人員們快點去睡了!!!!!!!!!!!",
+                "id": "599547756788301"
+            },
+            {
+                "created_time": "2014-03-26T21:56:18+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "快去睡吧 :)\n(剛醒來，可以拿接力棒跑一段)",
+                "id": "599561210120289"
+            },
+            {
+                "created_time": "2014-03-26T21:57:00+0000",
+                "from": {
+                    "name": "YuFei Faye Cheng",
+                    "id": "10154878000761653"
+                },
+                "message": ":D 早安! 請記得吃早餐後在跑喔!",
+                "id": "599561403453603"
+            },
+            {
+                "created_time": "2014-03-26T23:19:58+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "做了一個線上印記者證的工具~\nhttp:\/\/g0v.github.io\/reporter\/",
+                "id": "599585326784544"
+            },
+            {
+                "created_time": "2014-03-26T23:30:14+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "我用火狐，測試一下，列印時記者證３個字消失了！",
+                "id": "599587870117623"
+            },
+            {
+                "created_time": "2014-03-26T23:44:59+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "好我來修",
+                "id": "599591486783928"
+            },
+            {
+                "created_time": "2014-03-26T23:54:18+0000",
+                "from": {
+                    "name": "Hsu Ching Fong",
+                    "id": "2052164491467186"
+                },
+                "message": "實測chrome列印出來正常",
+                "id": "599593666783710"
+            },
+            {
+                "created_time": "2014-03-27T00:02:20+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "對了，短網址資料發現錯誤，剛剛更新了\nQR的link也麻煩測一下好嗎?手邊沒手機 :)",
+                "id": "599595400116870"
+            },
+            {
+                "created_time": "2014-03-27T00:04:10+0000",
+                "from": {
+                    "name": "Hsu Ching Fong",
+                    "id": "2052164491467186"
+                },
+                "message": "新的QR code是正確的",
+                "id": "599596486783428"
+            },
+            {
+                "created_time": "2014-03-27T00:17:35+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "感謝\n另，firefox的部份剛修好了，把字換成圖就可以壓過底色\n只剩ie還沒試過，如果有ie幫測一下好嗎? \n應該會是好的，因為code很單純 :)",
+                "id": "599599640116446"
+            },
+            {
+                "created_time": "2014-03-27T00:24:14+0000",
+                "from": {
+                    "name": "Hsu Ching Fong",
+                    "id": "2052164491467186"
+                },
+                "message": "IE10(WIN7 x64)  列印出來會長這樣 上 不太對",
+                "id": "599601156782961"
+            },
+            {
+                "created_time": "2014-03-27T00:25:27+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "喔喔，所以IE的底沒出來\n好我試試看",
+                "id": "599601426782934"
+            },
+            {
+                "created_time": "2014-03-27T00:26:18+0000",
+                "from": {
+                    "name": "Hsu Ching Fong",
+                    "id": "2052164491467186"
+                },
+                "message": "照片qr code不是bug, 是我上傳的 希望沒有誤導到",
+                "id": "599601593449584"
+            },
+            {
+                "created_time": "2014-03-27T00:28:26+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "明白",
+                "id": "599602043449539"
+            },
+            {
+                "created_time": "2014-03-27T00:34:08+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "徐竟峰:改好了，把底全換成圖，應該可行。\n麻煩用ie再測一次? 謝謝~",
+                "id": "599604003449343"
+            },
+            {
+                "created_time": "2014-03-27T01:04:49+0000",
+                "from": {
+                    "name": "Hsu Ching Fong",
+                    "id": "2052164491467186"
+                },
+                "message": "我正在上課 手機是android的沒有IE，可以先請其他板友測試嗎 sorry~~",
+                "id": "599614013448342"
+            },
+            {
+                "created_time": "2014-03-27T01:06:43+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "好",
+                "id": "599614793448264"
+            },
+            {
+                "created_time": "2014-03-27T01:28:28+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "還有釋憲文qrcode 好專業 QAQ",
+                "id": "599621023447641"
+            },
+            {
+                "created_time": "2014-03-27T06:32:44+0000",
+                "from": {
+                    "name": "林祖儀",
+                    "id": "1765070790178623"
+                },
+                "message": "靠，超酷的XDD 公民證",
+                "id": "599696203440123"
+            },
+            {
+                "created_time": "2014-03-27T06:37:42+0000",
+                "from": {
+                    "name": "YuFei Faye Cheng",
+                    "id": "10154878000761653"
+                },
+                "message": "QAQ 國外的可以有嗎 星期六參加活動想帶去",
+                "id": "599697466773330"
+            },
+            {
+                "created_time": "2014-03-27T06:39:09+0000",
+                "from": {
+                    "name": "Opop Kuo",
+                    "id": "10215256716161480"
+                },
+                "message": "憲法應該只適用於台灣啦 XD",
+                "id": "599697753439968"
+            },
+            {
+                "created_time": "2014-03-27T06:50:40+0000",
+                "from": {
+                    "name": "YuFei Faye Cheng",
+                    "id": "10154878000761653"
+                },
+                "message": "活動是為了台灣呀! SF太陽花遊行~",
+                "id": "599700056773071"
+            },
+            {
+                "created_time": "2014-03-27T10:26:14+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "有網友建議，加註「緊急聯絡人」和「聯絡方式」。\n今天沒力氣了~\n請有裕餘的朋友接力支援 :)\nhttps:\/\/github.com\/g0v\/reporter",
+                "id": "599744496768627"
+            },
+            {
+                "created_time": "2014-03-27T10:26:58+0000",
+                "from": {
+                    "name": "Opop Kuo",
+                    "id": "10215256716161480"
+                },
+                "message": "這個不急也不須，請先休息喔～",
+                "id": "599744683435275"
+            }
+        ],
+        "summary": {
+            "total_count": 31
+        }
+    }
+}

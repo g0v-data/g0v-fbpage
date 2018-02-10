@@ -1,0 +1,25 @@
+{
+    "created_time": "2015-11-10T03:07:26+0000",
+    "message": "週末時分把主計總處所提供的各縣市指標數據整理出來放在我的機器上\n（資料來源：http:\/\/data.gov.tw\/node\/10935）\n\n現在有兩隻 API：\n* 列出所有指標項目：http:\/\/ha2.tw\/guide\/index.json?k= \n* 列出指標項目的詳細數值：http:\/\/ha2.tw\/guide\/[上述的指標項目名稱].json\n\n網頁版：http:\/\/ha2.tw\/guide\/index.html\n還請各位指教。",
+    "story": "Faryne Hsieh shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_885341614875579",
+    "link": "http:\/\/data.gov.tw\/node\/10935",
+    "name": "縣市指標 | 政府資料開放平臺",
+    "updated_time": "2015-11-10T03:07:26+0000",
+    "caption": "data.gov.tw",
+    "from": {
+        "name": "Faryne Hsieh",
+        "id": "10156200644925719"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 11
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

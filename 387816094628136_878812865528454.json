@@ -1,0 +1,26 @@
+{
+    "created_time": "2015-10-24T12:51:12+0000",
+    "message": "各位 挖坑\/填坑\/推坑 者，大家好！\n今天很有幸參加 g0v 第拾陸次刑法一百黑客松\n\n我們決定在此聚會中，公開一個醞釀已久的專案\nBigLaw - 開放法律判決智慧檢索與分析應用\nhttp:\/\/biglaw.tw\n\n今天的簡報文件\nhttps:\/\/hackmd.io\/s\/NkyjgG4We\n\n這個專案由我們團隊在大約在一年前完成\n參加台北市電腦公會舉辦的 Open Data 創新應用競賽，拿下特優\n原本預計要商業化，但是因為各種因素延宕，然後現在開源了！\n\n裁判書本屬於國家與人民的資產\n開放的資料如果有諸多限制與不易取用\n那其價值便降低許多...\n\n因此如果能有一個開放的平台\n去解決市場上相關服務的壟斷\n增加民眾、律師與各方單位的易用性\n相信這社會能更加活絡！\n\n以下是我們的 github\nhttps:\/\/github.com\/biglawtw\/biglaw\n(目前看到的是舊的版本，請等我們整理後會在推上去XD)\n歡迎直接開 Issue 或是留言聊聊！\n\n目前資料量有限，因為爬蟲需要不少時間\n資料筆數：33萬筆左右\n資料年份：2013\/1\/1 ~ 2014\/7\/31\n裁判書類型：刑事、民事(應該只有一點點)",
+    "story": "ChengHan Wu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_878812865528454",
+    "link": "http:\/\/biglaw.tw\/",
+    "description": "A Web based Law Analysis Service.",
+    "name": "BigLaw",
+    "updated_time": "2015-10-24T12:51:12+0000",
+    "caption": "biglaw.tw",
+    "from": {
+        "name": "ChengHan Wu",
+        "id": "10211473718506311"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 64
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

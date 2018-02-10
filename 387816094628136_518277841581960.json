@@ -1,0 +1,36 @@
+{
+    "created_time": "2013-09-30T12:08:44+0000",
+    "message": "因為暫時連不上 Kuang-che Wu 的 ircstat，翻出「圖解g0v」，之前好像沒人貼過？鬍子哥 Kirby Wu 力作。",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_518277841581960",
+    "link": "http:\/\/g0v.github.io\/ircstat\/",
+    "name": "http:\/\/g0v.github.io\/ircstat\/",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBm6SD9AkHPBuS3&w=130&h=130&url=http%3A%2F%2Fg0v.github.io%2Fircstat%2Fimg%2Fmoedict.png&cfs=1&_nc_hash=AQDCdVZlHn-11z77",
+    "updated_time": "2013-09-30T14:02:52+0000",
+    "caption": "g0v.github.io",
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 8
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-09-30T14:02:52+0000",
+                "from": {
+                    "name": "Kuang-che Wu",
+                    "id": "10155699622615379"
+                },
+                "message": "http:\/\/kcwu.csie.org\/~kcwu\/ircstat\/g0v.html",
+                "id": "518314168244994"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

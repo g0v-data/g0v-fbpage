@@ -1,0 +1,37 @@
+{
+    "created_time": "2013-10-19T12:31:25+0000",
+    "message": "政府監管與否，一直是個爭論不休的問題。\n\n一個聰明監管的演算法 (是的，演算法) 應該有以下的特質:\n\n1. 對想要達成目的的深入了解。\n2. 對目標達成與否的即時量測。\n3. 用新資料來調整演算法。\n4. 週期性的深入分析演算法的正確性與效果。\n\n例如說，尖峰時間的加價政策是為了善用供給固定的公共財，如停車位與道路。那為什麼不用當下的車流與停放率來調整費率呢?\n\n其中 2 與 4 有賴於開放資料，有些是政府提供的，或是法規要求企業要公開的。\n\n而開放資料，我們才能真的檢視目前做法是不是真的向著要達成的目標前進。\n\n(from clkao)",
+    "story": "鄭智中 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_527200750689669",
+    "link": "http:\/\/beyondtransparency.org\/chapters\/part-5\/open-data-and-algorithmic-regulation\/",
+    "description": "Regulation is the bugaboo of today’s politics. We have too much of it in most areas, we have too little of it in others, but mostly, we just have the wrong kind, a mountain of paper rules, inefficient processes, and little ability to adjust the rules or the processes when we discover the inevitable…",
+    "name": "Open Data and Algorithmic Regulation",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAdlWashWTwD-_e&w=130&h=130&url=http%3A%2F%2Fbeyondtransparency.org%2Fimages%2Fbeyondtransparency-small.png&cfs=1&_nc_hash=AQDawXXj9KYAOZRq",
+    "updated_time": "2013-10-19T18:36:25+0000",
+    "caption": "beyondtransparency.org",
+    "from": {
+        "name": "鄭智中",
+        "id": "10155459788420028"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 8
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-10-19T18:36:25+0000",
+                "from": {
+                    "name": "Tzu-han Travor Kao",
+                    "id": "10156080426480480"
+                },
+                "message": "Cool",
+                "id": "527350277341383"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

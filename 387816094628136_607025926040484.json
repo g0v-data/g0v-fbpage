@@ -1,0 +1,35 @@
+{
+    "created_time": "2014-04-13T06:31:38+0000",
+    "message": "台灣公司資料查詢：http:\/\/company.g0v.ronny.tw\/\n這網頁最近很不穩定，有時完全連不上，\n且似乎只剩下透過統一編號查詢公司資料功能，\n原先\"輸入人名找相關公司\"及\"輸入公司名稱找相關持股公司\"功能失效了？",
+    "story": "Changfeng Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_607025926040484",
+    "link": "http:\/\/company.g0v.ronny.tw\/",
+    "name": "台灣公司資料",
+    "updated_time": "2014-04-13T06:33:30+0000",
+    "caption": "company.g0v.ronny.tw",
+    "from": {
+        "name": "Changfeng Chen",
+        "id": "10155132629926316"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-13T06:33:30+0000",
+                "from": {
+                    "name": "Opop Kuo",
+                    "id": "10215256716161480"
+                },
+                "message": "前幾天要用也都連不上...",
+                "id": "607026266040450"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

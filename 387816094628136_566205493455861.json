@@ -1,0 +1,116 @@
+{
+    "created_time": "2014-01-12T17:40:14+0000",
+    "message": "透過 http:\/\/www.ushahidi.com\/ 架設了這個網站， \"純粹個人架設，完全不代表 g0v\"，主要的想法是讓有興趣參與的朋友可以在地圖上標示自己的位置，有助於一些活動的安排與成員之間的交流。\n\n這個網站上的一些通報功能還不算完成，但可以試試看有沒有問題，如果 g0v 官方覺得合適我會將資料全部移轉 ;)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_566205493455861",
+    "link": "http:\/\/g0v.olc.tw\/",
+    "name": "g0v 志工地圖",
+    "updated_time": "2014-01-12T18:20:19+0000",
+    "caption": "g0v.olc.tw",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 16
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-12T17:49:13+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "說 g0v 貢獻者或者 g0v'er 可能會比「志工」要好 :p",
+                "id": "566208900122187"
+            },
+            {
+                "created_time": "2014-01-12T17:50:08+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "fixed",
+                "id": "566209200122157"
+            },
+            {
+                "created_time": "2014-01-12T17:50:11+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "另外 location 也許可以想想到時候如何和 people hub 整合？",
+                "id": "566209223455488"
+            },
+            {
+                "created_time": "2014-01-12T17:51:03+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "先有清單之後應該後續要做移轉不難？",
+                "id": "566209446788799"
+            },
+            {
+                "created_time": "2014-01-12T17:51:45+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "or what is people hub ?",
+                "id": "566209590122118"
+            },
+            {
+                "created_time": "2014-01-12T17:54:07+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "hack.g0v.tw\/people",
+                "id": "566211473455263"
+            },
+            {
+                "created_time": "2014-01-12T17:56:51+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "Ushahidi 有 API 的 - https:\/\/wiki.ushahidi.com\/display\/WIKI\/Ushahidi+REST+API",
+                "id": "566212200121857"
+            },
+            {
+                "created_time": "2014-01-12T17:57:35+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "應該可以跟 people hub 做些連結",
+                "id": "566212366788507"
+            },
+            {
+                "created_time": "2014-01-12T18:17:28+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "參考了 people hub 上面的分類在系統裡面建立了對應的分類樹",
+                "id": "566219310121146"
+            },
+            {
+                "created_time": "2014-01-12T18:20:19+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "Ushahidi 其實正在開發新版本，這個版本問題很多，但是相對穩定。他們也有一個線上服務 - https:\/\/crowdmap.com\/ ，不過我在上面看到的測試資料居多，所以不確定能否信任，好處是不需要額外的主機維護",
+                "id": "566220490121028"
+            }
+        ],
+        "summary": {
+            "total_count": 10
+        }
+    }
+}

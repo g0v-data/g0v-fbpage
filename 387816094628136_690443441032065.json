@@ -1,0 +1,37 @@
+{
+    "created_time": "2014-10-05T06:34:01+0000",
+    "message": "【公督盟嚴選法案API】\n\n大家好，之前我從公督盟那邊得知，他們每個會期都會定期對相關的法案進行評分，這些分數也會加到立委身上作為參考。這些資料我原先想寫程式轉化成api供大家查詢，但是一直沒有時間下手。這份資料是第八屆立委的加減分表，我先把這些資料丟出來，有興趣的朋友可以考慮對這些內容進行處理、整合，謝謝大家！\n\nhttps:\/\/g0v.hackpad.com\/API-CJ7Cmoj30Pn\n\n資料來源：\n\nhttps:\/\/docs.google.com\/spreadsheets\/d\/13nXEhLHiurU_kuoISOOlfQWNkonfkx3vIU1f7692MeM\/edit#gid=0",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_690443441032065",
+    "link": "https:\/\/g0v.hackpad.com\/API-CJ7Cmoj30Pn",
+    "description": "大家好，之前我從公督盟那邊得知，他們每個會期都會定期對相關的法案進行評分，這些分數也會加到立委身上作為參考。這些資料我原先想寫程式轉化成api供大家查詢，但是一直沒有時間下手。這份資料是第八屆立委的加減分表，我先把這些資料丟出來，有興趣的朋友可以考慮對這些內容進行處理、整合，謝謝大家！ https:\/\/docs.google.",
+    "name": "公督盟嚴選法案API",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC75P0QZMdg2HRZ&w=130&h=130&url=https%3A%2F%2Fhackpad.com%2Fstatic%2Fimg%2Fhackpad-logo-112.png&cfs=1&_nc_hash=AQAcrSgKDllYzvNH",
+    "updated_time": "2014-10-05T16:15:10+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 23
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-10-05T16:15:10+0000",
+                "from": {
+                    "name": "Pei-Chi Lo",
+                    "id": "10215091580704901"
+                },
+                "message": "之前寫過一些相關的介紹跟討論↓\nhttp:\/\/npost.tw\/archives\/4995",
+                "id": "690697381006671"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

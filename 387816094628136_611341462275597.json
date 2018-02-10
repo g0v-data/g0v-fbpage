@@ -1,0 +1,112 @@
+{
+    "created_time": "2014-04-22T00:53:23+0000",
+    "message": "幾個問題想要請教：\n1.\n請問我要如何將我的 HackPad \n加入 g0v 的 開發共筆 HackPad 裡面？\nhttps:\/\/g0v.hackpad.com\/\nhttps:\/\/hackpad.com\/Agricultural-trading-market-DtRlNlKYQXg\n\n2.\n更新 GitHub 上的 g0v.json (新增協作者)後，\n發現 http:\/\/hack.g0v.tw\/project 並沒有跟著更新，\n請問我可以怎麼做？",
+    "id": "387816094628136_611341462275597",
+    "updated_time": "2014-04-22T03:24:06+0000",
+    "from": {
+        "name": "張記銘",
+        "id": "1864852106860688"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-22T02:22:44+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "1. 本來在 hackpad.com下面沒辦法直接搬到 g0v.hackpad 下，可能要重新在 g0v.hackpad 下開新頁複製過來。\n2. 我猜有 bug XD",
+                "id": "611371542272589"
+            },
+            {
+                "created_time": "2014-04-22T02:24:56+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "1. hackpad 請直接在 https:\/\/g0v.hackpad.com\/ 下建立新的(打好的話可以直接 copy-paste ) collection 可以用 g0v idea pool\n2. 其實我不知道它是怎麼運作的=_= ((好像要放在 github.com\/g0v 下?",
+                "id": "611371978939212"
+            },
+            {
+                "created_time": "2014-04-22T02:25:24+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "可以搬吧！",
+                "id": "611372062272537"
+            },
+            {
+                "created_time": "2014-04-22T02:26:58+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "怎麼搬？有此功能？@@",
+                "id": "611372522272491"
+            },
+            {
+                "created_time": "2014-04-22T02:27:20+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "我之前搬是直接copy-paste...((艸",
+                "id": "611372582272485"
+            },
+            {
+                "created_time": "2014-04-22T02:34:06+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "請確定知道答案再熱心回答喔！之前我跟 ETBlue 已經講過這個問題。\n\n方法請讀 Hackpad FAQ，如果沒有跳到該問題，請自行從右側選單選 \"Can I move a Pad between Workspaces? \" \nhttps:\/\/hackpad.com\/Hackpad-FAQ-tq56fI63mz3#:h=Can-I-move-a-Pad-between-Works",
+                "id": "611375048938905"
+            },
+            {
+                "created_time": "2014-04-22T03:09:38+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "我確定知道答案，只是答案部分是錯的orz。這方法有點不直覺， 貓橘毛有空要來翻成中文做點圖示嘛？XD",
+                "id": "611383048938105"
+            },
+            {
+                "created_time": "2014-04-22T03:16:29+0000",
+                "from": {
+                    "name": "張記銘",
+                    "id": "1864852106860688"
+                },
+                "message": "謝謝 楊孝先\n已成功，把左邊側欄打開，然後把右邊的PAD拉進去就完成了。\n不過g0v實在太多pad了，我還以為我的pad消失了XD",
+                "id": "611385195604557"
+            },
+            {
+                "created_time": "2014-04-22T03:24:00+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "需要更新g0v.json請上irc找人幫你清掉項目重抓  他現在不是自動更新的  抱歉",
+                "id": "611386768937733"
+            },
+            {
+                "created_time": "2014-04-22T03:24:06+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "(剛去翻 history 發現是兩個月前新增的功能...之前好像沒有)\n\nFAQ 那頁會一直更新啊 0rz0rz 去年看的時候沒那麼長QAQ",
+                "id": "611386835604393"
+            }
+        ],
+        "summary": {
+            "total_count": 10
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "created_time": "2015-06-28T06:09:53+0000",
+    "id": "387816094628136_825316887544719",
+    "updated_time": "2015-06-29T13:17:50+0000",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-28T06:14:33+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "http:\/\/www.gov.taipei\/ct.asp?xItem=108880666&ctNode=38161&mp=100001",
+                "id": "825319240877817"
+            },
+            {
+                "created_time": "2015-06-28T06:30:38+0000",
+                "from": {
+                    "name": "Scott Tsai",
+                    "id": "1838942296177821"
+                },
+                "message": "http:\/\/leechsien.github.io\/DustExplosions\/",
+                "id": "825321854210889"
+            },
+            {
+                "created_time": "2015-06-28T09:16:37+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/github.com\/kiang\/drugs\/tree\/master\/Console\/Command\/data\/nhi\n\n這是取自健保局的醫療院所資料，幾個相關資料說明如下：\n\n# points.csv - 所有醫療院所清單\n# points\/*.json - 醫療院所細節，其中 * 是醫療院所代碼\n# points_address.csv - 取出醫療院所住址後透過 google geocoding 得到的座標資訊， geocode 的規則可以參考 geocode() @ https:\/\/github.com\/kiang\/drugs\/blob\/master\/Console\/Command\/PointShell.php\n\n透過這些組合可以進一步拼湊出個別醫療院所的資訊在地圖上呈現，只是病患的原始資料並未用完整的醫院名稱或代碼，也許需要做些人工配對工作\n\n我是用在 http:\/\/drugs.olc.tw\/points\/ ，只是這幾天應該沒有辦法處理相關需求，看看有沒有人想試試",
+                "id": "825374010872340"
+            },
+            {
+                "created_time": "2015-06-28T09:28:32+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "6\/28 16:40  民間社群網友提供傷者查詢系統：（列表：開發者﹣網址）以上感謝社群網友的協力\nKos Huang  http:\/\/koshuang.github.io\/wounded_search\/\n陳冠穎  http:\/\/140.113.90.213:10000\nYuTin Liu  http:\/\/g0v.github.io\/color\/\n葉昌圳  https:\/\/jsfiddle.net\/r85pguzf\/embedded\/result\/\n鄭健良  https:\/\/jsfiddle.net\/n47gckhr\/337\/embedded\/result\/\nHsu Ching Fong  https:\/\/gogolohas.net\/basian.html\n陳小風  http:\/\/codepen.io\/kirkchen\/full\/bdaRvo\/\n李致賢  http:\/\/leechsien.github.io\/DustExplosions\/\nChris Liu  https:\/\/chrisliuqq.github.io\/20150628\/\nGraver Che  http:\/\/site.whataiwant.com\/jq_emer.html\n\n從台北市的頁面上取得",
+                "id": "825375830872158"
+            },
+            {
+                "created_time": "2015-06-28T09:31:10+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "有人更早之前就做了 - http:\/\/citypatterns.blogspot.tw\/2015\/06\/water-park-explosion-hospital-map.html",
+                "id": "825376220872119"
+            },
+            {
+                "created_time": "2015-06-28T10:35:38+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "http:\/\/www.ntpc.gov.tw\/ch\/home.jsp?id=28&parentpath=0,6,27&mcustomize=news_view.jsp&dataserno=201506280013&t=null&mserno=201309100001 發現這裡有傷患全名",
+                "id": "825394297536978"
+            },
+            {
+                "created_time": "2015-06-28T11:09:56+0000",
+                "from": {
+                    "name": "Harry Wu",
+                    "id": "2020260864914379"
+                },
+                "message": "我不太建議把全名放出來，如果需要輸入全名去查詢，打去醫院問會比較好",
+                "id": "825404107535997"
+            },
+            {
+                "created_time": "2015-06-29T10:21:46+0000",
+                "from": {
+                    "name": "曾苡馨",
+                    "id": "1791796867531411"
+                },
+                "message": "如果有人寫的東西裡面有社福中心主任的手機，可以幫我撤下來嗎？社會局有提供關懷服務專線，這個資訊似乎造成了中心主任的困擾，感恩！",
+                "id": "825929547483453"
+            },
+            {
+                "created_time": "2015-06-29T11:58:15+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Otters 有什麼好理由嗎？這意見好像與社群粗略共識背道而馳的樣子。曾苡馨有在哪裡看到的話，直接找作者比較快。",
+                "id": "826043477472060"
+            },
+            {
+                "created_time": "2015-06-29T12:05:51+0000",
+                "from": {
+                    "name": "曾苡馨",
+                    "id": "1791796867531411"
+                },
+                "message": "我本來也覺得哪有什麼關係，但是有同仁值過主要的手機關懷專線之後發現其實還滿妙，會有人半夜四點打進來說應該要給傷者喝椰子水之類的，不是家屬！！但是那隻手機還是24小時服務，不過不需要12社福中心的主任都一起24小時接電話吧，我有找到一個有寫手機的已經幫我拿掉了，感恩～",
+                "id": "826044824138592"
+            },
+            {
+                "created_time": "2015-06-29T12:06:47+0000",
+                "from": {
+                    "name": "Harry Wu",
+                    "id": "2020260864914379"
+                },
+                "message": "因為這些人名都是個資啊，基本上家屬要找人，輸入全名模糊比對就可以了，像我的系統也不是把所有的人名字顯示出來，因為我覺得，真正需要用的人會輸入全名，想看清單的大多數都只是鄉民看熱鬧而已",
+                "id": "826044974138577"
+            },
+            {
+                "created_time": "2015-06-29T13:15:13+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "原來你指的是這個，以為你認為電話問比查詢系統好（連帶封閉比開放好）。\n\n關於個資問題，保護是原則，但「已合法公開之個人資料」是例外之一。如果政府自己已公開（即便後來移除），基於信賴原則，不應再把此資料公開是否合法的判斷加諸在人民身上。當然，此時還是可討論系統設計是否得當。",
+                "id": "826064494136625"
+            },
+            {
+                "created_time": "2015-06-29T13:17:50+0000",
+                "from": {
+                    "name": "Harry Wu",
+                    "id": "2020260864914379"
+                },
+                "message": "哈哈哈哈～自己都寫了一個查詢系統了，怎麼可能會認為電話問比較好ＸＤＤＤＤ\n\n不過我覺得基本上就算政府自己公開，我還是會保護他們的資料，因為我認為如果資料不小心外洩了，不管外洩的人是誰，都應該有基本的保護措施來保護他人，像是新北市政府把所有的人名都列出來這件事情= =\n\n畢竟，誰也不喜歡把個資大辣辣地放在網路上(當然自己放的例外",
+                "id": "826065077469900"
+            }
+        ],
+        "summary": {
+            "total_count": 13
+        }
+    }
+}

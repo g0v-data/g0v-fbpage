@@ -1,0 +1,63 @@
+{
+    "created_time": "2017-04-24T10:17:29+0000",
+    "message": "前兩天收到e-mail, Hackpad 預計在今年七月關站。仔細看了一下，Hackpad關站之後好像也不會刪除這些文件，而是會自動合併到Dropbox Paper上面:\n\n\"Do nothing. Your pads will automatically be migrated to Paper on July 19.\"\n\n但下面這段就值得注意：\n\n\"While Paper does not support the Hackpad’s public workspace functionality, you can still create public Paper docs, which can be viewed by non-logged in users. For more details on public Paper docs, you can visit the Help Center.\"\n\n不曉得它的意思是不是說「Dropbox的Paper不支援Hackpad的公開功能」？如果轉移之後都將變成私人文件，一般人無法透過公開連結瀏覽，那可能就要在7\/19以前把自己想要的文件都手動備份起來了...@@\n\n信件全文如下：\n\n---------- Forwarded message ----------\nFrom: hackpad <support@hackpad.com>\nDate: 2017-04-22 7:29 GMT+08:00\nSubject: Important information regarding your Hackpad account\n\nHi,\n\nI’m writing to let you know we’ll be shutting down Hackpad on July 19. I’m so grateful for all the enthusiasm and feedback from the Hackpad community over the last several years, and I’m excited to share what’s coming next.\n\nThat feedback has been really helpful for designing Dropbox Paper—a product inspired by the Hackpad community. With millions of docs created by teams around the world, Paper is off to an exciting start. Paper takes many of Hackpad’s best features—like instant collaboration, comments, and real-time editing—and adds a lot more, including additional security features, faster search, and more visibility for teams.\n\nYou can start using Paper today. I’d love to know what you think.\nhttps:\/\/www.dropbox.com\/paper\n\nYou have a few options for migrating your personal pads from Hackpad.\n\nImport your pads into Paper. I built an importer that helps convert your pads to Paper docs. You’ll need to create an account or sign in to get started.\nhttps:\/\/www.dropbox.com\/login?cont=https%3A%2F%2Fpaper.dropbox.com%2Fhackpad%2F&register_cont=https%3A%2F%2Fpaper.dropbox.com%2Fhackpad%2F\n\nExport your pads. You can export everything into a single zip folder if you’d prefer.\nhttps:\/\/hackpad.com\/ep\/account\/sign-in?cont=https%3A%2F%2Fhackpad.com%2Fep%2Faccount%2Fexport%2F\n\nDo nothing. Your pads will automatically be migrated to Paper on July 19.\n\nOpt out of the automatic migration. Your pads will be deleted on July 19.\nhttps:\/\/hackpad.com\/ep\/account\/sign-in?cont=https%3A%2F%2Fhackpad.com%2Fep%2Faccount%2Fopt-out%2F\n\nFor any workspaces you are a member of, your admin is responsible for importing your team’s Hackpad pads into Paper. If your admin doesn’t take any action, this data will automatically be migrated to Paper on July 19. Once the import is complete, you can sign in to a Dropbox account to join your pads.\nhttps:\/\/www.dropbox.com\/login?cont=https%3A%2F%2Fpaper.dropbox.com%2Fhackpad%2F&register_cont=https%3A%2F%2Fpaper.dropbox.com%2Fhackpad%2F\n\nWhile Paper does not support the Hackpad’s public workspace functionality, you can still create public Paper docs, which can be viewed by non-logged in users. For more details on public Paper docs, you can visit the Help Center.\nhttps:\/\/www.dropbox.com\/help\/9156\n\nI know changes like these can be inconvenient, and I want to help make the transition as smooth as possible. Visit Dropbox to learn more about Paper, or stop by the Help Center for more details about transitioning from Hackpad.\nhttps:\/\/www.dropbox.com\/paper\n\nIf you have any questions, feel free to contact us at hackpad@dropbox.com.\n\nIgor Kofman, Hackpad founder and Dropbox Paper lead",
+    "id": "387816094628136_1291228534286883",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10210866002943784&set=gm.1291228534286883&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/17992181_10210866002943784_4339496371793759400_n.jpg?oh=3fa91caea64a8d2a4112519a7e6a6a60&oe=5B10F637",
+    "updated_time": "2017-06-02T04:41:50+0000",
+    "shares": {
+        "count": 3
+    },
+    "from": {
+        "name": "Sung-Ju Huang",
+        "id": "10213390391571922"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 18
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-04-24T11:04:37+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "Hackpad 確定要關閉系統了，時間是今年７月１９日。\n\n我這邊先附上 g0v 社群討論的資料，先讓大家參考。\n－－－－\nHackpad 搬家方案\n　　https:\/\/g0v.hackpad.com\/Hackpad--INPcsSiqF8w\n\nIRC & Slack 對話系統存檔\n　　https:\/\/logbot.g0v.tw\/channel\/g0v.tw\/2017-04-21#9\n\n尋找完美的共筆平台\n　　https:\/\/g0v.hackpad.com\/Mh1LjzkizQf\n－－－－\n\n----",
+                "id": "1291253207617749"
+            },
+            {
+                "created_time": "2017-04-24T11:56:39+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "Hackpad 搬家方案　　https:\/\/g0v.hackpad.com\/\n為何搬家方案要放在原東家那裏？\n那原東家收起來不就看不到轉移過程了？",
+                "id": "1291278774281859"
+            },
+            {
+                "created_time": "2017-06-01T04:33:59+0000",
+                "from": {
+                    "name": "Yueh Chun Chi",
+                    "id": "10156031044690539"
+                },
+                "message": "請問現在該去哪裡編輯阿?",
+                "id": "1325753760834360"
+            },
+            {
+                "created_time": "2017-06-02T04:41:48+0000",
+                "from": {
+                    "name": "Yun-Chen Chien",
+                    "id": "10214518142641877"
+                },
+                "message": "歡迎大家來搶救 Hackpad 松一起討論！\nhttps:\/\/g0v-jothon.kktix.cc\/events\/hackpadthon",
+                "id": "1326758630733873"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

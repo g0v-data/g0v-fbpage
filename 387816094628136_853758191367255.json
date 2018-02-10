@@ -1,0 +1,115 @@
+{
+    "created_time": "2015-08-27T03:59:15+0000",
+    "message": "左：台北市政府105年度總預算書：http:\/\/goo.gl\/Nr7ho5\n右：Open Budget Seattle：http:\/\/openbudget.seattle.gov\n\n聯想到世紀帝國黑暗時期與帝王時期...\n\n-\n目前正在蒐集一些 Open Budget 網站案例\nhttps:\/\/g0v.hackpad.com\/Open-Budget--L90jkftmfxn\n\n結果好像都是幾個廠商的承包業務XD\n1.http:\/\/www.socrata.com\n2.http:\/\/opengov.com\n3.http:\/\/www.citizenbudget.com\n4.http:\/\/next10.org（使用者可以配置自己的預算方案）\n\n有一些有用開源方式\nhttps:\/\/github.com\/CityOfPhiladelphia\/open-budget（OKF 瑞士分部的基礎）\nhttps:\/\/github.com\/openoakland\/openbudgetoakland\nhttps:\/\/github.com\/open-city\/look-at-cook\nhttps:\/\/github.com\/kavaleriy\/budget（Ukraine）\nhttps:\/\/github.com\/bengarvey\/budget\n\n----\n我自己看下來 City of Topeka 的親切度比較不錯，使用 socrata\nhttp:\/\/www.topeka.org\/administrative\/city_budget.shtml\n並且有影片、網頁使用介紹、會議全程紀錄、搭配中長期預算計劃文件\n\n----\n一個比較有趣的發現：NYC 審計部門的日常開放！\nhttp:\/\/comptrollernyc.com\/mymoneynyc\nhttp:\/\/www.checkbooknyc.com\/\nComptroller’s Office launched Checkbook NYC, an online transparency tool that for the first time placed the City’s day-to-day spending in the public domain. Using an intuitive dashboard approach that combines a series of graphs and user-friendly tables, Checkbook NYC provides up-to-date information about the City's financial condition.",
+    "id": "387816094628136_853758191367255",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10153620780454038&set=gm.853758191367255&type=3",
+    "name": "Photos from Che Wei Liu's post",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/11902521_10153620780454038_7973788999035776823_n.jpg?oh=853c588232c7eaacb2f98a36c23e4ebc&oe=5AD8BBBB",
+    "updated_time": "2016-08-24T15:48:36+0000",
+    "from": {
+        "name": "Che Wei Liu",
+        "id": "10156142432594038"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 57
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-08-27T04:02:34+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "台北市先升城堡再說啦！\nhttps:\/\/g0v.hackpad.com\/8Ww9SaoB1up",
+                "id": "853758788033862"
+            },
+            {
+                "created_time": "2015-08-27T04:43:33+0000",
+                "from": {
+                    "name": "李昕迪",
+                    "id": "10215461846323960"
+                },
+                "message": "已知用火總比不知用火好",
+                "id": "853779198031821"
+            },
+            {
+                "created_time": "2015-08-27T04:53:55+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "City of Topeka, Kansas 已知拍片\nhttps:\/\/www.youtube.com\/watch?v=zp2vrWTZiUs&feature=youtu.be",
+                "id": "853781418031599"
+            },
+            {
+                "created_time": "2015-08-27T08:39:52+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "City of Philadelphia 已經開源\nhttps:\/\/github.com\/CityOfPhiladelphia\/open-budget",
+                "id": "853836304692777"
+            },
+            {
+                "created_time": "2015-08-27T09:28:49+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "California 已 PaGame\nhttp:\/\/www.budgetchallenge.org\/pages\/home",
+                "id": "853844408025300"
+            },
+            {
+                "created_time": "2015-08-30T03:01:12+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "https:\/\/www.facebook.com\/580695085402795\/photos\/a.580698242069146.1073741828.580695085402795\/589786377826999\/?type=1&comment_id=590156154456688&notif_t=photo_reply",
+                "id": "855033711239703"
+            },
+            {
+                "created_time": "2015-09-10T05:13:13+0000",
+                "from": {
+                    "name": "YenWei Zheng",
+                    "id": "10210895683574960"
+                },
+                "message": "最近在整理人口資料,也覺得台北各區域人口、性別、人口密度等戶政資料都有數字,應該可以開一個更方便的坑...",
+                "id": "860597674016640"
+            },
+            {
+                "created_time": "2015-11-02T18:16:52+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "g0v 專案\n人口統計資料 https:\/\/g0v.hackpad.com\/xqnTZmdXJW5\n人口計算平台 https:\/\/g0v.hackpad.com\/p6mANPV1Bb7",
+                "id": "882438078499266"
+            },
+            {
+                "created_time": "2016-01-13T09:09:01+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "臺北市地方總預算\n\nhttp:\/\/dbas.gov.taipei\/ct.asp?xItem=61249&ctNode=31636&mp=120001",
+                "id": "915540268522380"
+            },
+            {
+                "created_time": "2016-08-24T15:48:34+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "這是什麼風格...星際探索風？\nhttp:\/\/openeconomy.org.au\/",
+                "id": "1053732124703193"
+            }
+        ],
+        "summary": {
+            "total_count": 10
+        }
+    }
+}

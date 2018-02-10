@@ -1,0 +1,30 @@
+{
+    "created_time": "2014-03-22T02:48:21+0000",
+    "id": "387816094628136_597431200333290",
+    "updated_time": "2014-03-22T04:37:53+0000",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 8
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-22T04:37:53+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "喔這篇講得很棒",
+                "id": "597457680330642"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

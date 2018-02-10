@@ -1,0 +1,73 @@
+{
+    "created_time": "2014-09-30T09:29:01+0000",
+    "message": "g0v又上了iThome了 XD",
+    "story": "Wei-Cheng Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_687705854639157",
+    "link": "http:\/\/www.ithome.com.tw\/news\/91209",
+    "description": "香港網友使用了許多臺灣g0v零時政府開發的服務，如Code4HK社群利用臺灣太陽花學運中，g0v開發的Hackfoldr建立網路平臺來整合資訊，也推出升級版，除圖文轉播（Photos and Text Streams）、文字消息整合（Crowd Source），還有占領行動路線指南、物資需求清單、抗爭需知等資訊。另外，繼Code4HK社群開發了Hackfoldr的Android版本後，g0v也協力開發Hackfoldr Mobile iOS 版程式碼。  ",
+    "name": "IT人支援香港占中運動大作戰，臺灣g0v也技術支援",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBanjTyHvTxm6Si&w=130&h=130&url=http%3A%2F%2Fd3tfy4hr89jjx0.cloudfront.net%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fimage%2F%25E5%25AD%25B8%25E8%2581%25AF.jpg&cfs=1&_nc_hash=AQDChB6wbcLxDSCR",
+    "updated_time": "2014-09-30T11:08:12+0000",
+    "caption": "ithome.com.tw",
+    "from": {
+        "name": "Wei-Cheng Lee",
+        "id": "10160184588235599"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 116
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-09-30T10:05:12+0000",
+                "from": {
+                    "name": "Chen Kai Chang",
+                    "id": "2046452738704722"
+                },
+                "message": "真的覺得太陽花學運對於社運界的應用科技做了一次大推進了....@@",
+                "id": "687712521305157"
+            },
+            {
+                "created_time": "2014-09-30T10:07:39+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "大躍進 <=支那用是失敗收場，換個名詞吧 XD",
+                "id": "687712947971781"
+            },
+            {
+                "created_time": "2014-09-30T11:07:12+0000",
+                "from": {
+                    "name": "Chen Kai Chang",
+                    "id": "2046452738704722"
+                },
+                "message": "逆轟高灰~ XD",
+                "id": "687726391303770"
+            },
+            {
+                "created_time": "2014-09-30T11:07:32+0000",
+                "from": {
+                    "name": "Hu Youtien",
+                    "id": "1862590553753410"
+                },
+                "message": "那就超空間躍進好了。",
+                "id": "687726471303762"
+            },
+            {
+                "created_time": "2014-09-30T11:08:12+0000",
+                "from": {
+                    "name": "Chen Kai Chang",
+                    "id": "2046452738704722"
+                },
+                "message": "開曲速引擎了！",
+                "id": "687726727970403"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

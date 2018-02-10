@@ -1,0 +1,27 @@
+{
+    "created_time": "2016-09-05T05:43:25+0000",
+    "message": "嗨，\n我將104年度的監獄人數概況與新入監資料概覽的資料更新上去了，\n大家可以進矯正統計地方進行查詢。\n新入監資料概覽的年度資料，由原本的75年至104年改變為從104年至75年，目的是要讓各位可以一進入資料頁面就可以得知最新的年度資料，比較舊的資料再用資料檢索的方式去找。\n\n除此之外，\n我已將以下兩個issues進行修復，\n包括tooltip在資料更新後，沒有適當遮蔽的顯示問題。\n(測試方式: 因為這個Bug是偶發的狀況，須直接多做測試。)\nhttps:\/\/github.com\/yudazilian\/VisualJusticeTW\/issues\/24\n\n以及新入監概覽的圓環圖無法正常更新的問題，\n(測試方式:  進入矯正統計後，選擇新入監資料概覽，在資料檢索項目中選擇其他的年度做測試。)\nhttps:\/\/github.com\/yudazilian\/VisualJusticeTW\/issues\/25\n\n希望大家有空能測測看問題是否已經被解決，有發現新的issue也請不吝嗇地在issue欄位發布。\n\n(有很多人看到專案的更新日是25天前，以為看見思法已經obsolete了，並沒有喔XD，只是我比較常commit在local端)",
+    "story": "Yu-De Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1063477180395354",
+    "link": "http:\/\/vizjust.tw\/",
+    "description": "看見思法致力於台灣司法資料的開放。透過視覺化的途徑，推倒人民與政府之間無法互信的高牆。不久的將來，我們也將成立一個非政府組織，要求世界各國政府進行司法資料的公開與透明。",
+    "name": "看見思法 -- 屬於人民的視覺化司法資料庫",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDTJ_qEl9ksU_HR&w=130&h=130&url=https%3A%2F%2Fraw.githubusercontent.com%2Fyudazilian%2FVisualJusticeTW%2Fgh-pages%2Fsrc%2FJusticeVisualizingLOGO_3_fb_200x200.png&cfs=1&_nc_hash=AQBQ9_zwebUDzcSc",
+    "updated_time": "2016-09-05T05:43:26+0000",
+    "caption": "vizjust.tw",
+    "from": {
+        "name": "Yu-De Lin",
+        "id": "1718720644815489"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 20
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

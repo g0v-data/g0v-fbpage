@@ -1,0 +1,361 @@
+{
+    "created_time": "2015-12-21T03:40:42+0000",
+    "message": "http:\/\/www.epochtimes.com\/b5\/15\/10\/20\/n4554377.htm\n開票過程公開 臺總統大選將讓民眾錄影\n\n為了不辜負政府好意，用webrtc做了一個簡易的即時播放程式(http:\/\/2016-tw-monitor-balloting.gogistics-tw.com\/)，因chrome 47版後開起相機功能只能運行於https，所以建議用firefox測是開起相機功能，但不影響觀看方，也就是說觀看方可用chrome；bug還在修，錄影功能在建構中...",
+    "story": "Alan Tai shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_903423993067341",
+    "link": "http:\/\/www.epochtimes.com\/b5\/15\/10\/20\/n4554377.htm",
+    "description": "中央選舉委員會今天召開委員會議決議，明年總統、立法委員選舉開票將放寬限制，在不影響秩序前提下，同意民眾攝錄影，到時會有相關規範。 - 台灣新聞",
+    "name": "開票過程公開 臺總統大選將讓民眾錄影",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAg2kEnEyyQ_Mad&w=130&h=130&url=http%3A%2F%2Fimg.epochtimes.com%2Fi6%2F1411290427582357--ss2.jpg&cfs=1&_nc_hash=AQDpPTjOiZat1Dhm",
+    "updated_time": "2016-01-10T22:06:53+0000",
+    "caption": "epochtimes.com",
+    "from": {
+        "name": "Alan Tai",
+        "id": "10159772861735276"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 112
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-12-21T05:20:05+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "感覺錄影需要的儲存空間還蠻嚇人的，也許可以設計縮時攝影形式？",
+                "id": "903450783064662"
+            },
+            {
+                "created_time": "2015-12-21T05:42:55+0000",
+                "from": {
+                    "name": "Mick Huang",
+                    "id": "10213708769805858"
+                },
+                "message": "https:\/\/developers.google.com\/youtube\/v3\/live\/getting-started 不適合嗎？",
+                "id": "903455813064159"
+            },
+            {
+                "created_time": "2015-12-21T06:43:18+0000",
+                "from": {
+                    "name": "葉志斌",
+                    "id": "1838445972841074"
+                },
+                "message": "想像如何處理一千隻分散式監視器吧...頭很大..",
+                "id": "903467319729675"
+            },
+            {
+                "created_time": "2015-12-21T10:19:48+0000",
+                "from": {
+                    "name": "Roland Tai",
+                    "id": "1841423529263863"
+                },
+                "message": "要靠手機電信的無線網路，即時無線傳輸直接上傳網路，我個人認為難度太高。針對不被信任選區的開票，徵借數個家用wifi訊號擴充器、充飽電的防斷電UPS給wifi擴充器供電(有保線員看顧)，將鄰近住家願意出借的網路，藉由wifi擴充器\"牽線\"到拍攝現場。而連接網路的wifi帳號密碼，僅給指定的少數幾個不同拍攝角度的拍攝員......我認為這對需要重點監看的幾個選區，是一個處理方法。",
+                "id": "903539616389112"
+            },
+            {
+                "created_time": "2015-12-21T10:49:35+0000",
+                "from": {
+                    "name": "Timothy Chien",
+                    "id": "10156289921808203"
+                },
+                "message": "需要 https origin 的話，自己的機器可以上 Let's Encyrpt 的 cert，GitHub Pages 等 hosting 可以考慮上 CloudFlare CDN 的 SSL。",
+                "id": "903546823055058"
+            },
+            {
+                "created_time": "2015-12-21T17:08:33+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "謝謝各位意見，原本的想法是讓無法到現場或想同時監看多個開票所的人，可透過webrtc的程式同時監看，當然技術上有很多得克服\n\n可用youtube live stream，但我不想被youtube或其他相似的服務提供商綁著…哈哈；其實，我是把我做給公司內部用的功能截出，做個簡易版的及時播放功能。現在有越來越多的公司投入(https:\/\/www.youtube.com\/watch?v=HCE3S1E5UwY)，Edge也快支援webrtc了...\n\n同時監視幾千個影像得確不易，所以需要供程師的血汗，坦白說我主管下一年度的其中一個產品開發計畫就是想開發一個同時監控好幾個賣場狀況且提供遠端客服的程式。我不清楚台灣是否有人做，在灣區我只有聯繫過flashphoner, voxeet和quickblox",
+                "id": "903689893040751"
+            },
+            {
+                "created_time": "2015-12-21T17:14:19+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "@Timothy Chien 今天下班我來試試Let’s Encrypt，感謝",
+                "id": "903691529707254"
+            },
+            {
+                "created_time": "2015-12-21T17:21:49+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "如果擔心一對多的傳輸效能，可參考Khan的WebRTC Scalable Broadcast - This module simply initializes socket.io and configures it in a way that single broadcast can be relayed over unlimited users without any bandwidth\/CPU usage issues. Everything happens peer-to-peer! (https:\/\/github.com\/muaz-khan\/WebRTC-Experiment\/tree\/master\/WebRTC-Scalable-Broadcast)",
+                "id": "903693503040390"
+            },
+            {
+                "created_time": "2015-12-21T17:35:11+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "Best practices from billions of calls- https:\/\/www.youtube.com\/watch?v=Gr7PJAyMJdU",
+                "id": "903697129706694"
+            },
+            {
+                "created_time": "2015-12-22T00:41:22+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "目前只支援apache，看來我得換掉nginx或繼續等",
+                "id": "903848686358205"
+            },
+            {
+                "created_time": "2015-12-22T02:34:52+0000",
+                "from": {
+                    "name": "Nap Huang",
+                    "id": "1673901869320000"
+                },
+                "message": "webrtc小有趣，應用來這時事感覺滿好玩的。不過如果純播放的話有更成熟的架構。用戶能及時交流或者更多訊息傳遞的應用應該更能發揮webrtc的全體。",
+                "id": "903890666354007"
+            },
+            {
+                "created_time": "2015-12-22T02:39:34+0000",
+                "from": {
+                    "name": "Nap Huang",
+                    "id": "1673901869320000"
+                },
+                "message": "像有爭議的時候影像要支援playback, ABS的方式就會比較好邊看還能邊拉回。就我自己的研究webrtc的應用我還沒看到有這方面的能力。hls or  dash 應該是也不錯的選項",
+                "id": "903891849687222"
+            },
+            {
+                "created_time": "2015-12-22T03:44:35+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "即使交流因可藉由socket.io做，若是要記錄，目前知道的方式是增加錄影功能...或許未來這些功能都會慢慢加入...有興趣的都能自行擴充；hls在server端負擔會較大",
+                "id": "903918959684511"
+            },
+            {
+                "created_time": "2015-12-22T04:06:27+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "webrtc的playback功能，可參考-\nhttps:\/\/www.pubnub.com\/blog\/2014-01-14-what-is-webrtc\/\nhttp:\/\/muaz-khan.blogspot.com\/2014\/05\/webrtc-tips-tricks.html",
+                "id": "903929006350173"
+            },
+            {
+                "created_time": "2015-12-24T09:54:13+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "想請問樓主後端處理webrtc的伺服器是用什麼軟體搭建的？",
+                "id": "904947236248350"
+            },
+            {
+                "created_time": "2015-12-24T16:51:02+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "軟體？ 我用docker, nginx, nodejs, express等建後端",
+                "id": "905244796218594"
+            },
+            {
+                "created_time": "2015-12-25T18:49:02+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "@Tommy Pai 專案我放在這，readme還沒寫 https:\/\/github.com\/Gogistics\/prj2016TWElection\/tree\/master\/myWebRTCApp",
+                "id": "906320346111039"
+            },
+            {
+                "created_time": "2015-12-25T19:23:28+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "Alan Tai 謝謝 :)",
+                "id": "906331996109874"
+            },
+            {
+                "created_time": "2015-12-25T19:24:58+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "剛才你有上線...我修bug測試時有看到你，抱歉",
+                "id": "906332296109844"
+            },
+            {
+                "created_time": "2015-12-25T19:28:35+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "如果我沒有理解錯的話，這邊 webrtc 的連線是不是都在客戶端間完成？我擔心如果是行動裝置出去直播會不會幾個連線就撐不住~",
+                "id": "906333729443034"
+            },
+            {
+                "created_time": "2015-12-25T19:29:21+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "請參考- https:\/\/github.com\/muaz-khan\/WebRTC-Experiment\/tree\/master\/WebRTC-Scalable-Broadcast",
+                "id": "906334376109636"
+            },
+            {
+                "created_time": "2015-12-25T19:32:22+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "如果是後端有個 webrtc 的 server ，這樣直播裝置只要跟 server 連線就好，然後其他收看端也跟 server  連線？\n我目前看到的方案有這個~\nhttps:\/\/janus.conf.meetecho.com\/index.html",
+                "id": "906336166109457"
+            },
+            {
+                "created_time": "2015-12-25T19:35:53+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "這是其中一做法，有自己的伺服器；我希望是把伺服器端的負載降低",
+                "id": "906338282775912"
+            },
+            {
+                "created_time": "2015-12-25T19:38:39+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "@Tommy Pai: 有興趣的話，歡迎加入建購自己的伺服器",
+                "id": "906339542775786"
+            },
+            {
+                "created_time": "2015-12-25T19:39:24+0000",
+                "from": {
+                    "name": "Tommy Pai",
+                    "id": "2043968365619390"
+                },
+                "message": "Alan Tai 謝謝，我會試著實做看看 :)",
+                "id": "906340372775703"
+            },
+            {
+                "created_time": "2015-12-28T04:27:39+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "在播放端加了錄影功能，1分35秒約2.28MB",
+                "id": "907459945997079"
+            },
+            {
+                "created_time": "2015-12-28T12:00:27+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "以直播主的經驗,真的必須要有直播+同時錄影功能\n且直播通常P數會低過錄影,錄影最好能用最高畫質去錄,\n才有證據的價值,\n直播低P數只是用來通知現場是否有突發事件,\n若有作票,最終還是要以手機內的高畫質錄影存檔作為證據",
+                "id": "907572642652476"
+            },
+            {
+                "created_time": "2015-12-28T16:09:34+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "了解，謝謝；請問影像解析度標準為何? 例如:framerate: 60",
+                "id": "907664242643316"
+            },
+            {
+                "created_time": "2015-12-31T10:35:15+0000",
+                "from": {
+                    "name": "Nap Huang",
+                    "id": "1673901869320000"
+                },
+                "message": "我想請問一下以這樣的架構下跟鏡頭的delay大概會有幾秒的差距。p2p架構會不會讓delay變成底層的delay越高？",
+                "id": "909094539166953"
+            },
+            {
+                "created_time": "2015-12-31T15:59:05+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "影響 latency 的因素很多，例如:internal delay, interface delay, encoding delay等...；p2p架構會不會讓delay變成底層的delay越高? 我不太了解這問題，你是指當資料再傳輸時，會不會讓latency(前一問題指的latency)增加嗎?",
+                "id": "909240689152338"
+            },
+            {
+                "created_time": "2015-12-31T16:03:54+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "政府可訂出證據標準，例如解析度該是多少，一般民眾不太可能家中都有高畫質錄影設備，若真得用到高畫質錄影，那很多監視設備都必須被汰換掉",
+                "id": "909243032485437"
+            },
+            {
+                "created_time": "2015-12-31T16:05:41+0000",
+                "from": {
+                    "name": "Mick Huang",
+                    "id": "10213708769805858"
+                },
+                "message": "frame rate 25應該就夠用了，延遲其實大家都習慣了，drop frame比較有感",
+                "id": "909244392485301"
+            },
+            {
+                "created_time": "2015-12-31T16:11:38+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "我目前設定是min: 35, idea: 50, max: 60；畫質得依儀器而定，我的mac 開起就是HD",
+                "id": "909247215818352"
+            },
+            {
+                "created_time": "2016-01-01T06:13:47+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "架構其實很多種，就看你如何設計，其一設計- https:\/\/www.npmjs.com\/package\/webrtc-scalable-broadcast",
+                "id": "909596179116789"
+            },
+            {
+                "created_time": "2016-01-01T06:56:55+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "如果你很在意latency想建立自己的伺服器處理transcoding並支援safari、ie等，可試試 flashphoner 的WC4 server (http:\/\/flashphoner.com\/broadcasting-of-a-webrtc-stream-to-ios-safari-and-other-browsers-with-low-latency\/)\n當然也可試Janus(只服務於支援webrtc的儀器)",
+                "id": "909609982448742"
+            },
+            {
+                "created_time": "2016-01-04T00:41:57+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "可以試試 rhinobird.tv",
+                "id": "910996258976781"
+            },
+            {
+                "created_time": "2016-01-10T17:37:15+0000",
+                "from": {
+                    "name": "Alan Tai",
+                    "id": "10159772861735276"
+                },
+                "message": "Central Election Commission (CEC) sets out five photography rules for vote-counting http:\/\/www.taipeitimes.com\/News\/taiwan\/archives\/2016\/01\/11\/2003636943",
+                "id": "914233121986428"
+            }
+        ],
+        "summary": {
+            "total_count": 37
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "created_time": "2016-07-06T03:56:09+0000",
+    "message": "g0v 社群大亂鬥了這麼些年，累積一大堆盤根錯節的資料、專案，完全迷宮。舉辦大松的工作小組「揪松團」連續發起了幾次 g0v 基礎建設黑客松，想做出 g0v Hub，方便大家人找坑、坑找人。\n\n還沒那麼快好，但這次是有計畫的進行，也好多人掉坑了，希望不會如以往半途而廢。目前大家已經把資料和平台分開模組化開發，這邊有整理出在 g0v 社群提案開發過的專案列表，僅收已經開 github repo：https:\/\/github.com\/g0v\/awesome-g0v （歡迎送 PR，感謝神秘 anonymous 持續整理！）\n\n這裡只整理專案 github 連結，還沒進入到使用 github 的，之後會另開 idea pool 收集。\n\n這也算是零時政府自拆重建吧～ 這個列表中很多東西開發到一半，也很多資料沒有被充分運用，希望 Hub 完成的資訊交流，能充分刺激生產力。\n\n許願：希望下次大松（2016\/8\/6）前能接上不 geek 的介面，增進開源社群\/開發者\/提案者\/ngo\/gov 多向連結。",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1019950454748027",
+    "link": "https:\/\/github.com\/g0v\/awesome-g0v",
+    "description": "awesome-g0v - A curated list of g0v projects",
+    "name": "g0v\/awesome-g0v",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAE6Le6lNKakYyk&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F2668086%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQCAxlZetFlsPjNT",
+    "updated_time": "2016-07-06T06:06:40+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Hsiao-wei Chiu",
+        "id": "10215521254163616"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 82
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-07-06T04:15:28+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "\"希望不會如以往半途而廢\" XD",
+                "id": "1019956131414126"
+            },
+            {
+                "created_time": "2016-07-06T05:26:08+0000",
+                "from": {
+                    "name": "Leon West",
+                    "id": "959698197531820"
+                },
+                "message": "神秘 anonymous 是「沒有人」吧",
+                "id": "1019980201411719"
+            },
+            {
+                "created_time": "2016-07-06T06:06:40+0000",
+                "from": {
+                    "name": "Ping Yeh",
+                    "id": "10155457305853510"
+                },
+                "message": "開此坑是為了開更多更好的坑。",
+                "id": "1019988848077521"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

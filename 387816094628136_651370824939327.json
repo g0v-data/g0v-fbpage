@@ -1,0 +1,118 @@
+{
+    "created_time": "2014-07-13T21:07:11+0000",
+    "message": "想跟各位請教，能躲過美國國防部稜鏡門事件的史諾登加密郵件技術，各位怎麼看待呢？養兵千日用兵一時，或許哪天就要拿來對抗北京政權的說 ...",
+    "story": "Wei-Cheng Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_651370824939327",
+    "link": "http:\/\/zh.globalvoicesonline.org\/hant\/2014\/07\/13\/17324\/",
+    "description": "自由軟體基金會釋出了一份包含六國語言，名為Email Self-Defense的入門手冊教導初學者們如何加密他們的電子郵件。",
+    "name": "學習如何在三十分鐘內保護你的電子郵件往來 · Global Voices 繁體中文",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDN8xI3EtRVuA5j&w=130&h=130&url=https%3A%2F%2Fglobalvoicesonline.org%2Fwp-content%2Fuploads%2F2014%2F06%2Femailselfdefense-banner-743x450.png&cfs=1&_nc_hash=AQBHwSsGyfyhLWUZ",
+    "updated_time": "2014-07-26T04:32:44+0000",
+    "caption": "zh.globalvoicesonline.org",
+    "from": {
+        "name": "Wei-Cheng Lee",
+        "id": "10160184588235599"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 38
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-07-17T13:19:38+0000",
+                "from": {
+                    "name": "Ringo Lee",
+                    "id": "1755576247797053"
+                },
+                "message": "或許推動立法來管束政府的監控行為更重要",
+                "id": "652927371450339"
+            },
+            {
+                "created_time": "2014-07-20T08:44:17+0000",
+                "from": {
+                    "name": "陳政儀",
+                    "id": "10208736822616940"
+                },
+                "message": "自行研發加密技術, 個人之前有想過用多個加密方法進行加密. 目前個人使用的是加密的 VPN 通道傳遞資料, 中間傳輸的資料還是加密過的. 感覺可以參考一下 http:\/\/briian.com\/tag\/the-onion-router, 雖然有點岔題但是至少可以做到反追蹤.",
+                "id": "654248541318222"
+            },
+            {
+                "created_time": "2014-07-20T08:46:41+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "剝洋蔥～剝洋蔥～",
+                "id": "654249057984837"
+            },
+            {
+                "created_time": "2014-07-22T03:59:47+0000",
+                "from": {
+                    "name": "艾俠",
+                    "id": "10214251723820880"
+                },
+                "message": "在所有政府權力不受信任的情況下，立法似乎於事無補。除非有個民眾信任的機構能基於這樣的法來運作制衡政府。不過這種機構會不會過了幾年就變質，那又是另一回事了。",
+                "id": "655149557894787"
+            },
+            {
+                "created_time": "2014-07-22T08:04:59+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "還有十天，有興趣的可以去 back 這個加密的 email 服務，團隊成員都是 MIT、Stanford 到 CERN 研究的強者\nhttps:\/\/www.indiegogo.com\/projects\/protonmail",
+                "id": "655204601222616"
+            },
+            {
+                "created_time": "2014-07-23T18:56:09+0000",
+                "from": {
+                    "name": "Rex Tsai",
+                    "id": "10156168938287915"
+                },
+                "message": "如果我有幸報名黑客松，就會辦 key signing party, 歡迎參加！",
+                "id": "655929331150143"
+            },
+            {
+                "created_time": "2014-07-26T04:27:07+0000",
+                "from": {
+                    "name": "Roger W. Wu",
+                    "id": "10212154673956849"
+                },
+                "message": "一直看到資料洩漏的消息真的讓人很想拿密碼簿之類的舊科技出來啊。話說德國已經有不少政府部門為了抵抗NSA轉用打字機辦公的樣子…",
+                "id": "656933634383046"
+            },
+            {
+                "created_time": "2014-07-26T04:28:26+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "為何不乾脆灌完OS之後再把網路給封閉掉，現在印表機有的是網路印表機，所以至少要有192開頭的網路才行Work",
+                "id": "656933794383030"
+            },
+            {
+                "created_time": "2014-07-26T04:31:12+0000",
+                "from": {
+                    "name": "Roger W. Wu",
+                    "id": "10212154673956849"
+                },
+                "message": "Off-the-grid network看起來是一個好方法，不過要是有人接上連結網際網路的裝置大概就糟糕了。完全無法破解的一次性密碼簿似乎還是最有力的方案ww",
+                "id": "656934534382956"
+            },
+            {
+                "created_time": "2014-07-26T04:32:44+0000",
+                "from": {
+                    "name": "Wei-Cheng Lee",
+                    "id": "10160184588235599"
+                },
+                "message": "那就只有用USB接印表機的方案了，但用打字機應該是防止數位化透過USB隨身碟偷偷帶出去吧",
+                "id": "656934837716259"
+            }
+        ],
+        "summary": {
+            "total_count": 10
+        }
+    }
+}

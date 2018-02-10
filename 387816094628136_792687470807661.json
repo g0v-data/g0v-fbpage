@@ -1,0 +1,27 @@
+{
+    "created_time": "2015-04-17T13:12:28+0000",
+    "message": "To：工城獅們\n目前，Git LFS只開放給部分用戶使用，想搶先使用的用戶可先到官網上註冊，不過這項免費的服務只提供1GB的檔案儲存空間，而每個月的頻寬配額為1GB，若用戶有更高的使用需求，則需要額外付費。\nhttps:\/\/github.com\/early_access\/large_file_storage?utm_source=github_site&utm_medium=blog&utm_campaign=gitlfs",
+    "story": "Wei-Cheng Lee shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_792687470807661",
+    "link": "http:\/\/www.ithome.com.tw\/news\/95281",
+    "description": "Git LFS可以將聲音檔、影片檔、資料集及圖像等大型二進位檔案，用text pointers來儲存，使用者透過text pointers可以直接指向儲存在遠端伺服器的大型檔案。",
+    "name": "超大影音檔版本控管更簡單了!GitHub釋出LFS擴充機制能幫忙",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBkEtdnuNKGXQoF&w=130&h=130&url=http%3A%2F%2Fstatic4.ithome.com.tw%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fimage%2FGITHUB.jpg&cfs=1&_nc_hash=AQAsiB6YpXfBS16X",
+    "updated_time": "2015-04-17T13:12:28+0000",
+    "caption": "ithome.com.tw",
+    "from": {
+        "name": "Wei-Cheng Lee",
+        "id": "10160184588235599"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 12
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

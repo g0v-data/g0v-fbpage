@@ -1,0 +1,103 @@
+{
+    "created_time": "2015-04-11T04:37:49+0000",
+    "message": "新手發問:想問這裡有沒有用R抓ptt-八卦版文章的,因為我現在用content(GET())會撞到檢查有無十八禁的網頁,而不會到文章本身,希望可以求解Orz",
+    "id": "387816094628136_789754454434296",
+    "updated_time": "2015-04-11T16:09:52+0000",
+    "from": {
+        "name": "Austin Wang",
+        "id": "10160111516545694"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 26
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-04-11T04:55:09+0000",
+                "from": {
+                    "name": "Ru Lu",
+                    "id": "1816561441735938"
+                },
+                "message": "設cookie?",
+                "id": "789758437767231"
+            },
+            {
+                "created_time": "2015-04-11T05:50:10+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "我的ruby解過這個問題，我去找code",
+                "id": "789769344432807"
+            },
+            {
+                "created_time": "2015-04-11T05:53:58+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "https:\/\/github.com\/billy3321\/vtaiwan_web_parser\/blob\/master\/app\/models\/article.rb\n\n在 parse_url 裡，要素如下：\n\n1. 抓取的程式必須吃cookie\n2. 用post對該網頁送出參數，如下\n\nresult = agent.post('https:\/\/www.ptt.cc\/ask\/over18', {from: source_uri.path, yes: 'yes'})\n\n以上～",
+                "id": "789770094432732"
+            },
+            {
+                "created_time": "2015-04-11T05:55:16+0000",
+                "from": {
+                    "name": "Austin Wang",
+                    "id": "10160111516545694"
+                },
+                "message": "感謝~~~~~",
+                "id": "789770424432699"
+            },
+            {
+                "created_time": "2015-04-11T06:38:51+0000",
+                "from": {
+                    "name": "Chihwen Chien",
+                    "id": "1827650117245396"
+                },
+                "message": "https:\/\/www.ptt.cc\/bbs\/R_Language\/M.1427881473.A.71F.html",
+                "id": "789796424430099"
+            },
+            {
+                "created_time": "2015-04-11T06:46:29+0000",
+                "from": {
+                    "name": "Austin Wang",
+                    "id": "10160111516545694"
+                },
+                "message": "喔喔感謝樓上",
+                "id": "789800721096336"
+            },
+            {
+                "created_time": "2015-04-11T07:08:59+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "喔，這個更乾淨了XD 改天來改寫一下XD",
+                "id": "789836534426088"
+            },
+            {
+                "created_time": "2015-04-11T13:41:33+0000",
+                "from": {
+                    "name": "Chien Miao-Jung",
+                    "id": "1849405115094194"
+                },
+                "message": "哈太巧了吧那篇ptt文是我問的XD\n學長如果需要code可以直接給你~~",
+                "id": "789945707748504"
+            },
+            {
+                "created_time": "2015-04-11T16:09:52+0000",
+                "from": {
+                    "name": "Austin Wang",
+                    "id": "10160111516545694"
+                },
+                "message": "感謝 Chien Miao-Jung但我自己寫好了XD",
+                "id": "789997657743309"
+            }
+        ],
+        "summary": {
+            "total_count": 9
+        }
+    }
+}

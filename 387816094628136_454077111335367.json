@@ -1,0 +1,64 @@
+{
+    "created_time": "2013-05-05T16:08:23+0000",
+    "message": "這場演講提到git把修改的權利下放，符合民主的精神。像制定法律這種最終需要多人參與、然後把成果整合成最終版本的工作就特別適合用git合作。工具已經有了，下一步是讓程式設計師以外的人運用它。",
+    "story": "高宏任 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_454077111335367",
+    "link": "http:\/\/www.ted.com\/talks\/clay_shirky_how_the_internet_will_one_day_transform_government.html",
+    "description": "The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the kn...",
+    "name": "Clay Shirky: How the Internet will (one day) transform government | Video on TED.com",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAa6Sx8THtldVAi&w=130&h=130&url=http%3A%2F%2Fimages.ted.com%2Fimages%2Fted%2F39d58abd56cf9edd6936f4f42119a15e65692dc1_389x292.jpg&cfs=1&sx=97&sy=0&sw=292&sh=292&_nc_hash=AQAEMtBI-2LcEBpo",
+    "updated_time": "2013-05-06T12:44:03+0000",
+    "caption": "ted.com",
+    "from": {
+        "name": "高宏任",
+        "id": "1816564618355335"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 11
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-05-06T09:31:57+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "不過，從人因工程的角度\n\n程式設計師的資訊分析、處理能力明顯較高\n而其他行業，如立法委員，則明顯較低\n\n可視為頭腦特化的區域大不相同者\n\n所以光是介面，一者能順手的，另一者則不大可能\n這就會產生許多別的行業者的不易適應 :)\n\n所以我對情況的估計可能比較保守一點：「工具的核」已經有了",
+                "id": "454341617975583"
+            },
+            {
+                "created_time": "2013-05-06T11:53:27+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "唐宗浩 我不認為 GUI 的 client 有特別難，主要是 mindset 無法轉換的問題。",
+                "id": "454372547972490"
+            },
+            {
+                "created_time": "2013-05-06T12:09:00+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "有一些像這樣的教學\n我覺得很清楚\n但是沒有一些背景的人肯定看不懂\n\n我覺得，許多時候，合作工具是合作方式的延伸，或者說是合作習慣的延伸\n如果一些領域的人，從未把重要的資料開放給大家共筆\n\n當然就很難想像或理解每一個GUI介面上的按鈕和圖示，所代表的意涵了。(就算它們看起來很簡單, 對沒有這樣想過的人卻都很難)\n\n或許這就是所謂的mindset障礙的一部份?\n\nhttp:\/\/www.slideshare.net\/littlebtc\/git-5528339",
+                "id": "454375777972167"
+            },
+            {
+                "created_time": "2013-05-06T12:44:03+0000",
+                "from": {
+                    "name": "唐宗浩",
+                    "id": "1993696087313952"
+                },
+                "message": "好比說我在教育圈推公民學校wiki。\nwiki操作應該算是很簡單了，不過目前絕大部份的條目，還是我自己在編。但是在FB討論問答就滿熱烈。\n我想，建立和改變一群人的習慣，換一個工具，都不大容易。\n\nhttp:\/\/zh.civilschool.wikia.com\/wiki\/未來進路#.E8.81.B7.E5.A0.B4.E9.9A.8E.E6.AE.B5",
+                "id": "454384567971288"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

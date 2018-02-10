@@ -1,0 +1,76 @@
+{
+    "created_time": "2016-05-28T17:18:12+0000",
+    "message": "就一個莫名其妙的想法，想知道有沒有更好的建議 (call for comments)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_997185200357886",
+    "link": "https:\/\/g0v.hackpad.com\/-test-cases-HxI4aRFqpxN",
+    "description": "剛剛熊熊想到， g0v 雖然試圖修正 gov 的不足，但實際上 gov 的行政權仍受制於各級議會（立法院、地方議會、地方代表會等等），而各級議會大多是受制於政黨或地方勢力，也許聚焦在政黨這個角色可以打通一些過去環繞著行政單位所沒辦法克服的難題。 Charles 曾經提到可以將綠黨作為開放政黨的嘗試( http:\/\/www.slideshare.net\/charlesc\/201407-coscupopenparty )，而過去也曾經出現過透明黨的討論( https:\/\/glassy.hackpad.",
+    "name": "去中心化政黨的 test cases",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQBbByMKcqWNggkP",
+    "updated_time": "2016-05-30T07:27:39+0000",
+    "caption": "g0v.hackpad.com",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 25
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-05-28T17:31:33+0000",
+                "from": {
+                    "name": "KC Alex Liu",
+                    "id": "10155242740457036"
+                },
+                "message": "#TheDAO",
+                "id": "997193040357102"
+            },
+            {
+                "created_time": "2016-05-29T00:34:54+0000",
+                "from": {
+                    "name": "Chao KenYuan",
+                    "id": "10155983107806380"
+                },
+                "message": "http:\/\/mp.weixin.qq.com\/s?__biz=MzAwNzUyNzI5Mw==&mid=2730790165&idx=1&sn=dd0f2c63a0abc85de60dd66367cc9582&scene=2&srcid=0523ZwWyedHOtCXDXOrIpTbr&from=timeline&isappinstalled=0#wechat_redirect 對岸",
+                "id": "997343967008676"
+            },
+            {
+                "created_time": "2016-05-29T03:21:09+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "有點違和的是，即使政黨運作去中心化，其存在本身仍是中心化，那麼，為何不是一開始不是以政黨化為預設，要的話也可以在機制中提案討論？",
+                "id": "997410957001977"
+            },
+            {
+                "created_time": "2016-05-29T13:35:06+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "也可以參考海盜黨的採訪 http:\/\/eyesonplace.net\/2015\/11\/25\/德國的「遙控民主」實驗──海盜黨總部現場觀察\/",
+                "id": "997623470314059"
+            },
+            {
+                "created_time": "2016-05-30T05:47:04+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "江明宗 可以去加入網路上的時代之友，還滿有意思的~",
+                "id": "997988770277529"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

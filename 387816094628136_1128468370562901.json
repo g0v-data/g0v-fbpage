@@ -1,0 +1,50 @@
+{
+    "created_time": "2016-11-17T10:55:26+0000",
+    "message": "【命名徵求】\n　\n大家好，OCF 開放文化基金會近期正在籌備一個國際 Civic Tech News 的試營運計劃，想要徵求大家對名稱的想法！\n　\n這個計劃主要是希望能提供一個針對公民科技、開放政府、開放資料相關的中英文新聞平台，讓我們在兩年一次的 g0v summit 年會之外，能與國際社群有更多持續性的互動，逐漸拓展這個領域的影響力。\n　\n初期會以中英文雙軌進行，一方面增加各種訊息的中文內容給華語圈的朋友，另一方面也把台灣的經驗與好的專案翻譯成英文內容、撰寫報導。目前這個計劃由 Jason Chih-Hsin Liu 和 Aaron Wytze 兩位兼職進行，預計將在 12\/7 巴黎開放政府夥伴大會 OGP Summit 的公民社會晚會 launch，並開始定期發佈各國 civic tech 相關的動態、case studies、每週電子報與專題文章。\n　\n先前已在 g0v slack 上的 intl 國際交流頻道詢問過一些意見，以下是初步篩選後的，請大家不吝提供建議啊～～\n　\n感謝！（預計下週一關閉投票）",
+    "story": "Wu Min Hsuan created a poll in g0v.tw 後勤中心.",
+    "id": "387816094628136_1128468370562901",
+    "updated_time": "2016-11-22T03:00:00+0000",
+    "from": {
+        "name": "Wu Min Hsuan",
+        "id": "2002582599755897"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 50
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-11-21T11:19:51+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "Thanks all, 就決定用 g0v news 了！",
+                "id": "1131881346888270"
+            },
+            {
+                "created_time": "2016-11-21T11:24:32+0000",
+                "from": {
+                    "name": "Wu Min Hsuan",
+                    "id": "2002582599755897"
+                },
+                "message": "既然要用 g0v branding，我們會儘速準備本計劃的執行細則給社群 review, comment",
+                "id": "1131883576888047"
+            },
+            {
+                "created_time": "2016-11-22T02:59:56+0000",
+                "from": {
+                    "name": "Saul Peng",
+                    "id": "10210715509153638"
+                },
+                "message": "Hackracy哭哭！",
+                "id": "1132418133501258"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

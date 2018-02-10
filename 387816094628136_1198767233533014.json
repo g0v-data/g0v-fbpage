@@ -1,0 +1,26 @@
+{
+    "created_time": "2017-01-24T14:20:42+0000",
+    "message": "有興趣的朋友可以試著組合用水、用電等資料與其他項目進行分析，說不定可以找到些不一樣的東西 ;)",
+    "story": "Finjon Kiang shared 江明宗's post to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1198767233533014",
+    "link": "http:\/\/k.olc.tw\/2017\/01\/2016%e5%8f%b0%e6%b0%b4%e7%94%a8%e6%b0%b4%e5%9c%b0%e5%9c%96%e4%b8%8a%e7%b7%9a\/",
+    "description": "2016台水用水地圖上線\n\n網址： https:\/\/kiang.github.io\/taiwater\/\n\n進入畫面後地圖上方會覆蓋鄉鎮市區的界線，點選個別區域就會載入該縣市的用水資料，以一級發布區區塊呈現，透過顏色區別個別區塊年度用水量的差異。滑鼠游標在區塊間移動時上方導覽列靠右邊的地方會提示區域的名稱或代號，點選一級發布區區塊後會展開該區域在 2016 的用水量細節，目前是以表格呈現，資料進一步區分用水類型。\n\n提供的資料是以近 700 萬用水戶的數據為基礎，透過程式解析住址可能的位置，再以 SheetHub( https:\/\/sheethub.com\/ ) 提供的 API 找出對應的統計區進行資料彙整。經過台水相關人員的持續努力，已經有超過九成的資料可以初步取得對應的點位與統計區，彙整的資料透過該公司開放資料專頁以 \"區域用戶用水量\" 項目釋出( http:\/\/www.water.gov.tw\/ct.aspx?xItem=153656&CtNode=3395&mp=1 )，同時台水公司也釋出了 \"供水系統水質資料\" 方便有心的朋友研究。\n\n經濟部政策評估整合辦公室也持續與台水公司持續共同討論與研究，試著找出更多值得進一步研究的資料開放給民眾，從這個過程中也希望讓民眾感受到台水公司本身對於整個供水、用水系統的努力。\n\n台水公司內也正式成立了工作小組開始構思與籌備接下來可能的黑客松活動，預期農曆年後會有進一步的訊息發布，敬請期待！",
+    "name": "江明宗",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCtgYtjh1W4pcKH&w=130&h=130&url=http%3A%2F%2Fk.olc.tw%2Fwp-content%2Fuploads%2F2017%2F01%2Fog_image.png&cfs=1&_nc_hash=AQBFOWXc10_9nrRF",
+    "updated_time": "2017-01-24T14:20:42+0000",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 27
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

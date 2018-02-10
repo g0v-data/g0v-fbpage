@@ -1,0 +1,21 @@
+{
+    "created_time": "2015-09-02T09:38:38+0000",
+    "message": "[網頁上的公有地資料]\n\nShih-Ta Kuan 協助砍下財政部國有財產署網頁中的公有地資料，也開始討論 DB 欄位規劃的問題。\nDonald Zhan「之前的 ID 編碼有點問題，後來~想採用 **地號資料跑sha1 ，以hashid 為 ID**。」(見 https:\/\/github.com\/g0v-data\/POP-data\/issues\/2)\n\n歡迎對於公有地\/地號 DB 有實作經驗，以及協助砍柴的朋友一起參與～\n\n---\n討論串(੭ ᐕ)੭*⁾⁾\nhttps:\/\/www.facebook.com\/groups\/1417173811903954\/permalink\/1622132641408069\/",
+    "id": "387816094628136_856551471087927",
+    "updated_time": "2015-09-02T09:38:38+0000",
+    "from": {
+        "name": "Che Wei Liu",
+        "id": "10156142432594038"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 6
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

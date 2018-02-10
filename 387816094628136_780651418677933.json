@@ -1,0 +1,292 @@
+{
+    "created_time": "2015-03-23T11:30:11+0000",
+    "message": "[挖坑] 有關最夯的山老鼠議題, 之前有聽說印度以衛星找違建, 請問有沒有既有的系統利用衛星找山老鼠的呢?",
+    "id": "387816094628136_780651418677933",
+    "updated_time": "2015-04-24T04:33:27+0000",
+    "from": {
+        "name": "Anthony Liu",
+        "id": "10157089581674992"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 26
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-03-23T11:32:44+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "要看 twlandsat 賽豬公上太空  XD 不過除非大規模砍伐改變地貌（或植披 heat signature），應該很難抓出變化",
+                "id": "780652252011183"
+            },
+            {
+                "created_time": "2015-03-23T11:54:55+0000",
+                "from": {
+                    "name": "Yuchun Chang",
+                    "id": "10160198740975105"
+                },
+                "message": "以前寫過系統幫忙偵測市區內的違建、坡地的違法開墾，不過成效沒有很好....只要拿的到可用的影像資料，判斷影像前後期變遷不是難事，難的是後來該怎麼處理.....",
+                "id": "780658915343850"
+            },
+            {
+                "created_time": "2015-03-23T11:57:27+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "https:\/\/www.facebook.com\/769543416427886\/photos\/a.769552679760293.1073741828.769543416427886\/783322808383280\/\n\n\"老實說山林真的太大了，就林務局、森警隊、警察根本沒有辦法掌握整個山區的一舉一動，抓山老鼠是一種無法預防的無奈，每每趕到現場都是看著自己轄區內的樹頭被挖得面目全非，誰不心疼？誰不氣憤？而且事實上盜伐對森林的破壞並不大，畢竟山老鼠沒空去沒壞其他東西。\n\n 真正毀壞森林的，是開路、是開發、是雪谷纜車、是清境農場、是梨山果園；千年老樹死而新生，但如果森林都沒了，變成豪宅了、變成民宿了、變成果園了，那我們就真的什麼都沒了。\"\n\n所以聚焦在大規模違法開發應該會實際些",
+                "id": "780659692010439"
+            },
+            {
+                "created_time": "2015-03-23T12:04:40+0000",
+                "from": {
+                    "name": "Kuang-che Wu",
+                    "id": "10155699622615379"
+                },
+                "message": "違建不會跑; 山老鼠從衛星影像看到已經過幾個月了, 找到也來不及了",
+                "id": "780664278676647"
+            },
+            {
+                "created_time": "2015-03-23T12:27:41+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "除非像寵物那樣先在山老鼠身上植入晶片，不然要怎麼追蹤啊?\n~用衛星也沒用",
+                "id": "780672555342486"
+            },
+            {
+                "created_time": "2015-03-23T12:34:12+0000",
+                "from": {
+                    "name": "Lunar  Tennoji",
+                    "id": "751509675052437"
+                },
+                "message": "\"盜伐對森林的破壞並不大\"<=破壞很大,恐造成特定樹種瀕危\n衛星對確認盜伐幫助有限是因為1.空拍更新頻率低, 2.個別追蹤有難度  3.空拍僅能及樹冠層,無法確知地面狀態(基部是否遭砍斷或分解,這是山老鼠常用技倆)",
+                "id": "780674268675648"
+            },
+            {
+                "created_time": "2015-03-23T12:45:35+0000",
+                "from": {
+                    "name": "Jun-Heng James Yeh",
+                    "id": "2287650807915449"
+                },
+                "message": "看不到，除非大量破壞，而且沒人會做，成本划不來",
+                "id": "780677698675305"
+            },
+            {
+                "created_time": "2015-03-23T13:42:34+0000",
+                "from": {
+                    "name": "Fly Peng",
+                    "id": "1810889455590956"
+                },
+                "message": "藉由遙測影像的高效率，大範圍的監測國土變遷與非法開法，為未來的趨勢，曾文水庫集水區已使用此工具，請參閱~\nhttp:\/\/www.wrasb.gov.tw\/Uploads\/pi\/100%E5%B9%B4%E6%9B%BE%E6%96%87%E6%B0%B4%E5%BA%AB%E9%9B%86%E6%B0%B4%E5%8D%80%E5%B7%A1%E6%9F%A5%E7%AE%A1%E7%90%86%E6%9A%A8%E8%A1%9B%E6%98%9F%E7%9B%A3%E6%B8%AC%E8%A8%88%E7%95%AB.pdf",
+                "id": "780700432006365"
+            },
+            {
+                "created_time": "2015-03-23T13:46:39+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "其實國內的衛星做得到每天的比對喔，只是太空中心沒(辦法)釋出\n\n而山老鼠的技巧更高明，通常是先砍好等到大雨或颱風，再到海邊圍堵漂流木，道高一尺，魔高一丈，衛星也看不到",
+                "id": "780701725339569"
+            },
+            {
+                "created_time": "2015-03-23T14:16:37+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "這裡有一個做比較巨觀的森林監測的網站：http:\/\/www.globalforestwatch.org\/map\/8\/23.41\/121.14\/ALL\/grayscale\/loss,forestgain?begin=2001-01-01&end=2013-12-31&threshold=30",
+                "id": "780714022005006"
+            },
+            {
+                "created_time": "2015-03-23T14:16:55+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "http:\/\/www.globalforestwatch.org\/",
+                "id": "780714078671667"
+            },
+            {
+                "created_time": "2015-03-23T14:24:37+0000",
+                "from": {
+                    "name": "Lin Meng Chiu",
+                    "id": "10155978891330275"
+                },
+                "message": "合理做法應該是用無人機吧\n\n只是山老鼠應該是政治問題大過技術問題",
+                "id": "780717965337945"
+            },
+            {
+                "created_time": "2015-03-23T14:27:12+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "Anthony Liu 如果對大尺度的環境監測有興趣，要不要來 http:\/\/twlandsat.jimmyhub.net  看看，其實可以算出跟 globalforestwatch 一樣，但更詳細的 16天 前後比對植被變更 geojson",
+                "id": "780718735337868"
+            },
+            {
+                "created_time": "2015-03-23T14:35:52+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "檢舉非法經濟的群眾外包案例：\n\nOpen Government Awards 2014 - 2nd Place - Montenegro\nhttps:\/\/www.youtube.com\/watch?v=r8LvyXgMwv0\n\nMontenegro's \"Be Responsible, Zero Grey Economy\" Campaign \nhttp:\/\/www.budiodgovoran.me\/",
+                "id": "780722978670777"
+            },
+            {
+                "created_time": "2015-03-23T14:36:13+0000",
+                "from": {
+                    "name": "Pei-Cheng Huang",
+                    "id": "2034321466584963"
+                },
+                "message": "關於山老鼠監控\n我是建議比對衛星照片的方式\n例如以月為時間間隔\n用綠色像點的數量比對\n如果發生有異常減少綠色像點的區域\n在列出警示去人工判斷 (或是導入模糊邏輯去協助判斷)\n\n其次的方法\n需要在通往各山區的產業道路\n使用公共的道路監視系統 (需要政府出錢建置相關的錄影系統)\n然後去判斷錄影\n是否有貨車載運大型的林木通過\n然後自動抓出車牌與日期時間做註記\n作為提供警方抽查的依據\n\n因為不管是哪一種方式\n都需要耗費龐大的資源才能做 \n所以我只能提建議而已",
+                "id": "780723175337424"
+            },
+            {
+                "created_time": "2015-03-23T14:36:53+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "tag 呂翊齊",
+                "id": "780723458670729"
+            },
+            {
+                "created_time": "2015-03-23T14:39:33+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "既然國內山老鼠現象不容易解決，那一起來對付國外山老鼠吧（疑\n\n木材追追追－Sarawak to Taiwan\nhttps:\/\/g0v.hackpad.com\/Sarawak-to-Taiwan-oqsXADzMrp8",
+                "id": "780724355337306"
+            },
+            {
+                "created_time": "2015-03-23T14:41:24+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "16 天前後的 Landsat 衛星比對植生（NDVI），可以應用公開的 Landsat 衛星原始檔，用這隻程式去跑\nhttps:\/\/github.com\/jimyhuang\/landsat-util\/blob\/master\/landsat\/image_helper.py#L505\n\n然後成果的 geojson ，大概會長這樣，也就是算出 landsat 兩個時間點內，少去或是多出的植物反應\nhttps:\/\/www.flickr.com\/photos\/jimmyj2\/16334142509\/in\/photostream\/",
+                "id": "780725342003874"
+            },
+            {
+                "created_time": "2015-03-23T15:03:54+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "我甚都 load 不出來耶... 只有標題..\n\nhttp:\/\/twlandsat.jimmyhub.net\/",
+                "id": "780733858669689"
+            },
+            {
+                "created_time": "2015-03-23T15:23:12+0000",
+                "from": {
+                    "name": "林亦",
+                    "id": "1550076175029367"
+                },
+                "message": "台灣貴重木材生產履歷http:\/\/www.ettoday.net\/news\/20150323\/482718.htm?from=fb_share_web",
+                "id": "780740048669070"
+            },
+            {
+                "created_time": "2015-03-23T15:24:28+0000",
+                "from": {
+                    "name": "林亦",
+                    "id": "1550076175029367"
+                },
+                "message": "台灣貴重木材生產履歷",
+                "id": "780740365335705"
+            },
+            {
+                "created_time": "2015-03-23T15:41:30+0000",
+                "from": {
+                    "name": "Anthony Liu",
+                    "id": "10157089581674992"
+                },
+                "message": "Finjon Kiang 所以 Jimy Huang 做的剛好比較適合有點尺寸的...",
+                "id": "780745895335152"
+            },
+            {
+                "created_time": "2015-03-24T02:57:23+0000",
+                "from": {
+                    "name": "Jimy Huang",
+                    "id": "10214071108564130"
+                },
+                "message": "雖然是壹週刊，但還是可以瞧瞧山老鼠..\nhttp:\/\/www.nextmag.com.tw\/breaking-news\/news\/20150323\/16862062",
+                "id": "781010985308643"
+            },
+            {
+                "created_time": "2015-03-24T15:52:55+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "扁柏不會漂流去台東，台東根本沒有扁柏....\nhttps:\/\/www.youtube.com\/watch?v=RKxFIEI9LFI",
+                "id": "781278095281932"
+            },
+            {
+                "created_time": "2015-03-24T16:07:16+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "https:\/\/www.facebook.com\/video.php?v=660662304006245&set=vb.104993236239824&type=2&theater",
+                "id": "781283345281407"
+            },
+            {
+                "created_time": "2015-03-24T16:38:46+0000",
+                "from": {
+                    "name": "I-Chieh Lee",
+                    "id": "10156100503316992"
+                },
+                "message": "Landsat的解析度是沒辦法抓山老鼠的，解析度小於一公尺的才比較有機會。",
+                "id": "781297085280033"
+            },
+            {
+                "created_time": "2015-03-26T07:25:15+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "農舍農舍\nhttps:\/\/www.facebook.com\/media\/set\/?set=pcb.404857069692524&type=1",
+                "id": "781966405213101"
+            },
+            {
+                "created_time": "2015-03-26T09:47:30+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "行政院農業委員會林務局之第三次森林資源調查報告\n\n（第四次調查進行中～）\n\nhttps:\/\/www.facebook.com\/photo.php?fbid=10152992982488241&set=a.10150167339548241.291885.574648240&type=1&theater",
+                "id": "781994318543643"
+            },
+            {
+                "created_time": "2015-04-23T17:03:39+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "轉貼一則攔截山老鼠的圖文故事\n\nhttps:\/\/m.facebook.com\/100000147892311\/albums\/1087564991258420\/?ref=m_notif&notif_t=group_activity",
+                "id": "795477710528637"
+            },
+            {
+                "created_time": "2015-04-24T04:33:27+0000",
+                "from": {
+                    "name": "林亦",
+                    "id": "1550076175029367"
+                },
+                "message": "森林法修法三讀通過\nhttps:\/\/www.facebook.com\/CitizenoftheEarth\/photos\/a.152858528108735.31770.148513668543221\/846380915423156\/?type=1&theater",
+                "id": "795683757174699"
+            }
+        ],
+        "summary": {
+            "total_count": 30
+        }
+    }
+}

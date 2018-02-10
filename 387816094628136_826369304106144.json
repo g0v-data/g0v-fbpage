@@ -1,0 +1,81 @@
+{
+    "created_time": "2015-06-30T05:58:52+0000",
+    "message": "https:\/\/raw.githubusercontent.com\/harry2690\/psof\/gh-pages\/hotels.json\n\n剛剛朋友寫了一篇新聞，再講這次有12間飯店提供免費住宿，我把他整理成JSON，歡迎大家取用。\n\nhttp:\/\/travel.ettoday.net\/article\/527890.htm?from=fb_et_travel",
+    "story": "Harry Wu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_826369304106144",
+    "link": "https:\/\/raw.githubusercontent.com\/harry2690\/psof\/gh-pages\/hotels.json",
+    "description": "{ \"lastmodify\":\"2015\/06\/30 13:49\", \"data\":[ { \"旅館名稱\":\"NEOSOHO 個人艙輕旅館\", \"連絡電話\":\"02-2381-5333\", \"地址\":\"台北市中正區館前路28號8樓\", \"網址\":\"www.neosoho.com.tw\", \"靠近醫院\":\"臺大醫院、聯合醫院和平院區、台大捷運站\", \"說明\":\"即日起免費提供30間個人艙給外縣市的傷者家屬，目前已有社會局聯繫，我們會給病患家屬最好的照顧，台灣加油！\" }, { \"旅館名稱\":\"貝殼窩青年旅舍\", \"連絡電話\":\"02-2381-5333\", \"地址\":\"台北市中正區懷寧街84號\",…",
+    "name": "raw.githubusercontent.com",
+    "updated_time": "2015-06-30T07:54:55+0000",
+    "caption": "raw.githubusercontent.com",
+    "from": {
+        "name": "Harry Wu",
+        "id": "2020260864914379"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 22
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-30T06:06:45+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "可以幫忙放到 https:\/\/g0v.hackpad.com\/627--8GqhwnOuDMj 嗎？",
+                "id": "826370477439360"
+            },
+            {
+                "created_time": "2015-06-30T06:07:22+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "頁面會直接連到 http:\/\/beta.hackfoldr.org\/627pray\/",
+                "id": "826370547439353"
+            },
+            {
+                "created_time": "2015-06-30T07:09:47+0000",
+                "from": {
+                    "name": "Harry Wu",
+                    "id": "2020260864914379"
+                },
+                "message": "抱歉，你是說把json貼進去嗎？還是？",
+                "id": "826445354098539"
+            },
+            {
+                "created_time": "2015-06-30T07:29:03+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "直接貼內容 XD",
+                "id": "826448277431580"
+            },
+            {
+                "created_time": "2015-06-30T07:51:12+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "應該先不用了，看起來已經加入 http:\/\/g0v.github.io\/color\/#hotel",
+                "id": "826451850764556"
+            },
+            {
+                "created_time": "2015-06-30T07:54:55+0000",
+                "from": {
+                    "name": "Harry Wu",
+                    "id": "2020260864914379"
+                },
+                "message": "好的~",
+                "id": "826452717431136"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

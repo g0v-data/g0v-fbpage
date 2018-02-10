@@ -1,0 +1,31 @@
+{
+    "created_time": "2015-11-12T10:31:46+0000",
+    "story": "Chia-liang Kao made Che Wei Liu, Shelling Hsu and 8 others admins of the group g0v.tw 後勤中心.",
+    "id": "387816094628136_886298524779888",
+    "updated_time": "2015-11-12T10:38:38+0000",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-11-12T10:38:38+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "發現討論區突破一萬人了，好在有大家幫忙維持討論品質，大家持續挖坑推坑吧！ ^&^",
+                "id": "886300188113055"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

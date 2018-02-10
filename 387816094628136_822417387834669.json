@@ -1,0 +1,51 @@
+{
+    "created_time": "2015-06-21T08:58:41+0000",
+    "message": "【佳節愉快・填坑大吉】Data + Design 中文版徵求協作翻譯者\n\nInfoActive 結合全球14國50多位作者出版了一本關於 #資料視覺化 的入門書，內容採 CC 授權（CC BY-NC-SA 4.0），初步評估認為頗適合社群協作翻譯，所以就順手挖了這個坑，希望下一次資料科學主題的大松前能應景完成，還請大家踴躍認領！m(_ _)m 短網址：http:\/\/bit.ly\/data-design-zh\n\n由於要降低門檻讓更多人能參與編輯，目前有在 Gitbook 建立團隊帳號，如需使用 Gitbook 所見即所得編輯器，請私訊 Gitbook 帳號給已經在團隊的人（目前有我、林雨蒼）以便加入：http:\/\/g0v.gitbooks.io\/data-design\/\n若無技術障礙，也可直接編輯原始碼：https:\/\/github.com\/g0v\/data-design",
+    "id": "387816094628136_822417387834669",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10153511746785984&set=gm.822417387834669&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/11377094_10153511746785984_6040958237430692138_n.jpg?oh=2da00c88989821cd0991bb623278fe17&oe=5B15276B",
+    "updated_time": "2015-06-22T04:32:05+0000",
+    "from": {
+        "name": "Hsiao-hsien Yang",
+        "id": "10156175249445984"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 91
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-06-21T11:01:17+0000",
+                "from": {
+                    "name": "Webber Lo",
+                    "id": "10155327543028589"
+                },
+                "message": "我來試看看",
+                "id": "822449761164765"
+            },
+            {
+                "created_time": "2015-06-21T16:58:33+0000",
+                "from": {
+                    "name": "Po-Jung Wu",
+                    "id": "1960065877340341"
+                },
+                "message": "我有search 到對岸版的可供參考\nhttp:\/\/dataunion.org\/book\/datadesign\/ch01.html",
+                "id": "822594624483612"
+            },
+            {
+                "created_time": "2015-06-22T04:32:05+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "已將協作翻譯方式重新編寫為簡單三步驟。http:\/\/bit.ly\/1daDjDA",
+                "id": "822810897795318"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "created_time": "2014-01-15T03:12:05+0000",
+    "message": "這是找了好久才找到能在PC上實際使用的ANDROID版本，4.0有點舊了sendspace會裝廣告軟體要注意  )，因為在PC上要能用不只是要有線網路、模擬ARM，還要PLAY MARKET 能用，裝上萌典。挖了一個坑，希望有達人能協助把最新的KITKAT也編譯好，協助加速這類的應用",
+    "id": "387816094628136_567280213348389",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=788687324479133&set=gm.567280213348389&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/1524851_788687324479133_2107392372_n.jpg?oh=e4f3a0d00fd07fef776384778031d5a9&oe=5B1F53A8",
+    "updated_time": "2014-01-15T07:22:34+0000",
+    "from": {
+        "name": "Max Yang",
+        "id": "2007561755925011"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 8
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-15T03:12:45+0000",
+                "from": {
+                    "name": "Max Yang",
+                    "id": "2007561755925011"
+                },
+                "message": "感謝提醒，重新PO文，還不太會用瞿提的方式，晚點來研究一下",
+                "id": "567280426681701"
+            },
+            {
+                "created_time": "2014-01-15T03:33:01+0000",
+                "from": {
+                    "name": "Tony Hsu",
+                    "id": "984533338363333"
+                },
+                "message": "[提問]Android能Run在PC上的是EeePC板吧(常跑虛擬機的經驗)?\n或許裝在PC上的Android最需要考慮有線網路的問題，不過也有人公開可使用有線網路的版本，不過應該都是EeePC版",
+                "id": "567288616680882"
+            },
+            {
+                "created_time": "2014-01-15T04:37:23+0000",
+                "from": {
+                    "name": "Max Yang",
+                    "id": "2007561755925011"
+                },
+                "message": "葉夢櫻 這是有支援有線網路的版本，官網上是支援某些硬體，我找到的是有人修改過的可以支援一般的X86",
+                "id": "567305946679149"
+            },
+            {
+                "created_time": "2014-01-15T06:03:37+0000",
+                "from": {
+                    "name": "Ly Cheng",
+                    "id": "10155367657647883"
+                },
+                "message": "為什麼要用這麼貴的機器跑android XDD beagle board, rasbperry pi(嫌慢還有apc rocl) 不是有這些選擇嗎 @@",
+                "id": "567328213343589"
+            },
+            {
+                "created_time": "2014-01-15T07:22:34+0000",
+                "from": {
+                    "name": "Max Yang",
+                    "id": "2007561755925011"
+                },
+                "message": "因為要跑其他的X86 OS LIKE M$ EZGO 等等",
+                "id": "567343600008717"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

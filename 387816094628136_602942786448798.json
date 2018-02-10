@@ -1,0 +1,188 @@
+{
+    "created_time": "2014-04-03T17:41:35+0000",
+    "message": "最近刻出來的東西。 ^_<\n輸入縣市、鄉鎮市區、村里就可以查到從中央的立法委員到村里長（幹事）為止的公僕資料。\n\nPS：鄉鎮市民代表的資料因為中選會沒提供完整2010年的選舉資料所以沒辦法提供，希望今年年底的選舉會提供完整資料......",
+    "story": "Sheng-Feng Huang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_602942786448798",
+    "link": "http:\/\/www.uisltsc.com.tw\/myservant\/",
+    "name": "誰是我的公僕？",
+    "updated_time": "2014-04-14T13:12:29+0000",
+    "caption": "uisltsc.com.tw",
+    "from": {
+        "name": "Sheng-Feng Huang",
+        "id": "10215528140826327"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 98
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-03T17:47:07+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "真不賴！有整理好的 raw data 嗎？",
+                "id": "602944193115324"
+            },
+            {
+                "created_time": "2014-04-03T17:47:58+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "Goooooood    會 Open Source 嗎?  XD",
+                "id": "602944443115299"
+            },
+            {
+                "created_time": "2014-04-03T17:51:00+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "有沒有考慮用 https:\/\/github.com\/ronnywang\/twgeojson 的資料把它用地圖呈現？",
+                "id": "602945186448558"
+            },
+            {
+                "created_time": "2014-04-03T17:52:26+0000",
+                "from": {
+                    "name": "駱勁成",
+                    "id": "10154935361642202"
+                },
+                "message": "open source +1，立委\/議員投票指南迫切需要http:\/\/vote.ly.g0v.tw\/",
+                "id": "602945543115189"
+            },
+            {
+                "created_time": "2014-04-03T17:58:34+0000",
+                "from": {
+                    "name": "Sheng-Feng Huang",
+                    "id": "10215528140826327"
+                },
+                "message": "raw data 預定在關於原住民的資料整理好之後就會丟出來。",
+                "id": "602949116448165"
+            },
+            {
+                "created_time": "2014-04-03T17:59:56+0000",
+                "from": {
+                    "name": "Sheng-Feng Huang",
+                    "id": "10215528140826327"
+                },
+                "message": "Finjon Kiang：其實那就是我的下一步... 再來就是做成 App 了 XD",
+                "id": "602950149781395"
+            },
+            {
+                "created_time": "2014-04-03T18:00:41+0000",
+                "from": {
+                    "name": "Sars Chang",
+                    "id": "10156180930850762"
+                },
+                "message": "直接丟出來，你會發現睡一覺起來...全部都整理好了 (挖坑",
+                "id": "602950483114695"
+            },
+            {
+                "created_time": "2014-04-03T18:02:15+0000",
+                "from": {
+                    "name": "Sheng-Feng Huang",
+                    "id": "10215528140826327"
+                },
+                "message": "我也希望能這樣，但實際上這部分是要在中選會的網站上一頁一頁點，然後依選區、原住民類型、鄰里分批解析輸入... A_A",
+                "id": "602951166447960"
+            },
+            {
+                "created_time": "2014-04-03T18:07:49+0000",
+                "from": {
+                    "name": "羅國甫",
+                    "id": "2051594394856334"
+                },
+                "message": "耳目一新",
+                "id": "602953066447770"
+            },
+            {
+                "created_time": "2014-04-03T18:34:19+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "其實我有處理他那個 excel 檔的程式 不過每一種選舉檔案好像不大一樣 需要調整 https:\/\/github.com\/ntuaha\/TWVoteData\/tree\/master\/src\/ly",
+                "id": "602963699780040"
+            },
+            {
+                "created_time": "2014-04-03T18:40:57+0000",
+                "from": {
+                    "name": "Sheng-Feng Huang",
+                    "id": "10215528140826327"
+                },
+                "message": "嗯嗯，不過為了將資料塞進我的資料庫架構，還是必須針對不同選舉寫 parser 就是。光一個里對應的民選公僕選區資料就有 10 種... 囧rz",
+                "id": "602965233113220"
+            },
+            {
+                "created_time": "2014-04-03T18:51:14+0000",
+                "from": {
+                    "name": "承祐吳",
+                    "id": "2059979780685002"
+                },
+                "message": "http:\/\/www.tnsouth.gov.tw\/e-1-2.php?id=%AB%D8%ABn%A8%BD\n\n有里長的手機號碼哦",
+                "id": "602967576446319"
+            },
+            {
+                "created_time": "2014-04-03T18:53:10+0000",
+                "from": {
+                    "name": "Wei Hung",
+                    "id": "10215340581606828"
+                },
+                "message": "好好用",
+                "id": "602967966446280"
+            },
+            {
+                "created_time": "2014-04-04T20:00:36+0000",
+                "from": {
+                    "name": "Timothy Chien",
+                    "id": "10156289921808203"
+                },
+                "message": "資料放出來或是加上 reverse geocoding: http:\/\/timdream.org\/rep-locator\/\n\ng0v 的專案都是 CC0 讓彼此自由混搭的。",
+                "id": "603412299735180"
+            },
+            {
+                "created_time": "2014-04-04T21:00:38+0000",
+                "from": {
+                    "name": "Sheng-Feng Huang",
+                    "id": "10215528140826327"
+                },
+                "message": "Timothy Chien：（用力巴頭！）\n我不是早就說了資料整理好就會丟出來？   =_=\"a",
+                "id": "603435923066151"
+            },
+            {
+                "created_time": "2014-04-05T02:01:23+0000",
+                "from": {
+                    "name": "Timothy Chien",
+                    "id": "10156289921808203"
+                },
+                "message": "好，感謝。",
+                "id": "603532556389821"
+            },
+            {
+                "created_time": "2014-04-14T12:45:40+0000",
+                "from": {
+                    "name": "Louise Hsu",
+                    "id": "1976659882347505"
+                },
+                "message": "好讚呀！",
+                "id": "607600882649655"
+            },
+            {
+                "created_time": "2014-04-14T13:12:29+0000",
+                "from": {
+                    "name": "Lafin Miku",
+                    "id": "10204335503784193"
+                },
+                "message": "好強喔，有原住民立委",
+                "id": "607608059315604"
+            }
+        ],
+        "summary": {
+            "total_count": 18
+        }
+    }
+}

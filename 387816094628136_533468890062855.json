@@ -1,0 +1,233 @@
+{
+    "created_time": "2013-11-01T03:07:35+0000",
+    "message": "http:\/\/ivod.ly.g0v.tw\/ 測試中, hls 跟 webm 都有了。晚點有開會有聲音時，請幫忙回報各瀏覽器跟行動平台是否可看",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_533468890062855",
+    "link": "http:\/\/ivod.ly.g0v.tw\/",
+    "name": "http:\/\/ivod.ly.g0v.tw\/",
+    "updated_time": "2013-11-01T11:40:38+0000",
+    "caption": "ivod.ly.g0v.tw",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 12
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-11-01T03:10:38+0000",
+                "from": {
+                    "name": "Teng-hao Chang",
+                    "id": "10155092833395877"
+                },
+                "message": "Safari without Flash 有聲音",
+                "id": "533469440062800"
+            },
+            {
+                "created_time": "2013-11-01T03:10:45+0000",
+                "from": {
+                    "name": "Bert Wang",
+                    "id": "861294890742239"
+                },
+                "message": "OS X 10.9  使用 Chrome 可看 結果 正常",
+                "id": "533469460062798"
+            },
+            {
+                "created_time": "2013-11-01T03:16:27+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "Ubuntu使用Chrome可看。",
+                "id": "533471336729277"
+            },
+            {
+                "created_time": "2013-11-01T03:17:00+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "不翻牆可看XDDD",
+                "id": "533471453395932"
+            },
+            {
+                "created_time": "2013-11-01T03:18:55+0000",
+                "from": {
+                    "name": "Ddio Juan",
+                    "id": "10215875181337658"
+                },
+                "message": "ubuntu 13.04  + firefox 25 不行。",
+                "id": "533471816729229"
+            },
+            {
+                "created_time": "2013-11-01T03:22:02+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "好像 ff 不喜歡 ffserver encode 出來的 webm... (http:\/\/ivod.ly.g0v.tw\/videos\/YS.webm) 不過昨天另外一台機器測試可以...",
+                "id": "533473220062422"
+            },
+            {
+                "created_time": "2013-11-01T03:23:41+0000",
+                "from": {
+                    "name": "林啟聰",
+                    "id": "10156783107504298"
+                },
+                "message": "OSX 10.9 + Chrome 30.0.1599.101 ==> OK",
+                "id": "533474076729003"
+            },
+            {
+                "created_time": "2013-11-01T03:24:30+0000",
+                "from": {
+                    "name": "林啟聰",
+                    "id": "10156783107504298"
+                },
+                "message": "OSX 10.9 + Safari 7.0 (9537.71) ==> OK",
+                "id": "533474453395632"
+            },
+            {
+                "created_time": "2013-11-01T03:26:24+0000",
+                "from": {
+                    "name": "林啟聰",
+                    "id": "10156783107504298"
+                },
+                "message": "OSX 10.9 + Firefox 25 ==> 按開始無動作",
+                "id": "533475000062244"
+            },
+            {
+                "created_time": "2013-11-01T03:36:41+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "有人可以幫忙測手機嗎？",
+                "id": "533477156728695"
+            },
+            {
+                "created_time": "2013-11-01T03:39:15+0000",
+                "from": {
+                    "name": "Bert Wang",
+                    "id": "861294890742239"
+                },
+                "message": "iphone5 Safari IOS6 ==> OK",
+                "id": "533478326728578"
+            },
+            {
+                "created_time": "2013-11-01T03:39:29+0000",
+                "from": {
+                    "name": "Teng-hao Chang",
+                    "id": "10155092833395877"
+                },
+                "message": "Safari on iOS7 正常播放有聲音",
+                "id": "533480643395013"
+            },
+            {
+                "created_time": "2013-11-01T03:40:35+0000",
+                "from": {
+                    "name": "Chen-Han Hsiao",
+                    "id": "1839565876054184"
+                },
+                "message": "Google Chrome 30.0.1599.92 on Android 4.1.1 : html5 Video file not found http:\/\/ivod.ly.g0v.tw\/videos\/YS.webm",
+                "id": "533494816726929"
+            },
+            {
+                "created_time": "2013-11-01T03:40:46+0000",
+                "from": {
+                    "name": "Bert Wang",
+                    "id": "861294890742239"
+                },
+                "message": "iphone5 Chrome IOS6 ==> OK",
+                "id": "533496193393458"
+            },
+            {
+                "created_time": "2013-11-01T03:43:34+0000",
+                "from": {
+                    "name": "林啟聰",
+                    "id": "10156783107504298"
+                },
+                "message": "iPad + iOS 7 + Chrome 30.0.1599.16 ==> OK",
+                "id": "533504900059254"
+            },
+            {
+                "created_time": "2013-11-01T03:45:11+0000",
+                "from": {
+                    "name": "Chen-Han Hsiao",
+                    "id": "1839565876054184"
+                },
+                "message": "Built-in Browser on Android 4.1.1 ==> OK",
+                "id": "533507310059013"
+            },
+            {
+                "created_time": "2013-11-01T03:46:10+0000",
+                "from": {
+                    "name": "林啟聰",
+                    "id": "10156783107504298"
+                },
+                "message": "iPad + iOS7 + Safari ==> OK",
+                "id": "533513480058396"
+            },
+            {
+                "created_time": "2013-11-01T03:47:14+0000",
+                "from": {
+                    "name": "Happyman Chiu",
+                    "id": "10156268031237269"
+                },
+                "message": "openSUSE 12.2 + FF 17.0 不行, chrome 23 ok.",
+                "id": "533522183390859"
+            },
+            {
+                "created_time": "2013-11-01T04:05:28+0000",
+                "from": {
+                    "name": "Koan-Sin Tan",
+                    "id": "10212825229399452"
+                },
+                "message": "在矽谷出差中 用 iPhone 5s 在 Facebook app 中看正常",
+                "id": "533580160051728"
+            },
+            {
+                "created_time": "2013-11-01T04:06:20+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Bert Wang 真的常常都蠻好笑的",
+                "id": "533580430051701"
+            },
+            {
+                "created_time": "2013-11-01T04:56:59+0000",
+                "from": {
+                    "name": "William Fan",
+                    "id": "2078516602160364"
+                },
+                "message": "OneX chrome ok",
+                "id": "533591626717248"
+            },
+            {
+                "created_time": "2013-11-01T06:46:59+0000",
+                "from": {
+                    "name": "Austin Tuan",
+                    "id": "1600718413342736"
+                },
+                "message": "NEXUS 4 + Chrome 影音都可以，可是 Firefox 不行(一直停在第一個畫面，沒有聲音)",
+                "id": "533614456714965"
+            },
+            {
+                "created_time": "2013-11-01T11:40:38+0000",
+                "from": {
+                    "name": "Conrad Yang",
+                    "id": "10159995331895607"
+                },
+                "message": "fondpad (android 4.1.2) + chrome, \"html5: Video not properly encoded.\"",
+                "id": "533691866707224"
+            }
+        ],
+        "summary": {
+            "total_count": 23
+        }
+    }
+}

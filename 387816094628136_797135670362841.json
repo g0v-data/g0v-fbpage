@@ -1,0 +1,91 @@
+{
+    "created_time": "2015-04-27T12:33:07+0000",
+    "message": "請問新聞小幫手回報過還會被後人改掉嗎? 之前我回報過這篇，但現在發現新聞標題和問題重點都變成亂碼。於是我想重新回報，卻被系統回應說有人回報過了，叫我看這篇...",
+    "story": "Wen-Chi Cheng shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_797135670362841",
+    "link": "http:\/\/newshelper.g0v.tw\/index\/log\/1865",
+    "description": "hCHKpOsAweAkjBSMh",
+    "name": "ikqjqlUKNppOucuXfT - 新聞小幫手",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?w=130&h=130&url=http%3A%2F%2Fnewshelper.g0v.tw%2Fimages%2Fnewshelper-scaled-256x256.png&cfs=1&_nc_hash=AQA60Cy2Z8vy50Bs",
+    "updated_time": "2015-04-28T07:29:30+0000",
+    "caption": "newshelper.g0v.tw",
+    "from": {
+        "name": "Wen-Chi Cheng",
+        "id": "10156311430844284"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 4
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-04-27T12:59:02+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "一直都有機器人會把內容亂改成隨機文字.....好機車",
+                "id": "797142883695453"
+            },
+            {
+                "created_time": "2015-04-27T13:00:03+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "可是，之前回報過的可以被後面回報的蓋掉嗎? \n~我剛剛想糾正卻又不給我改...",
+                "id": "797143130362095"
+            },
+            {
+                "created_time": "2015-04-27T13:00:51+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "不算是被蓋掉，算是被修改掉，而已經被回報過的新聞就只能再修改他而不能再回報一次，所以你只要再修改這則新聞就好了",
+                "id": "797143347028740"
+            },
+            {
+                "created_time": "2015-04-27T13:02:24+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "有沒有辦法偵測機器人的來源封鎖掉？＠＠",
+                "id": "797143907028684"
+            },
+            {
+                "created_time": "2015-04-27T13:03:55+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "了解，修改好了。不然都給我回應這樣",
+                "id": "797144630361945"
+            },
+            {
+                "created_time": "2015-04-27T14:27:52+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "還是先加 captcha 好了，偵測 IP 怕誤判到時候被人以為在言論管制 XD",
+                "id": "797175743692167"
+            },
+            {
+                "created_time": "2015-04-28T07:29:30+0000",
+                "from": {
+                    "name": "Wen-Chi Cheng",
+                    "id": "10156311430844284"
+                },
+                "message": "可以從機器人放的資料來檢查嗎? 看了列表，機器人所放的亂碼文字都沒有很長(<20bytes)，如果設定寫的字少於20或25bytes就列表給管理員看，這樣範圍會不會縮小一點? \n下面這篇好慘，被機器人修了兩次...",
+                "id": "797519486991126"
+            }
+        ],
+        "summary": {
+            "total_count": 7
+        }
+    }
+}

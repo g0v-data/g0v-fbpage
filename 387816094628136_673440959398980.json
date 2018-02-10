@@ -1,0 +1,72 @@
+{
+    "created_time": "2014-08-31T02:14:50+0000",
+    "message": "【歷史資料搜尋】\n\n剛剛發現有人貼出這個\n\nhttp:\/\/taiwan-fugue.blogspot.tw\/2014\/08\/blog-post_76.html\n\n然後我拿歷史網頁查詢，查到這頁\n\nhttps:\/\/web.archive.org\/web\/20071024104022\/http:\/\/www.mofnpb.gov.tw\/Web\/BoardAndPublish.php?page=BoardItemList&BoardCatID=2&order=&cndstr=\n\n接著就找不到了。\n\n我先努力把網頁資料整成表格，晚點用Google表單貼出。",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_673440959398980",
+    "link": "http:\/\/taiwan-fugue.blogspot.tw\/2014\/08\/blog-post_76.html",
+    "name": "台灣賦格: 中國國民黨及其附隨組織取自國家資產之土地清冊",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAm41H3G7frc6ek&w=130&h=130&url=http%3A%2F%2F3.bp.blogspot.com%2F-PBVo92VynbM%2FU_yFpYdj-7I%2FAAAAAAAAAP8%2F1MZUo5D4MZA%2Fs1600%2Flogo-6.png&cfs=1&_nc_hash=AQCrN6gq2Q9OwMdh",
+    "updated_time": "2014-09-02T18:22:56+0000",
+    "caption": "taiwan-fugue.blogspot.com",
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 27
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-31T02:32:38+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "我先匯入到google docs了，不過好像表格有點亂，有空的朋友可以一起來整理\n\nhttps:\/\/docs.google.com\/spreadsheets\/d\/1LsGq3PiYjx6q1VMMG6HZ9Vkfh2-Lc-gwCGexV8otv5w\/edit#gid=1526532771",
+                "id": "673444726065270"
+            },
+            {
+                "created_time": "2014-08-31T02:44:16+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "內容有些欄位不太對，麻煩專業的朋友幫忙修正，感謝！",
+                "id": "673447099398366"
+            },
+            {
+                "created_time": "2014-08-31T03:04:43+0000",
+                "from": {
+                    "name": "Yihtong Yeh",
+                    "id": "2000802683541017"
+                },
+                "message": "移轉第三人時間那裡怪怪的",
+                "id": "673451792731230"
+            },
+            {
+                "created_time": "2014-08-31T16:39:28+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "葉意通 有可能是欄位錯置，所以需要幫忙調整",
+                "id": "673666142709795"
+            },
+            {
+                "created_time": "2014-09-02T18:22:56+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "https:\/\/g0v.hackpad.com\/-KMT-Property-87CNswL2g7U",
+                "id": "674587385951004"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

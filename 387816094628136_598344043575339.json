@@ -1,0 +1,134 @@
+{
+    "created_time": "2014-03-24T06:46:33+0000",
+    "message": "iOS審核應該是不可能過的(apple appstore都是中國人在審)，為了爭取時效性，建議用IOS Enterprise Distribution的方式發行，g0v的各位如果有iOS app發行的需求請來訊，我會提供企業版憑證給各位使用(請低調) 另外我正在整理最新版的企業版發行步驟提供給各位參考。",
+    "story": "孫崇勝 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_598344043575339",
+    "link": "http:\/\/images.apple.com\/iphone\/business\/docs\/iOS_Enteprise_Deployment_Overview_EN_Feb14.pdf",
+    "name": "http:\/\/images.apple.com\/iphone\/business\/docs\/iOS_Enteprise_Deployment_Overview_EN_Feb14.pdf",
+    "updated_time": "2014-03-24T10:13:09+0000",
+    "caption": "images.apple.com",
+    "from": {
+        "name": "孫崇勝",
+        "id": "10215407031271174"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 28
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-24T06:49:56+0000",
+                "from": {
+                    "name": "KaiJung Chen",
+                    "id": "10213403783743348"
+                },
+                "message": "iOS不過走Android, Android幾乎不審. 但有可能上了以後下架.",
+                "id": "598344526908624"
+            },
+            {
+                "created_time": "2014-03-24T06:51:28+0000",
+                "from": {
+                    "name": "Sean Mars",
+                    "id": "10155619242625432"
+                },
+                "message": "走android就放APK比較實際 也不用審0.0(?)",
+                "id": "598344800241930"
+            },
+            {
+                "created_time": "2014-03-24T06:53:50+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "是的... 但至少可以增加見度... appstore我看是不要指望了",
+                "id": "598345160241894"
+            },
+            {
+                "created_time": "2014-03-24T07:11:52+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "同意爭取時效的部份。\n但 App Store 建議仍然要送，送出後可以在這裡貼 app id。\n雖然我是 Cloud Service Localization team，和 iOS team 無關，但之前有問題時同事還是有協助處理。",
+                "id": "598348270241583"
+            },
+            {
+                "created_time": "2014-03-24T07:18:34+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "加油! 請問appstore上架g0v有專人負責嗎？我想直接跟技術窗口聯絡",
+                "id": "598350066908070"
+            },
+            {
+                "created_time": "2014-03-24T07:19:14+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "沒有專人，都是用各自的 developer id。\ng0v 是一種協作和溝通方式，不是正式意義上的組織 :-)",
+                "id": "598350200241390"
+            },
+            {
+                "created_time": "2014-03-24T07:22:24+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "了解, 那我先提供相關的文件給大家參考",
+                "id": "598350706908006"
+            },
+            {
+                "created_time": "2014-03-24T09:49:03+0000",
+                "from": {
+                    "name": "Blaire Ko",
+                    "id": "10156216464309456"
+                },
+                "message": "WEB APP 的角度呢?  會不會比IOS或是ANDROID來的有機?",
+                "id": "598375403572203"
+            },
+            {
+                "created_time": "2014-03-24T10:05:33+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "web當然是最方便. but 前提要熟mobile web design, 目前有時間壓力, 還是以各自熟悉的工具去做",
+                "id": "598379130238497"
+            },
+            {
+                "created_time": "2014-03-24T10:09:00+0000",
+                "from": {
+                    "name": "Blaire Ko",
+                    "id": "10156216464309456"
+                },
+                "message": "請問有這篇貼文所提的對象專案資料連結？",
+                "id": "598379930238417"
+            },
+            {
+                "created_time": "2014-03-24T10:12:39+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "https:\/\/www.facebook.com\/groups\/g0v.general\/597917676951309\/?notif_t=group_comment_reply",
+                "id": "598380703571673"
+            },
+            {
+                "created_time": "2014-03-24T10:13:09+0000",
+                "from": {
+                    "name": "孫崇勝",
+                    "id": "10215407031271174"
+                },
+                "message": "https:\/\/www.youtube.com\/watch?v=qHggqIOVoWs",
+                "id": "598380843571659"
+            }
+        ],
+        "summary": {
+            "total_count": 12
+        }
+    }
+}

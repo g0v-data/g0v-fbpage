@@ -1,0 +1,53 @@
+{
+    "created_time": "2013-04-14T08:17:31+0000",
+    "message": "大家好 雖然我不懂程式 但是敝人長期至各政府機關搜尋資料的經驗看來 各政府機關開放的資料庫不統一 檔案雖多為excel格式 但內容格式當然也不統一 所以常常需要用人工去整理統整 如果是像如下的格式 是否對於open data會比較有幫助? ",
+    "story": "Yung Lin Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_445809405495471",
+    "link": "https:\/\/docs.google.com\/spreadsheet\/ccc?key=0Aqu4xYZl0L87dFdwV05iNm5VLWUwcG9WOGVfbUZ4Nmc#gid=0",
+    "name": "Welcome to Google Docs",
+    "updated_time": "2013-04-14T08:23:03+0000",
+    "caption": "accounts.google.com",
+    "from": {
+        "name": "Yung Lin Chen",
+        "id": "1849562175118573"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 7
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-04-14T08:20:20+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "Hi! 當然是有幫助的! 可以的話，到 data.g0v.tw 自問自答一下, 這樣想要找類似資料的朋友，就可以直接使用你幫忙整理好的格式做應用了 :)",
+                "id": "445809975495414"
+            },
+            {
+                "created_time": "2013-04-14T08:22:01+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "另外就是，印象中主計處對各行業別好像有個代碼，若也可以整理上，對交叉比對也會有幫助",
+                "id": "445810265495385"
+            },
+            {
+                "created_time": "2013-04-14T08:23:03+0000",
+                "from": {
+                    "name": "Yung Lin Chen",
+                    "id": "1849562175118573"
+                },
+                "message": "恩 我找找看 感謝樓上的建議",
+                "id": "445810452162033"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

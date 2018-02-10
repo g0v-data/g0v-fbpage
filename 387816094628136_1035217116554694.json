@@ -1,0 +1,82 @@
+{
+    "created_time": "2016-07-30T09:16:28+0000",
+    "message": "不好意思打擾g0v的各位，不太確定這個是否可以PO文\n\n我剛好認識到一個在地方勞動局主管勞基法單位的朋友，也成功地推了她一把 (?)，來參加g0v hackath20n 大松。但剛剛發現名額已滿，想說這次跟勞基法會蠻有關的，不曉得她有沒有機會拿到邀請碼之類的? \n這樣法規上的問題就有專業的人可以問了!\n\n另外自己也想徵個票QQ，太晚意識到要去搶票，如果有人剛好有事情無法去，我很希望可以參加到!\n我這邊做的專案是 「工時透明化運動」，跟勞動領域也很相關，希望有機會多認識一些有相同目標的人!\n\nrepo在這，歡迎跳坑:\nhttps:\/\/github.com\/goodjoblife\/WorkTimeSurvey\nhttps:\/\/github.com\/goodjoblife\/WorkTimeSurvey-backend",
+    "story": "Wei-Ming Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1035217116554694",
+    "link": "https:\/\/github.com\/goodjoblife\/WorkTimeSurvey",
+    "description": "WorkTimeSurvey - A simple website for surveying work time.",
+    "name": "goodjoblife\/WorkTimeSurvey",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC_-E0-7hmA8Vbq&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F20009568%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQDq45ofBhuise5F",
+    "updated_time": "2016-08-05T16:58:09+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Wei-Ming Chen",
+        "id": "1758545054164994"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 47
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-07-30T09:20:56+0000",
+                "from": {
+                    "name": "林芳怡",
+                    "id": "1676259695765338"
+                },
+                "message": "推",
+                "id": "1035218199887919"
+            },
+            {
+                "created_time": "2016-07-30T11:36:59+0000",
+                "from": {
+                    "name": "Wei-Ming Chen",
+                    "id": "1758545054164994"
+                },
+                "message": "沒問題!  已回覆 :)",
+                "id": "1035284039881335"
+            },
+            {
+                "created_time": "2016-07-30T16:39:01+0000",
+                "from": {
+                    "name": "Hsin-yu Wang",
+                    "id": "1606731582745027"
+                },
+                "message": "我這邊有一張票：王欣愉",
+                "id": "1035453796531026"
+            },
+            {
+                "created_time": "2016-07-31T07:42:07+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "通常在活動前兩天發出行前通知後，就會有人退票，可以密切注意一下 XD 進一步詳情可問松主 Hsiao-wei Chiu 或 Wu Min Hsuan",
+                "id": "1035844023158670"
+            },
+            {
+                "created_time": "2016-07-31T15:47:59+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "啊對了，之前跟電資工會的朋友一起整理了這個勞基法規定的表格，那位北市勞動局的大大如果有空，方便幫我們看一下有沒有錯嗎～～感謝 w https:\/\/docs.google.com\/spreadsheets\/d\/19wkhjjGFkxtFuDK5R6e1mzmrrjxSV9n4jS0TOkfm3sc\/edit?usp=sharing",
+                "id": "1036072236469182"
+            },
+            {
+                "created_time": "2016-08-05T04:57:59+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "陳韋銘 （Wei-Ming Chen） Yuren Ju 提案登記開跑惹！快搶 XD http:\/\/beta.hackfoldr.org\/g0v-hackath20n\/http%253A%252F%252Fbit.ly%252F2a2hpkx",
+                "id": "1039067672836305"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

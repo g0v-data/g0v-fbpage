@@ -1,0 +1,49 @@
+{
+    "created_time": "2017-06-25T16:09:42+0000",
+    "message": "【akoma ntoso中文範例：民法總則篇】\n\nAkoma Ntoso是法案、裁判等法律文書所使用的開放標準格式，為了了解實作上可能有哪些問題，我自己\b嘗試以 王向榮 （Ronny Wang） 的 tw-law-corpus 為範本轉換成akn格式。\n\ntw-law-corpus：\nhttps:\/\/github.com\/ronnywang\/tw-law-corpus\/blob\/master\/%E6%B3%95%E5%8B%99\/%E6%B0%91%E6%B3%95\/%E6%B0%91%E6%B3%95%E7%AC%AC%E4%B8%80%E7%B7%A8%E7%B8%BD%E5%89%87.md\n\n這是我初步轉換民法第一編總則前三章的成果，給大家參考。\n\n已知問題包含：\n1. 轉換版本應該以總統府公布版，或是三讀版？\n2. 裡面的屬性要用中文或是英文？\n3. 條目的英文翻譯是article還是paragraph？\n4. 如何用eId展示出第幾項第幾款？\n\n歡迎大家參考討論～",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1349274165148986",
+    "link": "https:\/\/gist.github.com\/billy3321\/f2db45e46d0c72b64bda2a9e18f4941a",
+    "description": "akoma ntoso example of 民法第一編總則",
+    "name": "akoma ntoso example of 民法第一編總則",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCOHXKQ7n-pk527&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F42607%3Fv%3D3%26s%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400&_nc_hash=AQB3_7ckKkGYR1kr",
+    "updated_time": "2017-06-26T04:19:17+0000",
+    "caption": "gist.github.com",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 18
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-06-25T16:33:23+0000",
+                "from": {
+                    "name": "ET Blue",
+                    "id": "10212097510645743"
+                },
+                "message": "根據全國法規資料庫 (x) 中央法規標準法 (o) 裡的英文版法條的話\n條：article\n項：paragraph\n款：subparagraph (x) subsection (o)\n目：item\n這篇好像可以 cc 給 DonWhisky Tajfun",
+                "id": "1349291308480605"
+            },
+            {
+                "created_time": "2017-06-25T16:48:02+0000",
+                "from": {
+                    "name": "Sean Young",
+                    "id": "10156167798339886"
+                },
+                "message": "「…完成三讀之法律案及預算案由立法院咨請總統公布並函送行政院。…」所以應該理解為總統府版？\nhttp:\/\/www.ly.gov.tw\/02_introduce\/0201_intro\/introView.action?id=9",
+                "id": "1349307055145697"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

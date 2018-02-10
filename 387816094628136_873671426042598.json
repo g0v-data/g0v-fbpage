@@ -1,0 +1,46 @@
+{
+    "created_time": "2015-10-11T10:21:21+0000",
+    "message": "2012 年時從國民黨和民進黨的官網抓了文章做詞頻統計，本來想拿來當新聞藍綠傾向分類器的語料，但發現需要做滿多後處理，於是這個 project 就被我一路放置到現在.. 剛剛把資料 dump 出來放到 GitHub 上，有興趣的朋友可以抓回去看看 :p",
+    "story": "Kuo Yu-Min shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_873671426042598",
+    "link": "https:\/\/github.com\/cornguo\/colorIt-data",
+    "description": "Contribute to colorIt-data development by creating an account on GitHub.",
+    "name": "cornguo\/colorIt-data",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDM1iYYL9-8zvgB&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F82341%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQDrsWzzhLhTJgSX",
+    "updated_time": "2015-10-12T06:44:12+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Kuo Yu-Min",
+        "id": "10214336966233750"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 29
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-10-11T11:21:39+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "這份資料主要是單詞和雙詞組的詞頻表，原始資料 dump 我會再整理一下 XD",
+                "id": "873682929374781"
+            },
+            {
+                "created_time": "2015-10-12T06:44:12+0000",
+                "from": {
+                    "name": "Kuo Yu-Min",
+                    "id": "10214336966233750"
+                },
+                "message": "標記過的原始資料也上傳了，因為斷詞器只吃 BIG-5 所以.. Orz",
+                "id": "873992222677185"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

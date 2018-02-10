@@ -1,0 +1,40 @@
+{
+    "created_time": "2014-04-07T04:13:17+0000",
+    "message": "今天必推薦的專題報導\n2014-04-06／香港電台 鏗鏘集 太陽花世代 (21分鐘短片)\nhttp:\/\/programme.rthk.hk\/rthk\/tv\/programme.php?name=tv%2Fhkcc&d=2014-04-06&p=858&e=256074&m=episode\n\n----",
+    "id": "387816094628136_604486362961107",
+    "updated_time": "2014-04-07T06:02:04+0000",
+    "from": {
+        "name": "Hsingyu Li",
+        "id": "1994967050516923"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 6
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-07T06:01:10+0000",
+                "from": {
+                    "name": "羅國甫",
+                    "id": "2051594394856334"
+                },
+                "message": "借轉",
+                "id": "604515042958239"
+            },
+            {
+                "created_time": "2014-04-07T06:02:04+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "羅國甫／請／",
+                "id": "604515229624887"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

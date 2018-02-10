@@ -1,0 +1,40 @@
+{
+    "created_time": "2014-04-05T16:18:18+0000",
+    "message": "有人玩過這個嘛? 看起來很威 Unseen",
+    "id": "387816094628136_603816796361397",
+    "updated_time": "2014-04-06T04:32:58+0000",
+    "from": {
+        "name": "陳奕孝",
+        "id": "10155342428535954"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 26
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-05T17:10:42+0000",
+                "from": {
+                    "name": "邱雍翔",
+                    "id": "10215059043058871"
+                },
+                "message": "Black berry BBM 也值得考慮哦！已經支援iOS, Android\nhttp:\/\/www.blackberry.com.tw\/bbm.html",
+                "id": "603834773026266"
+            },
+            {
+                "created_time": "2014-04-06T04:32:58+0000",
+                "from": {
+                    "name": "郭三泰",
+                    "id": "1783468978352129"
+                },
+                "message": "葉政淳推薦的話應該就沒有什麼問題",
+                "id": "604028406340236"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

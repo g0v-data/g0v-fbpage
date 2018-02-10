@@ -1,0 +1,102 @@
+{
+    "created_time": "2014-08-03T02:15:18+0000",
+    "id": "387816094628136_660680640675012",
+    "updated_time": "2014-08-16T07:38:42+0000",
+    "from": {
+        "name": "Show Chen",
+        "id": "10155614364573218"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 20
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-03T02:56:07+0000",
+                "from": {
+                    "name": "Show Chen",
+                    "id": "10155614364573218"
+                },
+                "message": "民間救災系統，以目前的資訊技術的發展，技術不會是困難，而是資源整合難，民間先自行整合後，再用輿論力量，讓政府來配合民間整合，會等政府先內部整合，再來整合民間，速度應該至少會相差十年(可能還是保守預估)",
+                "id": "660691327340610"
+            },
+            {
+                "created_time": "2014-08-03T07:52:19+0000",
+                "from": {
+                    "name": "Pichu Chen",
+                    "id": "10210909229918551"
+                },
+                "message": "捐款的部分，群眾募資可以做到嗎？",
+                "id": "660777193998690"
+            },
+            {
+                "created_time": "2014-08-03T13:02:20+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "cc\/Kuo-Yu Slayer Chuang",
+                "id": "660888020654274"
+            },
+            {
+                "created_time": "2014-08-03T14:31:11+0000",
+                "from": {
+                    "name": "Kuo-Yu Slayer Chuang",
+                    "id": "10214214578175061"
+                },
+                "message": "很多環節一言難盡, 但確實應該建立且長期維運這樣的民間資訊系統, 同時資訊開放並與政府部會界接. GeoThings (究心科技) 團隊正在幹這樣的事情. 若不嫌棄, 可以參考這份簡單的介紹. 從志工, 社群, 到民間救災(慈善)組織, 與政府單位的串接的規劃:  https:\/\/dl.dropboxusercontent.com\/u\/21187226\/%E9%97%9C%E6%96%BC%E7%A9%B6%E5%BF%83%E7%A7%91%E6%8A%80.pdf",
+                "id": "660923963984013"
+            },
+            {
+                "created_time": "2014-08-04T17:13:29+0000",
+                "from": {
+                    "name": "黃憲得",
+                    "id": "818756924998233"
+                },
+                "message": "這個內容能說服我贊成建制，只要專家找對就好，不想再看到那種創造恐慌性言論的\"專家\"被來作為規劃的依據...",
+                "id": "661574110585665"
+            },
+            {
+                "created_time": "2014-08-14T14:42:21+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "https:\/\/www.facebook.com\/photo.php?fbid=542574122537091&set=a.269255449868961.61653.100003535252195&type=1&theater",
+                "id": "666483960094680"
+            },
+            {
+                "created_time": "2014-08-14T14:55:22+0000",
+                "from": {
+                    "name": "黃憲得",
+                    "id": "818756924998233"
+                },
+                "message": "災防法下一條就有寫地方是誰管...但要統整的話直接找中央比較好。",
+                "id": "666488426760900"
+            },
+            {
+                "created_time": "2014-08-16T01:46:15+0000",
+                "from": {
+                    "name": "Hsingyu Li",
+                    "id": "1994967050516923"
+                },
+                "message": "去年我在自己的硬碟中見了一個專案目錄　名稱　臺灣民間救災指揮中心\n\/\/\n\/\/\n國家災害防救科技中心（NCDR）的「NCDR 災害示警公開資料平台」\n　　https:\/\/alerts.ncdr.nat.gov.tw\/index.aspx\n\n交通部公路總局的「安全台灣（Safe Taiwan）」\n　　服務平台（ST-Web）http:\/\/www.safetaiwan.tw\/\n　　手機版（ST-Mobile-html5）http:\/\/www.safetaiwan.tw\/mobile\/\n　　（FB專頁）https:\/\/www.facebook.com\/SafeTaiwan.tw\n　　ＰＳ擔任公路總局資訊室主任陳守強推動中\n\nGoogle 災害示警\n　http:\/\/www.google.org\/publicalerts\/?hl=zh&gl=TW#q&v=25.957893,124.819979,22.986054,118.83243&z=9\n\n臺灣防災地圖\n　http:\/\/www.google.org\/crisismap\/taiwan\n\/\/",
+                "id": "667148440028232"
+            },
+            {
+                "created_time": "2014-08-16T07:38:42+0000",
+                "from": {
+                    "name": "Show Chen",
+                    "id": "10155614364573218"
+                },
+                "message": "https:\/\/www.facebook.com\/events\/275904382599265\/?context=create&source=49\n邀請大家見面聊聊，麻煩如果能來聚餐的話，就按一下參加囉，我好統計訂位人數!",
+                "id": "667231853353224"
+            }
+        ],
+        "summary": {
+            "total_count": 9
+        }
+    }
+}

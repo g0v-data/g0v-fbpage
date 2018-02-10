@@ -1,0 +1,83 @@
+{
+    "created_time": "2017-03-28T09:09:00+0000",
+    "message": "http:\/\/taipei-traffic-accident.pancakeapps.com\/Taipei.html\n\n這是第一次拿政府開放資料來做議題，其實我不太會寫程式，所以這次的製作採用google fusion tables+dropbox pancakeapps完成。\n\n具體作法是將資料整理好後放到google雲端，在匯入google fusion tables做完熱區後，將code會到自己寫得html5內，再丟到dropbox pancakeapps 即完成。這樣對於完全不會寫程式或是還不熟得人員而言，可以很快速的得到成就感 哈哈，未來自己還是會努力的學習coding 再來跳坑！",
+    "story": "陳俊偉 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1264089883667415",
+    "link": "http:\/\/taipei-traffic-accident.pancakeapps.com\/Taipei.html",
+    "name": "臺北車禍發生熱區",
+    "updated_time": "2017-04-06T04:12:37+0000",
+    "caption": "taipei-traffic-accident.pancakeapps.com",
+    "shares": {
+        "count": 11
+    },
+    "from": {
+        "name": "陳俊偉",
+        "id": "2018975588118719"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 121
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-03-28T09:12:25+0000",
+                "from": {
+                    "name": "Yi-Chu Chen",
+                    "id": "10156156867717855"
+                },
+                "message": "wow!",
+                "id": "1264091207000616"
+            },
+            {
+                "created_time": "2017-03-28T09:17:43+0000",
+                "from": {
+                    "name": "Licas Chiou",
+                    "id": "10156054076594054"
+                },
+                "message": "Nice !",
+                "id": "1264094047000332"
+            },
+            {
+                "created_time": "2017-03-28T09:26:59+0000",
+                "from": {
+                    "name": "Chih-Hung Chen",
+                    "id": "10215817315371713"
+                },
+                "message": "GJ",
+                "id": "1264098843666519"
+            },
+            {
+                "created_time": "2017-03-28T15:37:00+0000",
+                "from": {
+                    "name": "Winkai Hsieh",
+                    "id": "10213679861848148"
+                },
+                "message": "有點不好意思但我順路分享一下 台北單車事故地圖 https:\/\/www.google.com\/maps\/d\/edit?mid=1M_zarTOaLEMTtZbih7PsRqUj5wM&ll=25.060854436384737%2C121.54712309999991&z=12",
+                "id": "1264352116974525"
+            },
+            {
+                "created_time": "2017-03-31T05:00:16+0000",
+                "from": {
+                    "name": "吳政璋",
+                    "id": "2009669035713198"
+                },
+                "message": "我可以把這個拿去鄉民風水師用嗎？",
+                "id": "1266704210072649"
+            },
+            {
+                "created_time": "2017-03-31T06:48:05+0000",
+                "from": {
+                    "name": "陳俊偉",
+                    "id": "2018975588118719"
+                },
+                "message": "可以喔 這是公共財～",
+                "id": "1266772493399154"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "created_time": "2014-08-02T15:31:12+0000",
+    "story": "Sin-Git Tan was added to g0v.tw 後勤中心 by William Fan.",
+    "id": "387816094628136_660477190695357",
+    "updated_time": "2014-08-02T17:53:01+0000",
+    "from": {
+        "name": "William Fan",
+        "id": "2078516602160364"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 1
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-02T17:53:01+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "@@ 我以為我眼花了",
+                "id": "660524487357294"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

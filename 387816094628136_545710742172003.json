@@ -1,0 +1,99 @@
+{
+    "created_time": "2013-11-26T15:20:12+0000",
+    "message": "發現有一個爭議的網域\nwww.org.tw\n該網站是寫公司, \n\n但是org.tw 是歸 TWNIC管轄, 而且原本應該要非營利組織才能申請 org.tw 底下的網域\n\n向 TWNIC回報, 竟然說 .tw 網域申請不設限?\n那 g0v.tw 要不要也去搶註冊一個 www.gov.tw 的網域呢? 如果照TWNIC回我的說法, .tw 不設限的話\n\n不知道該說什麼了?",
+    "story": "Pei-Cheng Huang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_545710742172003",
+    "link": "http:\/\/www.org.tw\/",
+    "description": "re-direct",
+    "name": "康健服務事業有限公司 新北市 輪椅接送 服務'輪椅行動不便接送'機場商務接送'安養院接送'無障礙參訪及旅遊'復健醫院團體接送'洗腎病患定期接送'兒童安親上下學'孕婦產檢接送",
+    "updated_time": "2013-11-27T07:13:35+0000",
+    "caption": "org.tw",
+    "from": {
+        "name": "Pei-Cheng Huang",
+        "id": "2034321466584963"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-11-26T15:49:41+0000",
+                "from": {
+                    "name": "Chih-Hsuan Kuo",
+                    "id": "10213816043309048"
+                },
+                "message": "同上",
+                "id": "545750385501372"
+            },
+            {
+                "created_time": "2013-11-26T16:03:04+0000",
+                "from": {
+                    "name": "Cheng-An Chen",
+                    "id": "10210819233332146"
+                },
+                "message": "怪怪的，這樣subdomain要怎麼辦？",
+                "id": "545757382167339"
+            },
+            {
+                "created_time": "2013-11-26T16:12:41+0000",
+                "from": {
+                    "name": "Chih-Hsuan Kuo",
+                    "id": "10213816043309048"
+                },
+                "message": "對誒...這樣 DNS 怎麼解啊＝ ＝",
+                "id": "545760718833672"
+            },
+            {
+                "created_time": "2013-11-26T16:29:08+0000",
+                "from": {
+                    "name": "Rick Li",
+                    "id": "1199250466875788"
+                },
+                "message": "查起來上層是 org.tw 所以該網址應該是在 org.tw 下面",
+                "id": "545767902166287"
+            },
+            {
+                "created_time": "2013-11-26T16:54:34+0000",
+                "from": {
+                    "name": "Cheng-An Chen",
+                    "id": "10210819233332146"
+                },
+                "message": "如果是 www 沒被保留問題還不太大，但TWNIC的回覆是怎麼回事？",
+                "id": "545774995498911"
+            },
+            {
+                "created_time": "2013-11-26T16:55:56+0000",
+                "from": {
+                    "name": "Rick Li",
+                    "id": "1199250466875788"
+                },
+                "message": "就白癡亂回復呀..\n台灣有個很有名的人，就註冊了 ns1.tw ns2.tw 當DNS",
+                "id": "545775355498875"
+            },
+            {
+                "created_time": "2013-11-26T16:56:42+0000",
+                "from": {
+                    "name": "Chih-Hsuan Kuo",
+                    "id": "10213816043309048"
+                },
+                "message": "....XD",
+                "id": "545775522165525"
+            },
+            {
+                "created_time": "2013-11-27T07:13:35+0000",
+                "from": {
+                    "name": "Pei-Cheng Huang",
+                    "id": "2034321466584963"
+                },
+                "message": "目前查到的整理在\nhttps:\/\/docs.google.com\/spreadsheet\/ccc?key=0AiDZhkWXfx74dFBPMk53WlAyZUh3bXY1U1pxTXNLLXc&usp=sharing",
+                "id": "546013632141714"
+            }
+        ],
+        "summary": {
+            "total_count": 9
+        }
+    }
+}

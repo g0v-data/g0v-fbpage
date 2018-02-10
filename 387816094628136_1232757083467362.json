@@ -1,0 +1,49 @@
+{
+    "created_time": "2017-02-25T10:01:11+0000",
+    "message": "https:\/\/g0v.hackpad.com\/2.0-eRA26AhFhio\n有鑑於現在長照2.0已經上路，但是網路上卻遍尋不到資料，於是試圖整理相關資料，希望未來有人能夠接手寫成查詢系統。\n\n但目前需要大家先幫忙提供各地區的單位清單和服務內容。若各位大大有認識其他也在從事長照2.0業務的工作夥伴，也可以拉進來一起協作，謝謝！",
+    "story": "Chen Kai Chang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1232757083467362",
+    "link": "https:\/\/g0v.hackpad.com\/2.0-eRA26AhFhio",
+    "description": "緣起 105年11月，長照2.0上路後，各縣市陸續有行政區已經開始辦理長照2.",
+    "name": "長照2.0各級據點查詢系統",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQBbByMKcqWNggkP",
+    "updated_time": "2017-03-02T10:22:11+0000",
+    "caption": "g0v.hackpad.com",
+    "shares": {
+        "count": 1
+    },
+    "from": {
+        "name": "Chen Kai Chang",
+        "id": "2046452738704722"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 24
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-02-26T06:10:39+0000",
+                "from": {
+                    "name": "D'whisky Tajfun",
+                    "id": "1627662707269866"
+                },
+                "message": "我也有開個 github repo 想處理這種政策後的開放資料。不過最近好忙，太多事情。之後有機會，或許可以一起整理一下",
+                "id": "1233583940051343"
+            },
+            {
+                "created_time": "2017-03-02T06:33:14+0000",
+                "from": {
+                    "name": "Janet Hu",
+                    "id": "1652495641463873"
+                },
+                "message": "",
+                "id": "1237502282992842"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

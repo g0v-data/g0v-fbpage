@@ -1,0 +1,127 @@
+{
+    "created_time": "2014-09-26T04:24:04+0000",
+    "message": "各位朋友，這邊有個坑想請大家幫忙。\n\n目前有一些團體會抓下立法院IVOD影片來進行編輯，但目前立法院的影片很難直接抓下。\n\nCommand Line工具已經有了，希望有人可以幫忙製作Windows、Mac版本的GUI版工具，方便大家下載IVOD。\n\n",
+    "story": "林雨蒼 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_685995444810198",
+    "link": "https:\/\/g0v.hackpad.com\/IVOD-KdTs5gZb3yw",
+    "description": "目前有一些團體會抓下立法院IVOD影片來進行編輯，但目前立法院的影片很難直接抓下。 Command Line工具已經有了，希望有人可以幫忙製作Windows、Mac版本的GUI版工具，方便大家下載IVOD。 工具需求： 輸入IVOD網址 自動轉為高品質網址（把300K改為1M） 下載影片並重新命名為好讀的影片，例如「2014-09-25 內政 段宜康」 測試網址： http:\/\/ivod.ly.gov.tw\/Play\/VOD\/76394\/300K http:\/\/ivod.ly.gov.",
+    "name": "電腦端立院IVOD下載器",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC59obiu8SVwA-t&w=130&h=130&url=https%3A%2F%2Fg0v.hackpad.com%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQCd4tb6KYrhZXMZ",
+    "updated_time": "2014-09-29T05:01:48+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "林雨蒼",
+        "id": "10215225276362190"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 36
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-09-26T10:15:55+0000",
+                "from": {
+                    "name": "Joye  Lin",
+                    "id": "1565019010279997"
+                },
+                "message": "有人再做嗎？目前改了一些。 https:\/\/github.com\/y12studio\/g0v-raw\/tree\/master\/ivod-gui",
+                "id": "686064761469933"
+            },
+            {
+                "created_time": "2014-09-26T19:15:43+0000",
+                "from": {
+                    "name": "Ming-Tai Chang",
+                    "id": "10156187316925238"
+                },
+                "message": "http:\/\/jangmt.com\/?p=108 我參考上面的資訊用 php 寫了一個，可以在本地端執行。目前打包成為 zip 直接下載解開就可以使用了。",
+                "id": "686238804785862"
+            },
+            {
+                "created_time": "2014-09-26T23:57:51+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "不過我想如果 core 是 python 的話，是不是user 一定都要有 python 環境才能用？",
+                "id": "686313058111770"
+            },
+            {
+                "created_time": "2014-09-26T23:59:11+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "不確定 py2exe 這類 solution 在這點上行不行～",
+                "id": "686313321445077"
+            },
+            {
+                "created_time": "2014-09-27T00:41:26+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "感謝樓上 張明泰 大大開發\n我剛剛把這個資訊 pass 給公督盟了",
+                "id": "686322251444184"
+            },
+            {
+                "created_time": "2014-09-27T01:01:42+0000",
+                "from": {
+                    "name": "Hsieh Ping-hsun",
+                    "id": "1571812686221006"
+                },
+                "message": "讚喔，不然每次要抓格鬥影片都得要搞半天XDD",
+                "id": "686326014777141"
+            },
+            {
+                "created_time": "2014-09-27T06:20:47+0000",
+                "from": {
+                    "name": "Scott Tsai",
+                    "id": "1838942296177821"
+                },
+                "message": "Tonyq Wang, py2exe 這類確定可以。我工作上幾次臨時需要寫 Windows GUI 給客戶都是用 py2exe 散佈",
+                "id": "686397604769982"
+            },
+            {
+                "created_time": "2014-09-27T06:33:18+0000",
+                "from": {
+                    "name": "Joye  Lin",
+                    "id": "1565019010279997"
+                },
+                "message": "目前作法與 張明泰 類似，只改用python版 rg3\/youtube-dl 取代AdobeHDS.php，原想用node-webkit包GUI但不好掛python，想問是否有人知道現成node版的adobe hds 可用？",
+                "id": "686399861436423"
+            },
+            {
+                "created_time": "2014-09-27T15:16:25+0000",
+                "from": {
+                    "name": "Ming-Tai Chang",
+                    "id": "10156187316925238"
+                },
+                "message": "http:\/\/jangmt.com\/?p=108 剛剛更新了,中文檔名、啟動流程都有改善了. 有 bug 請在告知巴!!",
+                "id": "686529258090150"
+            },
+            {
+                "created_time": "2014-09-27T19:49:16+0000",
+                "from": {
+                    "name": "林雨蒼",
+                    "id": "10215225276362190"
+                },
+                "message": "但裡面不只有python，還有php，這是比較麻煩的部份",
+                "id": "686622068080869"
+            },
+            {
+                "created_time": "2014-09-29T05:01:48+0000",
+                "from": {
+                    "name": "Ching Yi Chan",
+                    "id": "10214736466106157"
+                },
+                "message": "林雨蒼 發了一個 pull request，內有把 php 部分換成 youtube_dl xd",
+                "id": "687237124686030"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

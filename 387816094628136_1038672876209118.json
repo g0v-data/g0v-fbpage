@@ -1,0 +1,81 @@
+{
+    "created_time": "2016-08-04T15:01:32+0000",
+    "message": "這是 g0v Summit 贊助單位 - 叡揚資訊提出的一個專案構想。覺得政府外包的資訊系統很難用嗎？預算可能是其中的一個原因，進而探討什麼是合理的資訊人員預算。 講個秘訣：美國政府 18F 的薪資直接是最高的三個 GS grades: https:\/\/pages.18f.gov\/joining-18f\/pay-grades\/\n\n（不過應該也有不少預算不低、但實際到開發人員手上就科科的狀況）\n\n（應該也有不少人領過兩千元車馬費審結案）\n\n順便來試用最潮的 Hackmd, 剛加上了作者標記的功能\b，可以像 hackpad 一樣直接看到哪一段是誰寫的囉",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1038672876209118",
+    "link": "https:\/\/hackmd.io\/EwMwDA7BCGAmIFoDGBOFwEBYDMBWDa0uCApttihAEYCMusYS0QA=",
+    "name": "政府資訊預算大透視 - HackMD",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC7F96krCGk0IOZ&w=130&h=130&url=https%3A%2F%2Fhackmd.io%2Fvendor%2Femojify%2Fimages%2Fsmile.png&cfs=1&_nc_hash=AQA6gpHo4CyIBhY1",
+    "updated_time": "2016-08-05T05:55:04+0000",
+    "caption": "hackmd.io",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 104
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-08-04T15:13:33+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "GSS 作為接了不少政府委外的公司，應該也是滿腹苦水 :P\n\n然後其實資訊服務委外計價標準的金額沒有想像中低，但是編預算歸編預算，實際讓工作的人拿到手上的應該是另一回事。\n\n手邊有一份 101 年版的《資訊委外服務人員計價參考要點》\nhttps:\/\/db.tt\/MEGl7Fkt",
+                "id": "1038678646208541"
+            },
+            {
+                "created_time": "2016-08-04T16:23:43+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "對了，這個提案徵求坑主中（把坑型挖得清楚些，或者找到呈現問題的資料，好在大松時有一些比較明確的事情可以做）... 疑似是 Clement Tang 的坑",
+                "id": "1038723902870682"
+            },
+            {
+                "created_time": "2016-08-04T16:41:21+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "好像沒什麼人編輯耶，是題目太硬了嗎？還是 hackmd 太難用？作者 ChengHan Wu 不用負責嗎？",
+                "id": "1038730552870017"
+            },
+            {
+                "created_time": "2016-08-05T00:36:08+0000",
+                "from": {
+                    "name": "Tonyq Wang",
+                    "id": "10215957169947800"
+                },
+                "message": "政府的資訊系統題目太大了，大到國家級稅務或基礎建設，小到地方政府簡易為民服務業務。兩個的命題就不一樣。我覺得政府資訊系統的問題需求評估還是佔很大比例。",
+                "id": "1038939699515769"
+            },
+            {
+                "created_time": "2016-08-05T02:19:00+0000",
+                "from": {
+                    "name": "Frank Yu",
+                    "id": "10212350627854331"
+                },
+                "message": "可否有個方式讓人追蹤此議題?? github? 目前貌似hackmd需自己記網址 也沒有watch的功能?",
+                "id": "1038985806177825"
+            },
+            {
+                "created_time": "2016-08-05T05:55:03+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "「政府資訊軟體應用系統開發及維運委外採購預算的編列往往低估軟體開發業者的成本，訂定不合理的底價，以致造成業者廝殺競價，毫無利潤可言，連帶影響專案時程及品質。因此藉由分析政府資訊單位資訊預算編列及資訊人員人年費用(其費用結構)，可做為標案成本及底價的參考。」 感覺有洞，但不知道是在哪...",
+                "id": "1039084576167948"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

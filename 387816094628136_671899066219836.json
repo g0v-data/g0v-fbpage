@@ -1,0 +1,30 @@
+{
+    "created_time": "2014-08-27T02:11:37+0000",
+    "id": "387816094628136_671899066219836",
+    "updated_time": "2014-08-27T02:31:46+0000",
+    "from": {
+        "name": "Chien-Hsun Chen",
+        "id": "10213194332945990"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-08-27T02:31:46+0000",
+                "from": {
+                    "name": "Charles Chuang",
+                    "id": "10156747652751988"
+                },
+                "message": "這次只有兩個候選人嗎？",
+                "id": "671903369552739"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "created_time": "2014-04-04T13:17:48+0000",
+    "message": "[翻譯坑] 無視傳統媒體，直接產生自己的資訊。這是今年初應邀香港創不同 MaD.Asia 的十九分鐘演講，請大家協助認領校對 youtube 自動產生的英文字幕，並翻譯成中文。 ",
+    "story": "Chia-liang Kao shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_603282629748147",
+    "link": "https:\/\/g0v.hackpad.com\/MaD-clkao-Open-Source-Open-Data-Open-Government--reo7f4xdWAy",
+    "description": "https:\/\/www.youtube.com\/watch?v=-BYb5wFAxOA&feature=youtu.",
+    "name": "MaD | clkao: Open Source, Open Data, Open Government 字幕翻譯",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBJtexHzGCA4Z1T&w=130&h=130&url=https%3A%2F%2Fdakdwippfbduw.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1&_nc_hash=AQBbByMKcqWNggkP",
+    "updated_time": "2014-04-05T00:48:18+0000",
+    "caption": "g0v.hackpad.com",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 47
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-04T13:43:15+0000",
+                "from": {
+                    "name": "Wen-Chun Ni",
+                    "id": "10217198797146392"
+                },
+                "message": "等下，是英翻中還是中翻英？我看那些英文都有點怪怪的。",
+                "id": "603291629747247"
+            },
+            {
+                "created_time": "2014-04-04T13:43:49+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "對不起沒說清楚，英文要先校對過，因為那是 youtube 自動產生的",
+                "id": "603291813080562"
+            },
+            {
+                "created_time": "2014-04-04T14:47:08+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "tag 字幕狂 Pei-hsun Jiang",
+                "id": "603310739745336"
+            },
+            {
+                "created_time": "2014-04-04T15:53:58+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "感謝大家超快速共筆校對，英文應該差不多了，可以開始翻譯了！",
+                "id": "603332099743200"
+            },
+            {
+                "created_time": "2014-04-05T00:48:18+0000",
+                "from": {
+                    "name": "Hsiao-wei Chiu",
+                    "id": "10215521254163616"
+                },
+                "message": "推一下翻譯坑",
+                "id": "603506623059081"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

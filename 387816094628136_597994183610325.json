@@ -1,0 +1,80 @@
+{
+    "created_time": "2014-03-23T13:57:52+0000",
+    "message": "請問支援Hack技術應該找哪一位？:)\n這裡有一位新血想支援\n--------------------------------------\n君子風(申請加入中)\n你好, 我是台大資工所的學生 ( farmer@ai.csie.ntu.edu.tw) . 在網路業擔任主管多年的經驗.\n以我之見, 目前的網路平台極需要補強. 例如文字轉播, 目前要 reload 整個畫面 ? 很不理想. 所以我這兩天安裝了新的平台要協助轉播和連絡. 並申請了 \ndaiwan.cc daiwan.info 網域 ( daiwan 就是 台語 歹丸)\n請問我的平台如果要協助轉播, 要和哪一位技術人員連絡 ?\n--------------------------------------(提議方案)\n\"組織\" 的重要性\n我曾經當過兵. 我當兵的時候, 大專兵只佔少數, 大部份是 \"一般兵\".\n而一般兵之中, 又有部份是流氓, 每天喝酒, 欺負大專兵.\n大專兵為什麼受欺負? 因為大專兵之間沒有組織, 不像流氓每天喝酒交流感情.\n就算在大專兵多於一般兵的場合, 其中一人受欺, 其他人也不敢相救.\n所以, 要把全民組織起來. \n這次運動, 雖然由學生發起, 最終要全民支持. 但是學生本身要組織起來.\n最重要的兩件事是:\n1. 各縣市\/各校 要有領導人(或稱連絡人). \n2. 領導人之間 以及 \"領導人 與 總指揮(陳\/林..)\"之間, 要能連絡.\n目前的困境是, \n1. 大家在網上討論很熱烈, 但是意見無法匯總給指揮中心\n2. 大家無法互相連絡, 以致沒有勇氣去行動. 如果知道附近有同志要一起去, 自然動力就加大了.\n為了解決以上問題, 我設立了 聊天室, 除了總聊天室, 還有各縣市聊天室.\n目前安裝在 台大資工的電腦機房 http:\/\/talk.daiwan.cc ( 140.112.30.190)\n預計 24 小時內可以開放.\nhttp:\/\/www.ptt.cc\/bbs\/Gossiping\/M.1395342515.A.C82.html",
+    "story": "Yarrow Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_597994183610325",
+    "link": "http:\/\/talk.daiwan.cc\/",
+    "name": "http:\/\/talk.daiwan.cc\/",
+    "updated_time": "2014-03-23T14:49:48+0000",
+    "caption": "talk.daiwan.cc",
+    "from": {
+        "name": "Yarrow Chen",
+        "id": "1844415558910483"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 23
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-23T14:04:19+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "請上 IRC 討論，文字即時 reload 剛加上 g0v.today 了。",
+                "id": "597996816943395"
+            },
+            {
+                "created_time": "2014-03-23T14:09:08+0000",
+                "from": {
+                    "name": "Lunar  Tennoji",
+                    "id": "751509675052437"
+                },
+                "message": "拜託不要用台大的機器,有權限封掉的人太多了。",
+                "id": "597998996943177"
+            },
+            {
+                "created_time": "2014-03-23T14:11:56+0000",
+                "from": {
+                    "name": "Yarrow Chen",
+                    "id": "1844415558910483"
+                },
+                "message": "(他目前還沒有被加進來)",
+                "id": "598000633609680"
+            },
+            {
+                "created_time": "2014-03-23T14:14:38+0000",
+                "from": {
+                    "name": "Lunar  Tennoji",
+                    "id": "751509675052437"
+                },
+                "message": "你乾脆直接不要用台大,跳別的地方.ptt沒被封但會被關機啊,它沒被封也是大家(老師同學)從無到有地爭取,並不是理所當然供大家用的.",
+                "id": "598002240276186"
+            },
+            {
+                "created_time": "2014-03-23T14:15:09+0000",
+                "from": {
+                    "name": "Chun Wei Lee",
+                    "id": "1817954838215211"
+                },
+                "message": "irc教學 https:\/\/github.com\/g0v\/dev\/wiki\/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-IRC",
+                "id": "598002496942827"
+            },
+            {
+                "created_time": "2014-03-23T14:48:55+0000",
+                "from": {
+                    "name": "唐鳳",
+                    "id": "10156318975889928"
+                },
+                "message": "Hi 姜興, 頻道上有位 Ihc 也想做類似的專案。\n\n之前 ETBlue isacl hlb 有協助做\nUser story: https:\/\/g0v.hackpad.com\/-user-story-dw3SAk6gdcb\nMockup: http:\/\/g0v.github.io\/g0v.today\/osdc\/public\/\nPrototyp: https:\/\/github.com\/g0v\/conference-map-message-server\nBackground: https:\/\/g0v.hackpad.com\/-x-x--sSXcU0n0Yv4\nEquipment: http:\/\/logbot.g0v.tw\/channel\/g0v.tw\/2014-03-23#999\n\n如果有參考價值請直接取用，也歡迎開新的 github repo 來進行。我這幾天顧 g0v.today、logbot、ethercalc 忙不過來，所以請想和頻道上有興趣的人討論，想到什麼做什麼。",
+                "id": "598016530274757"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

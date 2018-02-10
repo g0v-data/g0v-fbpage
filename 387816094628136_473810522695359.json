@@ -1,0 +1,67 @@
+{
+    "created_time": "2013-06-24T16:39:27+0000",
+    "story": "Chia-liang Kao made 陳柏儒, Pei-Chi Lo and Pofeng Lee admins of the group g0v.tw 後勤中心.",
+    "id": "387816094628136_473810522695359",
+    "updated_time": "2013-06-24T16:46:51+0000",
+    "from": {
+        "name": "Chia-liang Kao",
+        "id": "10155373915470668"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2013-06-24T16:39:47+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "? :p",
+                "id": "473810636028681"
+            },
+            {
+                "created_time": "2013-06-24T16:41:04+0000",
+                "from": {
+                    "name": "陳柏儒",
+                    "id": "2020687477948223"
+                },
+                "message": "我升等了....",
+                "id": "473811002695311"
+            },
+            {
+                "created_time": "2013-06-24T16:41:34+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "多點人手幫忙按 approve :p",
+                "id": "473811172695294"
+            },
+            {
+                "created_time": "2013-06-24T16:42:04+0000",
+                "from": {
+                    "name": "Pofeng Lee",
+                    "id": "10151088271244949"
+                },
+                "message": "ok ok 沒問題, 特愛逛 FB",
+                "id": "473811286028616"
+            },
+            {
+                "created_time": "2013-06-24T16:46:51+0000",
+                "from": {
+                    "name": "Pei-Chi Lo",
+                    "id": "10215091580704901"
+                },
+                "message": "我也是XD",
+                "id": "473812789361799"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

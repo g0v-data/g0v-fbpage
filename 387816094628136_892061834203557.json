@@ -1,0 +1,109 @@
+{
+    "created_time": "2015-11-26T03:17:09+0000",
+    "message": "更新： YuTin Liu 已經有做一版Open Source的Andoird\/iOS APP出來。\n可以討論是不是需要增加推播和分群 (排程) 的功能。\n\n------\n\n最近看到有人急需 A-陰性血型貼在ptt wanted 版。然後文章就被轉貼了一週後，還在FB上面傳播。\n\n但是血液會過期，收到過期訊息去捐血，也不一定派得上用場。為了保持血液庫存量，以及血液新鮮度。如果能做一個APP\/系統可以讓每個地區的捐血者群組，按照排程時間輪流去捐血。並且有重大事件發生時，政府可以推播訊息徵求血量和預估。應該可以對台灣的血液資源按照地區性最佳化有幫助。\n\n轉貼 黃珈擇 先前發想的需求功能如下。\nhttp:\/\/nuclear718.blogspot.tw\/2015\/06\/app.html\n\n目前一般的APP只有提供捐血相關的自我健康管理，以及附近捐血站，還有捐血活動的訊息查詢。還沒有串接血液基金會，以及地區血液中心的缺血訊息推播。\n而且也沒有提供稀少血型的缺血資訊。(稀有血型是否能夠維持固定的庫存也許是各問題)\n\n現有一些已經開發出來的公益捐血APP的開發者群，以及現成的code也許可以重用，或者重構一下 Open Source出來，並且跟相關單位談API和OpenData的開放。\n\n如果有人已經有更好的idea或者已知更好的APP\/服務資訊還請提供。",
+    "story": "Macpaul Lin shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_892061834203557",
+    "link": "http:\/\/nuclear718.blogspot.tw\/2015\/06\/app.html",
+    "description": "你好！你的這個想法很不錯，歡迎到g0v來提案。也許會有工程師有興趣做看看!https:\/\/www.facebook.com\/groups\/g0v.general\/?fref=ts",
+    "name": "Deep River: 建議柯文哲市長 [捐血APP]",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBYB2UqdF3baEu3&w=130&h=130&url=http%3A%2F%2F4.bp.blogspot.com%2F-n1PHaVoKWVY%2FTbaghfHOdsI%2FAAAAAAAAERw%2Fah5he-jGyqk%2Fs1600%2Fdcxwvzb3_1250gbmg5bfh_b.jpg&cfs=1&_nc_hash=AQDSBC84iEKyiMW3",
+    "updated_time": "2015-11-26T05:52:13+0000",
+    "caption": "nuclear718.blogspot.com",
+    "from": {
+        "name": "Macpaul Lin",
+        "id": "10156042494092910"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 41
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-11-26T03:17:47+0000",
+                "from": {
+                    "name": "Macpaul Lin",
+                    "id": "10156042494092910"
+                },
+                "message": "相關資料：http:\/\/www.blood.org.tw\/Internet\/main\/index.aspx",
+                "id": "892061924203548"
+            },
+            {
+                "created_time": "2015-11-26T03:18:54+0000",
+                "from": {
+                    "name": "Macpaul Lin",
+                    "id": "10156042494092910"
+                },
+                "message": "http:\/\/iblood.aoron.com\/thanks-to.php",
+                "id": "892062067536867"
+            },
+            {
+                "created_time": "2015-11-26T03:19:13+0000",
+                "from": {
+                    "name": "Macpaul Lin",
+                    "id": "10156042494092910"
+                },
+                "message": "這個是附廣告的 android app\nhttps:\/\/play.google.com\/store\/apps\/details?id=net.coolinfo.iblood",
+                "id": "892062220870185"
+            },
+            {
+                "created_time": "2015-11-26T03:23:48+0000",
+                "from": {
+                    "name": "Chia-liang Kao",
+                    "id": "10155373915470668"
+                },
+                "message": "https:\/\/github.com\/g0v\/bMagic ?",
+                "id": "892063180870089"
+            },
+            {
+                "created_time": "2015-11-26T03:24:32+0000",
+                "from": {
+                    "name": "Macpaul Lin",
+                    "id": "10156042494092910"
+                },
+                "message": "對喔～所以OP了～",
+                "id": "892063277536746"
+            },
+            {
+                "created_time": "2015-11-26T03:29:01+0000",
+                "from": {
+                    "name": "陳彥佑",
+                    "id": "10155053919762274"
+                },
+                "message": "猛一看我以為是蟑螂卵",
+                "id": "892064147536659"
+            },
+            {
+                "created_time": "2015-11-26T03:31:31+0000",
+                "from": {
+                    "name": "Lucy Chen",
+                    "id": "1186596804808140"
+                },
+                "message": "感覺上不只要做出來，推廣也蠻重要的，不然好東西沒人知道可以使用(甚至發心花功夫再做一次)，就可惜了",
+                "id": "892064507536623"
+            },
+            {
+                "created_time": "2015-11-26T03:34:08+0000",
+                "from": {
+                    "name": "Macpaul Lin",
+                    "id": "10156042494092910"
+                },
+                "message": "YuTin Liu 那要不要換個名字，如果有想要捐血的人，就只會google捐血or血液庫存。google捐血 or 血液庫存 APP並不會出現治療魔法APP.... \n\n不知道在APP store上查起來如何",
+                "id": "892064917536582"
+            },
+            {
+                "created_time": "2015-11-26T05:52:13+0000",
+                "from": {
+                    "name": "Macpaul Lin",
+                    "id": "10156042494092910"
+                },
+                "message": "Android上治癒魔法下載量10, 捐血我最型下載量1000. 也許可以去跟基金會那邊談合作，然後把預先排程跟地區分群的功能做起來。",
+                "id": "892103020866105"
+            }
+        ],
+        "summary": {
+            "total_count": 10
+        }
+    }
+}

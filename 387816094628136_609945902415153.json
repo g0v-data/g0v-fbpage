@@ -1,0 +1,289 @@
+{
+    "created_time": "2014-04-19T15:54:59+0000",
+    "message": "政治獻金的各種收入、支出登記資料\n大家接力下去",
+    "story": "簡士倫 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_609945902415153",
+    "link": "http:\/\/ronnywang.pixnet.net\/blog\/post\/40488349",
+    "description": "上次 g0v 黑客松，有 NGO 帶著去監察院申請出來的幾名政治人物的政治獻金的掃描檔，想問問看 g0v 能怎麼做 一共有 94 個檔案，將近 2800 頁，包含馬英九、顏清標、吳育昇、丁守中等人的政",
+    "name": "抓出政治獻金掃描文件中的每一個欄位 @ Ronny's BLOG :: 痞客邦 PIXNET ::",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQA1I3dzJbTwAn-K&w=130&h=130&url=http%3A%2F%2Fpic.pimg.tw%2Fronnywang%2F1394339851-420234308_n.png%3Fv%3D1394339864&cfs=1&_nc_hash=AQDgYop_9aLOnoJW",
+    "updated_time": "2014-04-20T11:36:31+0000",
+    "caption": "ronnywang.pixnet.net",
+    "from": {
+        "name": "簡士倫",
+        "id": "2049935048366900"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 97
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-19T15:56:11+0000",
+                "from": {
+                    "name": "林恒生",
+                    "id": "2328465790512471"
+                },
+                "message": "我剛剛填了好幾個，一推都是匿名捐贈，幹。",
+                "id": "609946222415121"
+            },
+            {
+                "created_time": "2014-04-19T17:22:37+0000",
+                "from": {
+                    "name": "簡士倫",
+                    "id": "2049935048366900"
+                },
+                "message": "http:\/\/campaign-finance.g0v.ctiml.tw\/",
+                "id": "609986432411100"
+            },
+            {
+                "created_time": "2014-04-19T17:48:15+0000",
+                "from": {
+                    "name": "Shenk Wang",
+                    "id": "10208526673283831"
+                },
+                "message": "我剛試著先用 Scan Tailor 處理圖片，拿掉了浮水印，再用 Acrobat 來 OCR, 處理完 徐耀昌\/雜支支出\/220092833.pdf，結果如連結，好像不錯？  https:\/\/www.dropbox.com\/s\/5ahrx8dppcwdo05\/img-220092833_ocr.pdf",
+                "id": "610031869073223"
+            },
+            {
+                "created_time": "2014-04-19T17:49:32+0000",
+                "from": {
+                    "name": "簡士倫",
+                    "id": "2049935048366900"
+                },
+                "message": "可以喔\n這個厲害",
+                "id": "610032379073172"
+            },
+            {
+                "created_time": "2014-04-19T17:56:53+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "好像還是會有錯字，但應該可以 crowdsource 訂正",
+                "id": "610034599072950"
+            },
+            {
+                "created_time": "2014-04-19T18:30:21+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "Shenk Wang 原本的文件 au 已經有用 Acrobat 做過 OCR ，只是 OCR 之前並沒有做除浮水印的工作，如果你願意可以試著把整批文件都處理過？\n\n目前 OCR 的結果已經放在 https:\/\/github.com\/kiang\/tw-campaign-finance\/ 的 cells-text 目錄中",
+                "id": "610048115738265"
+            },
+            {
+                "created_time": "2014-04-19T18:32:28+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "au 動作比較快，已經把建議放到 https:\/\/g0v.hackpad.com\/8ow2GnliH48 了",
+                "id": "610049112404832"
+            },
+            {
+                "created_time": "2014-04-20T03:13:37+0000",
+                "from": {
+                    "name": "Wang Chih Wei",
+                    "id": "10211778609960698"
+                },
+                "message": "真的一打會停不下來",
+                "id": "610224405720636"
+            },
+            {
+                "created_time": "2014-04-20T03:46:16+0000",
+                "from": {
+                    "name": "SansWord Huang",
+                    "id": "10215437925005196"
+                },
+                "message": "人工打字網站的部分有鄉民反應要加上 counter, 我想這邊用 javascript 搭配 localStorage 實作應該很快～我可以今天做。要貢獻到哪裡呢？",
+                "id": "610234229052987"
+            },
+            {
+                "created_time": "2014-04-20T03:47:00+0000",
+                "from": {
+                    "name": "SansWord Huang",
+                    "id": "10215437925005196"
+                },
+                "message": "讓幫忙打字的人看到自己已經貢獻多少～應該可以激發大家的鬥志！\n這段我可以先做成純粹 client-side 的",
+                "id": "610234425719634"
+            },
+            {
+                "created_time": "2014-04-20T03:48:28+0000",
+                "from": {
+                    "name": "SansWord Huang",
+                    "id": "10215437925005196"
+                },
+                "message": "找到 github 了～做好再 pull request 上去。",
+                "id": "610234929052917"
+            },
+            {
+                "created_time": "2014-04-20T03:49:50+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "剛才好像已經全部完成了",
+                "id": "610235319052878"
+            },
+            {
+                "created_time": "2014-04-20T03:50:23+0000",
+                "from": {
+                    "name": "SansWord Huang",
+                    "id": "10215437925005196"
+                },
+                "message": "真假？！？！我剛剛打字還看到有空白格呀～",
+                "id": "610235479052862"
+            },
+            {
+                "created_time": "2014-04-20T03:50:49+0000",
+                "from": {
+                    "name": "簡士倫",
+                    "id": "2049935048366900"
+                },
+                "message": "酷\n才一天而已\n難怪 我剛剛都只點到一堆 已經有人填寫了",
+                "id": "610235619052848"
+            },
+            {
+                "created_time": "2014-04-20T03:51:48+0000",
+                "from": {
+                    "name": "林恒生",
+                    "id": "2328465790512471"
+                },
+                "message": "應該還是可以繼續填技術坑，記得目前的OCR只是部分立委，政客而已，還有很多人的沒印出來",
+                "id": "610235889052821"
+            },
+            {
+                "created_time": "2014-04-20T03:52:16+0000",
+                "from": {
+                    "name": "SansWord Huang",
+                    "id": "10215437925005196"
+                },
+                "message": "了解。總之我先做做看 counter 的部份～後續再說。",
+                "id": "610235949052815"
+            },
+            {
+                "created_time": "2014-04-20T03:52:24+0000",
+                "from": {
+                    "name": "Clement Tang",
+                    "id": "10214020199392779"
+                },
+                "message": "恩，現在只是這批資料完成了，但功能面可以繼續強化。",
+                "id": "610235979052812"
+            },
+            {
+                "created_time": "2014-04-20T03:52:36+0000",
+                "from": {
+                    "name": "簡士倫",
+                    "id": "2049935048366900"
+                },
+                "message": "更正\n取得已經處理完成的頁面列表(2637 \/ 2637)\n真的已經完成了",
+                "id": "610236022386141"
+            },
+            {
+                "created_time": "2014-04-20T03:53:32+0000",
+                "from": {
+                    "name": "SansWord Huang",
+                    "id": "10215437925005196"
+                },
+                "message": "現在只開放5個人齁？",
+                "id": "610236329052777"
+            },
+            {
+                "created_time": "2014-04-20T04:26:18+0000",
+                "from": {
+                    "name": "SansWord Huang",
+                    "id": "10215437925005196"
+                },
+                "message": "counter 寫好囉～已經 pull request 過去，再請測試並且上線。",
+                "id": "610245452385198"
+            },
+            {
+                "created_time": "2014-04-20T04:59:33+0000",
+                "from": {
+                    "name": "Hsiao-hsien Yang",
+                    "id": "10156175249445984"
+                },
+                "message": "Shenk 有空也請去編一下 hackpad，我也觀察到其他人一些想法，整理一下等下也要編上去。",
+                "id": "610253272384416"
+            },
+            {
+                "created_time": "2014-04-20T05:37:48+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "請教 Shenk Wang：我試了Scan Tailor，可是它本身好像無法拿掉浮水印？請問你是否有用其他軟體輔助拿掉政治獻金文件的浮水印呢？謝謝。",
+                "id": "610264532383290"
+            },
+            {
+                "created_time": "2014-04-20T05:45:08+0000",
+                "from": {
+                    "name": "Shenk Wang",
+                    "id": "10208526673283831"
+                },
+                "message": "嗯 本身沒去浮水印的功能 但是有去雜點的功能 把它開到最大就去掉了 我有寫在 hackpad",
+                "id": "610266059049804"
+            },
+            {
+                "created_time": "2014-04-20T06:01:57+0000",
+                "from": {
+                    "name": "鈕克力",
+                    "id": "947477968789427"
+                },
+                "message": "說到打Captcha就不能不提2007年台灣參與的ClickClickClick（Click^3）世界大戰，當時台灣不少Hacker和鄉民都掉坑了（包括我）  >:o \n這件事後來還被美國政治學者 @Shelley Rigger 寫進「Why Taiwan Matters: Small Island, Global Powerhouse」一書裡\n\n以下連結為中譯本「台灣為什麼重要？美國兩岸研究權威寫給全美國人的台灣觀察報告」\nhttp:\/\/www.books.com.tw\/web\/sys_serialtext\/?item=0010578430\n\n當時不少高手也是寫了Captcha的OCR辨識，由電腦先判讀，再由打字兵人工打Captcha時做確認\/修正 \n因此我也把這個專案及新聞先貼到ptt的Click^3板面，拉多點人入坑 >:o \nhttp:\/\/www.ptt.cc\/bbs\/Little-Games\/M.1397973575.A.F1D.html",
+                "id": "610269255716151"
+            },
+            {
+                "created_time": "2014-04-20T06:13:50+0000",
+                "from": {
+                    "name": "Pei-hsun Jiang",
+                    "id": "10212815258949530"
+                },
+                "message": "謝謝 Shenk Wang，我threshold調到-50，浮水印還是有殘留，有些掃描檔可能須用command line試更高負值？（既然需要嘗試，2800頁也許需要分工？）",
+                "id": "610271932382550"
+            },
+            {
+                "created_time": "2014-04-20T07:31:53+0000",
+                "from": {
+                    "name": "Finjon Kiang",
+                    "id": "10211662005529746"
+                },
+                "message": "http:\/\/kiang.github.io\/tw-campaign-finance\/demo_text.html 更新為破關畫面 ;)",
+                "id": "610289179047492"
+            },
+            {
+                "created_time": "2014-04-20T11:33:57+0000",
+                "from": {
+                    "name": "Bo-Yuan Peng",
+                    "id": "2123781540982196"
+                },
+                "message": "我有朋友建議可以在 http:\/\/campaign-finance.g0v.ctiml.tw\/cell 加上 \"這題我不會\" 的按鈕。我是覺得有其必要性，但又怕 DoS......",
+                "id": "610469585696118"
+            },
+            {
+                "created_time": "2014-04-20T11:35:37+0000",
+                "from": {
+                    "name": "Shenk Wang",
+                    "id": "10208526673283831"
+                },
+                "message": "這顆按鈕寫作 F5 或 cmd +r ~~XD",
+                "id": "610481132361630"
+            },
+            {
+                "created_time": "2014-04-20T11:36:31+0000",
+                "from": {
+                    "name": "Bo-Yuan Peng",
+                    "id": "2123781540982196"
+                },
+                "message": "就技術來講很好，但就心理學上來講很糟 ><",
+                "id": "610490309027379"
+            }
+        ],
+        "summary": {
+            "total_count": 29
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "created_time": "2014-01-27T14:58:44+0000",
+    "message": "第一版的 蚊子館 app 我先獨立寫完上架了 (計畫發起人 姚瑞中老師的授權與資料提供)\n\nhttps:\/\/play.google.com\/store\/apps\/details?id=net.littlekang1.disusedpublicproperty&hl=zh_TW\n\n2\/22 我會申請 上台發表 ,\n\nYiling Chen  & 黃雋 會加入幫忙 , 應該會併入 BOT 的公部門相關專案中 .\n\n想請教  \"中央政府總預算\"\n\n長期目標希望每一筆 蚊子館建築 , 都可以臉書分享和 投票互動 ,\n能不能幫忙做技術指導?",
+    "id": "387816094628136_572767649466312",
+    "updated_time": "2014-01-28T02:02:05+0000",
+    "from": {
+        "name": "吳長鋼",
+        "id": "1585526751496464"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 43
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-01-27T14:59:01+0000",
+                "from": {
+                    "name": "吳長鋼",
+                    "id": "1585526751496464"
+                },
+                "message": "細節我寫在這裡:\nhttp:\/\/wuchangkang.blogspot.tw\/2014\/01\/app.html",
+                "id": "572767746132969"
+            },
+            {
+                "created_time": "2014-01-28T02:02:05+0000",
+                "from": {
+                    "name": "虞勝銓",
+                    "id": "1705832409440142"
+                },
+                "message": "他們做建設時，都不做市場調查針對統計需求的~~造成有供給而無實際需求的蚊子館",
+                "id": "572999599443117"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

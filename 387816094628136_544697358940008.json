@@ -1,0 +1,26 @@
+{
+    "created_time": "2013-11-24T10:08:03+0000",
+    "message": "一時興起，開始試著整理一下 http:\/\/law.moj.gov.tw\/LawClass\/LawContent.aspx?pcode=L0040084 列出的食品添加物資料，只是格式有點混亂，還在試著能否在沒有人工介入下將資料轉換為比較可以利用的格式，請參考專案：\n\nhttps:\/\/github.com\/kiang\/twfood\n\n目前進度只有轉文字格式而已，為了避免跟其他人還沒公佈的專案產生衝突，所以先上來發個聲音\n\n理想狀況是可以讓使用者協助將產品的原料名稱輸入系統，系統可以找出這些原料的細節，甚至進一步用更嚴格的標準來掃描產品（像是歐盟、美加或日本的標準），看看有沒有機會建立一個可以信賴的食品採購清單\n\n我是使用 PHP 搭配一些 Ubuntu 下找得到的工具處理，還沒有花太多時間寫文件或註解\n\n後續討論也可以透過群組： https:\/\/groups.google.com\/forum\/#!topic\/g0v-general\/xHItG7lcb2w",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_544697358940008",
+    "link": "https:\/\/groups.google.com\/d\/topic\/g0v-general\/xHItG7lcb2w",
+    "description": "Google Groups allows you to create and participate in online forums and email-based groups with a rich experience for community conversations.",
+    "name": "Google Groups",
+    "updated_time": "2013-11-24T10:08:03+0000",
+    "caption": "groups.google.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 9
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

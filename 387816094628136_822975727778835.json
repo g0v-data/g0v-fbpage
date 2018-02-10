@@ -1,0 +1,27 @@
+{
+    "created_time": "2015-06-22T14:45:13+0000",
+    "message": "http:\/\/drugs.olc.tw\/ 的資料大多來自食藥署，只是 http:\/\/data.fda.gov.tw\/ 的資料更新頻率沒有如同標示那樣進行（像是標示每週更新，但實際上半個月或甚至更久才會更新一次），所以開始試著直接從公開的查詢網頁上面取得藥物相關資訊\n\n另一個問題則是開放的資料集缺乏關鍵的廠商與成份索引代碼，這是另外一個驅動要從網頁取得資訊的原因，目前已經有初步成果\n\nhttps:\/\/github.com\/kiang\/tfda_license\n\n輸出的結果像 https:\/\/github.com\/kiang\/tfda_license\/blob\/master\/licenses\/02\/02003783.json\n\n如果剛好有其他朋友在處理相關資料集，也許可以看看有沒有用 :)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_822975727778835",
+    "link": "https:\/\/github.com\/kiang\/tfda_license",
+    "description": "tfda_license - working on license data extracted from tfda website",
+    "name": "kiang\/tfda_license",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD-qDopzeJ7SqSp&w=130&h=130&url=https%3A%2F%2Favatars2.githubusercontent.com%2Fu%2F47844%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQBdDqNtXXIDOZBe",
+    "updated_time": "2015-06-22T14:45:13+0000",
+    "caption": "github.com",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 16
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

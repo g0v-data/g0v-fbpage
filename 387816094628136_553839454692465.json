@@ -1,0 +1,27 @@
+{
+    "created_time": "2013-12-15T15:49:17+0000",
+    "message": "就愛玩 http:\/\/travel.olc.tw\/\n\n因為看到 Meshlet 自介，所以我也跳出來了 XD\n\n這也是運用 google map api 製作的一個網站，網站聚焦在製作旅遊行程上面，可以將地圖上任意點選的地點加入到行程中，完成行程之後還可以印出來帶著走。在檢視行程的時候可以透過 \"輸出\" 功能將行程輸出成 GPX, KML, OV2 等格式塞進 gps 裝備中，也提供一個快速連結將 KML 格式帶到 google map 中進行後續的編輯（前提是行程必須要公開）\n\n整個網站都是我做出來的，如果這兒有相關的專案需要類似服務支援，可以跟我聯絡 ;)",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_553839454692465",
+    "link": "http:\/\/travel.olc.tw\/",
+    "description": "This website is built for users in Taiwan. We focus on topics around traveling, like sharing travel travel itineraries, points and hotels. And even the comments, ranks after the travel. We try to offer the necessary information for travel planning and the tools to deal with them.",
+    "name": "就愛玩 | Plan your next trip | Customized trip",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBlFptP6I0_ecZG&w=130&h=130&url=http%3A%2F%2Ftravel.olc.tw%2Fcss%2Fimages%2Fhead_l.png&cfs=1&_nc_hash=AQDKzrQ9KSLRV4nt",
+    "updated_time": "2013-12-15T15:49:17+0000",
+    "caption": "travel.olc.tw",
+    "from": {
+        "name": "Finjon Kiang",
+        "id": "10211662005529746"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 9
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

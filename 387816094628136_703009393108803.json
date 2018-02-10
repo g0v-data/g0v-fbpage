@@ -1,0 +1,121 @@
+{
+    "created_time": "2014-10-29T09:39:58+0000",
+    "message": "各位大大\n我在爬資料碰到一個問題想請教一下\n我的目標是健保署合約院所查詢頁面\nhttp:\/\/www.nhi.gov.tw\/Query\/query3.aspx?menu=20&menu_id=712&WD_ID=828\n然後我手邊會有一些醫事機構代碼，我現在想要把它送進網頁裡的form的第一個input(input的name = ctl00$ContentPlaceHolder1$tbxHospID)，我是用php的curl去做，之前爬資料用這招沒問題，現在要用curl做submit form 然後 抓回search result一直失敗，只會output網頁頁面，而不是查詢結果.....\n\/\/code長這樣\n<?php\n\n$post_data = array('ctl00$ContentPlaceHolder1$tbxHospID'=>'0109859301');\n$url = 'http:\/\/www.nhi.gov.tw\/Query\/query3.aspx?menu=20&menu_id=712&WD_ID=828';\n\n$ch = curl_init();\n$options = array(CURLOPT_URL => $url,\n                 CURLOPT_HEADER => false,\n                 CURLOPT_RETURNTRANSFER => true,\n                 CURLOPT_SSL_VERIFYHOST => 0,\n                 CURLOPT_SSL_VERIFYPEER => false,\n                 CURLOPT_FOLLOWLOCATION => true,\n                 CURLOPT_POST => true,\n                 CURLOPT_POSTFIELDS => http_build_query($post_data),\n                 CURLOPT_USERAGENT => \"Mozilla\/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\",\n                 \/\/ CURLOPT_CONNECTTIMEOUT => 30,\n                 CURLOPT_AUTOREFERER => true\n                );\ncurl_setopt_array($ch, $options);\n\n$result = curl_exec($ch);\nprint '<pre>'; \nprint_r($result);\n\ncurl_close($ch);\n\n?>\n請問有解嗎???",
+    "id": "387816094628136_703009393108803",
+    "updated_time": "2014-10-30T03:48:02+0000",
+    "from": {
+        "name": "Jasper Chang",
+        "id": "10215323611871622"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-10-30T00:36:31+0000",
+                "from": {
+                    "name": "Rick Liu",
+                    "id": "10155446146924370"
+                },
+                "message": "可以看它的javascript跟html\n其實request是發去\nhttp:\/\/www.nhi.gov.tw\/Query\/query3_list.aspx\n所以你的url要填這裡\n\n另外\n你要的資料可能不用爬\nhttp:\/\/www.nhi.gov.tw\/webdata\/webdata.aspx?menu=20&menu_id=712&webdata_id=660&WD_ID=829\n這裡下載的到",
+                "id": "703296693080073"
+            },
+            {
+                "created_time": "2014-10-30T02:04:01+0000",
+                "from": {
+                    "name": "Jasper Chang",
+                    "id": "10215323611871622"
+                },
+                "message": "謝R大 我知道第二個link可載到資料\n不過那是最新的清冊，所以裡面不會有解除合約或歇業院所(舊)的資料\n我raw data處理完，要把抓到解除合約院所的id去補齊他的詳細資料\n所以想到去查詢系統那邊做request因為他有完整的data\n剛把request的url改 http:\/\/www.nhi.gov.tw\/Query\/query3_list.aspx\n再把array的index改一下，成功output頁面了",
+                "id": "703321079744301"
+            },
+            {
+                "created_time": "2014-10-30T02:09:19+0000",
+                "from": {
+                    "name": "Rick Liu",
+                    "id": "10155446146924370"
+                },
+                "message": "可是我看起來，有歇業或是解除合約的這個欄位耶\n--\n分局別\n醫事機構代碼\n醫事機構名稱\n機構地址\n電話區域號碼\n電話號碼\n特約類別\n型態別\n醫事機構種類\n終止合約或歇業日期\n--\nex:\n\"1\",\"1531041354\",\"怡和醫院\",\"新北市中和區連城路４９號１－４樓\",\"02\",\"22450009\",\"3\",\"02\",\"A\",\"20130902\"",
+                "id": "703322176410858"
+            },
+            {
+                "created_time": "2014-10-30T02:12:58+0000",
+                "from": {
+                    "name": "Jasper Chang",
+                    "id": "10215323611871622"
+                },
+                "message": "對唷 但他其實不完整\n我手邊要比對的資料就會有多筆查不到\n舉例 hosp_id = 350102B328在該清冊找不到，到系統可以查得到",
+                "id": "703322883077454"
+            },
+            {
+                "created_time": "2014-10-30T02:14:28+0000",
+                "from": {
+                    "name": "Rick Liu",
+                    "id": "10155446146924370"
+                },
+                "message": "有阿\n\"1\",\"350102B328\",\"北電診所\",\"台北市大安區和平東路１段７６號\",\"02\",\"29783456\",\"4\",\"08\",\"A\",\"20140707\"",
+                "id": "703323326410743"
+            },
+            {
+                "created_time": "2014-10-30T02:15:37+0000",
+                "from": {
+                    "name": "Rick Liu",
+                    "id": "10155446146924370"
+                },
+                "message": "我是下載http:\/\/www.nhi.gov.tw\/Resource\/webdata\/8568_1_hospbsc.zip",
+                "id": "703324023077340"
+            },
+            {
+                "created_time": "2014-10-30T02:24:25+0000",
+                "from": {
+                    "name": "Jasper Chang",
+                    "id": "10215323611871622"
+                },
+                "message": "我也是載這個 8568_1_hospbsc.zip \n不過發現尷尬了\n原來 8568_1_hospbsc.zip 解壓出來有1個txt跟1個hospbsc壓縮檔，hospbsc壓出來的txt跟另一個txt內容不同.....幹麻這樣放|||",
+                "id": "703326219743787"
+            },
+            {
+                "created_time": "2014-10-30T02:25:21+0000",
+                "from": {
+                    "name": "Rick Liu",
+                    "id": "10155446146924370"
+                },
+                "message": "噢對，我是看第一層的txt",
+                "id": "703326513077091"
+            },
+            {
+                "created_time": "2014-10-30T02:29:08+0000",
+                "from": {
+                    "name": "Jasper Chang",
+                    "id": "10215323611871622"
+                },
+                "message": "不懂檔案這樣放的邏輯....\n謝R大確實可以找到該有的資料，\n不過我還是有點好奇，\n我現在有多筆ID，一樣要丟入作查詢\n該系統只能每次單筆查詢，我想做到類似批次匯入，每次search結果存入array，然後一次output出來\n我看查詢出來的原始碼，沒有吐json什麼的，沒有頭緒怎麼存\n我剛用simple_html_dom去parse單筆search結果頁面也失敗|||",
+                "id": "703327726410303"
+            },
+            {
+                "created_time": "2014-10-30T02:54:06+0000",
+                "from": {
+                    "name": "Rick Liu",
+                    "id": "10155446146924370"
+                },
+                "message": "我剛剛試了simple_html_dom好像真的parse不出來，不知道是不是哪裡沒設定好，太久沒用php抓資料了。python的BeautifulSoup倒是可以順利parse出來。\n\n我通常是crawl, parse, search分開來拉\n先把資料都抓下來趴好，要用的時候再去db找",
+                "id": "703334313076311"
+            },
+            {
+                "created_time": "2014-10-30T03:48:02+0000",
+                "from": {
+                    "name": "Jasper Chang",
+                    "id": "10215323611871622"
+                },
+                "message": "ok 晚點來試試 BeautifulSoup",
+                "id": "703346693075073"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "created_time": "2014-03-22T19:15:42+0000",
+    "message": "剛剛在用自己的筆電在家測試直播\n發現其實在只有1M上傳 使用CPU軟壓H.264的情況下\n1366X768畫質和聲音其實都還可以 只是偶而卡頓(應為網路問題)\nCPU使用率也最高約70%\n所以其實筆電不用用太好的 就可以直撥了 也不用圓剛實況卡\n\n分享一下我的筆電配備\nCPU:I5-520M\nGPU:GT330M\nRAM:8G(6G RAM+2GRAMDISK)\nSSD:EZLINK T34 128G",
+    "id": "387816094628136_597688933640850",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=882880305071125&set=gm.597688933640850&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/1977475_882880305071125_1755404862_n.jpg?oh=07fc26ac0f7a04da4ca4c90ecb96a2c9&oe=5B22F4B8",
+    "updated_time": "2014-03-22T21:47:17+0000",
+    "from": {
+        "name": "張竣堯",
+        "id": "2363819696977171"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 17
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-22T21:47:17+0000",
+                "from": {
+                    "name": "黃中豪",
+                    "id": "10215647512971820"
+                },
+                "message": "謝謝你們～",
+                "id": "597743713635372"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

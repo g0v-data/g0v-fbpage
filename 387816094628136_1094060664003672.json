@@ -1,0 +1,36 @@
+{
+    "created_time": "2016-10-10T22:40:17+0000",
+    "message": "[詢問] 想請問熟悉 pol.is 的朋友，針對「意見分群」的運算方式大致上的原則是什麼呢？就一些實際操作的案例來看，似乎是有一些主要的原則，例如顯示支持率最高的意見，不過也看到群組之間隨著時間整合或分化的過程。主要希望將運算方式稍作整理，提供給更多議題推動者參考使用。\n\n---------\nhttps:\/\/docs.pol.is\/welcome\/Overview.html\n\nHow polis is different\n\nPolis runs statistical analysis on these voting patterns, also in real-time. It produces opinion groups and surfaces the comments that brought each group together. It also surfaces comments that found broad consensus among participants.\n\n---------\n另外，如何把 pol.is 成果用敘述的方式說明，也是一個蠻重要的環節。有看到 au 針對 Uber 議題意見的說明方式，例如說明群組的演變過程（若有明顯的變化），以及從階段成果的分群結果之間的差異來描述參與者對於議題的不同態度等等。\n\nhttp:\/\/pugs.blogs.com\/audrey\/2015\/10\/vtaiwan-uberx.html",
+    "story": "Che Wei Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1094060664003672",
+    "link": "https:\/\/docs.pol.is\/welcome\/Overview.html",
+    "description": "Polis is a new way to gather open ended feedback from large groups of people. It is well suited to gathering organic, authentic feedback while retaining minority opinions.",
+    "name": "Overview | Polis Documentation",
+    "updated_time": "2016-10-13T07:11:36+0000",
+    "caption": "docs.pol.is",
+    "from": {
+        "name": "Che Wei Liu",
+        "id": "10156142432594038"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 6
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2016-10-12T16:13:19+0000",
+                "from": {
+                    "name": "Chen Hung-Han",
+                    "id": "10216115892278606"
+                },
+                "message": "你是說背後的演算法？if so, 他應該是用unsupervised machine learning做multi-dimensional clustering, 中間隨時加入user input(votes)，你看到的是dimentioanl reduction  之後的結果。user input的部份在學術上叫做interactive machine learning，這幾個名詞在google上都找的到簡單的解釋",
+                "id": "1095665277176544"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

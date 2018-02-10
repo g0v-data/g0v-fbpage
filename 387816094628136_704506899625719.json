@@ -1,0 +1,33 @@
+{
+    "created_time": "2014-11-01T17:05:24+0000",
+    "message": "招募 ➫　地號轉地圖編輯器 Land No. Mapper \nhttps:\/\/g0v.hackpad.com\/-Land-No.-Mapper-uhB6qAwYXe5\n\n［專案特點（許願）］\n\n● 一個【輸入段小段地號，產出地圖與圖形】的工具\n● 完成一個 非程式人也可以用的介面\/編輯器\n● 並且有圖層管理的功能\n● 結合地圖（OSM、googlemap）\n● 地圖成果能有網址連結\n● 類似 TimeMapper\n● 是否與 QGIS 重複功能 ?\n\n［專案目的］讓關注土地議題的人使用此工具。\n\n● 應用情境：新店碧潭吊橋都更案地號比對。圖片上半部：都市更新事業計畫書，都市更新案範圍中的地號；圖片下半部：ronnywang 繪製的地號範圍作並置，上方為碧潭吊橋古蹟地號範圍，下方為都市更新案地號範圍 [1]\n\n● 應用情境：黨產土地地號進行地圖化 KMT Property [2]\n● 應用情境：天龍特公地，公有土地研究資料轉成地圖 [3]\n\n[1] https:\/\/github.com\/ronnywang\/sandbox\/tree\/master\/20130805\n[2] https:\/\/g0v.hackpad.com\/-KMT-Property-87CNswL2g7U\n[3] http:\/\/taipei-pop.herokuapp.com",
+    "id": "387816094628136_704506899625719",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10152843540329038&set=gm.704506899625719&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/1780897_10152843540329038_5190929700640482519_n.jpg?oh=8994a5c3a8d81ec71be75815368efc19&oe=5B257EF0",
+    "updated_time": "2015-10-24T06:04:56+0000",
+    "from": {
+        "name": "Che Wei Liu",
+        "id": "10156142432594038"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 25
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2015-10-24T06:04:56+0000",
+                "from": {
+                    "name": "Che Wei Liu",
+                    "id": "10156142432594038"
+                },
+                "message": "http:\/\/codepen.io\/dz1984\/full\/NqgVPj",
+                "id": "878717962204611"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

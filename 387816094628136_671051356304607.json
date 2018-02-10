@@ -1,0 +1,20 @@
+{
+    "created_time": "2014-08-25T14:28:13+0000",
+    "id": "387816094628136_671051356304607",
+    "updated_time": "2014-08-25T14:28:13+0000",
+    "from": {
+        "name": "YuehYing Song",
+        "id": "10215405975331254"
+    },
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

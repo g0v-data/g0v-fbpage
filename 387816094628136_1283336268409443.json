@@ -1,17 +1,12 @@
 {
     "created_time": "2017-04-16T10:04:46+0000",
     "message": "翻轉新聞松 Hacking Journalism",
-    "story": "Yutin Liu was live on g0v.tw 後勤中心's timeline.",
     "id": "387816094628136_1283336268409443",
     "link": "https:\/\/www.facebook.com\/329657564210594\/videos\/196224827553869",
-    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t15.0-10\/s130x130\/17996769_196246747551677_2819809217106411520_n.jpg?oh=f575e8066f154ae0fdd13e1ad24bfce3&oe=5B08EBA7",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t15.0-10\/s130x130\/17996769_196246747551677_2819809217106411520_n.jpg?_nc_cat=0&oh=6eeedbde92c3dc2bee7a7f53a5acb813&oe=5BA71FA7",
     "updated_time": "2017-04-16T10:16:54+0000",
     "shares": {
         "count": 3
-    },
-    "from": {
-        "name": "Yutin Liu",
-        "id": "329657564210594"
     },
     "likes": {
         "summary": {
@@ -22,10 +17,6 @@
         "data": [
             {
                 "created_time": "2017-04-16T10:16:51+0000",
-                "from": {
-                    "name": "Yutin Liu",
-                    "id": "329657564210594"
-                },
                 "message": "立委投票指南 Messenger\nm.me\/TW.Voter.Guide",
                 "id": "1283341375075599"
             }

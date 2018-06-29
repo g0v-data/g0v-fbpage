@@ -1,82 +1,61 @@
 {
     "created_time": "2014-12-19T06:20:58+0000",
     "message": "之前好像有看到有團隊在做公共空間地圖？可以藉事件推廣給鄉民使用 XD",
-    "story": "Yu Chung-Jen shared a link to the group: g0v.tw 後勤中心.",
     "id": "387816094628136_726833740726368",
     "link": "http:\/\/disp.cc\/b\/2-8m8f",
     "description": "1.媒體來源: 三立新聞網 2.完整新聞標題: 獨／你的豪宅我的遊樂場？闖公設騎車吃便當　警無法可管 3.完整新聞內文: 豪宅取得開放空間容積獎勵後，依照法規就得開放公共空間，但卻有人藉此鬧事，一名男 子跑到新北市一處豪宅，在大廳騎腳踏車、吃便當最後甚至誇張到躺在地上做仰臥起坐， 警衛 ...",
     "name": "[新聞] 你的豪宅我的遊樂場？闖公設騎車吃便當　 - Test板 - Disp BBS",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCRYOwdPR93_D3m&w=130&h=130&url=http%3A%2F%2Fsetmoney.blob.core.windows.net%2Fnewsimages%2F2014%2F12%2F18%2F192415-XXL.jpg&cfs=1&_nc_hash=AQCoOHi9qfj5z9QY",
-    "updated_time": "2014-12-19T06:41:09+0000",
+    "updated_time": "2018-05-09T16:43:08+0000",
     "caption": "disp.cc",
-    "from": {
-        "name": "Yu Chung-Jen",
-        "id": "10215703159719805"
+    "shares": {
+        "count": 1
     },
     "likes": {
         "summary": {
-            "total_count": 46
+            "total_count": 49
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2014-12-19T06:23:40+0000",
-                "from": {
-                    "name": "蔡家豪",
-                    "id": "2006991252647605"
-                },
                 "message": "是公設 還是公共空間？\n好像兩個是不同的東西",
                 "id": "726834887392920"
             },
             {
                 "created_time": "2014-12-19T06:26:10+0000",
-                "from": {
-                    "name": "Ronny Wang",
-                    "id": "1417580878352707"
-                },
                 "message": "http:\/\/github.ronny.tw\/ronnywang\/taipei-open-space\/blob\/master\/geojson.json 83年到99年台北市的資料",
                 "id": "726835800726162"
             },
             {
                 "created_time": "2014-12-19T06:28:31+0000",
-                "from": {
-                    "name": "Yu Chung-Jen",
-                    "id": "10215703159719805"
-                },
                 "message": "自己的容積自己用 竟然有散步導覽團  XD",
                 "id": "726836444059431"
             },
             {
                 "created_time": "2014-12-19T06:29:00+0000",
-                "from": {
-                    "name": "Yu Chung-Jen",
-                    "id": "10215703159719805"
-                },
                 "message": "蔡家豪 照文中意思應該是公共空間或開放空間才對，我更正一下",
                 "id": "726836580726084"
             },
             {
                 "created_time": "2014-12-19T06:39:32+0000",
-                "from": {
-                    "name": "蔡家豪",
-                    "id": "2006991252647605"
-                },
                 "message": "是啊\n已經有風向說：以後社區游泳池大家都可以進來了\n\n但是那是不一樣的東西，如果風向偏了就很麻煩",
                 "id": "726838564059219"
             },
             {
                 "created_time": "2014-12-19T06:41:09+0000",
-                "from": {
-                    "name": "Che Wei Liu",
-                    "id": "10156142432594038"
-                },
                 "message": "http:\/\/data.gov.tw\/node\/9395\n\n【敬請開放獎勵容積之評定與核計等相關資料集】\n\n獎勵容積之評定與核計，事關整體都市發展，相關政策的形成，長期以委員會與行政機關意向為主導，此議題應受民眾公評，已核定的獎勵容積之資料集，應盡速匯整公佈，才有助於民眾參與此政策之討論與關注。\n\n答：\n您好, 有關於您提到開放『獎勵容積之評定與核計』資料集，相關主管機關回復如下： 獎勵容積之評定與核計結果、會議紀錄等事涉地方自治事項，目前本署並無此獎勵容積之資料集。 建議您逕向直轄市、縣市主管機關洽詢提供。 謝謝您！",
                 "id": "726838820725860"
+            },
+            {
+                "created_time": "2018-05-09T16:43:05+0000",
+                "message": "台北市政府釋出資料了～ 149筆，有提供經緯度，至於開放空間的範圍，則是有提供平面圖照片\n\nhttp:\/\/data.taipei\/opendata\/datalist\/datasetMeta?oid=92aad287-2241-4929-a7e2-87989763f334",
+                "id": "1646694418740291"
             }
         ],
         "summary": {
-            "total_count": 6
+            "total_count": 7
         }
     }
 }

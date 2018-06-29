@@ -1,52 +1,35 @@
 {
     "created_time": "2018-02-09T11:00:41+0000",
     "message": "我做的专题报道：《來自瑞穗居民的花蓮地震報導》用原創調查回答了以下問題：\n\nPWS的國家級警報是甚麼？\n地震為何可以預警？\n花蓮有哪些建築物受損？\n雲門翠堤大樓受損情況\n統帥大飯店受損情況\n米崙斷層是甚麼\n政府提供的災情統計數據\n台灣地震預測研究所所長林湧森是誰？\n林湧森的地震預測依據是甚麼？\n中央氣象局磁力觀測資料如何解讀\n\n",
-    "story": "Zola Zhou shared a link to the group: g0v.tw 後勤中心.",
     "id": "387816094628136_1555997864476614",
     "link": "https:\/\/www.shuiwei.org\/breakingnews\/earthquake-report-from-hualien.htm",
     "description": "收到過來自行政院的災防通報警示系統的地震預警嗎？警報和地震賽跑並非僅僅是地震波和光電網絡訊號之間的賽跑哦，這個幾秒的時間差更多是地震產生的縱波和地震產生的橫波賽跑贏來的時間差。",
     "name": "來自瑞穗居民的花蓮地震報導",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCVpzHqRCc427L4&w=130&h=130&url=https%3A%2F%2Fwww.shuiwei.org%2Fwp-content%2Fuploads%2F2018%2F02%2Fwm_wm_IMG_8657.png&cfs=1&_nc_hash=AQDV8PPlOYKVyPQi",
-    "updated_time": "2018-02-09T13:22:00+0000",
+    "updated_time": "2018-03-13T15:04:17+0000",
     "caption": "shuiwei.org",
     "shares": {
-        "count": 1
-    },
-    "from": {
-        "name": "Zola Zhou",
-        "id": "10154896691197757"
+        "count": 4
     },
     "likes": {
         "summary": {
-            "total_count": 8
+            "total_count": 15
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2018-02-09T11:01:26+0000",
-                "from": {
-                    "name": "Zola Zhou",
-                    "id": "10154896691197757"
-                },
                 "message": "我是新手，我這也算親自挖坑跳坑吧？",
                 "id": "1555998381143229"
             },
             {
                 "created_time": "2018-02-09T11:07:11+0000",
-                "from": {
-                    "name": "Pei-Cheng Huang",
-                    "id": "2034321466584963"
-                },
                 "message": "地震的預警監測比地震預測更可靠，其原理是偵測P波；P波在地殼中的傳遞速度快過具破壞力的S波及雷利波，故可先期偵測。此法只能提早數秒（對於較深及較遠的大地震，或可達數十秒）預警。\n\nhttps:\/\/zh.wikipedia.org\/wiki\/地震預測",
                 "id": "1556001741142893"
             },
             {
                 "created_time": "2018-02-09T13:10:33+0000",
-                "from": {
-                    "name": "梅佩仙",
-                    "id": "1564553226914544"
-                },
                 "message": "這次的預警對北北基有效果，但是對花蓮就沒有了！",
                 "id": "1556090321134035"
             }

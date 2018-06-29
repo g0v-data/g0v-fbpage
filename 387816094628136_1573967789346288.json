@@ -1,0 +1,81 @@
+{
+    "created_time": "2018-02-27T05:09:18+0000",
+    "message": "自本月初花蓮地震後發現長時間打不開中央氣象局網站後，我於是動手做了一個地震機器人，能用Twitter、Line、Telegram通知地震詳情。\nhttps:\/\/zuo.la\/earthquake\/\n能幫以上平台的用戶解決地震發生後打不開中央氣象局網站產生的感到焦慮的問題。\n仍有以下問題沒有解決：\n1、中央氣象局的API連中央氣象局的人都嫌棄，設計不合理;\n2、國家災害防救科技中心的API也有很多需要改進的地方;\n3、Line平台的push API太貴了，個人開發者承擔不起;\n4、最重要的問題還是中央氣象局的網站設計問題，WEB設計不合理，砸更多錢做更多負載均衡也解決不了問題：一個首頁居然有40個面向同一sever的keep alive的request，可40倍放大DDOS效果，地震發生後需要多砸40倍的錢去做負載均衡應付訪問高峰。\n\nAnyway，感謝政府開放數據接口，讓開發者有了更多解決問題的可能性。\n歡迎大家收藏或推廣，或提供反饋和建議。",
+    "id": "387816094628136_1573967789346288",
+    "link": "https:\/\/zuo.la\/earthquake\/",
+    "description": "地震了嗎？ 在台灣哪裡？地震機器人總有一種辦法第一時間把台灣地震詳情通報於你，不用再去擠爆中央氣象局網站啦。僅4.0以上地震才會發出警報。maintain by @zuola",
+    "name": "台灣地震速報機器人，只通報4.0以上地震。",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCDRyjCfK36rmPa&w=130&h=130&url=https%3A%2F%2Fzuo.la%2Fearthquake%2Ftaiwan.png&cfs=1&_nc_hash=AQBMv9ZwynnAtWNE",
+    "updated_time": "2018-02-27T15:27:10+0000",
+    "caption": "zuo.la",
+    "shares": {
+        "count": 22
+    },
+    "likes": {
+        "summary": {
+            "total_count": 134
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-02-27T05:13:42+0000",
+                "message": "陳坤助",
+                "id": "1573969766012757"
+            },
+            {
+                "created_time": "2018-02-27T05:19:05+0000",
+                "message": "借轉 Chatbot Developers Taiwan :)",
+                "id": "1573976496012084"
+            },
+            {
+                "created_time": "2018-02-27T05:20:39+0000",
+                "message": "不知道有沒有人熟悉Web Performance優化，如yslow這樣的工具，http:\/\/yslow.org 都可以給中央氣象局的WEB開發者一些建議。有些image可以放在cookie-free的server上，keep-alive可以關掉或把time-out設置短一點，這些動作都可以節約server的RAM，更承受更多並發訪問。",
+                "id": "1573977349345332"
+            },
+            {
+                "created_time": "2018-02-27T05:21:46+0000",
+                "message": "剛剛也是想到 KNY 陳坤助",
+                "id": "1573977842678616"
+            },
+            {
+                "created_time": "2018-02-27T05:29:06+0000",
+                "message": "看看看到社團貼文，我這邊可以提供一個 Line push api，不過也希望接我們後台 (是個 CRM，完全不影響正常運營） Zola Zhou 覺得可嗎~",
+                "id": "1573980856011648"
+            },
+            {
+                "created_time": "2018-02-27T05:50:54+0000",
+                "message": "https:\/\/rocket.cafe\/talks\/44908 貌似KNY沒有 iOS版本，我暫時沒有在用android",
+                "id": "1573990649344002"
+            },
+            {
+                "created_time": "2018-02-27T06:21:20+0000",
+                "message": "好奇",
+                "id": "1574010016008732"
+            },
+            {
+                "created_time": "2018-02-27T07:46:29+0000",
+                "message": "噗 剛剛才收到這封信件",
+                "id": "1574051522671248"
+            },
+            {
+                "created_time": "2018-02-27T07:46:37+0000",
+                "message": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSepWUMBEMldgarnvae-nONU_9uy-6Ip6z5DxkQAzzm-QlC-JQ\/viewform",
+                "id": "1574051599337907"
+            },
+            {
+                "created_time": "2018-02-27T14:20:41+0000",
+                "message": "張彌奈",
+                "id": "1574319392644461"
+            },
+            {
+                "created_time": "2018-02-27T15:27:08+0000",
+                "message": "今天把這個鏈接分享出來後， 總共得到2050個訪問。剛才用textwrangler這個文本編輯器查找替換得到以下統計數據：約有1490個Facebook webview的使用者。1558個iPhone OS訪問者中，zh_TW訪問者有1224個，en_US訪問者有202個，en_GB有31個，zh_HK有13個,zh_CN有16個; 175個 Android訪問者，149個Windows訪問者，79個Macintosh訪問者，21個Linux x86_64的訪問者，兩個Slackbot訪問，67個iPad訪問者，11個Trident瀏覽器。還有若干Yahoo\\flipboard\\python\\MetaURI\\GnowitNewsbot\\EveryoneSocialBot\\Mediatoolkitbot\\Twitterbot\\dataminr.com\\ShortLinkTranslate的爬蟲. 訪問者useragent數據自動寫入了這個文件中，有興趣的極客可以研究一下：https:\/\/zuo.la\/earthquake\/useragent.txt  Facebook的useragent很特別。重點來了：本群組iPhone使用者比例遠高於android使用者比例; windows用戶比mac用戶多一倍，MAC用戶比linux用戶多三倍。",
+                "id": "1574370692639331"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

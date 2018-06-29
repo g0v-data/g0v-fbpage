@@ -1,0 +1,25 @@
+{
+    "created_time": "2018-03-22T13:19:01+0000",
+    "message": "Hi 我們是 sense.tw，在做一個開源的議題釐清的工具。我們希望這樣能幫助政策分析師，也能幫助 NGO 倡議之前釐清議題，而且不同團體和個人可以在此工具上協作整理議題相關資料，釐清爭議點。\n\n我們不只做工具，也想要嘗試新的做政府計畫的方法（呃，好像不應該這樣講），所以也分享我們團隊改版產品的工作坊心得。\n\n社群中有興趣的人可以聯絡我做使用者訪談，或是加入 #sense 在 g0v 的 Slack 上。\n\n目前是一個四層的工具，【網頁\/pdf 文件】上可以標註、畫重點、評論，所摘錄的重點和評論會變成有原始文獻連結的【卡片】，整理卡片可以變成一張概念的【便利貼】，【便利貼】可以再變成心智圖的一個節點。理想上，你今天不理解 AI 人才培育，給你一張整理好的心智圖，你可以一路看回原始文獻，在原始文獻上也可以看到跟這份原始文獻有關的其他政策、研究報告、臉書評論（完全依靠人工整理），你也可以隨時增加其他文獻與其他便利貼節點。更詳細的內容可以看影片：https:\/\/youtu.be\/LiEvr4ClAFo。\n\nhttps:\/\/blog.sense.tw\/2018\/03\/design-sprint-upgrade\/",
+    "id": "387816094628136_1598482723561461",
+    "link": "https:\/\/blog.sense.tw\/2018\/03\/design-sprint-upgrade\/",
+    "description": "五天 Design Sprint：議題整理工具大升級 我們是 sense.tw，想要讓台灣的科技政策 make sense，想要解決科技政策如何在前期規劃納入更多民間專家的建設性意見。這樣的命題可以五天就做出 prototype 然後測試嗎？Design Sprint 的書裡有個...",
+    "name": "五天 Design Sprint：議題整理工具大升級 – sense.tw",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQA2olH9pXYB8Cpb&w=130&h=130&url=https%3A%2F%2Fstorage.googleapis.com%2Fstateless-blog-sense-tw%2F2018%2F03%2F51971e3b-img_2023.jpg&cfs=1&_nc_hash=AQDIVZX_NVv-KRqs",
+    "updated_time": "2018-03-22T13:19:01+0000",
+    "caption": "blog.sense.tw",
+    "shares": {
+        "count": 21
+    },
+    "likes": {
+        "summary": {
+            "total_count": 54
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

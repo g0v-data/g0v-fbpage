@@ -1,0 +1,35 @@
+{
+    "created_time": "2018-05-04T01:47:38+0000",
+    "message": "立委咖電喂新增Line Bot版 （開發者為Fred Lin  slack：gasolin）\nhttps:\/\/line.me\/R\/ti\/p\/%40ybi3779e\n輸入現任立委名字任一字都可查到立委的電話\/FB\/LINE\nhttps:\/\/github.com\/gasolin\/callliweibot",
+    "id": "387816094628136_1641191879290545",
+    "link": "https:\/\/line.me\/R\/ti\/p\/%40ybi3779e",
+    "description": "Open the Friends tab in your LINE app, tap the add friends icon inthe top right, select \"QR code,\" and then scan this QR code.",
+    "name": "LINE Add Friend",
+    "updated_time": "2018-05-04T15:27:54+0000",
+    "caption": "line.me",
+    "shares": {
+        "count": 4
+    },
+    "likes": {
+        "summary": {
+            "total_count": 20
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-05-04T02:25:58+0000",
+                "message": "謝謝介紹，我是開發者。目前的bot只是有基本功能的初版，帳號用的圖片之類都是隨意放的。歡迎感興趣或過幾天參加大松(我不在現場但在slack)有意願幫忙的人聯絡我，可以繼續改進程式部份或幫忙維護LINE channel。例如將資料改用卡片呈現，設計更多的對話功能\/流程，整合立委投票指南(這比較複雜)等等 https:\/\/github.com\/gasolin\/callliweibot\/issues\/1 (PS: 開發者id 是gasolin, 沒有e :p)",
+                "id": "1641214852621581"
+            },
+            {
+                "created_time": "2018-05-04T14:05:12+0000",
+                "message": "超快，我花不到五秒就找到戰神國昌的聯絡電話 😄",
+                "id": "1641695309240202"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

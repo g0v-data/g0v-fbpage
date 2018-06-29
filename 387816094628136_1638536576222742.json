@@ -1,0 +1,55 @@
+{
+    "created_time": "2018-05-01T12:14:02+0000",
+    "message": "想請教一下\n為什麼例假日跟休息日的加班出勤算法不同?",
+    "id": "387816094628136_1638536576222742",
+    "link": "https:\/\/labweb.mol.gov.tw\/index_2.html#holidaySet=false%2Cfalse%2Cfalse%2Cfalse%2Cfalse%2Cfalse%2Cfalse&holidayWorkhours=0&holidayWorkhours=0&holidayWorkhours=0&holidayWorkhours=0&holidayWorkhours=0&holidayWorkhours=0&holidayWorkhours=0&monthlyPay=24000&regularDayOffWorkReason=disaster&specialDayOffWorkReason=specialLaborAgree&workhours=8%2C8%2C8%2C8%2C8%2C8%2C0",
+    "description": "。",
+    "name": "加班費試算系統",
+    "updated_time": "2018-05-01T14:21:27+0000",
+    "caption": "labweb.mol.gov.tw",
+    "shares": {
+        "count": 2
+    },
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-05-01T12:51:45+0000",
+                "message": "因為例假日跟休息日定義不一樣\n勞基法對這兩天的加班費計算不一樣",
+                "id": "1638564679553265"
+            },
+            {
+                "created_time": "2018-05-01T12:53:25+0000",
+                "message": "那如果針對5\/1假是怎麼算",
+                "id": "1638565646219835"
+            },
+            {
+                "created_time": "2018-05-01T13:08:45+0000",
+                "message": "勞動節算國定假日 要加倍",
+                "id": "1638579412885125"
+            },
+            {
+                "created_time": "2018-05-01T13:10:26+0000",
+                "message": "如果是領月薪\n好像只會*以1",
+                "id": "1638580592885007"
+            },
+            {
+                "created_time": "2018-05-01T13:19:01+0000",
+                "message": "細看了一下好像是第9小時開始才*1.34",
+                "id": "1638587329551000"
+            },
+            {
+                "created_time": "2018-05-01T14:21:25+0000",
+                "message": "例假日 正常×2.66 但未強制，也就是.33 .66都合法，有問題可申請勞資協商",
+                "id": "1638635062879560"
+            }
+        ],
+        "summary": {
+            "total_count": 6
+        }
+    }
+}

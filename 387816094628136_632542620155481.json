@@ -1,0 +1,64 @@
+{
+    "created_time": "2014-06-05T16:21:59+0000",
+    "message": "也許台灣可有一個全民投票的專案,\n透過電話號碼來驗證.\n雖然投票結果不具任何法律效益,\n但只要有公信力的平台, 就會俱有一定的民意反應力量.\n比那些假民調好太多哩",
+    "story": "YuTin Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_632542620155481",
+    "link": "https:\/\/www.popvote.hk\/",
+    "description": "「普及投票計劃」範圍涵蓋專為團體或機構而設的小型電子投票計劃、為社區或界別而設的中型電子投票計劃、以及為普羅巿民而設的大型民間全民投票計劃。",
+    "name": "PopVote 普及投票",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQD10pzKgvtW8EMa&w=130&h=130&url=https%3A%2F%2Fwww.popvote.hk%2Fimages%2Fvote_May2014%2Ffont_page_poster.jpg&cfs=1&_nc_hash=AQCuBQQJcQDz3DjI",
+    "updated_time": "2014-06-10T02:57:44+0000",
+    "caption": "popvote.hk",
+    "likes": {
+        "summary": {
+            "total_count": 28
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-06-05T16:36:40+0000",
+                "message": "之前試作的健保卡認証投票系統:\n\nhttp:\/\/peoplevote.tw\/vote\/5361bce840fe54174bcc894b",
+                "id": "632547463488330"
+            },
+            {
+                "created_time": "2014-06-09T16:17:52+0000",
+                "message": "香港的開源界也開始做一個 openvote 系統 http:\/\/github.com\/opensourcehk",
+                "id": "634421839967559"
+            },
+            {
+                "created_time": "2014-06-09T16:18:29+0000",
+                "message": "cc Calvin Tsang",
+                "id": "634421963300880"
+            },
+            {
+                "created_time": "2014-06-09T16:21:51+0000",
+                "message": "我們香港沒有另一樣東西可証明是香港人身份",
+                "id": "634422929967450"
+            },
+            {
+                "created_time": "2014-06-09T17:40:58+0000",
+                "message": "健保卡的目的是取得身分證字號, 這技術的確很棒, 但這樣的複雜度會不會提升了投票門檻, 造成投票率低落？ 超簡單的自助加油功能都有不少人不敢用QQ",
+                "id": "634449926631417"
+            },
+            {
+                "created_time": "2014-06-09T17:48:05+0000",
+                "message": "只要政府不配合就會提昇門檻",
+                "id": "634452496631160"
+            },
+            {
+                "created_time": "2014-06-09T23:41:34+0000",
+                "message": "自然人如何？",
+                "id": "634569099952833"
+            },
+            {
+                "created_time": "2014-06-10T02:57:44+0000",
+                "message": "自然人:\n\n1、普及率尚未及20%\n2、需要特定身分(政府機關、公司行號、人民團體)才能申請開發用SDK\n3、一樣也要讀卡機\n4、取得資料後，需再申請政府資料庫連線才能確定使用人身分\n\n但是優點是安全性以及防偽性高非常的多",
+                "id": "634635509946192"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "created_time": "2014-05-17T15:50:24+0000",
+    "message": "inLiveTW 現在已經高達56個頻道,\n在此把Open出來的Data加上使用說明.\n\n說明：https:\/\/github.com\/inLiveTW\/server\n\n『DATA』\n直播: https:\/\/livelink.firebaseio.com\/live\/.json\n頻道: https:\/\/livelink.firebaseio.com\/channel\/.json\n報導: https:\/\/livelink.firebaseio.com\/news\/.json\n事件: https:\/\/livelink.firebaseio.com\/event\/.json\n\n歡迎任何Open Source\/Open Data使用.",
+    "story": "YuTin Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_623461371063606",
+    "link": "https:\/\/github.com\/inLiveTW\/server",
+    "description": "Contribute to server development by creating an account on GitHub.",
+    "name": "inLiveTW\/server",
+    "updated_time": "2014-05-20T10:11:14+0000",
+    "caption": "github.com",
+    "likes": {
+        "summary": {
+            "total_count": 57
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-05-17T15:52:24+0000",
+                "message": "額 要增加是要送pr 還是? https:\/\/www.youtube.com\/user\/lyforeveret 偶爾會有g0v talk 或 小松直播",
+                "id": "623462117730198"
+            },
+            {
+                "created_time": "2014-05-17T15:55:12+0000",
+                "message": "Ly Cheng 完成^^~",
+                "id": "623463057730104"
+            },
+            {
+                "created_time": "2014-05-17T15:56:55+0000",
+                "message": "劉宇庭 謝謝 XD",
+                "id": "623463607730049"
+            },
+            {
+                "created_time": "2014-05-17T16:00:51+0000",
+                "message": "攝護線提前肥大！",
+                "id": "623464541063289"
+            },
+            {
+                "created_time": "2014-05-17T16:02:56+0000",
+                "message": "等等等，現在真的要叫攝護腺嗎XDDDD",
+                "id": "623465271063216"
+            },
+            {
+                "created_time": "2014-05-17T16:03:38+0000",
+                "message": "充滿熱血的攝護腺",
+                "id": "623465494396527"
+            },
+            {
+                "created_time": "2014-05-17T16:04:04+0000",
+                "message": "沒有直播的時候就在做一個***保養的動作 *flee* 我忘了這裡是後勤中心-_-",
+                "id": "623465584396518"
+            },
+            {
+                "created_time": "2014-05-17T16:07:42+0000",
+                "message": "這樣對外說明或要介紹有點難說出口XD",
+                "id": "623466591063084"
+            },
+            {
+                "created_time": "2014-05-18T22:17:46+0000",
+                "message": "劉宇庭 好棒  XD",
+                "id": "624089484334128"
+            },
+            {
+                "created_time": "2014-05-19T03:01:41+0000",
+                "message": "太讚了!之後我的要改版就抓你的資料了~~~",
+                "id": "624203524322724"
+            },
+            {
+                "created_time": "2014-05-19T03:03:47+0000",
+                "message": "請問一下channel的部分有辦法知道是否online嗎？\n囧rz",
+                "id": "624203947656015"
+            },
+            {
+                "created_time": "2014-05-19T07:24:41+0000",
+                "message": "Thor Lin channel 有 online 的就是這個\n直播: https:\/\/livelink.firebaseio.com\/live\/.json",
+                "id": "624259477650462"
+            },
+            {
+                "created_time": "2014-05-19T10:55:57+0000",
+                "message": "那是live的，channel的好像沒有。  ＠＠？\n順便請教一下live和channel的分別這樣。 囧？",
+                "id": "624304137645996"
+            },
+            {
+                "created_time": "2014-05-19T10:58:04+0000",
+                "message": "Live有type,uStream\/Youtube,Channel是uStream",
+                "id": "624304697645940"
+            },
+            {
+                "created_time": "2014-05-19T10:58:45+0000",
+                "message": "可以看說明，有範例，或是網址直接開可以看Data",
+                "id": "624304810979262"
+            },
+            {
+                "created_time": "2014-05-19T11:01:16+0000",
+                "message": "那個，不好意思，我是想問這樣分的原因。  XD\n\n說明和內容都有看過了，有拿channel作了一個簡單的直播牆。\n但是因為和stream內容非常類似，然後Live是有status的，所以想請教一下為什麼這樣分。",
+                "id": "624305317645878"
+            },
+            {
+                "created_time": "2014-05-19T11:06:55+0000",
+                "message": "我不知道作者的用意啦，以我的網站來說就是Channel是側邊Menu，Live是做直播牆，可參考 harrywutv.info ，不過我的直播牆是自己寫程式判斷的Xd",
+                "id": "624306830979060"
+            },
+            {
+                "created_time": "2014-05-19T11:23:18+0000",
+                "message": "我先代 劉宇庭 回答\n如果我沒理解錯的話，\nChannel：所有曾作公民事件直播主的帳號列表\nLive：只列出上面Channel列表中現在這個時間點正在直播的\n作者貼這篇主要是公開 inLiveTW APP 裡面用的資料\n目前有 Chrome 、 Android 和 Web 介面，iOS還在審查中\nhttp:\/\/goo.gl\/nbnRZ4",
+                "id": "624311657645244"
+            },
+            {
+                "created_time": "2014-05-19T11:43:16+0000",
+                "message": "感恩，已經有iOS版的了，那安心等審核過。  XD\n謝謝@劉宇廷 的資料！",
+                "id": "624316594311417"
+            },
+            {
+                "created_time": "2014-05-19T12:45:19+0000",
+                "message": "iOS版 記得是 2014\/04\/23 送審的，到今天快一個月了... >:(",
+                "id": "624336474309429"
+            },
+            {
+                "created_time": "2014-05-19T12:46:59+0000",
+                "message": "拍拍，g8的app store，我懂 。T_T\n我想了一想還是想作一份出來，練功也好，不然什麼都不作對不起這漂亮的資料。  XD",
+                "id": "624337197642690"
+            },
+            {
+                "created_time": "2014-05-20T09:22:01+0000",
+                "message": "header 要不要直接開 \"Access-Control-Allow-Origin: *\"",
+                "id": "624742437602166"
+            },
+            {
+                "created_time": "2014-05-20T10:11:14+0000",
+                "message": "firebase基本上應該是Access-Control-Allow-Origin: * 沒錯",
+                "id": "624752600934483"
+            }
+        ],
+        "summary": {
+            "total_count": 23
+        }
+    }
+}

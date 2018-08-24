@@ -1,0 +1,60 @@
+{
+    "created_time": "2014-04-22T05:37:09+0000",
+    "message": "Live Channel Chrome Extension,\n現在還是Prototype階段,\n晚上會套上https:\/\/livelink.firebaseio.com\/live\/.json ,\n變成即時更新.\n\nhttps:\/\/chrome.google.com\/webstore\/detail\/livetw\/fhcffinobmpdchcoapdeoinhdmlihiok?hl=zh-TW\n\n---\n想請教一下新聞小幫手團隊,\nchrome extension notification,\n是Google自己有server還是我們要自己架？\n自己架的話, 是定時打api, 還是跑socket？\n感恩 <( _ _ )>\n\n---\n需要有人幫忙畫icon...XD",
+    "id": "387816094628136_611419052267838",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10201139323160059&set=gm.611419052267838&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/10155798_10201139323160059_690205132625557993_n.jpg?_nc_cat=0&oh=546851a23a50aa4da052da55d48c0abf&oe=5C32202C",
+    "updated_time": "2014-04-22T06:06:36+0000",
+    "likes": {
+        "summary": {
+            "total_count": 47
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-04-22T05:39:48+0000",
+                "message": "icon 有 idea 嗎？我今天可以幫畫",
+                "id": "611423325600744"
+            },
+            {
+                "created_time": "2014-04-22T05:40:42+0000",
+                "message": "我想到幾個keyword『on air, live, off live, play』... 剩下的歡迎自由發揮",
+                "id": "611423495600727"
+            },
+            {
+                "created_time": "2014-04-22T05:41:20+0000",
+                "message": "icon 希望有兩個狀態 有直播 & 沒直播. ^^",
+                "id": "611423625600714"
+            },
+            {
+                "created_time": "2014-04-22T05:51:53+0000",
+                "message": "建議 size?",
+                "id": "611426788933731"
+            },
+            {
+                "created_time": "2014-04-22T05:52:53+0000",
+                "message": "64x64 就夠, 如果想高畫質, 可以到256x256, 不用太大",
+                "id": "611427548933655"
+            },
+            {
+                "created_time": "2014-04-22T06:03:02+0000",
+                "message": "server要自己架吧",
+                "id": "611429625600114"
+            },
+            {
+                "created_time": "2014-04-22T06:06:06+0000",
+                "message": "有一份文件 https:\/\/developer.chrome.com\/apps\/pushMessaging#method-getChannelId\n但說明超少.",
+                "id": "611430532266690"
+            },
+            {
+                "created_time": "2014-04-22T06:06:36+0000",
+                "message": "http:\/\/stackoverflow.com\/questions\/2271156\/chrome-desktop-notification-example 不是有stackoverflow XD",
+                "id": "611430645600012"
+            }
+        ],
+        "summary": {
+            "total_count": 8
+        }
+    }
+}

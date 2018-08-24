@@ -1,0 +1,134 @@
+{
+    "created_time": "2014-05-01T12:02:11+0000",
+    "message": "暴走中..\n有問有人知道google『authorization code』去哪取嗎？\n還有『refresh_token』該去哪取？ 該不會定時會換吧!!?\n\nhttps:\/\/developer.chrome.com\/apps\/cloudMessaging\ngcm_for_chrome怎麼這麼難搞QQ",
+    "story": "YuTin Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_616083158468094",
+    "link": "https:\/\/developer.chrome.com\/apps\/cloudMessaging",
+    "description": "Google Cloud Messaging for Chrome If you are looking for the new Google Cloud Messaging API, please click here. Google Cloud Messaging for Chrome (GCM) is a service for signed-in Chrome users that helps developers send message data from servers to their Chrome apps and extensions. The service is int…",
+    "name": "Google Cloud Messaging for Chrome - Google Chrome",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBItlsJfghYyMrq&w=130&h=130&url=https%3A%2F%2Fdeveloper.chrome.com%2Fstatic%2Fimages%2Fchrome-logo_2x.png&cfs=1&_nc_hash=AQD0LQ2gNUYcouQx",
+    "updated_time": "2014-05-01T14:45:11+0000",
+    "caption": "developer.chrome.com",
+    "likes": {
+        "summary": {
+            "total_count": 6
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-05-01T12:05:32+0000",
+                "message": "refresh token 是你加權限跟你說你要 refresh 他就會給你。",
+                "id": "616084138467996"
+            },
+            {
+                "created_time": "2014-05-01T12:05:39+0000",
+                "message": "然後你可以自己用 refresh_token 自己更新",
+                "id": "616084175134659"
+            },
+            {
+                "created_time": "2014-05-01T12:06:54+0000",
+                "message": "Google developer console",
+                "id": "616084515134625"
+            },
+            {
+                "created_time": "2014-05-01T12:07:07+0000",
+                "message": "這裡拿",
+                "id": "616084571801286"
+            },
+            {
+                "created_time": "2014-05-01T12:08:04+0000",
+                "message": "https:\/\/developers.google.com\/oauthplayground\/",
+                "id": "616084825134594"
+            },
+            {
+                "created_time": "2014-05-01T12:08:22+0000",
+                "message": "To get the refresh token and initial access token:\n\nOpen an Incognito window in Chrome; this ensures that you are logged into the correct Google Account. If you only have one Google Account, you don't need to use an incognito window.\nGo to the OAuth 2.0 Playground.\nClick the  OAuth 2.0 Configuration button in the top right corner.\nCheck the box \"Use your own OAuth credentials\", enter the client ID and client secret, and click \"Close\".\nIn the \"Step 1\" section, enter the scope https:\/\/www.googleapis.com\/auth\/gcm_for_chrome into the \"Input your own scopes\" text box and click \"Authorize APIs\" button.\nAssuming you are in Incognito mode, you should be redirected to the Google log in page. Login with the same Google Account that you will use to upload your app or extension to the Chrome Web Store.\nAfter successful log in, you are redirected to a page to authorize the scopes. Click \"Allow access\" button, redirecting you back to the OAuth 2.0 playground.\nIn \"Step 2\", click \"Exchange authorization code for tokens\" button.",
+                "id": "616084908467919"
+            },
+            {
+                "created_time": "2014-05-01T12:11:34+0000",
+                "message": "我按這段教學就GG哩",
+                "id": "616085725134504"
+            },
+            {
+                "created_time": "2014-05-01T12:11:58+0000",
+                "message": "沒錯 第一步完會取得 Authorization code",
+                "id": "616085788467831"
+            },
+            {
+                "created_time": "2014-05-01T12:12:20+0000",
+                "message": "第一次執行可以取得 refresh_token",
+                "id": "616085911801152"
+            },
+            {
+                "created_time": "2014-05-01T12:14:26+0000",
+                "message": "如果我第三步使用 https:\/\/www.googleapis.com\/gcm_for_chrome\/v1\/messages\n的話會\n{\n  \"error\": {\n    \"code\": 403, \n    \"message\": \"Access Not Configured. Please use Google Developers Console to activate the API for your project.\", \n    \"errors\": [\n      {\n        \"domain\": \"usageLimits\", \n        \"message\": \"Access Not Configured. Please use Google Developers Console to activate the API for your project.\", \n        \"reason\": \"accessNotConfigured\"\n      }\n    ]\n  }\n}",
+                "id": "616086425134434"
+            },
+            {
+                "created_time": "2014-05-01T12:14:44+0000",
+                "message": "這很合理, 我必須要改用我的project的client_id",
+                "id": "616086518467758"
+            },
+            {
+                "created_time": "2014-05-01T12:17:37+0000",
+                "message": "於是我打\nhttps:\/\/accounts.google.com\/o\/oauth2\/token\n帶client_id, client_secret, refresh_token, grant_type\n去取token 竟然出現 QQ unauthorized_client",
+                "id": "616087391801004"
+            },
+            {
+                "created_time": "2014-05-01T12:20:40+0000",
+                "message": "gcm_for_chrome 有開,\n理論上OAuth 2.0 Playground, 我不確定他是抓哪個project\n但https:\/\/accounts.google.com\/o\/oauth2\/token因為有帶clinet_id,\n所以project應該不會錯, 而從OAuth 2.0 Playground 取來得 refresh_token 不確定能不能用QQ",
+                "id": "616088298467580"
+            },
+            {
+                "created_time": "2014-05-01T14:38:12+0000",
+                "message": "可以參考我之前寫的youtube streaming api :)",
+                "id": "616138858462524"
+            },
+            {
+                "created_time": "2014-05-01T14:38:44+0000",
+                "message": "基本上 你用web application才會跟你要authorization code 這樣你必須要弄一個web server 來讓使用者同意 取得",
+                "id": "616139068462503"
+            },
+            {
+                "created_time": "2014-05-01T14:39:29+0000",
+                "message": "然後 refresh token 會在取得authorization code之後 一併連同access token發給你",
+                "id": "616139318462478"
+            },
+            {
+                "created_time": "2014-05-01T14:39:54+0000",
+                "message": "我打算用, 所以超囧. 繼續參考你的code\nhttps:\/\/github.com\/google\/google-api-nodejs-client\/",
+                "id": "616139571795786"
+            },
+            {
+                "created_time": "2014-05-01T14:39:58+0000",
+                "message": "所以請自己保存好refresh token 另外refresh token 並不會過期 除非 你把application revoke",
+                "id": "616139601795783"
+            },
+            {
+                "created_time": "2014-05-01T14:40:46+0000",
+                "message": "我後來研究出 可以用phantomjs 去假裝使用者 點擊同意 :) 不過這部分我沒有更新code 歡迎私下討論",
+                "id": "616139785129098"
+            },
+            {
+                "created_time": "2014-05-01T14:41:11+0000",
+                "message": "我的code基本上就是使用google-api-nodejs-client :)",
+                "id": "616139971795746"
+            },
+            {
+                "created_time": "2014-05-01T14:42:43+0000",
+                "message": "不過cloud message說不訂有支援service account 這邊可以直接參考clkao的bill-analytics.ls就可以了",
+                "id": "616140491795694"
+            },
+            {
+                "created_time": "2014-05-01T14:45:11+0000",
+                "message": "因為youtube streaming在google 文件裡面明確指出不支援service acccount",
+                "id": "616141241795619"
+            }
+        ],
+        "summary": {
+            "total_count": 22
+        }
+    }
+}

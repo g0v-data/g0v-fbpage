@@ -1,0 +1,34 @@
+{
+    "created_time": "2014-06-12T17:24:29+0000",
+    "message": "結論！自己的plugin自己寫...XD\ninLiveTW為了解決Android的player問題.\n最後決定ustream串回ustream app, youtube串回youtube app.\n都失敗就跳 VLC player.\n\n這是 for cordova\/phonegap 的 plugin,\n有興趣的歡迎取用.",
+    "story": "YuTin Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_635786689831074",
+    "link": "https:\/\/github.com\/yutin1987\/StreamPlayer",
+    "description": "StreamPlayer - Plugin VideoPlayer for Cordova 3.0",
+    "name": "yutin1987\/StreamPlayer",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCMh7wwR8xUEVoH&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F2505934%3Fs%3D400&cfs=1&sx=0&sy=0&sw=400&sh=400&_nc_hash=AQB1L6ZHHlzC4HW5",
+    "updated_time": "2014-06-12T17:25:25+0000",
+    "caption": "github.com",
+    "likes": {
+        "summary": {
+            "total_count": 47
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-06-12T17:24:56+0000",
+                "message": "XD 好辛苦的感覺",
+                "id": "635786813164395"
+            },
+            {
+                "created_time": "2014-06-12T17:25:25+0000",
+                "message": "腦袋被榨乾哩QQ 準備洗洗睡",
+                "id": "635786899831053"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

@@ -1,0 +1,327 @@
+{
+    "created_time": "2014-03-23T10:18:45+0000",
+    "message": "想做一個for mobile的直播資訊,\n然後放在web上外, 也把它包成app,\nprototype大約是這樣.\n\n讓沒有PC\/NB的人, 更容易觀看直播\n\n",
+    "story": "YuTin Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_597917676951309",
+    "link": "http:\/\/g0v.github.io\/tv4mobile\/www\/",
+    "name": "Ionic Seed App",
+    "updated_time": "2014-03-27T02:18:13+0000",
+    "caption": "g0v.github.io",
+    "likes": {
+        "summary": {
+            "total_count": 66
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-23T10:20:20+0000",
+                "message": "PUSH",
+                "id": "597918170284593"
+            },
+            {
+                "created_time": "2014-03-23T10:48:18+0000",
+                "message": "Thor Lin  分享你的想法吧",
+                "id": "597928230283587"
+            },
+            {
+                "created_time": "2014-03-23T10:58:26+0000",
+                "message": "iOS 的影像轉播我正在作，不過好像有些頻道沒辦法在手機上看。而且app store要審。(orz)\n\n其實我最初是覺得可以做成自適應的網頁是最快速的（畢竟直接就是一個網站，不用審核，而且可以快速更新。 ）\n\n但是web 苦手，所以只好從我會的開始做。 囧\n（剛睡醒吃完晚餐，抱歉還有點不太清醒 XD)",
+                "id": "597931383616605"
+            },
+            {
+                "created_time": "2014-03-23T11:25:30+0000",
+                "message": "這個方式不錯.可以更快傳播.如網址可用比較短和一般人好記的更好.感謝您的用心.",
+                "id": "597942310282179"
+            },
+            {
+                "created_time": "2014-03-23T11:35:31+0000",
+                "message": "cassi 今天做好了文字轉播的 json api endpoint: http:\/\/congress-text-live.herokuapp.com\/json\/",
+                "id": "597944590281951"
+            },
+            {
+                "created_time": "2014-03-23T11:39:22+0000",
+                "message": "cassi ++",
+                "id": "597945530281857"
+            },
+            {
+                "created_time": "2014-03-23T12:20:23+0000",
+                "message": "cassi ++  XD\n抱歉因為我是Object-c 新手，我試著用json的方式抓下來，可是NSlog 的中文都變成。\ncontent =     (\n        \"] \\U63a5\\U4e0b\\U4f86\\U9084\\U6709\\U4e00\\U4f4d\\U6c11\\U773e\\U670b\\U53cb\\U8981\\U8868\\U6f14\\U6708\\U7434, \\U4ed6\\U53eb\\U505a\\U8449\\U6587\\U4f38, \\U6709\\U7d44\\U5718&nbsp; [\\U6708\\U7434\\U6f14\\U594f]\",\n        \"[ \\U6253\\U5b57\\U8005\\U767c\\U73fe\\U8f49\\U64ad\\U5f71\\U97f3\\U91cd\\U8907]\"\n    );\n    location = \"\";\n    time = \"3:46\";\n囧",
+                "id": "597955446947532"
+            },
+            {
+                "created_time": "2014-03-23T12:23:31+0000",
+                "message": "對了順便請教一下，像是直播<->網址 這個有辦法也像文字轉播的樣變成有格式的json嗎，我這邊目前用寫死的方式下去作，是可以work，但是如果有變動就尷尬了。 囧\n（目前是寫死的狀況，想說先有卡重要。）",
+                "id": "597956250280785"
+            },
+            {
+                "created_time": "2014-03-23T14:06:01+0000",
+                "message": "劉宇庭 黃柏誌 \n由於json看來我還要花點時間(orz)，目前是以web的方式（找合適的來源處理。)目前缺splash和icon的圖。\n\nhttps:\/\/www.youtube.com\/watch?v=qHggqIOVoWs&feature=youtube_gdata_player",
+                "id": "597997533609990"
+            },
+            {
+                "created_time": "2014-03-23T14:41:23+0000",
+                "message": "Thor Lin還是私人影片 看不到",
+                "id": "598013400275070"
+            },
+            {
+                "created_time": "2014-03-23T14:42:27+0000",
+                "message": "http:\/\/youtu.be\/qHggqIOVoWs",
+                "id": "598013833608360"
+            },
+            {
+                "created_time": "2014-03-23T14:43:07+0000",
+                "message": "求名字和適合的icon 和launch image XD",
+                "id": "598014083608335"
+            },
+            {
+                "created_time": "2014-03-23T14:46:26+0000",
+                "message": "超讚ㄟ",
+                "id": "598015460274864"
+            },
+            {
+                "created_time": "2014-03-23T14:47:19+0000",
+                "message": "那能辦法背景執行嗎",
+                "id": "598016086941468"
+            },
+            {
+                "created_time": "2014-03-23T14:48:21+0000",
+                "message": "ios 無理~! \n就算可以我也還不會。 orz",
+                "id": "598016370274773"
+            },
+            {
+                "created_time": "2014-03-23T14:51:26+0000",
+                "message": "沒關西 比我強多了\n名子比較重要 要容易查詢到的 \n和 icon 和launch image  就大家提供了",
+                "id": "598019110274499"
+            },
+            {
+                "created_time": "2014-03-23T14:52:54+0000",
+                "message": "名子就 反服貿",
+                "id": "598020523607691"
+            },
+            {
+                "created_time": "2014-03-23T14:53:20+0000",
+                "message": "我直覺就會想搜這個XD",
+                "id": "598020770274333"
+            },
+            {
+                "created_time": "2014-03-23T14:53:58+0000",
+                "message": "我覺得應該要中性一點就是  XD\nG0V應該也是有各種聲音。",
+                "id": "598021193607624"
+            },
+            {
+                "created_time": "2014-03-23T14:54:19+0000",
+                "message": "更正 反服貿即時訊息",
+                "id": "598021626940914"
+            },
+            {
+                "created_time": "2014-03-23T14:55:12+0000",
+                "message": "服貿相關即時訊息",
+                "id": "598022086940868"
+            },
+            {
+                "created_time": "2014-03-23T14:56:47+0000",
+                "message": "圖片有IDEA 嗎 我能做",
+                "id": "598024243607319"
+            },
+            {
+                "created_time": "2014-03-23T14:57:30+0000",
+                "message": "沒概念，但是吼吼熊一直在我腦中迴繞不去  XD",
+                "id": "598025646940512"
+            },
+            {
+                "created_time": "2014-03-23T17:10:55+0000",
+                "message": "Chia-liang Kao json api endpoint: 可以限制筆數嗎？數量太大QQ mobile網路會受不了",
+                "id": "598086446934432"
+            },
+            {
+                "created_time": "2014-03-23T17:11:41+0000",
+                "message": "cc\/Kuanling Huang",
+                "id": "598086746934402"
+            },
+            {
+                "created_time": "2014-03-23T18:15:48+0000",
+                "message": "劉宇庭 workaround 好了，格式有一點變，請讀一下。",
+                "id": "598110063598737"
+            },
+            {
+                "created_time": "2014-03-23T18:33:23+0000",
+                "message": "App store傳不上去. Orz 一直說找不到identifies 囧 先睡",
+                "id": "598115663598177"
+            },
+            {
+                "created_time": "2014-03-23T18:50:36+0000",
+                "message": "可惡啊，睡不著又搞不定。 <O>",
+                "id": "598121583597585"
+            },
+            {
+                "created_time": "2014-03-23T19:20:59+0000",
+                "message": "Kuanling Huang XMLHttpRequest cannot load  No 'Access-Control-Allow-Origin' header is present on the requested ...",
+                "id": "598132233596520"
+            },
+            {
+                "created_time": "2014-03-23T19:28:49+0000",
+                "message": "我的錯，等我一下。(電腦不在手",
+                "id": "598137416929335"
+            },
+            {
+                "created_time": "2014-03-23T19:29:13+0000",
+                "message": "3Q",
+                "id": "598137560262654"
+            },
+            {
+                "created_time": "2014-03-23T19:36:29+0000",
+                "message": "劉宇庭 可以了嗎？",
+                "id": "598140690262341"
+            },
+            {
+                "created_time": "2014-03-23T19:38:36+0000",
+                "message": "ok 哩",
+                "id": "598141610262249"
+            },
+            {
+                "created_time": "2014-03-23T20:27:31+0000",
+                "message": "搞定，等review,可惡看直播讓我好憤怒",
+                "id": "598157710260639"
+            },
+            {
+                "created_time": "2014-03-24T03:26:40+0000",
+                "message": "Thor Lin 抱歉，現在才看到你提到的 <-> ，如果你是指 text live JSON 的內容，現在 congress-text-live 的 parser 很陽春。如果你是問 g0v.today 的直播網址，可能要看 ethercalc 的 API 能否直接抓網址。",
+                "id": "598294296913647"
+            },
+            {
+                "created_time": "2014-03-24T03:32:40+0000",
+                "message": "哈哈，沒關係。謝謝，我再研究看看！：）",
+                "id": "598296153580128"
+            },
+            {
+                "created_time": "2014-03-24T03:35:12+0000",
+                "message": "Thor Lin 對了，這個是你需要的嗎？\nhttp:\/\/stackoverflow.com\/questions\/2099349\/using-objective-c-cocoa-to-unescape-unicode-characters-ie-u1234",
+                "id": "598297960246614"
+            },
+            {
+                "created_time": "2014-03-24T03:50:10+0000",
+                "message": "謝謝！我看看！第一版目前是吃live log(web view)打算趁空檔研究一下json減少現在大量依賴web的現狀。 orz",
+                "id": "598300706913006"
+            },
+            {
+                "created_time": "2014-03-24T04:10:57+0000",
+                "message": "iOS可以透過企業版帳號發行，不需要上架，若需要企業版帳號支援請密我\nhttp:\/\/stackoverflow.com\/questions\/8439127\/ios-enterprise-distribution-through-ota",
+                "id": "598304900245920"
+            },
+            {
+                "created_time": "2014-03-24T04:11:29+0000",
+                "message": "好像有限數量 2k",
+                "id": "598304990245911"
+            },
+            {
+                "created_time": "2014-03-24T04:13:27+0000",
+                "message": "應該沒有，我公司客戶iOS版用戶超過3K都還可以安裝",
+                "id": "598305336912543"
+            },
+            {
+                "created_time": "2014-03-24T04:21:01+0000",
+                "message": "很需要一個消息快速傳遞的媒介，建議原本文字的轉播分享出去，萬一看不到畫面也可以掌握場內訊息",
+                "id": "598307043579039"
+            },
+            {
+                "created_time": "2014-03-24T04:25:43+0000",
+                "message": "我覺得youtube備份也滿重要的\nhttps:\/\/github.com\/jeckman\/YouTube-Downloader",
+                "id": "598308353578908"
+            },
+            {
+                "created_time": "2014-03-24T04:27:09+0000",
+                "message": "我會先用google appengine把這個parser丟上去",
+                "id": "598308646912212"
+            },
+            {
+                "created_time": "2014-03-24T04:27:45+0000",
+                "message": "開始在備份哩, 也請大家協助. 備份越多越好",
+                "id": "598308846912192"
+            },
+            {
+                "created_time": "2014-03-24T04:28:11+0000",
+                "message": "請問需要分擔的話 我也可以參加",
+                "id": "598309053578838"
+            },
+            {
+                "created_time": "2014-03-24T04:28:32+0000",
+                "message": "然後app用video id當參數丟進來就可以下載，讓user用手機\/link就可以備份",
+                "id": "598309200245490"
+            },
+            {
+                "created_time": "2014-03-24T04:30:10+0000",
+                "message": "Bevis Lin 要不要來幫忙",
+                "id": "598309633578780"
+            },
+            {
+                "created_time": "2014-03-25T09:55:23+0000",
+                "message": "Thor Lin 還在進行嗎？今天加了 \/json\/:id 好拿到單一訊息， websocket 則會噴 json-patch remove 了。",
+                "id": "598915386851538"
+            },
+            {
+                "created_time": "2014-03-25T10:23:59+0000",
+                "message": "：D等審核中和企業版發部。今還沒改解json的部份 囧",
+                "id": "598923153517428"
+            },
+            {
+                "created_time": "2014-03-25T11:37:39+0000",
+                "message": "請問LiveVideo有像g0v.today一樣的轉址服務嗎\n還是有去哪可以爬到Live網址url，Android的快做好了，可是動態網址跑掉了",
+                "id": "598951303514613"
+            },
+            {
+                "created_time": "2014-03-25T14:51:19+0000",
+                "message": "Thor Lin 文件和憑證私訊給你囉，有問題再跟我說^^",
+                "id": "599017936841283"
+            },
+            {
+                "created_time": "2014-03-25T16:12:11+0000",
+                "message": "感謝Luke Sun 支援企業cer，\n還有 的流程圖， 黃柏誌，還有g0v的各位的支援。\n初版iOS beta，\n\nhttps:\/\/dl.dropboxusercontent.com\/u\/20472372\/g0v.html\n\n請低調下 XD\n麻煩協助測試，有什麼建議和bug 請到\nhttps:\/\/www.facebook.com\/AntiTaiwanBlackBox\n留言，我會盡力處理 ，（抱歉我是新手沒把握一定能處理掉。 orz)",
+                "id": "599046103505133"
+            },
+            {
+                "created_time": "2014-03-25T16:18:01+0000",
+                "message": "感動測試中 T_T",
+                "id": "599047630171647"
+            },
+            {
+                "created_time": "2014-03-25T16:18:35+0000",
+                "message": "app中文名好像還沒決定？",
+                "id": "599047773504966"
+            },
+            {
+                "created_time": "2014-03-25T16:57:01+0000",
+                "message": "嗯，其實我itune connect 是取簡單的服貿快訊。\n然後搭配這個簡陋的icon... XD\n\n但是現在這個版本就只用原本建專案的英文名稱了。 囧",
+                "id": "599059860170424"
+            },
+            {
+                "created_time": "2014-03-26T07:59:42+0000",
+                "message": "禮拜一看到宇庭兄的ＰＯ文後開始做Android版本\n然後看著攻佔立法院...根本不敢睡，趕快做出來\nhttp:\/\/democracytw.herokuapp.com\nhttps:\/\/g0v.hackpad.com\/--RixCqVCgX9D\n我很想把影片也加進去\n但是影片沒有轉址服務\n加上瀏覽問題超多...先放棄\n\n大家用用看吧，有時沒問題或是想家什麼功能歡迎回報\n設計方面希望有人可以支援\n\nThor Linin 看要不要直接一起擺在Launch page?\n黃柏誌 圖我也是自己隨便抓得，看要不要一起討論個版本\n\n希望有支援到劉宇庭＋幫到大家，謝謝",
+                "id": "599302300146180"
+            },
+            {
+                "created_time": "2014-03-26T13:00:34+0000",
+                "message": "樓上有 open source 嗎? 要掛 g0v 的名字，記得 程式碼要 Open Source 。  方便大家 分攤協作  XD",
+                "id": "599370766806000"
+            },
+            {
+                "created_time": "2014-03-26T13:03:14+0000",
+                "message": "阿  拍謝  在文件裡，找到了  (y)",
+                "id": "599371566805920"
+            },
+            {
+                "created_time": "2014-03-26T17:31:39+0000",
+                "message": "抱歉這幾天有其他事在狂忙(今天還沒到電腦前過 ，orz ），請自由使用吧！\n\n程式碼其實我有commit到GitHub（自己的帳號）,但是由於不太熟，不知為何網站上找不到，拍謝！ 囧",
+                "id": "599464800129930"
+            },
+            {
+                "created_time": "2014-03-27T01:05:24+0000",
+                "message": "https:\/\/github.com\/coolthor\/PracticeProject\/tree\/master\/AntiBlackBox\ngithub link  ＠＠\n如果有什麼問題請通知我，抱歉今天依舊沒有什麼時間可以在電腦前。  Q_Q\n\n歡迎修改與散布。  XD\n很多地方寫的很隨便真是不好意思（羞)。",
+                "id": "599614260114984"
+            }
+        ],
+        "summary": {
+            "total_count": 61
+        }
+    }
+}

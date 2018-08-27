@@ -1,0 +1,28 @@
+{
+    "created_time": "2014-03-20T15:32:08+0000",
+    "message": "新增\/更新 第三個集結點\n中山南路&青島東路 交叉路口\nhttps:\/\/www.youtube.com\/watch?v=AfESaD4IUX4",
+    "id": "387816094628136_596805053729238",
+    "updated_time": "2014-03-21T01:02:29+0000",
+    "likes": {
+        "summary": {
+            "total_count": 20
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2014-03-21T00:37:47+0000",
+                "message": "這是醫界聯盟設的舞台 你們有任何需求請跟我說",
+                "id": "596978830378527"
+            },
+            {
+                "created_time": "2014-03-21T01:02:29+0000",
+                "message": "感謝",
+                "id": "596985650377845"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

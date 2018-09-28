@@ -1,0 +1,36 @@
+{
+    "created_time": "2018-09-11T03:28:31+0000",
+    "message": "過去的政治獻金會計報告書資料，後來使用 tabula-java ( https:\/\/github.com\/tabulapdf\/tabula-java\/ )重新跑過去的資料，看起來得到的結果品質好很多，有興趣進行政治獻金統計的朋友可以試試\n\n不過 tabula 只適合 pdf 文字化的表格，沒辦法處理 ocr 取得的圖片表格",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1819069678169430",
+    "link": "https:\/\/github.com\/kiang\/sunshine.cy.gov.tw\/blob\/master\/report2csv.csv",
+    "description": "監察院陽光法案相關資料 Ex: 政治獻金、財產申報... Contribute to kiang\/sunshine.cy.gov.tw development by creating an account on GitHub.",
+    "name": "kiang\/sunshine.cy.gov.tw",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDYctz3ypbxhobv&w=130&h=130&url=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F47844%3Fs%3D400%26v%3D4&cfs=1&sx=0&sy=0&sw=400&sh=400&_nc_hash=AQDT6mtAa0LKKsR_",
+    "updated_time": "2018-09-11T05:41:16+0000",
+    "caption": "github.com",
+    "shares": {
+        "count": 1
+    },
+    "likes": {
+        "summary": {
+            "total_count": 16
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-09-11T05:25:19+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "有試過 https:\/\/ronnywang.github.io\/pdf-table-extractor\/ 效果嗎？",
+                "id": "1819154591494272"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

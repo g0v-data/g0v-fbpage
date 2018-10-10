@@ -1,0 +1,38 @@
+{
+    "created_time": "2018-06-11T08:45:37+0000",
+    "message": "quote Kang-min Liu: 「做了一個轉發政府新聞稿到 g0v Mastodon 去的機器人。約莫每小時更新一次。\n\n請大家多多關注。」\n\n#為何分享沒有原po貼文",
+    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "10215521254163616_1679198282156571",
+    "link": "https:\/\/t.co\/BJZjW748ID",
+    "description": "147 文章, 1 正在關注, 2 關注者 · 政府新聞轉發（非官方） 新聞稿來源： https:\/\/www.gov.tw\/News2.aspx?n=872E51DB9B88306C&sms=53E09032BF601A56",
+    "name": "TW Gov News Bot (@tw_gov_news@g0v.social)",
+    "updated_time": "2018-06-18T14:58:36+0000",
+    "caption": "t.co",
+    "likes": {
+        "summary": {
+            "total_count": 26
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-06-11T11:52:35+0000",
+                "message": "啊.... 如果有需要甚麼情報系的機器人，再掘個坑吧...",
+                "id": "1679317565477976"
+            },
+            {
+                "created_time": "2018-06-13T15:23:47+0000",
+                "message": "https:\/\/t.me\/tw_gov_news\n\n我另加了一個 telegram channel ，讓此機器人同步發訊到此 channel 中。基本上兩邊的內容是一樣的。",
+                "id": "1682550001821399"
+            },
+            {
+                "created_time": "2018-06-18T14:58:28+0000",
+                "message": "https:\/\/www.plurk.com\/tw_gov_news\n\n追加噗浪版。",
+                "id": "1690355024374230"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

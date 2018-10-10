@@ -1,0 +1,31 @@
+{
+    "created_time": "2017-08-11T07:09:36+0000",
+    "message": "這禮拜做了一個 open data 結合審議的小實驗，以總統府司改國是會議為例，試著從上游的資料內容產生、到下游的衍生應用開發，整個生產鏈走一遍，感受一下可能的瓶頸。過程中分析議題佔兩天、整理資料兼規劃雛形佔三天、最後寫程式佔一天。其中最費時的是資料輸入，主辦單位、官網廠商、whisky 跟司改會的苦主們原本就已經做完大部分，我主要是把他們的資料調整成自己需要的結構～以上經驗供未來想做類似事情的人參考 ^^\n\n專案名稱：司改國是會議 2017 提案闖天關\n上線網址： etblue.github.io\/jrpilot\/\n程式碼： github.com\/ETBlue\/jrpilot\n程式授權： MIT\n資料授權：（要看原本司改國是會議的資料授權是什麼）\n指導：司改國是會議第四組張委員網兇\n\n與司改會協作資料表： \nhttps:\/\/docs.google.com\/spreadsheets\/d\/1CTGZfJ55WJQEq6UexllrXZJvceVP3TRjzNGMgxE-I68\/edit?usp=sharing\n實驗進行流程： https:\/\/docs.google.com\/presentation\/d\/18QjhH784zyxAxGue7LKMwafGSZ1tqdc1tGSa_ZBTeOU\/edit?usp=sharing\n開發過程相簿與貼文： https:\/\/www.facebook.com\/ETBlue\/media_set?set=a.10210724638284792.1073741872.1014354995&type=3",
+    "story": "ET Blue shared a post to the group: g0v.tw 後勤中心.",
+    "id": "10212097510645743_1393398890736513",
+    "link": "https:\/\/etblue.github.io\/jrpilot\/",
+    "description": "受夠了 總統府司法改革國是會議 整理議題的方式嗎？\n\ng0v.tw 台灣零時政府 參與者ETBlue在司改委員張維志的的建議之下，收集了司改國是會議的資料後，就各個提案的討論、表決狀況，製作了「提案闖天關」的網站，以更漂亮的UI呈現各個提案的進度狀況，歡迎大家在司改總結會議之前參考！\n\n🏹點我看議題：\nhttps:\/\/etblue.github.io\/jrpilot\/",
+    "name": "民間司法改革基金會",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t39.2147-6\/c11.0.130.130\/p130x130\/20570054_10154936141299077_8718612847275278336_n.jpg?_nc_cat=101&oh=8ed76beb19b72ed3d87094ad2fcb09c8&oe=5C5DE9E2",
+    "updated_time": "2017-08-24T09:01:06+0000",
+    "shares": {
+        "count": 1
+    },
+    "likes": {
+        "summary": {
+            "total_count": 46
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-08-24T09:01:05+0000",
+                "message": "實驗心得報告 https:\/\/www.facebook.com\/ETBlue\/posts\/10210851399053732",
+                "id": "1404389309637471"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

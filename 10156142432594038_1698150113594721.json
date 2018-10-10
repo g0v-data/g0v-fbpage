@@ -1,0 +1,61 @@
+{
+    "created_time": "2018-06-23T14:43:16+0000",
+    "message": "運用 #全國國土計畫  政府已公開的文件，其中的土地使用功能分區圖片，圖片簡易去背後，運用空間對位功能，使其成為具有座標的圖層，但卡關於線上發布 Raster 圖片類圖台。\n\n徵求有意願跳坑者～\n\n希望將「海洋保育區」、「國土保育區」、「農業發展區」、「城鄉發展區」四個分區圖片，經過上述過程，得到議題關注者可以線上瀏覽的圖台。",
+    "story": "Che Wei Liu shared a post to the group: g0v.tw 後勤中心.",
+    "id": "10156142432594038_1698150113594721",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10156483279894038&set=gm.1755741417838107&type=3",
+    "description": "關於 #QGISCloudPlugin 的問題請教，能否發布 Raster 圖層呢？或是若希望線上發布空間對位的圖片圖層，有推薦的工具或方法嗎？",
+    "name": "Che Wei",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/35882513_10156483279904038_125555015187169280_n.jpg?_nc_cat=101&oh=e7a3984bf8a0621ff2eab84c753b9a60&oe=5C4509ED",
+    "updated_time": "2018-06-27T01:19:49+0000",
+    "shares": {
+        "count": 4
+    },
+    "likes": {
+        "summary": {
+            "total_count": 31
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-06-23T14:57:26+0000",
+                "message": "我可以試試,如果發佈WMS在我司的機器上OK嗎?",
+                "id": "1698166683593064"
+            },
+            {
+                "created_time": "2018-06-23T14:57:30+0000",
+                "message": "原始圖片在哪邊?",
+                "id": "1698166776926388"
+            },
+            {
+                "created_time": "2018-06-23T14:58:02+0000",
+                "message": "如果有比較乾淨的圖可以用classification變成向量圖更好用",
+                "id": "1698167253593007"
+            },
+            {
+                "created_time": "2018-06-23T15:01:03+0000",
+                "message": "收到，我明後天把圖檔、去背後檔案、對位後的 QGIS 檔案，整理到線上空間\n\n---\n圖片來源，營建署 20180315 釋出的簡報\n\nhttps:\/\/www.cpami.gov.tw\/filesys\/file\/rp6\/rp10703145.pdf",
+                "id": "1698170460259353"
+            },
+            {
+                "created_time": "2018-06-23T15:04:10+0000",
+                "message": "他裡面都有劃設原則，搞不好可以追看看公開圖資",
+                "id": "1698173876925678"
+            },
+            {
+                "created_time": "2018-06-25T03:30:43+0000",
+                "message": "素材圖檔資料夾，共有三類檔案\n\n(1) JPG，說明：將原 PDF 內的圖片另存並接圖\n(2) PNG，說明：白底去背\n(3) Tiff，說明：已空間對位\n\nhttps:\/\/drive.google.com\/drive\/folders\/1vzrUeUzgHZ6gAE0G0JK30ucMowG5LGsX?usp=sharing",
+                "id": "1700685136674552"
+            },
+            {
+                "created_time": "2018-06-26T14:22:31+0000",
+                "message": "已完成上述資料的WMS服務發布. \n 服務網址如下 http:\/\/211.22.241.17:8080\/geoserver\/NSP\/wms?",
+                "id": "1702907563118976"
+            }
+        ],
+        "summary": {
+            "total_count": 7
+        }
+    }
+}

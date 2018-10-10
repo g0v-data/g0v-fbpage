@@ -1,0 +1,44 @@
+{
+    "created_time": "2018-01-15T23:50:14+0000",
+    "message": "https:\/\/github.com\/g0v\/cec-stats\/tree\/master\/stats\n\n我用歷屆立委選舉各選區得票數資料，簡單統計出了「人民無代表比率」 （Unrepresented Rate）。也就是「 有多少比例的票，投給了沒有選上的候選人」。\n\n我覺得這「 人民無代表比率」 應該可以用於了解目前投票規則的弱點吧。\n\n#假設中選會資料都正確\n#假設過去的選舉統計過程沒有作票\n#呃阿阿",
+    "story": "Kang-min Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "10155184416211053_1531729586903442",
+    "link": "https:\/\/github.com\/g0v\/cec-stats\/tree\/master\/stats",
+    "description": "Contribute to cec-stats development by creating an account on GitHub.",
+    "name": "g0v\/cec-stats",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCAknVHqgAlxVRQ&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2668086%3Fs%3D400%26v%3D4&cfs=1&_nc_hash=AQCUAQ0-RIgsNBXe",
+    "updated_time": "2018-01-16T13:30:19+0000",
+    "caption": "github.com",
+    "likes": {
+        "summary": {
+            "total_count": 51
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-01-15T23:55:29+0000",
+                "message": "想法來源 https:\/\/www.youtube.com\/watch?v=r9rGX91rq5I\n\n(cgpgrey 用 \"misrepresentational votes\" 這個詞啊...)",
+                "id": "1531732160236518"
+            },
+            {
+                "created_time": "2018-01-16T00:12:22+0000",
+                "message": "Here is the solution: let voters have the option to vote against instead of for. My proposal to improve all election scenarios in all election systems, including FPTP, PR, RCV, was presented at the EU-sponsored 2017 World Forum for Democracy held at Strasbourg, France. One Italian Senator immediately said she would introduce this in Italian parliament. Another student said he would introduce this in his school.  Do you know what is #BalancedBallot or #NegativeVote?   https:\/\/www.youtube.com\/watch?v=b6tauXJgLoM\r\nIf you like this idea, join us at Balanced Ballot International\r\nhttps:\/\/www.facebook.com\/groups\/BalancedBallotInternational\/?ref=br_rs",
+                "id": "1531742190235515"
+            },
+            {
+                "created_time": "2018-01-16T01:09:02+0000",
+                "message": "可是這樣也只是反映參選人越多，無代表比率越高。更往前推這就是要討論比例代表制跟單一選區制的問題(憲法層級)。",
+                "id": "1531773006899100"
+            },
+            {
+                "created_time": "2018-01-16T13:30:18+0000",
+                "message": "感謝回應。其實作此度量的意圖，僅僅是將遊戲規則的問題彰顯出來而已。我個人感覺，若是考慮近期未來有可能試驗如 The Alternative Vote、MMP 或 Ballance Vote 等等不同的投票規則， 應該要有固定的度量，來判別各種規則的優劣。「無代表比率」似乎能夠通用與許多不同的投票規則。但我相信還有許多不同的度量有待發掘。我對此的研究不深，請各位先進指教。",
+                "id": "1532191223523945"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

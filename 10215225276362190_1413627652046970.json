@@ -1,0 +1,43 @@
+{
+    "created_time": "2017-09-04T10:04:49+0000",
+    "message": "不當黨產委員會已經把官網的原始碼放上github囉，歡迎大家參考～也歡迎大家幫忙送Pull Request喔！\n\n特別感謝承包網站的 威納科技 公司，以及技術PM 曾永漢 （Yung Han Tseng） ！\nhttp:\/\/www.unidyna.com\/\n\n後台：\nhttps:\/\/github.com\/cipas-tw\/cipas-website-backend\n\n前台：\nhttps:\/\/github.com\/cipas-tw\/cipas-website\n\n頁面設計稿：\nhttps:\/\/github.com\/cipas-tw\/cipas-website-design",
+    "id": "10215225276362190_1413627652046970",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=10213879960170126&set=gm.1413627652046970&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/21231027_10213879960170126_7013923122540582878_n.jpg?_nc_cat=102&oh=3fc0385bddeb64e31f93bde6cea59678&oe=5C5A270E",
+    "updated_time": "2017-09-06T05:31:36+0000",
+    "shares": {
+        "count": 16
+    },
+    "likes": {
+        "summary": {
+            "total_count": 182
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-09-04T11:51:29+0000",
+                "message": "會長，您好！",
+                "id": "1413683185374750"
+            },
+            {
+                "created_time": "2017-09-05T09:37:53+0000",
+                "message": "小弟其實只是掛技術PM，不是實際開發者，再請大家多多指教~",
+                "id": "1414409015302167"
+            },
+            {
+                "created_time": "2017-09-05T20:49:49+0000",
+                "message": "不好意思弱弱地問一個笨問題，「幫忙送Pull Request」的意義是？(我的問題在於這「幫」了什麼「忙」) ^^",
+                "id": "1414798388596563"
+            },
+            {
+                "created_time": "2017-09-06T05:31:34+0000",
+                "message": "感謝#g0v.tw ❤️🙏",
+                "id": "1415046325238436"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

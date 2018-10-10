@@ -1,0 +1,76 @@
+{
+    "created_time": "2018-07-20T07:37:25+0000",
+    "message": "g0v專案報告語音辨識逐字稿校正小幫手募集。\n\n我之前有篇貼文，想要用AI做語音辨識的想法幫g0v專案報告上字幕。某LAB的某沒有人看到，就用了他們LAB自己的研究跑了下面這個影片，初步效果看起來比Google Doc語音辨識好。\n\n現在想徵求沒有人來幫忙做逐字稿校正，校正的資料可以回饋給該LAB語音辨識系統。預計之後會試做七段專案報告。各位沒有人都協助校正之後，該LAB會視情況再看看要不要跟g0v再進一步合作更多的影片逐字稿辨識。\n\n我把目前需要沒有人幫忙的第一段影片多人協做的逐字稿編輯工具貼在下面，預計會陸續補上共七段影片。感謝各位沒有人的幫忙。\n\n為了有效的協作，我在這邊開了一個google sheet，方便大家認領和記錄完成簽到，避免有重複校正或者有漏掉的片段。目前以30s為單位。（其實30s就會花掉你很多時間了，因為還要校正字幕時間）\n\nhttps:\/\/docs.google.com\/spreadsheets\/d\/1eHrSULaLl2n1xzf5w7r_7KmUEtaQY1YZWsnTROdB31k\/edit?usp=sharing",
+    "id": "10156042494092910_1738824942860571",
+    "updated_time": "2018-07-28T04:09:22+0000",
+    "shares": {
+        "count": 1
+    },
+    "likes": {
+        "summary": {
+            "total_count": 41
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-07-20T07:37:31+0000",
+                "message": "https:\/\/amara.org\/zh\/subtitles\/editor\/EDccb9WKAZ9S\/zh-tw\/\n\n勞工守護神",
+                "id": "1738825082860557"
+            },
+            {
+                "created_time": "2018-07-20T09:07:04+0000",
+                "message": "https:\/\/amara.org\/zh\/subtitles\/editor\/31i56fb59cMm\/zh-tw\/\n\n台灣路更平",
+                "id": "1738910772851988"
+            },
+            {
+                "created_time": "2018-07-20T09:15:58+0000",
+                "message": "https:\/\/amara.org\/zh\/subtitles\/editor\/0eLJejJxGK9r\/zh-tw\/\n\n無家者小幫手",
+                "id": "1738918582851207"
+            },
+            {
+                "created_time": "2018-07-20T09:17:36+0000",
+                "message": "https:\/\/amara.org\/zh\/subtitles\/editor\/OS7JD1CSxUtr\/zh-tw\/\n\n大安森林公園花卉辨識",
+                "id": "1738920096184389"
+            },
+            {
+                "created_time": "2018-07-20T09:18:28+0000",
+                "message": "https:\/\/amara.org\/zh\/subtitles\/editor\/K8QJiFNiS81m\/zh-tw\/\n\nChhoeTaigi 找台語",
+                "id": "1738920859517646"
+            },
+            {
+                "created_time": "2018-07-20T09:19:15+0000",
+                "message": "https:\/\/amara.org\/zh\/subtitles\/editor\/FCEEdafN4c3A\/zh-tw\/\n\n台電 30 億敦親睦鄰金追追追",
+                "id": "1738921469517585"
+            },
+            {
+                "created_time": "2018-07-20T09:19:44+0000",
+                "message": "https:\/\/amara.org\/zh\/subtitles\/editor\/eG6DJCwFmD6H\/zh-tw\/\n\n來填問卷吧",
+                "id": "1738921882850877"
+            },
+            {
+                "created_time": "2018-07-20T09:28:47+0000",
+                "message": "推推推",
+                "id": "1738931926183206"
+            },
+            {
+                "created_time": "2018-07-20T15:08:29+0000",
+                "message": "想請問有要幫忙標上標點符號嗎 ?\n\n例如可以從講者的語氣上，判斷出頓號(、) 句號(。) \n\n標識之後不曉得會不會造成比對上的困擾？",
+                "id": "1739396026136796"
+            },
+            {
+                "created_time": "2018-07-26T12:29:59+0000",
+                "message": "太強、要註冊嗎",
+                "id": "1748867058523026"
+            },
+            {
+                "created_time": "2018-07-28T04:09:19+0000",
+                "message": "HI all,\n為了有效的協作，我在這邊開了一個google sheet，方便大家認領和記錄完成簽到，避免有重複校正或者有漏掉的片段。目前以30s為單位。（其實30s就會花掉你很多時間了，因為還要校正字幕時間）\n\nhttps:\/\/docs.google.com\/spreadsheets\/d\/1eHrSULaLl2n1xzf5w7r_7KmUEtaQY1YZWsnTROdB31k\/edit?usp=sharing",
+                "id": "1751543431588722"
+            }
+        ],
+        "summary": {
+            "total_count": 11
+        }
+    }
+}

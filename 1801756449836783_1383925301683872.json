@@ -1,0 +1,26 @@
+{
+    "created_time": "2017-07-31T09:18:36+0000",
+    "message": "各位好，我是阿龜計畫的發起人：Shaw Wu\n\n「阿龜微氣候天眼通」是致力於讓農業數據更有溫度的團隊，我們期望能藉由發展農業微氣候應用的工具，讓我國的農友們在從事農務工作的時候，有不一樣的資訊科技工具可以使用。也因此，我們的成果全部開源。歡迎大家一起來交流、跳坑共同協作。\n\n一直有很多朋友在問，第三次的AgriHacking Day何時舉辦？ 終於、終於，8\/12將在台農發的大會議室舉行（台北市松江路87號3樓)喔。農業科技有好多好多坑待填，歡迎大家一起來填坑XDD \n\n＊＊＊＊\n這是跳坑專區：https:\/\/hackmd.io\/s\/rkPlLZbBb\n＊＊＊＊\n如果想多了解我們團隊在做什麼？可以參加這週8\/6在台大社科院舉辦的2017Coscup年會，我們當天會有一系列的演講。\nhttp:\/\/coscup.org\/2017-landingpage\/\n＊＊＊＊\n這是阿龜微氣候天眼通的計畫，也可以先看過我們的計畫來挑坑：\nhttps:\/\/grants.g0v.tw\/projects\/587873a755fa75001ef55ed4\n＊＊＊＊\n這是我在交大2017LASS年會的slide，簡報可能比文件精彩：\nhttps:\/\/www.slideshare.net\/beehivedata\/agriweather-78387595\n＊＊＊＊\n這是最新的阿龜誌提案，需要更多熱血的你們支持：https:\/\/grants.g0v.tw\/projects\/596aed1dd60a0d001ed1f848\n\n#AgriWeather\n#微氣候資料科學\n#AgriHackingDay",
+    "id": "1801756449836783_1383925301683872",
+    "updated_time": "2017-08-01T07:42:46+0000",
+    "shares": {
+        "count": 5
+    },
+    "likes": {
+        "summary": {
+            "total_count": 85
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-08-01T07:00:10+0000",
+                "message": "可以問為什麼要從C#轉成python嗎？",
+                "id": "1384670898275979"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

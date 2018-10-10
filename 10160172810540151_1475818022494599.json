@@ -1,0 +1,37 @@
+{
+    "created_time": "2017-11-17T14:17:58+0000",
+    "story": "Steven Clift shared a post to the group: g0v.tw 後勤中心.",
+    "id": "10160172810540151_1475818022494599",
+    "link": "https:\/\/www.facebook.com\/groups\/opengovgroup\/permalink\/2032877296943856\/",
+    "description": "What do you know about online tools that support participatory budgeting?\n\nIn particular, I am interested in online tools used by the public to vote, rank, or allocate a budget toward specific projects.\n\nI am interested in how funders support PB models with significant online components like Better Reykjavik.\n\nOn a related note, what is the highest voter turn-out a PB project has claimed to date?",
+    "name": "Steven",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-1\/p100x100\/29683792_10160442913655151_3866771759407047621_n.jpg?_nc_cat=107&oh=459a430607ad61dc082dafc94cbbed84&oe=5C4344F7",
+    "updated_time": "2017-11-17T21:18:39+0000",
+    "likes": {
+        "summary": {
+            "total_count": 3
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-11-17T16:52:53+0000",
+                "message": "Say, I bumped into this ... http:\/\/www.tfd.org.tw\/opencms\/files\/download\/conf_170218_en-1.pdf",
+                "id": "1475930969149971"
+            },
+            {
+                "created_time": "2017-11-17T16:53:22+0000",
+                "message": "Any results from this event? Is PB being used in some cities in Taiwan?",
+                "id": "1475932272483174"
+            },
+            {
+                "created_time": "2017-11-17T21:18:34+0000",
+                "message": "Some interesting code from Iceland - islands unite! \nhttps:\/\/github.com\/rbjarnason\/your-priorities-app - Powers Your Priorities ideation tool used in dozens of countries\n\nhttps:\/\/github.com\/rbjarnason\/open-active-voting - The participatory budgeting engine used by the City of Reykjavik and soon in Scotland.",
+                "id": "1476102412466160"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

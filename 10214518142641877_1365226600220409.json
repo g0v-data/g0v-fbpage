@@ -1,0 +1,41 @@
+{
+    "created_time": "2017-07-11T14:43:21+0000",
+    "message": "Hi 大家好，hackpad.com 的 workspace 現在可以直接轉到 hackpad.tw，繼續使用 hackpad 服務，請大家協助轉發，讓更多人知道，畢竟 7\/19 服務就要停止了。",
+    "story": "Yun-Chen Chien shared a photo to the group: g0v.tw 後勤中心.",
+    "id": "10214518142641877_1365226600220409",
+    "link": "https:\/\/www.facebook.com\/g0v.tw\/photos\/a.456791061028852\/1602074129833867\/?type=3",
+    "description": "【搶救 hackpad】\nhackpad.com 即將在 7\/19 停止服務，如果你不想轉移到 Dropbox Paper，這邊提供一個方法讓你在 hackpad.tw 上繼續使用一模一樣的 hackpad 服務。\n\n#前提\n1. 你必須在 hackpad.com 上有 workspace ，例如 g0v.hackpad.com\n2. 你是管理員\n\n#怎麼做\n如果您還沒轉移到 Dropbox Paper\n1. 點 workspace 右下角的 export\n2. export 成 SQL 檔\n3. 在信箱收到信件後點選下載\n4. 將 SQL 檔寄到 hackpad@middle2.com ，等待手動上線到 hackpad.tw\n5. 到 hackpad.tw 上使用，所有網址會從 hackpad.com 轉成 hackpad.tw\n\n如果您已經轉移到 Dropbox Paper\n1. 點選左上角的三橫線按鈕\n2. 在在您的帳號的右邊的向下三角形，並點選 Account Settings\n3. 將 API Key 區塊的 Client ID, Secret 以及您的 hackpad.com 完整網址寄到 hackpad@middle2.com\n4 到 hackpad.tw 上使用，所有網址會從 hackpad.com 轉成 hackpad.tw\nP.S. 已轉移到 Dropbox 者無法轉移歷史編修記錄\n\n#注意事項\n1. 目前 hackpad.tw 不提供新增 workspace，必須是已經在 hackpad.com 上的 workspace\n2. 匯出的 SQL 檔未加密\n3. hackpad.tw 是 mirror hackpad.com，不再提供程式維護或開發新功能\n\nhackpad.tw 由 ronnywang 開發，在 middle2 上運行。middle2 目前由 g0v 公民科技創新獎助金和微軟贊助。\n\n#其他選擇\n可以嘗試用 markdown 語法寫的 hackmd.io \nhttps:\/\/hackmd.io\/\n1. 登入\n2. 按 \"選單\" -> (Import) Hackpad\n3. 按照跳出的視窗提供資料\n4. 等待匯入，完成後會加在記錄中\n\n====== 工商時間 ======\n\ng0v 公民科技創新獎助金 7\/16 提案截止，每個專案補助 30-50 萬\nhttps:\/\/grants.g0v.tw",
+    "name": "g0v.tw 台灣零時政府",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/19959210_1602074129833867_8023604594099547994_n.png?_nc_cat=100&oh=05ed51d0e0614bbdd6f17ddcb0c0ac3e&oe=5C4DA4D7",
+    "updated_time": "2017-07-12T11:23:11+0000",
+    "shares": {
+        "count": 7
+    },
+    "likes": {
+        "summary": {
+            "total_count": 43
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2017-07-11T14:49:38+0000",
+                "message": "要趕快匯出跟填坑了XDD",
+                "id": "1365231210219948"
+            },
+            {
+                "created_time": "2017-07-11T14:53:58+0000",
+                "message": "游知澔",
+                "id": "1365234283552974"
+            },
+            {
+                "created_time": "2017-07-12T00:39:05+0000",
+                "message": "請問是只要把下載的SQL檔寄過去就行了嗎? 本身有需要做甚麼動作嗎?\n~例如先去建個帳號之類的...",
+                "id": "1365611726848563"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

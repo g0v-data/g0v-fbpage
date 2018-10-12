@@ -1,0 +1,39 @@
+{
+    "created_time": "2018-10-11T12:55:35+0000",
+    "message": "https:\/\/github.com\/g0v\/people-in-news\/wiki\n\n為了方便我自己看新聞而做了像這樣的東西。基本上是讓機器人去讀新聞標題及內文、取出人名、再依人名表列出來。一天做成一頁報告。\n\n雖然以「人名」開始，但好像隨便什麼字串也都沒差 。\n\n如果這裡有人覺得這樣子安排還不錯的話，請不吝指教。\n\n#(或許專案名應該改成 substr-in-news)",
+    "story": "Kang-min Liu shared a link to the group: g0v.tw 後勤中心.",
+    "id": "10155184416211053_1856067981136266",
+    "link": "https:\/\/github.com\/g0v\/people-in-news\/wiki",
+    "description": "公眾人物新聞的追蹤. Contribute to g0v\/people-in-news development by creating an account on GitHub.",
+    "name": "g0v\/people-in-news",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCAknVHqgAlxVRQ&w=130&h=130&url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F2668086%3Fs%3D400%26v%3D4&cfs=1&_nc_hash=AQCUAQ0-RIgsNBXe",
+    "updated_time": "2018-10-12T00:57:22+0000",
+    "caption": "github.com",
+    "likes": {
+        "summary": {
+            "total_count": 25
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-10-11T13:06:24+0000",
+                "message": "張育軒",
+                "id": "1856079444468453"
+            },
+            {
+                "created_time": "2018-10-11T13:54:44+0000",
+                "message": "substr好阿宅喔。。。就是個API  。XD",
+                "id": "1856125797797151"
+            },
+            {
+                "created_time": "2018-10-12T00:57:20+0000",
+                "message": "所以可以輸入我想找的人名或特定詞句讓他爬文蒐集相關新聞嗎?",
+                "id": "1856860931056971"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

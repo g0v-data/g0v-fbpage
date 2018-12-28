@@ -1,0 +1,25 @@
+{
+    "created_time": "2018-12-27T07:53:05+0000",
+    "message": "受到 瞿筱葳 （Hsiao-wei Chiu） 好好寫完開源協作手冊 一文的啟發。\n\n本來想先默默把提案完成再來找人一起填坑，不過看來也可以先昭告天下，大家先聊聊。\n(尤其對【中日越韓】這四個語言學習有興趣的同好。)\n\n我的提案在這裡:  https:\/\/grants.g0v.tw\/projects\/5c232d5994bbb4001bb9ab3e\n系統設計文件在這裡: https:\/\/docs.google.com\/presentation\/d\/1AgvN6fULXWRnPBp4ucFHYrcUpk60YZV_hfb6v8bLJhE\/\n\n基本上我這是一個目前已經在封閉測試中的計畫的擴充進階版。\n\n擴充的是語言，現有的只支援越文，而這個提案涵蓋的是【中日越韓】\n進階的是搜索引擎及手機板作業:  現有的版本只支援電腦上的瀏覽器，然後搜尋引擎是 python 的 whoosh。提案則是要實作手機版的功能 及 搜索引擎移植到 elasticsearch 上。\n\n以上，歡迎對這個主題有興趣的人跳出水面喔~",
+    "story": "Ted Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1962954627114267",
+    "link": "https:\/\/grants.g0v.tw\/projects\/5c232d5994bbb4001bb9ab3e",
+    "name": "Hello 好鄰居 - g0v 公民科技創新獎助金",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQArooXPsAiBVfjh&w=130&h=130&url=https%3A%2F%2Fgrants.g0v.tw%2Fuploads%2F03422c839f20dd23145a1f565ffe6def.jpg&cfs=1&_nc_hash=AQCxxuHWwWSu1JL9",
+    "updated_time": "2018-12-27T07:53:06+0000",
+    "caption": "grants.g0v.tw",
+    "shares": {
+        "count": 1
+    },
+    "likes": {
+        "summary": {
+            "total_count": 20
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

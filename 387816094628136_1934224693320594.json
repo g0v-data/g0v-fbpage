@@ -1,0 +1,41 @@
+{
+    "created_time": "2018-12-06T20:02:35+0000",
+    "message": "各位好，小弟五年前(!?)做了一個「法規亦毒氣」瀏覽器外掛，\n可在瀏覽網頁時把法規名稱與條號加上連結，並且在滑鼠移過時顯示條文內容。\n（本專案目前還掛在 g0v 的 github 中）\n\n近日大幅更新了程式碼（其實是完全重寫啦），\n修正了以前的許多問題，\n自認程式碼也比以前清爽好懂，\n所以上來發個文請大家試用與指教。\n\n指教方式包含但不限於：\n* 專案本身跟 g0v 的關係如何界定（畢竟我這幾年都沒參加活動跟討論…orz）\n* 使用者習慣與需求\n* 技術面建議（如開發環境、工具、演算法、程式碼格式…）\n\nChrome 版：\nhttps:\/\/chrome.google.com\/webstore\/detail\/iedodmlnmhobigohbkalkkjlbmdkjalj\n\nFirefox 版：\nhttps:\/\/addons.mozilla.org\/zh-TW\/firefox\/addon\/laweasyread\/\n\n已知 Opera 也可以運作，不過要手動裝。\nEdge 有些微的機會可以跑，不過我沒能試。\n\n***\n技術面：\n我把其中兩個功能獨立出來成為別的專案，不確定是不是重複造輪子但反正都做了就也分享一下：\n* lawtext2obj: 處理那種「每32個全形字就用換行來排版」的 raw data ，轉換成可以辨識項、款、目的巢狀陣列。\n* domCrawler: 可把網頁中指定節點中的所有指定字串都換成想要的東西，例如把 \"apple\" 變成 <em>pineapple<\/em> 。\n\n也順便問一下，立法院法律系統的資料，還有哪個專案有在固定下載嗎？",
+    "story": "高睿甫 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1934224693320594",
+    "link": "https:\/\/chrome.google.com\/webstore\/detail\/iedodmlnmhobigohbkalkkjlbmdkjalj",
+    "description": "將網頁中的法規與條號都轉變成連結，讓您快速查閱指定條文。",
+    "name": "法規亦毒氣",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCpo0gTVdBDMpQc&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FniVGkYUCtuF7U4b8l8bh0xlidzG4R-q3vRxXLOmYH3wGkYsaNGgA8hinNAl0rIZ99grZXdU5%3Dw640-h400-e365&cfs=1&_nc_hash=AQCvTXNKFNADhP1p",
+    "updated_time": "2018-12-08T06:37:45+0000",
+    "caption": "chrome.google.com",
+    "shares": {
+        "count": 10
+    },
+    "likes": {
+        "summary": {
+            "total_count": 73
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-12-07T09:54:12+0000",
+                "message": "阿空！五年了嗎！？\n如何界定與 g0v 關係是由坑主決定唷，人沒參加但程式碼一直在參加也是一種參加？XDD",
+                "id": "1935026006573796"
+            },
+            {
+                "created_time": "2018-12-07T11:47:11+0000",
+                "from": {
+                    "name": "Ronny Wang",
+                    "id": "1417580878352707"
+                },
+                "message": "https:\/\/github.com\/ronnywang\/tw-law-corpus",
+                "id": "1935129266563470"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

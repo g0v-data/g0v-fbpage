@@ -1,0 +1,101 @@
+{
+    "created_time": "2018-11-14T01:09:11+0000",
+    "message": "中選會候選人資料陸續上線了，整理一下目前可以取得的項目，歡迎大家開玩 ;)\n\n",
+    "story": "Finjon Kiang shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1903412786401785",
+    "link": "https:\/\/g0v.hackmd.io\/KWssFAf2S4--PJquDD_vaw",
+    "name": "2018中選會資料 - HackMD",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAvb1vbEfFfUDma&w=130&h=130&url=https%3A%2F%2Fg0v.hackmd.io%2Fcomments-mock.gif&cfs=1&_nc_hash=AQCNdjzpJ3QZnXV8",
+    "updated_time": "2018-11-21T10:05:47+0000",
+    "caption": "g0v.hackmd.io",
+    "shares": {
+        "count": 5
+    },
+    "likes": {
+        "summary": {
+            "total_count": 48
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-11-14T15:43:55+0000",
+                "message": "資料匯入選舉黃頁了 http:\/\/elections.olc.tw",
+                "id": "1904160429660354"
+            },
+            {
+                "created_time": "2018-11-14T19:05:45+0000",
+                "message": "中選會的 API 居然有的人有政見有的人沒有，有人可以幫忙反應嗎？政見的 key 是 BulletinPlatform\n\n例如板橋彭盛韶就沒有，但同選區的李婉鈺就有\n新店的曾柏瑜沒有，但同選區的金中玉就有\n\n中選會新北API： http:\/\/2018.cec.gov.tw\/json\/candidate\/65000.json",
+                "id": "1904347966308267"
+            },
+            {
+                "created_time": "2018-11-14T22:07:31+0000",
+                "message": "選舉公報 http:\/\/eebulletin.cec.gov.tw\/107\/",
+                "id": "1904503682959362"
+            },
+            {
+                "created_time": "2018-11-16T04:45:15+0000",
+                "message": "有沒有中選會的窗口啊",
+                "id": "1906101432799587"
+            },
+            {
+                "created_time": "2018-11-19T14:59:49+0000",
+                "message": "政見欄位看起來放棄治療了，已經全部被清空（攤手）",
+                "id": "1910660179010379"
+            },
+            {
+                "created_time": "2018-11-20T18:19:42+0000",
+                "message": "澎湖、花蓮、台中、雲林、台東、宜蘭共計 468 個候選人 API 中完全沒提供學經歷",
+                "id": "1912113048865092"
+            },
+            {
+                "created_time": "2018-11-21T04:47:17+0000",
+                "message": "有沒有人能幫忙將文字從公報取出？我剛完成花蓮，目前在處理雲林",
+                "id": "1912506575492406"
+            },
+            {
+                "created_time": "2018-11-21T06:07:29+0000",
+                "message": "雲林完成",
+                "id": "1912559575487106"
+            },
+            {
+                "created_time": "2018-11-21T06:29:57+0000",
+                "message": "中選會的同仁有告知一些處理狀況，給大家參考：\n\n「候選人資料使用時需要注意， ElectionId = 20182010001 才是正確的資料，不確定為什麼裡面會有另外一個 ElectionId = 20182010002 的重複資料，而且資料看起來是有問題的」\n\n➡ 重複資料或有問題的JSON前幾日已清除\n\n「有的欄位名稱並不一致，像是 voterTypeId 被打成 votesrTypeId」\n\n➡ 已更新程式，欄位名稱統一為 voterTypeId\n\n「圖檔有時是 URI, 有些是 base64」\n\n➡ 原先候選人大頭照圖檔是讀取base64，前幾周為調整前端查詢候選人效能，改為讀URI，並且為了不讓已匯出校對的候選人(讀取base64)在修改程式後無法正常顯示圖檔，因此前端程式可容許讀取base64或URI，今天對22個縣市重新產出候選人JSON檔後，圖檔已全數為URI。",
+                "id": "1912579652151765"
+            },
+            {
+                "created_time": "2018-11-21T06:47:03+0000",
+                "message": "這次中選會的開放資料跟 2016 比真的是退步不少\napi 不公告、資料參差不齊、前後不一致",
+                "id": "1912592395483824"
+            },
+            {
+                "created_time": "2018-11-21T06:49:26+0000",
+                "message": "澎湖、花蓮、雲林學經歷已從公報取出，還差台中台東宜蘭：https:\/\/docs.google.com\/spreadsheets\/d\/1ZJkyZax00bjK9ffRPwzJRDsBBIgboyJfFA4TNuifTdA\/edit#gid=0",
+                "id": "1912593762150354"
+            },
+            {
+                "created_time": "2018-11-21T06:53:38+0000",
+                "message": "拜託中選會大大直接提供公報 pdf 原始檔，word 都好",
+                "id": "1912596335483430"
+            },
+            {
+                "created_time": "2018-11-21T06:55:36+0000",
+                "message": "選舉公報 PDF？\nhttp:\/\/eebulletin.cec.gov.tw\/107\/",
+                "id": "1912597665483297"
+            },
+            {
+                "created_time": "2018-11-21T08:49:55+0000",
+                "message": "台中也完成了，剩下無法複製文字的花蓮跟台東",
+                "id": "1912680342141696"
+            },
+            {
+                "created_time": "2018-11-21T09:42:00+0000",
+                "message": "幫中選會回：\n\n有關107年地方公職人員選舉專區，本次資料未提供候選人學經歷及政見，係因上次選舉專區之資料由選務作業系統轉出，且候選人學經歷尚須查證，各地方選務人員亦未將最後資料回填選務作業系統，使得選舉專區與公報之學經歷及政見有落差，亦有部分候選人陳情應以公報資料為主，資料不一致而造成民眾得知錯誤訊息，所以107年地方公職人員選舉專區不提供候選人學經歷及政見，而規劃提供民眾公報PDF檔。\n\nhttp:\/\/www.cec.gov.tw\/ElectionBoard_List.html?Item=Info_EB\n管理",
+                "id": "1912724315470632"
+            }
+        ],
+        "summary": {
+            "total_count": 15
+        }
+    }
+}

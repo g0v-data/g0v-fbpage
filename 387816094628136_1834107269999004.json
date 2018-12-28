@@ -7,14 +7,14 @@
     "description": "2018 是第二次的九合一選舉，這次在市長層級的候選人相對比較容易找到對應的政治獻金資料，所以想要試著向下探索議員層級的可能，只是依據初步的程式比對，這次 2018 有登記參選議員的候選人姓名可以找到 1304 筆歷史的政....",
     "name": "2018 開放政治獻金再啟動",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCtc7RZ9GaY2fQn&w=130&h=130&url=https%3A%2F%2Fhackpad.com%2Fstatic%2Fimg%2Fhackpad-logo.png&cfs=1&_nc_hash=AQCLQNv2SpBXuDiz",
-    "updated_time": "2018-10-17T08:34:42+0000",
+    "updated_time": "2018-11-03T16:08:50+0000",
     "caption": "g0v.hackpad.tw",
     "shares": {
         "count": 2
     },
     "likes": {
         "summary": {
-            "total_count": 14
+            "total_count": 23
         }
     },
     "comments": {
@@ -23,10 +23,15 @@
                 "created_time": "2018-10-17T08:34:39+0000",
                 "message": "第一批圖檔出來了，再請大家幫忙看看 - https:\/\/github.com\/kiang\/cy.sunshine.2014",
                 "id": "1863478507061880"
+            },
+            {
+                "created_time": "2018-11-03T16:08:41+0000",
+                "message": "目前圖檔都已經上傳，剛剛發現 tesseract 4 產出的效果還不錯，如果可以基於 tesseract 4 產出的 hocr 去延伸群眾外包功能進行文字校正，或許可以讓整個流程更容易被移轉到其他案例\n\nhocr 格式參考 - https:\/\/github.com\/kiang\/cy.sunshine.2014\/blob\/master\/tesseract\/2733_004.hocr",
+                "id": "1890178067725257"
             }
         ],
         "summary": {
-            "total_count": 1
+            "total_count": 2
         }
     }
 }

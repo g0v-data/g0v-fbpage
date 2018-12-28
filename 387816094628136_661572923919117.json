@@ -8,10 +8,6 @@
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBQjJC6x-ks3eYQ&w=130&h=130&url=https%3A%2F%2Fg0v.github.io%2Fstyle-guide%2Flogo%2Fpng%2Fhorizontal%2Fg0v-horizontal-transparent-s.png&cfs=1&_nc_hash=AQD86MSFjyiRwAk-",
     "updated_time": "2014-08-06T02:11:27+0000",
     "caption": "local.data.g0v.tw",
-    "from": {
-        "name": "Chia-liang Kao",
-        "id": "10155373915470668"
-    },
     "likes": {
         "summary": {
             "total_count": 41
@@ -21,34 +17,17 @@
         "data": [
             {
                 "created_time": "2014-08-04T17:13:27+0000",
-                "from": {
-                    "name": "Chia-liang Kao",
-                    "id": "10155373915470668"
-                },
                 "message": "也歡迎文案小幫手，來說明一下這件事情的重要性，還有看看填寫說明有什麼要改進的",
                 "id": "661574103918999"
             },
             {
-                "created_time": "2014-08-05T02:41:18+0000",
-                "from": {
-                    "name": "Hsin-yu Wang",
-                    "id": "1606731582745027"
-                },
-                "message": "地方資料深刻需要普查！： http:\/\/local.data.g0v.tw\/\n\n由於高雄氣爆事件的管路權責問題，可以發現我國許多各類不同資料散落在各地方，甚或是不清楚及不完整，及未獲得全部透明化開放，就像之前進行過的「路平專案」、「求職小幫手」，還有目前的「議員投票指南」，都是G0V零時政府成員或民間成員自發性從各縣市政府或議會取得資料，將格式不同的資料整合在一起。\n\n希望藉此機會，讓大家在此處來填寫：\n1.「還有哪類資料是散落在各處」\n2「各地方政府公開及開放該資料的現況」\n3 是否已經「有人砍柴把資料整理好」\n\n以便可以做下一步整合延伸，及整理應用。\n\n新增資料集方法及其他問題說明，請見FAQ： http:\/\/local.data.g0v.tw\/faq",
-                "id": "661760910566985"
-            },
-            {
                 "created_time": "2014-08-06T02:11:27+0000",
-                "from": {
-                    "name": "Anthony Liu",
-                    "id": "10157089581674992"
-                },
                 "message": "剛剛在 Google Plus 上看到 GOV 的宣傳: http:\/\/duct.cpami.gov.tw\/pubWeb2\/util\/P1_0.aspx",
                 "id": "662286920514384"
             }
         ],
         "summary": {
-            "total_count": 3
+            "total_count": 2
         }
     }
 }

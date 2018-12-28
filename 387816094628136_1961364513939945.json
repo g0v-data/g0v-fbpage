@@ -1,0 +1,72 @@
+{
+    "created_time": "2018-12-26T01:40:00+0000",
+    "message": "抱歉，太多人在質疑美玉姨。\n昨天做了個社群實驗，中南部的群組(某大肚山上的高階知識分子XD)\n.\n就認為這個是政府全面監控\n或者是非人，是來竊取交談資料的...\n看了就很傻眼\n.\n懇請我挖個小坑，有沒有人可以針對這一點\n.\n寫一個\"真的假的\"\n\n把相關的Code說明一下\n#原來第一個要破解的問題就是真的會蒐集談話資料嗎XD\n#全面監控的時代來了嗎\n",
+    "story": "Mitchell Chen shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1961364513939945",
+    "link": "https:\/\/github.com\/carolhsu\/rumor-checker",
+    "description": "receive line's webhook and return rumor's checking result. - CarolHsu\/rumor-checker",
+    "name": "CarolHsu\/rumor-checker",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBAUvLUnVYATDGR&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1646695%3Fs%3D400%26v%3D4&cfs=1&_nc_hash=AQCS1DZVBXSni-M4",
+    "updated_time": "2018-12-27T15:42:08+0000",
+    "caption": "github.com",
+    "shares": {
+        "count": 10
+    },
+    "likes": {
+        "summary": {
+            "total_count": 87
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-12-26T01:57:36+0000",
+                "message": "表示美玉姨真的踩到某些人的痛點了",
+                "id": "1961380533938343"
+            },
+            {
+                "created_time": "2018-12-26T02:10:53+0000",
+                "message": "確實要寫，而且要註明對舊謠言才有用，新謠言沒有這麼快更正",
+                "id": "1961393003937096"
+            },
+            {
+                "created_time": "2018-12-26T02:11:42+0000",
+                "message": "我的想法是，從原始碼去看這個東西的本質。\n如果你不相信，你也可以自己架一個ˊ",
+                "id": "1961393537270376"
+            },
+            {
+                "created_time": "2018-12-26T02:29:07+0000",
+                "message": "不相信美玉姨的就是不懂這個東西，怎麼可能自己寫...",
+                "id": "1961407170602346"
+            },
+            {
+                "created_time": "2018-12-26T04:50:26+0000",
+                "message": "我沒有靠假新聞吃飯，但也很害怕是監控工具；的確是因為不懂。超感謝大家做這些。\n(也許質疑的人也都是會主動求證是否為假新聞的人啊，這樣應該很好吧^^)",
+                "id": "1961520727257657"
+            },
+            {
+                "created_time": "2018-12-26T06:05:00+0000",
+                "message": "你可以回問他，沒有「真的假的」沒有「美玉姨」，你收到不知道是真是假的謠言之後，你會如何處理呢？",
+                "id": "1961571400585923"
+            },
+            {
+                "created_time": "2018-12-26T07:19:49+0000",
+                "message": "其實因為他的確是可以探索到各種群組內的對話，如果這隻機器人後面的資料庫有在記錄的話，是真的會有疑慮沒錯。",
+                "id": "1961627070580356"
+            },
+            {
+                "created_time": "2018-12-26T10:30:47+0000",
+                "message": "其實原本 Cofacts 經手的資料 (查詢語句) 都是 user 主動輸入的，所以可以視為有清楚的 consent 讓我們處理資料。\n\n不過透過美玉姨進來的資料確實就有爭議了 Orz\n\n目前美玉姨這裡已經有人開 Issue 提出這一點：\nhttps:\/\/github.com\/CarolHsu\/rumors-api-client\/issues\/3\n\nCofacts 這裡則可能得放出自己的使用者條款與隱私權條款來保護自己 QQ",
+                "id": "1961772243899172"
+            },
+            {
+                "created_time": "2018-12-26T10:40:44+0000",
+                "message": "我一面幫忙推廣美玉姨，一面在想要怎麼讓人理解關於群組對話內容外流的風險，這樣的疑慮確實存在",
+                "id": "1961781267231603"
+            }
+        ],
+        "summary": {
+            "total_count": 9
+        }
+    }
+}

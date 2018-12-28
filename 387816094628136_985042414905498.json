@@ -9,47 +9,21 @@
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQA0qF8KKMKohGBC&w=130&h=130&url=https%3A%2F%2Flh4.googleusercontent.com%2FBpZ7QgexJ2bb8A0uqbatHG3MTgvtdI33q3djYESioN5MnOXc-hwR5xJVVMMNkFpL3zY%3Dw1200-h630-p&cfs=1&_nc_hash=AQBo80c_E64Cm6_P",
     "updated_time": "2016-05-11T23:54:37+0000",
     "caption": "docs.google.com",
-    "from": {
-        "name": "郭杰穎",
-        "id": "2036132183068598"
-    },
     "likes": {
         "summary": {
-            "total_count": 34
+            "total_count": 33
         }
     },
     "comments": {
         "data": [
             {
-                "created_time": "2016-05-08T04:05:17+0000",
-                "from": {
-                    "name": "Hsin-yu Wang",
-                    "id": "1606731582745027"
-                },
-                "message": "要上班不好意思",
-                "id": "985422994867440"
-            },
-            {
                 "created_time": "2016-05-10T09:30:02+0000",
-                "from": {
-                    "name": "Ly Cheng",
-                    "id": "10155367657647883"
-                },
                 "message": "聽說還缺 25 個！！大家幫忙支援一下吧",
                 "id": "986685008074572"
-            },
-            {
-                "created_time": "2016-05-11T12:19:09+0000",
-                "from": {
-                    "name": "Hsin-yu Wang",
-                    "id": "1606731582745027"
-                },
-                "message": "還是缺25人嗎？有進度嗎?!",
-                "id": "987310624678677"
             }
         ],
         "summary": {
-            "total_count": 3
+            "total_count": 1
         }
     }
 }

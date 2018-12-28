@@ -1,0 +1,105 @@
+{
+    "created_time": "2018-11-26T22:53:45+0000",
+    "message": "大家好~ 想跟大家求助\n1.想將台北市老人共餐據點，結合到谷歌地圖上。\n2.想將AED的設置點也用成google maps。\n\n動機：\n1.用成地圖比較直覺，上網查表單太慢。\n2.衛福部網站上的地圖也是不夠直覺，如果套到谷哥地圖上就可以直接用手機定位。\n\ngoogle maps上的KML匯出\/匯入我還記得怎麼用\n但是外部表單模式我就忘了......\n在這有請大家幫忙一下，告訴我怎麼操作，謝謝。\n\n老人共餐據點表單：\nhttps:\/\/www-ws.gov.taipei\/Download.ashx?u=LzAwMS9VcGxvYWQvMzU4L3JlbGZpbGUvMTc5MzkvNDE1NTU1OC9mNDZlZDVjMC0zYjBiLTQ4MmYtOWI1Ni0xZjkyMjEzM2NiZDIucGRm&n=MTA35bm05bqm5YWx6aSQ5pOa6bue5ZCN5YaKLnBkZg%3D%3D&icon=..pdf&fbclid=IwAR0jcAOU04sQ9uROd0U-NXoSksAs0pn8bxA3fBXP73uDGzdqHrfC23tF_qo\n\n衛福部AED據點：\nhttps:\/\/tw-aed.mohw.gov.tw\/ShowMap.jsp",
+    "story": "李國維 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1920324574710606",
+    "link": "https:\/\/www-ws.gov.taipei\/Download.ashx?u=LzAwMS9VcGxvYWQvMzU4L3JlbGZpbGUvMTc5MzkvNDE1NTU1OC9mNDZlZDVjMC0zYjBiLTQ4MmYtOWI1Ni0xZjkyMjEzM2NiZDIucGRm&n=MTA35bm05bqm5YWx6aSQ5pOa6bue5ZCN5YaKLnBkZg%3D%3D&icon=..pdf&fbclid=IwAR0jcAOU04sQ9uROd0U-NXoSksAs0pn8bxA3fBXP73uDGzdqHrfC23tF_qo",
+    "name": "www-ws.gov.taipei",
+    "updated_time": "2018-11-28T06:38:08+0000",
+    "caption": "www-ws.gov.taipei",
+    "shares": {
+        "count": 6
+    },
+    "likes": {
+        "summary": {
+            "total_count": 69
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-11-26T23:03:44+0000",
+                "message": "台中\nhttps:\/\/www.society.taichung.gov.tw\/media\/319635\/107年度老人宗教團體共餐單位一覽表.pdf",
+                "id": "1920333101376420"
+            },
+            {
+                "created_time": "2018-11-26T23:05:16+0000",
+                "message": "高雄市採老人送餐\nhttps:\/\/fsop.kcg.gov.tw\/cp.aspx?n=6985D0FA36B501F1",
+                "id": "1920334534709610"
+            },
+            {
+                "created_time": "2018-11-27T00:49:16+0000",
+                "message": "哈，臺北市的應該有API和非PDF的格式，等下找給你",
+                "id": "1920430158033381"
+            },
+            {
+                "created_time": "2018-11-27T01:04:52+0000",
+                "message": "1.先批次將地址轉成WGS84的座標，網址如下\nhttp:\/\/gps.uhooamber.com\/address-to-lat-lng.html\n\n2.將座標及單位、其他資訊等整理成excel，再另存成CSV\n\n3.直接餵給google map，關件字搜尋 \"google map 匯入excel\"，很多教學",
+                "id": "1920443451365385"
+            },
+            {
+                "created_time": "2018-11-27T01:15:21+0000",
+                "message": "https:\/\/data.taipei\/dataset\/detail\/metadata?id=f2998ef5-0d08-4f82-8905-d95bdb9e880b",
+                "id": "1920453174697746"
+            },
+            {
+                "created_time": "2018-11-27T01:15:58+0000",
+                "message": "上面是台北的 有api可接",
+                "id": "1920453734697690"
+            },
+            {
+                "created_time": "2018-11-27T01:16:52+0000",
+                "message": "2.你看到的AED不見得是真的⋯",
+                "id": "1920454388030958"
+            },
+            {
+                "created_time": "2018-11-27T01:20:19+0000",
+                "message": "AED地點資訊可以參考\"全民急救AED\"",
+                "id": "1920457068030690"
+            },
+            {
+                "created_time": "2018-11-27T01:26:23+0000",
+                "message": "那個APP的資料應該也是來自衛福部. \n不過沒關係, 還是感謝能做出來.",
+                "id": "1920462004696863"
+            },
+            {
+                "created_time": "2018-11-27T03:03:21+0000",
+                "message": "北市的google spreadsheets\n\nhttps:\/\/docs.google.com\/spreadsheets\/d\/1NzYK_1on2atlCANRPI0-jSwTKH3xElvkEXQbAXOK1Ck\/edit#gid=916923080",
+                "id": "1920545438021853"
+            },
+            {
+                "created_time": "2018-11-27T03:04:24+0000",
+                "message": "用 google my map 製作會比較好嗎？",
+                "id": "1920546261355104"
+            },
+            {
+                "created_time": "2018-11-27T14:49:58+0000",
+                "message": "這邊AED 是政府公共場所的地圖吧? 至少我知道有些社區有AED沒在上面",
+                "id": "1921141034628960"
+            },
+            {
+                "created_time": "2018-11-27T14:50:22+0000",
+                "message": "看到標題了 原來上面就有寫了",
+                "id": "1921162844626779"
+            },
+            {
+                "created_time": "2018-11-27T23:42:09+0000",
+                "message": "台北市老人共餐地圖編好了\n謝謝大家的協作\nhttps:\/\/drive.google.com\/open?id=1gTMmqlqTkqqnoeu_I5PDnSo3jNAdtdNo&usp=sharing",
+                "id": "1921688821240848"
+            },
+            {
+                "created_time": "2018-11-27T23:45:47+0000",
+                "message": "糟糕！剛剛才發現里長的資訊沒有更新，大選後應該有不少變動，晚些再來改吧。下一版應該是等新北市的資料爬出來，再跟台中的一起弄。",
+                "id": "1921691731240557"
+            },
+            {
+                "created_time": "2018-11-28T06:38:04+0000",
+                "message": "共餐據點因為是補助辦理，每年都會變動，單純換里長資料沒有意義\n^^    換里長的話新里長不一定會申請明年的計畫",
+                "id": "1922052644537799"
+            }
+        ],
+        "summary": {
+            "total_count": 16
+        }
+    }
+}

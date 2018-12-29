@@ -9,119 +9,66 @@
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAlZMQV9mFUSUYO&w=130&h=130&url=https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fkkbox-registrano%2Fupload_images%2F32887%2F______________original.png&cfs=1&_nc_hash=AQAdN-iosyFMsVKh",
     "updated_time": "2014-04-10T22:56:41+0000",
     "caption": "r0xewo.kktix.cc",
-    "from": {
-        "name": "依瑪貓",
-        "id": "2278546112162186"
-    },
     "likes": {
         "summary": {
-            "total_count": 43
+            "total_count": 42
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2014-04-05T04:52:49+0000",
-                "from": {
-                    "name": "陳昱維",
-                    "id": "1848118461866353"
-                },
                 "message": "所以是座談會？",
                 "id": "603594933050250"
             },
             {
                 "created_time": "2014-04-05T04:53:08+0000",
-                "from": {
-                    "name": "依瑪貓",
-                    "id": "2278546112162186"
-                },
                 "message": "是的，歡迎參加！ ^_*'",
                 "id": "603595719716838"
             },
             {
                 "created_time": "2014-04-05T07:59:08+0000",
-                "from": {
-                    "name": "Renee Ko",
-                    "id": "1606032149510714"
-                },
                 "message": "已經額滿？",
                 "id": "603658616377215"
             },
             {
                 "created_time": "2014-04-05T08:13:10+0000",
-                "from": {
-                    "name": "Angel Su",
-                    "id": "10215185918502379"
-                },
                 "message": "可以拍嗎？我變得好網路人喔（我明明是文組生:p）話說徐沛然是我政大新聞系的學弟耶～",
                 "id": "603662176376859"
             },
             {
                 "created_time": "2014-04-05T08:28:44+0000",
-                "from": {
-                    "name": "Atticus Wu",
-                    "id": "10155362336517916"
-                },
                 "message": "想參加...",
                 "id": "603665303043213"
             },
             {
                 "created_time": "2014-04-05T08:53:52+0000",
-                "from": {
-                    "name": "依瑪貓",
-                    "id": "2278546112162186"
-                },
                 "message": "Angel Su: 什麼可以拍？可以拍什麼？\nRenee Ko, Atticus Wu: 我們活動都會錄影上網（感謝Bookshow）。這是WoFOSS跨領域系列的第6.5場，服貿百工圖的第一場。之後或許會有後續的系列，也歡迎關注參加！",
                 "id": "603672076375869"
             },
             {
                 "created_time": "2014-04-05T09:03:43+0000",
-                "from": {
-                    "name": "Angel Su",
-                    "id": "10215185918502379"
-                },
                 "message": "依瑪貓 我應該參加完後才知道可以拍什麼？其實是要找藉口參加XD",
                 "id": "603674263042317"
             },
             {
                 "created_time": "2014-04-10T12:13:27+0000",
-                "from": {
-                    "name": "Hsiao-hsien Yang",
-                    "id": "10156175249445984"
-                },
                 "message": "直播中。\nhttps:\/\/www.youtube.com\/watch?v=lMcG7UJnf_o",
                 "id": "605862012823542"
             },
             {
                 "created_time": "2014-04-10T16:51:50+0000",
-                "from": {
-                    "name": "Ming-cheng Lin",
-                    "id": "2274153135934673"
-                },
                 "message": "還會有下一場嗎？",
                 "id": "605966556146421"
             },
             {
                 "created_time": "2014-04-10T18:10:31+0000",
-                "from": {
-                    "name": "Jun Yichun Chen",
-                    "id": "10215925348831812"
-                },
                 "message": "會有！只是產業別還在討論，屆時再分享給大家",
                 "id": "605993022810441"
-            },
-            {
-                "created_time": "2014-04-10T22:56:41+0000",
-                "from": {
-                    "name": "張記銘",
-                    "id": "1864852106860688"
-                },
-                "message": "謝謝你們的活動，我覺得很棒！\n如果有農業、設計、計程車、面板廠、小吃、醫療、造船相關的場次我還會參加！（這些都是親戚在從事的產業別。）",
-                "id": "606068829469527"
             }
         ],
         "summary": {
-            "total_count": 11
+            "total_count": 10
         }
     }
 }

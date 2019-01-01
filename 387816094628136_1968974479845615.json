@@ -1,0 +1,43 @@
+{
+    "created_time": "2018-12-31T15:01:49+0000",
+    "message": "接續 艾爾維斯 的問題，想問有沒有人有興趣開發一個公民討論平台？\n我只有一些想法但沒有開發的能力\n但開始寫之後發現連想法都還不是很成熟，希望跟大家一邊討論一邊整理到hackmd上\n\n目前的想法包括：\n匿名但審查一人一個帳戶\n用圖形化介面\n讓正反(或更多)方意見並陳\n引導使用者以基本的邏輯關係陳述意見\n建立證據庫\n\n心目中的平台是\n以當下熱門時事吸引用戶參與\n同時以演算法和規則呈現完整資訊、排除操作的可能\n\n如果上面可以達成，那就在朝向凝聚共識、反映民主聲音的管道前進\n\n",
+    "story": "Jimmy Yeh shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1968974479845615",
+    "link": "https:\/\/hackmd.io\/vN_9XIsUQZudl4cUkxzHIg?view",
+    "name": "HackMD - Collaborative markdown notes",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB8c9qSBxalhGag&w=130&h=130&url=https%3A%2F%2Fhackmd.io%2Ffavicon.png&cfs=1&_nc_hash=AQBQAYH8vZkqwwue",
+    "updated_time": "2019-01-01T03:05:31+0000",
+    "caption": "hackmd.io",
+    "likes": {
+        "summary": {
+            "total_count": 4
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2018-12-31T15:37:57+0000",
+                "message": "概念像是與爭議對手共同維護一塊言論專案。",
+                "id": "1969036876506042"
+            },
+            {
+                "created_time": "2018-12-31T15:38:13+0000",
+                "message": "先不談開發。\n\n我覺得很有愛才經營得下去... 平台維護就是一筆非常高的成本了。\n\n然後說真的很多東西都可以取代這個平台，例如hackmd就是一個",
+                "id": "1969037249839338"
+            },
+            {
+                "created_time": "2018-12-31T17:03:22+0000",
+                "message": "想像一個平台，當我點了一個『以核養綠』的時候，它幫我列出可能是七個光譜度數並陳，或者可能是有大類小類的光譜列為樹狀，或者是根本有跨度所以看起來是 Venn Diagram ，這樣嗎？",
+                "id": "1969178666491863"
+            },
+            {
+                "created_time": "2018-12-31T17:30:26+0000",
+                "message": "這議題我也想過很多年，想避免各說各話、未澄清亂放話等問題，也讓對立雙方有個共有平台，溝通快速，先做點Sample出來，暫不管深度技術，問題是:政客不會喜歡我的攻擊被對方識破。",
+                "id": "1969220426487687"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

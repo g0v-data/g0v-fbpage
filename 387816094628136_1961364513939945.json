@@ -7,14 +7,14 @@
     "description": "receive line's webhook and return rumor's checking result. - CarolHsu\/rumor-checker",
     "name": "CarolHsu\/rumor-checker",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBAUvLUnVYATDGR&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F1646695%3Fs%3D400%26v%3D4&cfs=1&_nc_hash=AQCS1DZVBXSni-M4",
-    "updated_time": "2018-12-30T09:17:46+0000",
+    "updated_time": "2019-01-05T00:32:23+0000",
     "caption": "github.com",
     "shares": {
         "count": 10
     },
     "likes": {
         "summary": {
-            "total_count": 89
+            "total_count": 91
         }
     },
     "comments": {
@@ -68,10 +68,15 @@
                 "created_time": "2018-12-30T08:42:09+0000",
                 "message": "技術上就是無解。即使能看懂原始碼，也無從驗證那個美玉姨帳號後面跑的bot是不是和公開出來的原始碼一模一樣。\n\n這疑慮其實不只存在於美玉姨，群組中的 *任*何*一*個*人* (或者也許是bot?) 都有可能把群組裡的對話記錄下來賣掉啊！還有 LINE 公司也可能把群組對話的資料記錄下來啊！\n\n唯一的解法是，使用 LINE 之類的通訊工具就要假定內容有可能被外流，不要在群組裡傳任何絕對不能外流的東西。",
                 "id": "1967010933375303"
+            },
+            {
+                "created_time": "2019-01-05T00:32:21+0000",
+                "message": "或許有這種質疑也不錯，至少在這件事情上，對方顯彰出了「不經易去相信」的態度。如果對方平時對於日常新聞也抱持同樣的態度去質疑、去懷疑，那倒也不需要持繼接受美玉姨的服務了。\n\n而面對對方言論上攻擊，只要累積夠多成功實例，把本來在做的事情做好做滿(?)，便是為反攻。",
+                "id": "1975620695847660"
             }
         ],
         "summary": {
-            "total_count": 10
+            "total_count": 11
         }
     }
 }

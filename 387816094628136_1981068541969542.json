@@ -1,0 +1,29 @@
+{
+    "created_time": "2019-01-08T18:08:18+0000",
+    "message": "之前使用 data.gov.tw 「我想要更多」的經驗，感覺申請不是非常踴躍，很多也都被打回票。我在想是不是可以做什麼來降低申請門檻，提高資料開放的成功機率..\n\n和朋友討論之後想了一些方法，包括增加追蹤功能，增加期限設定和通知的功能，甚至去找其他類似但已開放的資料集來作為要求比照開放的基礎（就算不能成功說服，至少可以寫一篇「政府不開放資料的常見20個理由」😄。\n\n總之，想問大家覺得這些方法有幫助嗎？還有想到其他功能嗎？然後是否有必要架一個民間版的資料申請平台，像 whatdotheyknow 那樣，把覺得有幫助的內容、功能通通放進去？\n\n以下是目前的架構和想像，開放路過、留言、編修~~",
+    "story": "張淑貞 shared a link to the group: g0v.tw 後勤中心.",
+    "id": "387816094628136_1981068541969542",
+    "link": "https:\/\/bit.ly\/2SEhEt7",
+    "description": "我真的真的要更多 --民間版開放資料申請平台\/機制",
+    "name": "我真的真的要更多",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDApgdxU-3ZtgNg&w=130&h=130&url=https%3A%2F%2Flh5.googleusercontent.com%2FOUzcPRf9Vgb8ve8Xi1X4QDDvIdsNaz5vc8m5s5KWauFf676wUZl9G6gu8go7sULw-Djb9w%3Dw1200-h630-p&cfs=1&_nc_hash=AQAKoJqIzvHrEAbb",
+    "updated_time": "2019-01-10T10:08:52+0000",
+    "caption": "docs.google.com",
+    "likes": {
+        "summary": {
+            "total_count": 34
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-01-10T10:02:14+0000",
+                "message": "do you know this\nhttps:\/\/accessinfo.hk\n\nUse this site to make your request for information – we'll show you how.\n\nWe'll drop you an email as soon as your request gets a response.\n\nWe publish it all online. Great! Now you have your answer, and everybody else can access it too.\n\naccessinfo.hk aims to make requesting for information under the Hong Kong government's Code on Access to Information easier, more transparent, and hopefully fairer by publishing Access to Information requests and replies so that others don't have to ask for the same information again. These can then be scrutinized by the public, especially when these are unfair.\n\n#opendata",
+                "id": "1983382631738133"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

@@ -6,11 +6,14 @@
     "link": "https:\/\/hackmd.io\/vN_9XIsUQZudl4cUkxzHIg?view",
     "name": "HackMD - Collaborative markdown notes",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQB8c9qSBxalhGag&w=130&h=130&url=https%3A%2F%2Fhackmd.io%2Ffavicon.png&cfs=1&_nc_hash=AQBQAYH8vZkqwwue",
-    "updated_time": "2019-01-01T12:39:53+0000",
+    "updated_time": "2019-01-03T06:09:04+0000",
     "caption": "hackmd.io",
+    "shares": {
+        "count": 1
+    },
     "likes": {
         "summary": {
-            "total_count": 5
+            "total_count": 8
         }
     },
     "comments": {
@@ -34,10 +37,20 @@
                 "created_time": "2018-12-31T17:30:26+0000",
                 "message": "這議題我也想過很多年，想避免各說各話、未澄清亂放話等問題，也讓對立雙方有個共有平台，溝通快速，先做點Sample出來，暫不管深度技術，問題是:政客不會喜歡我的攻擊被對方識破。",
                 "id": "1969220426487687"
+            },
+            {
+                "created_time": "2019-01-02T09:02:43+0000",
+                "message": "如果想法稍具雛形，歡迎來投 g0v 獎助金：https:\/\/grants.g0v.tw\/\n1\/13 截止",
+                "id": "1971771732899223"
+            },
+            {
+                "created_time": "2019-01-02T16:14:50+0000",
+                "message": "呈現方式有點像 Arguman:\nhttps:\/\/www.playpcesor.com\/2015\/10\/arguman.html?m=1\n\n然後服貿期間曾經有個潑辣瘋人平台 (Platoforum) 我覺得滿接近的，不過已經收掉了的樣子。\n\n當時在潑辣瘋人的文章也是分立場 (印象中還用分群演算法) 並陳，然後可以互相回復。印象中後來就是針鋒相對的筆戰這樣，使用的人似乎也不算多。\n\n看到潑辣瘋人的沒落，我在思考的點是：作為一個有話想說的人，我為什麼會特地想去一個吵架小平台來發文？如果同樣都是發表意見，為什麼會有人想要到特地到一個這樣的平台，而不是選擇自己的塗鴉牆 (同溫層，不會受傷) 或現有論壇 (異溫層，會受傷但容易被看見，效益高)呢？",
+                "id": "1972241642852232"
             }
         ],
         "summary": {
-            "total_count": 4
+            "total_count": 6
         }
     }
 }

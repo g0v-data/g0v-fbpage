@@ -1,44 +1,26 @@
 {
     "created_time": "2013-02-11T10:27:47+0000",
     "message": "各位好，我是個香港人。早前因對 Open Gov \/ Open Data 有興趣，被 Issac Mao 拉進另一個小組而認識 T.h. Schee , 最近又因為看到萌典，找到小光光，又一次被問何不動手進來看看。所以情況也有點奇妙啦。\n\n如果各位想到，有甚麼是我的地理／外星特點比較有用處的，但說無妨。我本身是 Barcamp.HK 的搞手，也會跑去亞洲其他地方參加當地的 Barcamp ，一月份才剛從緬甸回來。在國際聯絡／外交事務上，或許會有點用處吧？\n\n實務技能／興趣上，我是 Node.js 系文字興趣類。若干年前把 OV\/gcin 轉成 js bookmarklet 輸入法，找了幾個年輕人實踐，可參考\nhttps:\/\/code.google.com\/p\/gownfull\/source\/browse\/#svn%2Fbranches\n我本身是企劃科，嘴砲比指力強大，（自稱）對把各種學妹訓練成程序員有十倍加成（？）。目前工作主要是和智能家居硬件、低耗能無線網狀網絡、以及戰略遊戲有關。\n\n我進來的目標是把教育部異體字字典和其相關的圖庫，轉換成比較適合現代瀏灠器／移動端使用的狀況，並反饋各種查詢的活躍度、時程和各種關聯資料的對映分析。\n\n就醬子。請多多指教。\/\/bow",
-    "story": "Ben Crox shared a link to the group: g0v.tw 後勤中心.",
     "id": "387816094628136_421386957937716",
     "link": "https:\/\/code.google.com\/p\/gownfull\/source\/browse\/#svn%2Fbranches",
     "name": "\/ -   gownfull -      Web 2.0 Input Method Editor - Google Project Hosting",
     "updated_time": "2013-02-22T03:47:31+0000",
     "caption": "code.google.com",
-    "from": {
-        "name": "Ben Crox",
-        "id": "10155909526870491"
-    },
     "likes": {
         "summary": {
-            "total_count": 19
+            "total_count": 18
         }
     },
     "comments": {
         "data": [
             {
-                "created_time": "2013-02-22T03:17:35+0000",
-                "from": {
-                    "name": "T.h. Schee",
-                    "id": "10155562252649790"
-                },
-                "message": "Ben 要不要把一些覺得香港可以做的紀錄在 https:\/\/hackpad.com\/UOmcqhdG9mp \n\n看 2.24 當天（台灣 2.23 要補上班）來試試？",
-                "id": "425660620843683"
-            },
-            {
                 "created_time": "2013-02-22T03:47:31+0000",
-                "from": {
-                    "name": "Ben Crox",
-                    "id": "10155909526870491"
-                },
                 "message": "2 月 24 是 BarcampHK ，好像也有人談 Open Gov",
                 "id": "425666367509775"
             }
         ],
         "summary": {
-            "total_count": 2
+            "total_count": 1
         }
     }
 }

@@ -1,7 +1,6 @@
 {
     "created_time": "2013-01-14T14:02:00+0000",
     "message": "Very cool thing......\n\n",
-    "story": "鄭智中 shared a link to the group: g0v.tw 後勤中心.",
     "id": "387816094628136_406429892766756",
     "link": "https:\/\/www.gov.uk\/designprinciples",
     "description": "Listed below are our design principles and examples of how we’ve used them so far. These build on, and add to, our original 7 digital principles.",
@@ -9,29 +8,15 @@
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDdZMeqe3CXGa_A&w=130&h=130&url=https%3A%2F%2Fassets.digital.cabinet-office.gov.uk%2Fdesignprinciples%2Fcontent%2Fdesign%2Fpage_example_annotated-f0d13407ef6ed6ad8b6bf4adde834fcf.png&cfs=1&_nc_hash=AQC9XSDl7js4zMZZ",
     "updated_time": "2013-01-14T14:05:37+0000",
     "caption": "gov.uk",
-    "from": {
-        "name": "鄭智中",
-        "id": "10155459788420028"
-    },
     "likes": {
         "summary": {
             "total_count": 1
         }
     },
     "comments": {
-        "data": [
-            {
-                "created_time": "2013-01-14T14:05:37+0000",
-                "from": {
-                    "name": "T.h. Schee",
-                    "id": "10155562252649790"
-                },
-                "message": "中譯部分，我所知有六到七個版本吧。我抓三種背景代表的翻譯連結：\n\nhttp:\/\/netivism.com.tw\/article\/170\nhttp:\/\/www.forgemind.net\/phpbb\/viewtopic.php?t=23145\nhttp:\/\/blog.gcos.me\/2012-04-29_uk_government_digital_service_design_principles.html",
-                "id": "406430879433324"
-            }
-        ],
+        "data": [],
         "summary": {
-            "total_count": 1
+            "total_count": 0
         }
     }
 }

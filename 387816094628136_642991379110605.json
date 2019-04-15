@@ -1,7 +1,6 @@
 {
     "created_time": "2014-06-26T15:02:54+0000",
     "message": "這樣的平台大家覺得如何? \n~要讓受訪者可以匿名填資料不用擔心曝光，又能避免因為匿名而被亂填，這兩件事情不知有沒有辦法同時做到?",
-    "story": "Wen-Chi Cheng shared a link to the group: g0v.tw 後勤中心.",
     "id": "387816094628136_642991379110605",
     "link": "http:\/\/www.ragic.com\/twsalary\/forms\/1#!\/1",
     "description": "台灣簡易Glassdoor - by鄉民",
@@ -9,47 +8,26 @@
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCGvB1NeFHYnFv7&w=130&h=130&url=http%3A%2F%2Fd1xwzo8jmziphi.cloudfront.net%2Fsims%2Fimg%2Fsocial.png&cfs=1&_nc_hash=AQAWxFtJq9d6x7wb",
     "updated_time": "2014-06-26T21:46:21+0000",
     "caption": "ragic.com",
-    "from": {
-        "name": "Wen-Chi Cheng",
-        "id": "10156311430844284"
-    },
     "likes": {
         "summary": {
-            "total_count": 26
+            "total_count": 25
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2014-06-26T15:08:27+0000",
-                "from": {
-                    "name": "Ching-Yu Weng",
-                    "id": "10216186022951523"
-                },
                 "message": "基本上這兩個要求是互斥的\n除非有公正單位可以讓使用者信任其資料不會被外洩",
                 "id": "642993295777080"
             },
             {
-                "created_time": "2014-06-26T15:55:25+0000",
-                "from": {
-                    "name": "Orange Chen",
-                    "id": "1633813603370149"
-                },
-                "message": "審核系統 附上薪資明細但不把個資po上網呢",
-                "id": "643008422442234"
-            },
-            {
                 "created_time": "2014-06-26T21:46:21+0000",
-                "from": {
-                    "name": "Wei-Cheng Lee",
-                    "id": "10160184588235599"
-                },
                 "message": "有的問卷有做過濾機制的喔，通常亂填的前後會不同，好比前面給五分，後面給一分，但若真實是自己的經歷，前後給的分數相似率就很高",
                 "id": "643146322428444"
             }
         ],
         "summary": {
-            "total_count": 3
+            "total_count": 2
         }
     }
 }

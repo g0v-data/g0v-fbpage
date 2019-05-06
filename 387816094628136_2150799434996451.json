@@ -1,0 +1,23 @@
+{
+    "created_time": "2019-05-04T10:41:08+0000",
+    "message": "求助，如何下載此影片？\n已試過ivod下載器無效\nhttps:\/\/ivod.ly.gov.tw\/Play\/Full\/12217\/1M",
+    "id": "387816094628136_2150799434996451",
+    "updated_time": "2019-05-04T12:33:47+0000",
+    "likes": {
+        "summary": {
+            "total_count": 0
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-05-04T12:33:44+0000",
+                "message": "http:\/\/jdownloader.org\/jdownloader2\n安裝JDownloader，輸入網址，它會搜尋該網頁所有可下載資源，其中一個是「1M CH04 2019-05-01 08 30 08 mp4 1280x720 br1948」（有7 gb），這個就是影片。",
+                "id": "2150928658316862"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

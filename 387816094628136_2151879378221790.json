@@ -6,14 +6,14 @@
     "description": "歡迎公民、鄉民、憤青、開發者、設計者、社會運動工作者、公務員、法律專家、文字工作者、插畫家與媒體工作者等諸眾，帶著熱血來盡一己之力，開源協作參與社會。",
     "name": "g0v hackath34n | 台灣零時政府第參拾肆次再開放空總黑客松",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCIu-ly3boB3Pnk&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F97743%2Fhackath34-1200-628_original.png&cfs=1&_nc_hash=AQCpisesv7wQRMsr",
-    "updated_time": "2019-05-05T09:12:06+0000",
+    "updated_time": "2019-05-08T08:21:05+0000",
     "caption": "g0v-jothon.kktix.cc",
     "shares": {
-        "count": 10
+        "count": 12
     },
     "likes": {
         "summary": {
-            "total_count": 51
+            "total_count": 59
         }
     },
     "comments": {
@@ -22,10 +22,20 @@
                 "created_time": "2019-05-05T09:12:04+0000",
                 "message": "喔喔一起去",
                 "id": "2152317451511316"
+            },
+            {
+                "created_time": "2019-05-07T13:20:08+0000",
+                "message": "Bess 這次場地在空總, 但報名頁上的 : \"Direction of the venue\" 連結是放中研院網站交通資訊!!!",
+                "id": "2155660154510379"
+            },
+            {
+                "created_time": "2019-05-08T08:21:00+0000",
+                "message": "黑客松主辦單位 #揪松團 目前開放投遞履歷中，歡迎有志青年加入揪松團：https:\/\/g0v.hackmd.io\/s\/By-3oyz9N （截止日期為 5\/20）",
+                "id": "2156872207722507"
             }
         ],
         "summary": {
-            "total_count": 1
+            "total_count": 3
         }
     }
 }

@@ -1,7 +1,6 @@
 {
     "created_time": "2016-03-17T03:23:46+0000",
     "message": "各位親愛的g0v夥伴：\n\n前情提要：臺北市政府在3\/25(就是下禮拜五)要在大安森林公園辦收容安置演練，在前兩次大松分別徵求了協助資訊工具「數位災民證APP」和「物資地圖」實驗的坑主大大和資訊志工。\n\nBut，人生就是會有這個But，在經過兩次的災民證APP種子教育訓練後，發現Android版本依照不同手機型號出現了不同的bug，跪求協助debug啊啊啊啊啊啊啊，我們連感恩記者會的新聞稿都寫好惹，這個工具在實驗過後如果成功我們會用各種形式推廣出去，希望能夠給我們之後災害防救更多想像和實驗的空間。\n\n謝謝為了拯救世界無比帥氣的坑主大大YuTin Liu。\n\n目前蒐集到的使用狀況詳見：\nhttps:\/\/github.com\/g0v\/victim\/issues\/\n\nAndroid版在google play有上架：\nhttps:\/\/play.google.com\/store\/apps\/details?id=g0v.victim  \n\n另外請大家一併幫忙測試，填報在這裡：\nhttp:\/\/goo.gl\/forms\/VBEl4t6LRU \n\n我目前可以提供的測試環境只有ASUS Zenfone公務機，如果有需要其他的測試機我們再去奔走QQ\n\nCC:跟小社工說如何獲得開人生第一個issue成就的王景弘、為了實驗無比辛苦的災害小社工游婷婷",
-    "story": "曾苡馨 shared a link to the group: g0v.tw 後勤中心.",
     "id": "387816094628136_949804831762590",
     "link": "https:\/\/github.com\/g0v\/victim\/",
     "description": "Contribute to victim development by creating an account on GitHub.",
@@ -9,74 +8,51 @@
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAE6Le6lNKakYyk&w=130&h=130&url=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F2668086%3Fv%3D3%26s%3D400&cfs=1&_nc_hash=AQCAxlZetFlsPjNT",
     "updated_time": "2016-03-22T04:59:37+0000",
     "caption": "github.com",
-    "from": {
-        "name": "曾苡馨",
-        "id": "1791796867531411"
-    },
     "likes": {
         "summary": {
-            "total_count": 49
+            "total_count": 47
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2016-03-17T03:37:32+0000",
-                "from": {
-                    "name": "Tingting Yu",
-                    "id": "2062205403794774"
-                },
                 "message": "曾苡馨 除了感動得淚灑現場我實在無以回報偶像大人跟您的恩德!!希望也有改變世界小小夢想的大家，可以一起跳入這個大坑(跪",
                 "id": "949811981761875"
             },
             {
                 "created_time": "2016-03-17T03:44:55+0000",
-                "from": {
-                    "name": "Clement Tang",
-                    "id": "10214020199392779"
-                },
                 "message": "幫推",
                 "id": "949815371761536"
             },
             {
                 "created_time": "2016-03-17T03:45:27+0000",
-                "from": {
-                    "name": "Tonyq Wang",
-                    "id": "10215957169947800"
-                },
                 "message": "好像在某些型號上有閃退問題，大家有空的幫忙裝一下 app ，回報一下有沒有閃退的問題吧。",
                 "id": "949815475094859"
             },
             {
                 "created_time": "2016-03-17T08:19:04+0000",
-                "from": {
-                    "name": "林雨蒼",
-                    "id": "10215225276362190"
-                },
                 "message": "SONY Z3 測試過沒問題～",
                 "id": "949945781748495"
             },
             {
+                "created_time": "2016-03-17T08:29:01+0000",
+                "message": "Sony z2,android 5.1.1,可安裝成功，但輸入數字，數字會重複出現２次",
+                "id": "949949311748142"
+            },
+            {
                 "created_time": "2016-03-17T09:13:09+0000",
-                "from": {
-                    "name": "曾苡馨",
-                    "id": "1791796867531411"
-                },
                 "message": "http:\/\/goo.gl\/forms\/VBEl4t6LRU  <<測試回報",
                 "id": "949963145080092"
             },
             {
                 "created_time": "2016-03-22T04:59:36+0000",
-                "from": {
-                    "name": "曾苡馨",
-                    "id": "1791796867531411"
-                },
                 "message": "謝謝你們~",
                 "id": "953680204708386"
             }
         ],
         "summary": {
-            "total_count": 11
+            "total_count": 8
         }
     }
 }

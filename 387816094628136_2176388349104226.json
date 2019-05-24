@@ -5,20 +5,26 @@
     "description": "在訪問被CNN譽為「全球最頂尖的密碼學家」布魯斯．施奈爾（Bruce Schneier）之前，我們很容易開始聯想各種神秘形象。畢竟，密碼這個關鍵字，總出現在情報、特務與駭客電影中，連電影《不可能的任務：鬼影行動》扯到核彈交....",
     "name": "傳奇密碼學大師專訪：別輕信物聯網 - 精選文章 - 商業周刊",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBPj9ifXFJ_fF3G&w=130&h=130&url=https%3A%2F%2Fibw.bwnet.com.tw%2Fimage%2Fpool%2F2019%2F04%2F072133ecd40e662722e426c19b90a623.jpg&cfs=1&_nc_hash=AQDj1neT2rZfPuBi",
-    "updated_time": "2019-05-20T00:58:25+0000",
+    "updated_time": "2019-05-21T05:20:27+0000",
     "caption": "businessweekly.com.tw",
     "shares": {
-        "count": 9
+        "count": 15
     },
     "likes": {
         "summary": {
-            "total_count": 11
+            "total_count": 20
         }
     },
     "comments": {
-        "data": [],
+        "data": [
+            {
+                "created_time": "2019-05-21T05:20:25+0000",
+                "message": "謝謝分享！",
+                "id": "2178306018912459"
+            }
+        ],
         "summary": {
-            "total_count": 0
+            "total_count": 1
         }
     }
 }

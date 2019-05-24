@@ -6,11 +6,11 @@
     "description": "歡迎公民、鄉民、憤青、開發者、設計者、社會運動工作者、公務員、法律專家、文字工作者、插畫家與媒體工作者等諸眾，帶著熱血來盡一己之力，開源協作參與社會。",
     "name": "g0v hackath34n | 台灣零時政府第參拾肆次再開放空總黑客松",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQCIu-ly3boB3Pnk&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F97743%2Fhackath34-1200-628_original.png&cfs=1&_nc_hash=AQCpisesv7wQRMsr",
-    "updated_time": "2019-05-20T09:44:27+0000",
+    "updated_time": "2019-05-23T01:24:55+0000",
     "caption": "g0v-jothon.kktix.cc",
     "likes": {
         "summary": {
-            "total_count": 13
+            "total_count": 16
         }
     },
     "comments": {
@@ -44,10 +44,20 @@
                 "created_time": "2019-05-20T09:44:25+0000",
                 "message": "嗨，今天有釋出票券囉，歡迎手刀報名～～～",
                 "id": "2176915819051479"
+            },
+            {
+                "created_time": "2019-05-22T11:57:31+0000",
+                "message": "可以幫忙報到！",
+                "id": "2180418875367840"
+            },
+            {
+                "created_time": "2019-05-22T20:28:08+0000",
+                "message": "有缺人再找我(?",
+                "id": "2181121765297551"
             }
         ],
         "summary": {
-            "total_count": 6
+            "total_count": 8
         }
     }
 }

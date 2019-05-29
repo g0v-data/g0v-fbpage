@@ -1,0 +1,22 @@
+{
+    "created_time": "2019-05-29T06:23:34+0000",
+    "message": "想要申請 g0v.tw 的子網域或是幫專案或任務社群申請 @g0v.tw 的信箱嗎？最近 g0v 網域申請規範剛更新成 1.1 版，新增了 @g0v.tw 信箱轉信的申請方式，必須要符合四個條件才能夠申請：\n1. 只能轉信給群組\n2. 群組需要與 g0v 社群有關\n3. 有公開治理機制\n4. 群組成員名單需要公開\n\n目前已經有申請轉信的可以參考 https:\/\/github.com\/g0v\/domain\/blob\/master\/g0v.tw\/g0v.tw.json#L22\n\n詳細的申請規範可以參考\nhttps:\/\/docs.google.com\/document\/d\/1g4unx-__fvCc6tPLeniPd_jb5EoIDALXOYkROWyVaTo\/edit?usp=sharing\n\n想要參與 domain 規範討論可以到 g0v slack #g0v-domain 頻道討論喔",
+    "id": "387816094628136_2192319337511127",
+    "link": "https:\/\/docs.google.com\/document\/d\/1g4unx-__fvCc6tPLeniPd_jb5EoIDALXOYkROWyVaTo\/edit?usp=sharing",
+    "description": "g0v 網域申請規範 v1.1 文件更新歷程 v0.1 - 2016\/12\/29 從 hackpad 轉移過來版本。 v1.0 - 2019\/2\/15 確認正式版本。 v1.1 - 2019\/4\/22 新增 @g0v.tw 信箱規範和 g0v.dev 網域 範圍 本文件目前處理 clkao 所註冊之 g0v 相關 domain)，其他 domain 所有人可自....",
+    "name": "g0v Domain Guidelines",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQA3oSSVPUozlE9X&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2F8F7bd-WDyF955X5Azhnw_d2kAIxzG91KeUMRyiPN-Jk5iPF8jWqb7BdtN5ooEYlYYKZnEQ%3Dw1200-h630-p&cfs=1&_nc_hash=AQA59FOXjecF2FQT",
+    "updated_time": "2019-05-29T06:23:35+0000",
+    "caption": "docs.google.com",
+    "likes": {
+        "summary": {
+            "total_count": 21
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

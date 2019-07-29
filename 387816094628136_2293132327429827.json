@@ -1,0 +1,36 @@
+{
+    "created_time": "2019-07-25T09:34:59+0000",
+    "message": "【#徵求】社群共筆_河川關鍵字資料庫\n\n-\n\n嗨！請問有人會對全台河川名稱資料整理有興趣嗎～～？\n\n-\n\n我們是 #大河小溪全民齊督工 的工作團隊，這邊想蒐集全台灣的溪流名稱，但為了要篩選出「同名多溪」、「一溪多名」的情況，還有後續的資料串連需要，我們需要把1.別名、2.水系、3.流經行政區域、4.流入河川…等細節填寫進去。這份資料未來將會成為平台篩選全台灣標案工程的關鍵字資料庫，也會成為串起單一河川與流域水系的民間版資料。\n\n-\n\n工作方式很簡單，只要搜尋表單→確認河川→把查到的資料填進去，就可以了！\n\n-\n\n資料搜尋上比較需要注意的部分是，同樣名稱的溪流可能會流經不同區域、一個名稱可能會同時有好幾條重名的溪流分別在不同縣市。我們需要把這些同名相異物的地理位置及差異註記出來，未來才能進一步定位標案工程所牽涉到的是哪一條溪流。\n\n-\n\n目標是把台灣所有的河川名稱都列進去（遠目…）\n\n共筆上已經有一些我們整理出來的資料，空格的部分還需要各位一起協助，不知道有沒有人願意一起加入編輯呢？感謝～\n\n-\n\n共筆連結：https:\/\/docs.google.com\/spreadsheets\/d\/1vruMYKqHDNxCJ2tRkfht22SH0I-uKMlGKGVxxVsIV8E\/edit?usp=sharing\n\n共筆教學：\n\nhttps:\/\/g0v.hackmd.io\/s\/S1-6pJvzr \n\n-\n\n專案介紹：\n近年野溪水泥化現象普遍，相關工程標案會被公告在特定網站招標，但其公開資訊有限，未註明確切緣由、施工地點等，更別說要追蹤後續結果。為了讓關心河川的人能進一步監督，我們將彙整河川工程相關資訊並使之視覺化、地圖化，成為通報監督河川施工的好幫手。\n\n我們希望能透過「大河小溪全民齊督工」及時通報在地團體，讓全台灣各地關心河川、關心流域相關議題的單位都能有更及時的資訊，從標案發包開始就開始追蹤工程的進度，並透過多筆資料的累積，提供未來描繪比對不同工程之間互動關係的資料基礎。\n-\n\n#河川 #溪流 #水系 #地理位置 #上下游關係\n#大河小溪全民齊督工 #竹圍工作室",
+    "id": "387816094628136_2293132327429827",
+    "link": "https:\/\/docs.google.com\/spreadsheets\/d\/1vruMYKqHDNxCJ2tRkfht22SH0I-uKMlGKGVxxVsIV8E\/edit?usp=sharing",
+    "description": "全台灣河川溪流名稱、地理位置、水系 溪流分級,主管機關,河川代碼,溪流名稱,重名數量,溪流wikiID,別名,上級,所在縣市 （以 \/分隔）,縣市wikiID,所在鄉鎮區 （以 \/分隔）,水系,左岸\/右岸,流入,midpointX,midpointY 101000,磺溪,5,Q16929154,新....",
+    "name": "社群共筆河川關鍵字資料庫＿全台灣河川溪流名稱、地理位置、水系（工作重點：確認同名相異物地理位置及差異）",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQA12KhAo8WTdyhj&w=130&h=130&url=https%3A%2F%2Flh6.googleusercontent.com%2F190qwCE5O_XLgGVWd1QY65KJVzlhD7r4tWcYiX3bmrIi-XMmCBDQl4FJoxUxXjIB-1EPiQ%3Dw1200-h630-p&cfs=1&_nc_hash=AQAyb-W2l9ASnSId",
+    "updated_time": "2019-07-26T10:43:54+0000",
+    "caption": "docs.google.com",
+    "shares": {
+        "count": 8
+    },
+    "likes": {
+        "summary": {
+            "total_count": 39
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-07-25T14:21:42+0000",
+                "message": "https:\/\/data.gov.tw\/dataset\/106201 這個資料集的裡面的溪流有直接透過 GIS 資訊把資料帶進來嗎？",
+                "id": "2293501060726287"
+            },
+            {
+                "created_time": "2019-07-25T15:08:18+0000",
+                "message": "第 500 行開始的一坑溪之後的好像是從 http:\/\/wise.wra.gov.tw\/dataset\/riversubsidiarybasin 的 KML 抓的列表？有試過直接從 KML 裡面的線條去找交集的行政區嗎？",
+                "id": "2293569654052761"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

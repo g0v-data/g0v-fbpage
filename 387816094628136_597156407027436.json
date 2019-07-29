@@ -3,92 +3,56 @@
     "message": "大家好，我是金寶，我的工作是designer，目前在g0v音控這，有任何幫得上忙的地方嗎？例如告示或海報之類的。",
     "id": "387816094628136_597156407027436",
     "updated_time": "2014-03-21T23:42:32+0000",
-    "from": {
-        "name": "Cyril Hong",
-        "id": "10214269764114529"
-    },
     "likes": {
         "summary": {
-            "total_count": 23
+            "total_count": 21
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2014-03-21T14:13:02+0000",
-                "from": {
-                    "name": "Hsiao-hsien Yang",
-                    "id": "10156175249445984"
-                },
                 "message": "需求可看這，目前好像沒有這類需求。\nhttp:\/\/hackfoldr.org\/congressoccupied\/http%253A%252F%252Fbit.ly%252Foccupylysupport",
                 "id": "597186040357806"
             },
             {
                 "created_time": "2014-03-21T14:55:20+0000",
-                "from": {
-                    "name": "Finjon Kiang",
-                    "id": "10211662005529746"
-                },
                 "message": "沒有的話可以自己創造：\nhttps:\/\/drive.google.com\/?pli=1#folders\/0BzG4NH1Ti5o1VjdzQ2lUY2Q1amM\n\n用創意填滿它吧 XD",
                 "id": "597202357022841"
             },
             {
                 "created_time": "2014-03-21T16:21:18+0000",
-                "from": {
-                    "name": "Allen Green",
-                    "id": "10214123853264554"
-                },
                 "message": "辛苦了！！",
                 "id": "597231260353284"
             },
             {
                 "created_time": "2014-03-21T16:58:54+0000",
-                "from": {
-                    "name": "劉大智",
-                    "id": "1967281573286242"
-                },
                 "message": "明天中午會到、請告知可以幫忙的事項",
                 "id": "597242170352193"
             },
             {
                 "created_time": "2014-03-21T17:16:55+0000",
-                "from": {
-                    "name": "Hsiao-hsien Yang",
-                    "id": "10156175249445984"
-                },
                 "message": "Fiona!",
                 "id": "597247300351680"
             },
             {
                 "created_time": "2014-03-21T17:20:06+0000",
-                "from": {
-                    "name": "劉大智",
-                    "id": "1967281573286242"
-                },
                 "message": "會切版html、css和設計PS、AI、看可以幫上什麼的",
                 "id": "597248427018234"
             },
             {
                 "created_time": "2014-03-21T19:01:01+0000",
-                "from": {
-                    "name": "ET Blue",
-                    "id": "10212097510645743"
-                },
                 "message": "資訊流 sop 差不多後想來弄傳單，希望有幾種不同版本的，但內容要自己爬文研究，因為現在場內的老師跟指揮官們都累死了，不好去煩他們，想說等我們自己做出幾個版本後再給他們挑選比較適合的來批改。傳單內容發想 http:\/\/hackfoldr.org\/congressoccupied\/7E4ts6CMRsq",
                 "id": "597280823681661"
             },
             {
                 "created_time": "2014-03-21T23:42:32+0000",
-                "from": {
-                    "name": "Bert Wang",
-                    "id": "861294890742239"
-                },
                 "message": "我有帶水彩",
                 "id": "597369100339500"
             }
         ],
         "summary": {
-            "total_count": 10
+            "total_count": 8
         }
     }
 }

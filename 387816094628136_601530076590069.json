@@ -6,10 +6,6 @@
     "shares": {
         "count": 1
     },
-    "from": {
-        "name": "Rosh Shuin",
-        "id": "1779635562081721"
-    },
     "likes": {
         "summary": {
             "total_count": 29
@@ -19,43 +15,27 @@
         "data": [
             {
                 "created_time": "2014-03-31T10:22:37+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "劉宇庭！來推坑吧",
                 "id": "601530469923363"
             },
             {
                 "created_time": "2014-03-31T10:23:50+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "SansWord Huang 在做公聽會影片，也來搶一下人？",
                 "id": "601531036589973"
             },
             {
                 "created_time": "2014-03-31T10:25:10+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "劉宇庭 是說不知道公民審議影片剪接還需不需要人填坑？",
                 "id": "601531373256606"
             },
             {
                 "created_time": "2014-03-31T10:31:12+0000",
-                "from": {
-                    "name": "SansWord Huang",
-                    "id": "10215437925005196"
-                },
                 "message": "我們快結案了",
                 "id": "601533403256403"
             }
         ],
         "summary": {
-            "total_count": 6
+            "total_count": 4
         }
     }
 }

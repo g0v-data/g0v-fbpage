@@ -3,182 +3,106 @@
     "message": "整合一下今天現場網路狀況，如果繼續撐下去要考量以下：\n1. 電力問題：目前濟南路電力無虞，青島東路依附舞台燈光組。\n2. 兩隻 wimax：一隻濟南路、一隻青島東。另可以送 wimax 進議場內， Hsin-chan Chien好像打算明天要衝全球一動？\n3. 有線光纖網路：可試著再度與濟南教會接洽，反黑箱服貿民團之前接洽未成，Philippe Lin晚間嘗試但教會已下班，明天有空可以再試試看。\n4. 雨備：請給意見，接洽主辦單位搭一個棚子？塑膠布？\n5. 帶 wimax 在現場分享會讓你有好人緣.....\n\n[補充rex筆記] 看完不專業亂講，來看專業分享：\nhttps:\/\/g0v.hackpad.com\/ADYWtwNY3zN",
     "id": "387816094628136_596336300442780",
     "updated_time": "2014-03-20T08:08:53+0000",
-    "from": {
-        "name": "Hsiao-wei Chiu",
-        "id": "10215521254163616"
-    },
     "likes": {
         "summary": {
-            "total_count": 83
+            "total_count": 82
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2014-03-19T17:35:24+0000",
-                "from": {
-                    "name": "Sha Yanxi",
-                    "id": "10209534973605256"
-                },
                 "message": "你好冒昧提問　想瞭解一下 立法院內的網路是否有改善方法\n社運團體表示聯繫有點困難",
                 "id": "596338883775855"
             },
             {
                 "created_time": "2014-03-19T17:36:08+0000",
-                "from": {
-                    "name": "Toley Huang",
-                    "id": "10211133994085317"
-                },
                 "message": "應該可以先徵求無線電做內外簡單聯繫",
                 "id": "596340943775649"
             },
             {
                 "created_time": "2014-03-19T17:36:27+0000",
-                "from": {
-                    "name": "Hsin-chan Chien",
-                    "id": "10214807554037802"
-                },
                 "message": "目前正在討論可能的解決方案",
                 "id": "596341480442262"
             },
             {
                 "created_time": "2014-03-19T17:38:19+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "也tag一下 Gavin Chang",
                 "id": "596351420441268"
             },
             {
                 "created_time": "2014-03-19T17:39:24+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "Hsin-chan Chien的方案就是送 wimax 進去嗎？",
                 "id": "596355333774210"
             },
             {
                 "created_time": "2014-03-19T17:40:12+0000",
-                "from": {
-                    "name": "Hsin-chan Chien",
-                    "id": "10214807554037802"
-                },
                 "message": "Hsiao-wei Chiu：那應該是最後的方案",
                 "id": "596358037107273"
             },
             {
                 "created_time": "2014-03-19T17:40:34+0000",
-                "from": {
-                    "name": "Gavin Chang",
-                    "id": "10156232534509695"
-                },
                 "message": "建議...直接找4G (wimax)方案比較好.",
                 "id": "596359377107139"
             },
             {
                 "created_time": "2014-03-19T17:40:44+0000",
-                "from": {
-                    "name": "Rex Tsai",
-                    "id": "10156168938287915"
-                },
                 "message": "立法院的無線網路 LY-iService 勉強連的上。雖然需要登入，但是沒有擋 DNS 。因此 IP over DNS tunnel 是行的通得！(駭客法)",
                 "id": "596359950440415"
             },
             {
                 "created_time": "2014-03-19T17:42:19+0000",
-                "from": {
-                    "name": "Gavin Chang",
-                    "id": "10156232534509695"
-                },
                 "message": "LY-iService  建議只備用.有可能被封網.來源有個女立委的FB",
                 "id": "596364993773244"
             },
             {
                 "created_time": "2014-03-19T17:42:59+0000",
-                "from": {
-                    "name": "Rex Tsai",
-                    "id": "10156168938287915"
-                },
                 "message": "LY-Guest 今天測試無法使用",
                 "id": "596367117106365"
             },
             {
                 "created_time": "2014-03-19T17:50:09+0000",
-                "from": {
-                    "name": "Chou Chuan Chen",
-                    "id": "1801575506533754"
-                },
                 "message": "https:\/\/www.facebook.com\/photo.php?fbid=832664523415376&set=a.227751380573363.78726.100000155080998 會場內確定有可用的Wimax，只是資源分配的情況就不得而知了。",
                 "id": "596394720436938"
             },
             {
                 "created_time": "2014-03-19T17:53:02+0000",
-                "from": {
-                    "name": "Rex Tsai",
-                    "id": "10156168938287915"
-                },
                 "message": "整理心得 - https:\/\/g0v.hackpad.com\/ADYWtwNY3zN",
                 "id": "596395447103532"
             },
             {
                 "created_time": "2014-03-20T01:24:35+0000",
-                "from": {
-                    "name": "Kun-liang Lan",
-                    "id": "1802476246439351"
-                },
                 "message": "單身的順便可以透過這次機會展現你的熱情\n異性會如蜂窩般靠近你(的訊號(誤",
                 "id": "596569167086160"
             },
             {
                 "created_time": "2014-03-20T03:56:26+0000",
-                "from": {
-                    "name": "Yu Ting Hua",
-                    "id": "10211117198060942"
-                },
                 "message": "目前已經在濟南教會內了噢。設備需求 https:\/\/g0v.hackpad.com\/e92s88FpY36",
                 "id": "596611007081976"
             },
             {
                 "created_time": "2014-03-20T05:11:54+0000",
-                "from": {
-                    "name": "Sha Yanxi",
-                    "id": "10209534973605256"
-                },
                 "message": "感謝各位朋友專業技術支援 這邊的消息我會跟我的夥伴通知 \n我是捍苗青的成員之一 這幾天協助資訊轉發",
                 "id": "596632093746534"
             },
             {
                 "created_time": "2014-03-20T05:53:32+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "Sha Yanxi 遇到的問題和需求就提出來，讓資訊流通彙整，看能怎麼支援處理。這邊整理了現場各資訊連結：http:\/\/hackfoldr.org\/congressoccupied\/",
                 "id": "596640433745700"
             },
             {
                 "created_time": "2014-03-20T07:37:06+0000",
-                "from": {
-                    "name": "Hsiao-hsien Yang",
-                    "id": "10156175249445984"
-                },
                 "message": "記者証自己印就可以了，他們沒辦法拒絕公民記者的報導權。",
                 "id": "596660650410345"
             },
             {
                 "created_time": "2014-03-20T08:08:53+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "即時更新：會場內訊號掛點",
                 "id": "596677973741946"
             }
         ],
         "summary": {
-            "total_count": 19
+            "total_count": 18
         }
     }
 }

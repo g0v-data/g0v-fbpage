@@ -1,7 +1,6 @@
 {
     "created_time": "2014-03-29T17:42:01+0000",
     "message": "前幾天看見 劉宇庭 po 文說希望能有手機觀看直播的 app ～\n小弟立馬挖坑跳下去做了三天三夜～\n目前初版的 App 還很陽春～\n\n以下為主要功能：\n+ 立院內外 YouTube 影音直播\n+ 即時院內\/主要文字轉播\n+ Server端動態更新 Menu 影音播放與文字轉播列表\n+ 可調整顯示文字大小\n\n希望能讓大家更能掌握到學運的最新資訊～\n明日活動希望能夠以和平非暴力的方式表達我們的訴求～\n\n(ps: 今天內測了半天調整一些設定，請曾經安裝過的人重新安裝比較保險)",
-    "story": "許小美 shared a link to the group: g0v.tw 後勤中心.",
     "id": "387816094628136_600875263322217",
     "link": "http:\/\/fumao.herokuapp.com\/",
     "description": "Sunflower movement (Fumao app) for android",
@@ -9,29 +8,21 @@
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDHqe-HaWnj-IYO&w=130&h=130&url=http%3A%2F%2Ffumao.herokuapp.com%2Fimage%2FogImg.png&cfs=1&_nc_hash=AQCl4MUcDBW8mEWl",
     "updated_time": "2014-03-29T18:03:21+0000",
     "caption": "fumao.herokuapp.com",
-    "from": {
-        "name": "許小美",
-        "id": "10156091439822442"
-    },
     "likes": {
         "summary": {
-            "total_count": 117
+            "total_count": 115
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2014-03-29T18:03:21+0000",
-                "from": {
-                    "name": "Jing-Yao Liao",
-                    "id": "10211562085673379"
-                },
                 "message": "kobe了",
                 "id": "600880856654991"
             }
         ],
         "summary": {
-            "total_count": 2
+            "total_count": 1
         }
     }
 }

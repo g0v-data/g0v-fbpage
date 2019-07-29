@@ -1,305 +1,176 @@
 {
     "created_time": "2014-03-19T02:22:12+0000",
     "message": "剛在前則鄭智中的現場徵求支援訊息：「現在網路是用 WiMAX，但也可以同時接 USB 3G 網卡USB 充電器。需要行動電源，延長線，MacbookAir 與 HDMI 接頭也可以帶一下，可以再開一個轉播點。」可以幫忙者請到濟南路直播帳篷。如果已有支援也請回報。 #CongressOccupied #佔領立法院",
-    "story": "Hsiao-wei Chiu shared a link to the group: g0v.tw 後勤中心.",
     "id": "387816094628136_595894773820266",
-    "link": "http:\/\/bit.ly\/occupylysupport",
+    "link": "https:\/\/bit.ly\/occupylysupport",
     "name": "反黑箱服貿 守護民主之夜 現場需求",
     "updated_time": "2014-03-19T18:04:39+0000",
     "caption": "docs.google.com",
-    "from": {
-        "name": "Hsiao-wei Chiu",
-        "id": "10215521254163616"
-    },
     "likes": {
         "summary": {
-            "total_count": 46
+            "total_count": 45
         }
     },
     "comments": {
         "data": [
             {
                 "created_time": "2014-03-19T02:44:43+0000",
-                "from": {
-                    "name": "鄭智中",
-                    "id": "10155459788420028"
-                },
                 "message": "有 MBA 了。但如何把 HDMI 輸入到 MBA 才是問題",
                 "id": "595904180485992"
             },
             {
                 "created_time": "2014-03-19T03:06:36+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "需要 HDMI in to thunderbolt 擷取卡",
                 "id": "595913793818364"
             },
             {
                 "created_time": "2014-03-19T04:54:52+0000",
-                "from": {
-                    "name": "游知澔",
-                    "id": "616600329330"
-                },
                 "message": "Thunderbolt to HDMI 轉接器！",
                 "id": "595936480482762"
             },
             {
                 "created_time": "2014-03-19T06:17:34+0000",
-                "from": {
-                    "name": "Macpaul Lin",
-                    "id": "10156042494092910"
-                },
                 "message": "HDMI 要做輸入是嗎？",
                 "id": "595955280480882"
             },
             {
                 "created_time": "2014-03-19T06:21:54+0000",
-                "from": {
-                    "name": "鄭智中",
-                    "id": "10155459788420028"
-                },
                 "message": "對啊 solution 都很貴",
                 "id": "595955950480815"
             },
             {
                 "created_time": "2014-03-19T06:28:05+0000",
-                "from": {
-                    "name": "Macpaul Lin",
-                    "id": "10156042494092910"
-                },
                 "message": "http:\/\/24h.pchome.com.tw\/prod\/DCAM3P-A76258152?q=\/S\/DMAA61 這一台，改成走usb 輸入可以嗎？然後用parallel的windows輸入",
                 "id": "595956963814047"
             },
             {
                 "created_time": "2014-03-19T06:34:46+0000",
-                "from": {
-                    "name": "唐鳳",
-                    "id": "10156318975889928"
-                },
                 "message": "擷取器我有一台 (HDMI->USB)，bropheus 有 3~4台 (HDMI->USB & Thunderbolt)，但是都只有 windows driver，MBA 可能要 boot camp 進 Windows，Parallels 我還沒試成功。",
                 "id": "595957840480626"
             },
             {
                 "created_time": "2014-03-19T06:36:23+0000",
-                "from": {
-                    "name": "唐鳳",
-                    "id": "10156318975889928"
-                },
                 "message": "新轉播點建議直接先用手機架高腳架 (我昨天有帶) 或 iPad，連 hangout live 或 ustream 測播。",
                 "id": "595960267147050"
             },
             {
                 "created_time": "2014-03-19T06:42:42+0000",
-                "from": {
-                    "name": "唐鳳",
-                    "id": "10156318975889928"
-                },
                 "message": "等有申請 hinet 或找到更快的線路 (5Mb+ uplink)， HDMI in 才會變得比較重要；現在 720p 的情況，其實用 HDMI 或手機\/iPad\/iSight 錄的品質不會差太多。",
                 "id": "596010180475392"
             },
             {
                 "created_time": "2014-03-19T06:43:49+0000",
-                "from": {
-                    "name": "Macpaul Lin",
-                    "id": "10156042494092910"
-                },
                 "message": "http:\/\/www.blackmagicdesign.com\/products\/ultrastudiothunderbolt\n遠水可能救不了近火，UltraStudio Mini Recorder $145\n\n台灣 這家疑似有現貨但是賣兩倍貴。而且這台聽說有mac os的版本相容性問題，建議打電話拿機器實際去測試一下 http:\/\/goods.ruten.com.tw\/item\/show?21311286959490",
                 "id": "596019443807799"
             },
             {
                 "created_time": "2014-03-19T06:44:39+0000",
-                "from": {
-                    "name": "唐鳳",
-                    "id": "10156318975889928"
-                },
                 "message": "上次 308 bp 就是用這台 (BlackMagic) 接我的 rMBP Thunderbolt 出去的",
                 "id": "596027753806968"
             },
             {
                 "created_time": "2014-03-19T06:48:20+0000",
-                "from": {
-                    "name": "Macpaul Lin",
-                    "id": "10156042494092910"
-                },
                 "message": "台灣代理商： 富銘科技\n\n    電話：+886-2-2563-3811\n    傳真：+886-2-2521-6872\n    地址：104 台北市中山區林森北路372號3樓\n    官方網站：http:\/\/www.hiprotech.com.tw\/",
                 "id": "596048040471606"
             },
             {
                 "created_time": "2014-03-19T06:48:25+0000",
-                "from": {
-                    "name": "Bropheus Huang",
-                    "id": "1897145036964963"
-                },
                 "message": "有 thunderbolt 就可用 mini recorder, 有 Win+USB2 就可用圓剛 GL310, C875，有 Win+USB3 可用 CV710, 但現場問題是頻寬不夠",
                 "id": "596048047138272"
             },
             {
                 "created_time": "2014-03-19T06:49:34+0000",
-                "from": {
-                    "name": "唐鳳",
-                    "id": "10156318975889928"
-                },
                 "message": "是的。現在有兩個可用的 WiMax 了嗎?\n\n對了，另外也有一個選項是 HDMI 螢幕然後用 Macbook Air 拍螢幕 XD",
                 "id": "596048293804914"
             },
             {
                 "created_time": "2014-03-19T06:51:39+0000",
-                "from": {
-                    "name": "Bropheus Huang",
-                    "id": "1897145036964963"
-                },
                 "message": "308 那場是用 mini recorder + MBPR + Google Hangout, 沒有相容問題；Win 推薦 OBS 直播軟體，Mac 推薦 Wirecast 直播軟體，Hangout 有嚴重影音不同步問題",
                 "id": "596048860471524"
             },
             {
                 "created_time": "2014-03-19T06:52:29+0000",
-                "from": {
-                    "name": "Bropheus Huang",
-                    "id": "1897145036964963"
-                },
                 "message": "除了富銘，可以問堅達！",
                 "id": "596049010471509"
             },
             {
                 "created_time": "2014-03-19T06:54:01+0000",
-                "from": {
-                    "name": "唐鳳",
-                    "id": "10156318975889928"
-                },
                 "message": "昨天桌機的 Windows Wirecast & OBS 都試過都當掉，目前是 Avermedia RECentral 顯示在桌面上，Hangout 再桌面分享（前天 Bropheus Huang 教的方式), 因為頻寬不足影像 lag, 影音同步問題反而不明顯。",
                 "id": "596049233804820"
             },
             {
                 "created_time": "2014-03-19T06:54:11+0000",
-                "from": {
-                    "name": "Bropheus Huang",
-                    "id": "1897145036964963"
-                },
                 "message": "mini recorder 經銷清單\nhttp:\/\/www.blackmagicdesign.com\/resellers?country=Taiwan&state=&sid=3958&mac=true&linux=true&windows=true&view=brief",
                 "id": "596049280471482"
             },
             {
                 "created_time": "2014-03-19T06:56:25+0000",
-                "from": {
-                    "name": "Bropheus Huang",
-                    "id": "1897145036964963"
-                },
                 "message": "噢，那可能桌機有軟體衝到 directshow，至少直播關鍵意義有顧到了",
                 "id": "596049733804770"
             },
             {
                 "created_time": "2014-03-19T06:58:55+0000",
-                "from": {
-                    "name": "Bropheus Huang",
-                    "id": "1897145036964963"
-                },
                 "message": "更正，有 Win+USB\"2\" 就可用圓剛 GL310, C875，而且不吃 CPU；CV710 才需要 USB3 & 吃 CPU。",
                 "id": "596050130471397"
             },
             {
                 "created_time": "2014-03-19T09:51:33+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "我們在青島轉播",
                 "id": "596091960467214"
             },
             {
                 "created_time": "2014-03-19T10:11:46+0000",
-                "from": {
-                    "name": "鄭智中",
-                    "id": "10155459788420028"
-                },
                 "message": "Config : wimax mbp webcam(c920)",
                 "id": "596095847133492"
             },
             {
                 "created_time": "2014-03-19T10:16:58+0000",
-                "from": {
-                    "name": "Macpaul Lin",
-                    "id": "10156042494092910"
-                },
                 "message": "劉宇庭 請直接發訊息給這邊留言的都可 青島東路上 (??)",
                 "id": "596096783800065"
             },
             {
                 "created_time": "2014-03-19T10:43:34+0000",
-                "from": {
-                    "name": "Hsiao-wei Chiu",
-                    "id": "10215521254163616"
-                },
                 "message": "青島東我們掛在牆上 舞台燈前",
                 "id": "596102003799543"
             },
             {
                 "created_time": "2014-03-19T10:44:53+0000",
-                "from": {
-                    "name": "Bropheus Huang",
-                    "id": "1897145036964963"
-                },
                 "message": "掛在牆上燈旁，表示電源解決了嗎？",
                 "id": "596102923799451"
             },
             {
                 "created_time": "2014-03-19T12:02:14+0000",
-                "from": {
-                    "name": "Gavin Chang",
-                    "id": "10156232534509695"
-                },
                 "message": "青島直播點是用macbook pro 加4g短時間ok但長一點要想辦法。",
                 "id": "596122510464159"
             },
             {
                 "created_time": "2014-03-19T12:04:45+0000",
-                "from": {
-                    "name": "Gavin Chang",
-                    "id": "10156232534509695"
-                },
                 "message": "剛本來要去濟南路轉播點，那拿下午朋友有支援的超長延長插座。但那取消。不知那的延長插座跑那去了。",
                 "id": "596123117130765"
             },
             {
                 "created_time": "2014-03-19T12:26:28+0000",
-                "from": {
-                    "name": "Bropheus Huang",
-                    "id": "1897145036964963"
-                },
                 "message": "有人找了大功率 WiFi 發向群賢樓，需要現場有人協助直播電腦設定，目前人在群賢樓等，志願者請撥 0932-030973，說是 g0v 線路組就可以了",
                 "id": "596219357121141"
             },
             {
                 "created_time": "2014-03-19T12:38:08+0000",
-                "from": {
-                    "name": "依瑪貓",
-                    "id": "2278546112162186"
-                },
                 "message": "直播帳篷在哪裏？",
                 "id": "596222227120854"
             },
             {
                 "created_time": "2014-03-19T12:42:18+0000",
-                "from": {
-                    "name": "唐鳳",
-                    "id": "10156318975889928"
-                },
                 "message": "25.0432509,121.519867",
                 "id": "596223423787401"
             },
             {
                 "created_time": "2014-03-19T18:04:39+0000",
-                "from": {
-                    "name": "Rex Tsai",
-                    "id": "10156168938287915"
-                },
                 "message": "Bropheus Huang 大功率WiFI計畫失敗。",
                 "id": "596398273769916"
             }
         ],
         "summary": {
-            "total_count": 33
+            "total_count": 31
         }
     }
 }

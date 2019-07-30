@@ -6,7 +6,7 @@
     "description": "🔸恭喜「資料申請小幫手」專案 進入總統盃黑客松五強 ~ \n\n感謝 Che Wei Liu 當初報名活動 ~ 像我們這類群眾外包式的個人專案，可以得到總統盃的支持，對於未來「我想要更多」(https:\/\/data.gov.tw\/suggests) 討論機制的建立，以及中央到地方機關能適度導入資源改善申覆機制，都將會是一股堅實的助力。期待未來與行政機關的協力合作！\n\n我們正在徵求「一日資料申請小幫手」，以及專業倡議團體，一起把心中最希望開放的資料集催生出來 ~ \n\n8\/17 我們會在 COSCUP 開源人年會 g0v 議程軌 (Room E2-102) 擺攤，歡迎大家來路過交流 ~\n\n🔸什麼是一日資料申請小幫手？https:\/\/reurl.cc\/Dz05O\n🔸2019 COSCUP 開源人年會 在哪裡：https:\/\/coscup.org\/2019\/",
     "name": "資料申請小幫手",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAzABovPOYiRpO3&w=130&h=130&url=https%3A%2F%2Fs4.itho.me%2Fsites%2Fdefault%2Ffiles%2Ffield%2Fimage%2Fhackthon.jpg&cfs=1&_nc_hash=AQD5-x-GB3wEZlod",
-    "updated_time": "2019-07-30T05:24:38+0000",
+    "updated_time": "2019-07-30T14:52:48+0000",
     "shares": {
         "count": 1
     },
@@ -36,10 +36,15 @@
                 "created_time": "2019-07-30T04:57:50+0000",
                 "message": "賀！",
                 "id": "2301310609945332"
+            },
+            {
+                "created_time": "2019-07-30T14:52:46+0000",
+                "message": "帥氣啦",
+                "id": "2301970419879351"
             }
         ],
         "summary": {
-            "total_count": 4
+            "total_count": 5
         }
     }
 }

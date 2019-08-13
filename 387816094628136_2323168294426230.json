@@ -1,0 +1,46 @@
+{
+    "created_time": "2019-08-12T05:23:42+0000",
+    "message": "#社區營造  文化部目前有釋出一份約 5000 多筆的社區組織資料，有提供經緯度，這個資料能否視為全臺灣有在推動社區營造的全部單位呢？在資料釋出的留言區中，也有網友詢問有沒有此資料並未整合的「公寓大廈」的組織資料，目前僅有部份縣市釋出。\n\n．文化部社區組織清冊：http:\/\/data.gov.tw\/node\/6243\n\n．公寓大廈組織清冊：http:\/\/bit.ly\/2KvBF3M\n\n也有許多對於社區營造內容趨向的觀察，例如：有許多並非地區組織的單位也會投入地區營造的工作、鄉鎮發展特色產業的歷程中與社區營造事務相關、某些社區營造議題需要有中介團體或補助機制協助社區了解並找出在地的方案，像是擬定社區防災內容或是拍攝地區紀錄片...等，這些觀察，有沒有可能透過補助類資料與外部資料來描述呢？\n\n初步的探討與資料來源列舉於此頁面中，歡迎共筆討論\n\nhttps:\/\/g0v.hackpad.tw\/ork4P0hC7jF\n\n或碰面討論：\n\n9\/4 (三) 19:00-21:00 vtaiwan 社群聚會 @空總社創中心\n\n9月份 g0v 黑客松",
+    "id": "387816094628136_2323168294426230",
+    "link": "http:\/\/data.gov.tw\/node\/6243",
+    "description": "碩網資訊在經濟部工業局「開放資料應用推動計畫」輔導下，建置「HoYa好屋no.1」不動產資訊匯流服務平臺，彙整行政院環境保護署「環境資源資料開放平台」、內政部「內政資料開放平臺」、文化部「文化資料開放服務網」以....",
+    "name": "文化部社區 | 政府資料開放平臺",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDhwI5nhUfyigIY&w=130&h=130&url=https%3A%2F%2Fdata.gov.tw%2Fsites%2Fdatagov%2Ffiles%2Fstyles%2Fthumbnail%2Fpublic%2Fapp%2Fhoya%2520logo.png%3Fitok%3DixxT9GNm&cfs=1&_nc_hash=AQBoxEYi59oHIAMo",
+    "updated_time": "2019-08-12T08:57:26+0000",
+    "caption": "data.gov.tw",
+    "shares": {
+        "count": 1
+    },
+    "likes": {
+        "summary": {
+            "total_count": 19
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-08-12T05:40:13+0000",
+                "message": "摘一下討論區裡的  \"若為公寓大廈型態，多由該社區之公廈管理委員會代表之，故公寓大廈名稱即為該管理委員會之前銜；若非公廈管理委員會代表者，則直接以公寓大廈名稱代表，故公廈名稱現已有提供。\"",
+                "id": "2323183271091399"
+            },
+            {
+                "created_time": "2019-08-12T06:38:22+0000",
+                "message": "最近剛好也在試著整理歷年來因社造政策而有拍攝社區紀錄片或舉辦社區劇場的案例",
+                "id": "2323244491085277"
+            },
+            {
+                "created_time": "2019-08-12T07:46:48+0000",
+                "message": "農村再生也是大宗\n\n.培根社區：\nhttps:\/\/data.coa.gov.tw\/Query\/ServiceDetail.aspx?id=046\n.農村好讚\nhttps:\/\/data.coa.gov.tw\/Query\/ServiceDetail.aspx?id=143\n.農村再生\nhttps:\/\/data.coa.gov.tw\/Query\/ServiceDetail.aspx?id=045\n.富麗農村\nhttps:\/\/data.coa.gov.tw\/Query\/ServiceDetail.aspx?id=044",
+                "id": "2323317551077971"
+            },
+            {
+                "created_time": "2019-08-12T08:43:42+0000",
+                "message": "公寓大廈的社區營造不容易啊…… 光是1-2年換主委，就是個挑戰",
+                "id": "2323372327739160"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}

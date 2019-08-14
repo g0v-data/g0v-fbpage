@@ -1,0 +1,36 @@
+{
+    "created_time": "2019-08-13T14:08:07+0000",
+    "message": "有人知道這個「komica」是什麼領域的嗎？",
+    "id": "387816094628136_2325564970853229",
+    "link": "https:\/\/komica.org\/?fbclid=IwAR1BN-S75TNvxKzTYcUDCi72U4uXYxfgxqfwRJd7gXBYOc42SjP2MrG1Z44",
+    "name": "Komica",
+    "updated_time": "2019-08-14T05:49:52+0000",
+    "caption": "komica.org",
+    "likes": {
+        "summary": {
+            "total_count": 0
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-08-13T14:13:12+0000",
+                "message": "ＫＯＭＩＣＡ島\n第一天住在這裏的時候，我覺得島民們很糟糕\n第三天住在這裏的時候，我開始覺得他們跟普通人沒兩樣\n第七天住在這裏的時候，我覺得自己和島民們都很純樸\nhttps:\/\/wiki.komica.org\/Komica",
+                "id": "2325573587519034"
+            },
+            {
+                "created_time": "2019-08-13T14:14:02+0000",
+                "message": "糟糕島",
+                "id": "2325578270851899"
+            },
+            {
+                "created_time": "2019-08-13T16:02:43+0000",
+                "message": "純樸",
+                "id": "2325766354166424"
+            }
+        ],
+        "summary": {
+            "total_count": 3
+        }
+    }
+}

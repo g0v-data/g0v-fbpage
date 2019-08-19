@@ -1,0 +1,73 @@
+{
+    "created_time": "2019-08-14T16:43:43+0000",
+    "message": "最近 ptt 客家之亂，稍微爬了一下所有客家有關的文章發文者，想找看看有沒有帶風向的（網軍 or 公關），但除了看到幾個 ID 明顯針對這個議題有特別的偏見之外，沒有觀察到有看起來像是動員網軍的跡象。\n\n有興趣的人也可以稍微分析一下，已附上爬蟲結果。\n\n* Note: sbs5099這個帳號有點可疑，八卦板 a 它都是客家相關文章（仇恨值很高XD?）\n\n[https:\/\/docs.google.com\/spreadsheets\/d\/1xLdW5HFl1SevxwKKMFeVdHHCLM9jXeG8AaXF5sFklYU\/edit#gid=0](https:\/\/docs.google.com\/spreadsheets\/d\/1xLdW5HFl1SevxwKKMFeVdHHCLM9jXeG8AaXF5sFklYU\/edit#gid=0)",
+    "id": "387816094628136_2327531607323232",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=3371439736203117&set=gm.2327531607323232&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/67956724_3371439742869783_7906078173870161920_n.jpg?_nc_cat=108&_nc_oc=AQmNB2gE3kdefFq9zLJMGjYyzSW6KanDyldOxqEsZN8LoX27Al1HZOtFCu8Att5uDnk&_nc_ht=scontent.xx&oh=d65fd285c12ff21493e2d143ab4380e5&oe=5DE1C17B",
+    "updated_time": "2019-08-17T12:16:35+0000",
+    "shares": {
+        "count": 2
+    },
+    "likes": {
+        "summary": {
+            "total_count": 40
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-08-14T16:50:25+0000",
+                "message": "到底哪開始的？",
+                "id": "2327539300655796"
+            },
+            {
+                "created_time": "2019-08-14T16:54:33+0000",
+                "message": "以前有陣子也好奇，有些帳號文章不多，但在八卦發文清一色客家類問卦... 這真的有點怪，搜尋發文者ID看文章類型就知道是跟風還是刻意..",
+                "id": "2327546020655124"
+            },
+            {
+                "created_time": "2019-08-14T17:10:58+0000",
+                "message": "感覺就是意圖引戰文",
+                "id": "2327569300652796"
+            },
+            {
+                "created_time": "2019-08-14T17:36:52+0000",
+                "message": "測試議題炒不炒得起來的文吧",
+                "id": "2327601567316236"
+            },
+            {
+                "created_time": "2019-08-14T18:43:24+0000",
+                "message": "可能就是一個 threshold 吧 XD",
+                "id": "2327700113973048"
+            },
+            {
+                "created_time": "2019-08-14T23:26:41+0000",
+                "message": "可以跟所有帳號比較發文頻率或次數比較，異常頻繁的帳號可能就怪怪的",
+                "id": "2328059593937100"
+            },
+            {
+                "created_time": "2019-08-15T00:08:48+0000",
+                "message": "我自己苗栗客家人我覺得很好笑\nTwitch也一堆客家的梗",
+                "id": "2328106343932425"
+            },
+            {
+                "created_time": "2019-08-15T00:28:08+0000",
+                "message": "你好，想請問你的爬蟲，也能爬內文有「客家」來做統計嗎？\n看起來你應該只爬八卦版的文章標題？\n謝謝",
+                "id": "2328126507263742"
+            },
+            {
+                "created_time": "2019-08-15T00:54:45+0000",
+                "message": "請後台確認註冊學校與資格，如果資料不符，請他補正，不然刪了號！\n\nPtt買帳賣帳也不是頭一遭，冒名就直接砍了！",
+                "id": "2328154203927639"
+            },
+            {
+                "created_time": "2019-08-17T12:16:33+0000",
+                "message": "請教：這個「帶風向的」特徵的定義為何？",
+                "id": "2332321510177575"
+            }
+        ],
+        "summary": {
+            "total_count": 10
+        }
+    }
+}

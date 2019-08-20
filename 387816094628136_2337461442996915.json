@@ -1,0 +1,27 @@
+{
+    "created_time": "2019-08-20T09:53:36+0000",
+    "message": "# 【g0v database】【大松提案列表統整】\n\n嗨嗨\n\n曾經被提出多次，又多次掛彩的 project hub 相關專案又回來啦！\n\n因為 g0v 社群實在太大了，要整理出所有曾經提出過的 project 實在很困難，所以這次決定先縮小範圍從最能清楚找到的開始！\n\n之前找 Lora 協助整理了歷屆大松全部的提案列表，後續我幫忙重新整理了欄位與加上專案的 tag、專案需求人力兩個欄位。\n\n目前有的內容可以到 spreadsheet 上看看，欄位格式也都有說明，如果你曾經有在大松提過案的，可以協助更新 project owner 的連絡資訊以及是否有在繼續維護運作，也可以協助整理各個小松的提案上去，或是有想到什麼其他可以新增的內容也可以幫忙紀錄上去～\n\n這份 spreadsheet 上面的資料都是從歷次大松的提案共筆上整理回來的資料，大家也可以拿這份資料去做一點視覺化或是其他分析，或是一起協助整理～\n\n* 說明文件：\n   * https:\/\/g0v.hackmd.io\/eC2vgApVTu2AT7UmHeLDEg?both\n* DB Link：\n   * https:\/\/docs.google.com\/spreadsheets\/d\/1C9-g1pvkfqBJbfkjPB0gvfBbBxVlWYJj6tTVwaI5_x8\/edit#gid=1563040282",
+    "id": "387816094628136_2337461442996915",
+    "link": "https:\/\/g0v.hackmd.io\/eC2vgApVTu2AT7UmHeLDEg?both",
+    "name": "g0v database 資料庫說明 - HackMD",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBUj-I6INBbOZva&w=130&h=130&url=https%3A%2F%2Fg0v.hackmd.io%2Ffavicon.png&cfs=1&_nc_hash=AQBCnFBJGu7EJsuc",
+    "updated_time": "2019-08-20T11:49:28+0000",
+    "caption": "g0v.hackmd.io",
+    "likes": {
+        "summary": {
+            "total_count": 5
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-08-20T11:49:24+0000",
+                "message": "有初步嘗試去標記一個專案的：資料來源、技術者、NGO倡議策略、所使用到的相關專案等",
+                "id": "2337597296316663"
+            }
+        ],
+        "summary": {
+            "total_count": 1
+        }
+    }
+}

@@ -2,13 +2,13 @@
     "created_time": "2019-08-12T13:47:55+0000",
     "message": "前陣子有人在串連準備如果香港斷網，開源公民社群有什麼辦法技術支援。上次黑客松現場討論了一下，firechat, meshnetwork 都有在對話中出現，但似乎沒有進一步結論（當時香港朋友判斷大規模斷網成本太高，但事情一直各種變化...）。日前有些創意應用例如 airdrop 也出現街頭。想來開啟一點接龍，以下開放討論。",
     "id": "387816094628136_2323753367701056",
-    "updated_time": "2019-08-19T03:34:33+0000",
+    "updated_time": "2019-08-31T07:33:40+0000",
     "shares": {
-        "count": 23
+        "count": 24
     },
     "likes": {
         "summary": {
-            "total_count": 299
+            "total_count": 306
         }
     },
     "comments": {
@@ -142,10 +142,20 @@
                 "created_time": "2019-08-18T06:01:29+0000",
                 "message": "因 COSCUP 大會安排，實體討論改到研揚大樓 412-1",
                 "id": "2333676526708740"
+            },
+            {
+                "created_time": "2019-08-30T00:50:46+0000",
+                "message": "https:\/\/www.bnext.com.tw\/px\/article\/41623\/gotenna-off-grid-communication-device 看起來還有其他花錢的方案",
+                "id": "2354641807945545"
+            },
+            {
+                "created_time": "2019-08-31T07:30:24+0000",
+                "message": "https:\/\/thestandnews.com\/politics\/%E9%80%A3%E7%99%BB-%E9%81%AD%E5%89%8D%E6%89%80%E6%9C%AA%E8%A6%8B%E7%9A%84%E5%A4%A7%E5%9E%8B-ddos-%E6%94%BB%E6%93%8A\/",
+                "id": "2356789731064086"
             }
         ],
         "summary": {
-            "total_count": 26
+            "total_count": 28
         }
     }
 }

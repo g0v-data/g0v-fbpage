@@ -1,0 +1,51 @@
+{
+    "created_time": "2019-08-30T13:45:39+0000",
+    "message": "#挖坑新手 #linebot #市政問題\n\n哈囉～我是 g0V 新成員，請大家多指教：\n\n　\n\n這次 hackath36n 有個提案「LINE BOT 市容幫手」，希望大大們能提供意見，在底下留言（或是開 slack channel？）：\n\n　\n* **Hackmd**：[https:\/\/g0v.hackmd.io\/@c80kC_WyQN6Ly7D1DFCV0g\/SkgVGyrBB?fbclid=IwAR2khnohI4GXE22m5QQMcpE7s59MGTYj6BpNJM6WOs8SmD1pNa4dL2NHrW4](https:\/\/g0v.hackmd.io\/@c80kC_WyQN6Ly7D1DFCV0g\/SkgVGyrBB?fbclid=IwAR2khnohI4GXE22m5QQMcpE7s59MGTYj6BpNJM6WOs8SmD1pNa4dL2NHrW4)\n\n* **簡報**：[https:\/\/docs.google.com\/presentation\/d\/1RTaz438QPbikQS0Jq9KtUycnCYBjM2Na2obMoCF5Hns\/edit#slide=id.g5f99f6af39_0_9](https:\/\/docs.google.com\/presentation\/d\/1RTaz438QPbikQS0Jq9KtUycnCYBjM2Na2obMoCF5Hns\/edit#slide=id.g5f99f6af39_0_9)\n\n　\n\n提案內容是針對台北市政府現況，里長常用LINE群組反映大小問題，結果每天訊息幾百則洗版，很多困擾～\n\n　\n\n所以，構想上希望能設計  LINE BOT  ，應用到現在的群組，改善使用者體驗。\n\n　\n\n希望正式提案前，能聽到更多、更完善的想法。\n\n～各位大大如果想到任何問題，歡迎提出來～",
+    "id": "387816094628136_2355513277858398",
+    "link": "https:\/\/g0v.hackmd.io\/@c80kC_WyQN6Ly7D1DFCV0g\/SkgVGyrBB?fbclid=IwAR2khnohI4GXE22m5QQMcpE7s59MGTYj6BpNJM6WOs8SmD1pNa4dL2NHrW4",
+    "description": "用 LINE BOT 來幫助市民、里長與公務員。",
+    "name": "LINE BOT 市容幫手 - HackMD",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBtFAO5zO_I05R-&w=130&h=130&url=https%3A%2F%2Fi.imgur.com%2FCPPd58S.png&cfs=1&_nc_hash=AQCmoluEq5Xn6wnt",
+    "updated_time": "2019-08-31T03:43:18+0000",
+    "caption": "g0v.hackmd.io",
+    "shares": {
+        "count": 1
+    },
+    "likes": {
+        "summary": {
+            "total_count": 29
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-08-30T14:11:17+0000",
+                "message": "推推，新成員的起手式準備好完整啊！建議 prototype 可以先處理里長回報的部分就好。",
+                "id": "2355550977854628"
+            },
+            {
+                "created_time": "2019-08-30T14:13:51+0000",
+                "message": "加了一些小吐槽。\n其實是很老掉牙的質疑，但在原文裡沒提到，希望樓主回應一下。",
+                "id": "2355554597854266"
+            },
+            {
+                "created_time": "2019-08-30T14:33:43+0000",
+                "message": "推推",
+                "id": "2355583751184684"
+            },
+            {
+                "created_time": "2019-08-30T14:34:45+0000",
+                "message": "噢對了，專案程式碼和討論內容的授權和資料怎麼儲存會很重要喔！尤其這是有政府方在裡面，大家會想知道如果貢獻幫忙成果會怎麼開源與利用。",
+                "id": "2355585541184505"
+            },
+            {
+                "created_time": "2019-08-31T03:43:13+0000",
+                "message": "這裡有專案的 hackdfoldr，請參考\nhttps:\/\/beta.hackfoldr.org\/cityscape_helper\/",
+                "id": "2356541017755624"
+            }
+        ],
+        "summary": {
+            "total_count": 5
+        }
+    }
+}

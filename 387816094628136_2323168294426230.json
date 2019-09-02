@@ -6,14 +6,14 @@
     "description": "碩網資訊在經濟部工業局「開放資料應用推動計畫」輔導下，建置「HoYa好屋no.1」不動產資訊匯流服務平臺，彙整行政院環境保護署「環境資源資料開放平台」、內政部「內政資料開放平臺」、文化部「文化資料開放服務網」以....",
     "name": "文化部社區 | 政府資料開放平臺",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQDhwI5nhUfyigIY&w=130&h=130&url=https%3A%2F%2Fdata.gov.tw%2Fsites%2Fdatagov%2Ffiles%2Fstyles%2Fthumbnail%2Fpublic%2Fapp%2Fhoya%2520logo.png%3Fitok%3DixxT9GNm&cfs=1&_nc_hash=AQBoxEYi59oHIAMo",
-    "updated_time": "2019-08-14T05:20:44+0000",
+    "updated_time": "2019-09-01T23:43:22+0000",
     "caption": "data.gov.tw",
     "shares": {
-        "count": 2
+        "count": 3
     },
     "likes": {
         "summary": {
-            "total_count": 23
+            "total_count": 30
         }
     },
     "comments": {
@@ -42,10 +42,15 @@
                 "created_time": "2019-08-14T05:20:41+0000",
                 "message": "整理整理也可以直接匯入wikidata中",
                 "id": "2326695197406873"
+            },
+            {
+                "created_time": "2019-09-01T23:43:20+0000",
+                "message": "持續整理社區營造的歷年計畫資料，延續 @社區營造學會 @洪國書 已建立的台北市的歷年社造資料，以及 Richard Hsieh 協助彙整「信義房屋社區一家」補助計畫，社區報與刊物也有匯入\n\n資料欄位架構\nhttps:\/\/airtable.com\/shrMOLmEJ8tdjYoC0\n\n放到地圖上\n\nhttps:\/\/awesome-table.com\/-LnctZ7Ba5QPUWYDzoR2\/view",
+                "id": "2359923554084037"
             }
         ],
         "summary": {
-            "total_count": 5
+            "total_count": 6
         }
     }
 }

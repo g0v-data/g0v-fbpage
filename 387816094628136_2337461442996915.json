@@ -5,11 +5,14 @@
     "link": "https:\/\/g0v.hackmd.io\/eC2vgApVTu2AT7UmHeLDEg?both",
     "name": "g0v database 資料庫說明 - HackMD",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQBUj-I6INBbOZva&w=130&h=130&url=https%3A%2F%2Fg0v.hackmd.io%2Ffavicon.png&cfs=1&_nc_hash=AQBCnFBJGu7EJsuc",
-    "updated_time": "2019-08-20T11:49:28+0000",
+    "updated_time": "2019-08-20T19:37:48+0000",
     "caption": "g0v.hackmd.io",
+    "shares": {
+        "count": 4
+    },
     "likes": {
         "summary": {
-            "total_count": 5
+            "total_count": 23
         }
     },
     "comments": {
@@ -18,10 +21,20 @@
                 "created_time": "2019-08-20T11:49:24+0000",
                 "message": "有初步嘗試去標記一個專案的：資料來源、技術者、NGO倡議策略、所使用到的相關專案等",
                 "id": "2337597296316663"
+            },
+            {
+                "created_time": "2019-08-20T13:05:27+0000",
+                "message": "這個工作真的超辛苦的",
+                "id": "2337706539639072"
+            },
+            {
+                "created_time": "2019-08-20T19:37:46+0000",
+                "message": "剛好前天開會時，有個人也很想知道 g0v 專案做了什麼。\n\n我那時先給他看官網上那一頁。",
+                "id": "2338284569581269"
             }
         ],
         "summary": {
-            "total_count": 1
+            "total_count": 3
         }
     }
 }

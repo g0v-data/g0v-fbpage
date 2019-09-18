@@ -1,0 +1,25 @@
+{
+    "created_time": "2019-09-07T01:35:33+0000",
+    "message": "#2020投票指南\n\n嗨～我們是2020投票指南，立委投票的懶人包！\n\n檢視候選人的立場和實際作為，讓你不再看臉投票，投下真正幫助社會的一票！\n\nslack頻道: #2020voting-guide\n\n前幾天 v1設計定板了，預計九月底上線第一板，後續再追蹤改板\nhttps:\/\/www.figma.com\/file\/K1nPlmHij67rcZVqse0tWjs4\/%E6%8A%95%E7%A5%A8%E6%8C%87%E6%8C%87%E5%8D%97?node-id=0%3A1\n\n想參考工程進度的，repo在這：\nhttps:\/\/github.com\/g0v\/2020voting-guide\n\n進行到一半的手機板網頁，後端部份比較完整，CICD也串好了：\nhttp:\/\/35.188.131.15:9000\/\n\nPS.我們沒有參加這次的大松，但是需要有興趣的人一起來加入我們做長期專案，或是提供意見和方向",
+    "id": "387816094628136_2369250096484716",
+    "link": "https:\/\/www.figma.com\/file\/K1nPlmHij67rcZVqse0tWjs4\/%E6%8A%95%E7%A5%A8%E6%8C%87%E6%8C%87%E5%8D%97?node-id=0%3A1",
+    "description": "Created with Figma",
+    "name": "Figma",
+    "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQC4Df-zEDI56Pda&w=130&h=130&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FK1nPlmHij67rcZVqse0tWjs4%2Fthumbnail%3Fver%3Dthumbnails%2F3888e978-fadc-47ab-a0af-03c7a2700c5f&cfs=1&_nc_hash=AQBzn_17rbD92q_d",
+    "updated_time": "2019-09-07T01:35:34+0000",
+    "caption": "figma.com",
+    "shares": {
+        "count": 3
+    },
+    "likes": {
+        "summary": {
+            "total_count": 38
+        }
+    },
+    "comments": {
+        "data": [],
+        "summary": {
+            "total_count": 0
+        }
+    }
+}

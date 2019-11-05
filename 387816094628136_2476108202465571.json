@@ -6,14 +6,14 @@
     "description": "工作表1 選區,政黨,候選人,FB,Line,IG 臺北市第一選舉區,中國國民黨,汪志冰,<a href=\"https:\/\/www.facebook.com\/tcc9105\/\">https:\/\/www.facebook.com\/tcc9105\/<\/a> 臺北市第一選舉區,民主進步黨,吳思瑤,<a href=\"https:\/\/www.facebook.com\/TaipeiNeedYou\/\">https:\/\/www.facebook...",
     "name": "立委參選人粉專列表",
     "picture": "https:\/\/external.xx.fbcdn.net\/safe_image.php?d=AQAD1NxvrW4OGpSu&w=130&h=130&url=https%3A%2F%2Flh3.googleusercontent.com%2FIrTZubIjRvrHSYUzYiAustanBg4Ruf5GLIfsiOruLpOPFCD-T-khkoKwILQP23F6QNc1Lg%3Dw1200-h630-p&cfs=1&_nc_hash=AQBG7cN5mhk51CyS",
-    "updated_time": "2019-10-31T13:25:51+0000",
+    "updated_time": "2019-11-03T08:49:59+0000",
     "caption": "docs.google.com",
     "shares": {
-        "count": 6
+        "count": 8
     },
     "likes": {
         "summary": {
-            "total_count": 73
+            "total_count": 87
         }
     },
     "comments": {
@@ -47,10 +47,15 @@
                 "created_time": "2019-10-31T12:00:44+0000",
                 "message": "不建在Wikidata上嗎",
                 "id": "2476447675764957"
+            },
+            {
+                "created_time": "2019-11-01T16:45:51+0000",
+                "message": "謝謝大家的幫忙，目前已經完成的差不多了，所以我也開始寫爬蟲開始在收集每天各粉專下廣告的記錄了，目前先收集第一天，資料如下：\n\n粉專記錄：https:\/\/gist.github.com\/ronnywang\/c7c9a16116d89b8da6fcd1c6cc9d42ab\n廣告記錄：\nhttps:\/\/gist.github.com\/ronnywang\/512c55bcb4d3bba027c53d44131d93f8",
+                "id": "2479156518827406"
             }
         ],
         "summary": {
-            "total_count": 6
+            "total_count": 7
         }
     }
 }

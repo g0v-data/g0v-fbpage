@@ -1,0 +1,35 @@
+{
+    "created_time": "2019-11-12T18:26:30+0000",
+    "message": "關於香港中大網路交換中心的傳聞，這裡有莫乃光議員的解釋。",
+    "id": "387816094628136_2503396113070113",
+    "link": "https:\/\/www.facebook.com\/232372840163384\/posts\/2641212189279425\/",
+    "description": "【關於HKIX的傳聞】\n\n我已經接觸中大HKIX的同事，加上我以往運作ISP的背景所知，總結如下：\n\nHKIX於中大設於兩個核心地點，並且設有中大以外衛星地點連接設施，即HKIX2\/3\/4\/5，但這些設施仍需接回中大的HKIX。HKIX的作用為提供香港境內互聯網交通的交換點，比離開香港再作交換方便和快速，因此，過去一向大部分互聯網通訊通過HKIX為不同的ISP作交換。\n\n不過，今時今日，市場上已經有多個其他交換設施，個別主要ISP也有使用他們的服務，包括Equinix、iAdvantage、AMS-IX、BBIX等，個別ISP之間也有peering協議和提供transit服務，其存在目的正是為HKIX一旦不能提供服務時可以作備用的作用。如果HKIX停止服務，互聯網速度會慢了些，但「因為HKIX佔香港本地流量八成，所以就會慢了八成」，顯然不成立。\n\n另有指攻佔HKIX，是為了監視箇中的互聯網內容。沒有人能完全否定這個可能，不過，如果真的這樣做，有人需要入侵大量屬於全港不同ISP的私人擁有伺服器和路由器，在法律上和技術上工程不小。\n\n亦有指所有通訊例如WhatsApp會通過HKIX，這應該不可能，加上WhatsApp（和Telegram等）有點對點加密的。\n\n謠言甚多，我無意叫大家掉以輕心，不想為popo解說，但亦不想傳播假消息。我會與中大HKIX的同事保持接觸，如果有任何問題出現會盡快通知大家。\n\n反而，現時更重要的是中大同學們安全的問題。我部分立法會同事已經到場，我們將繼續分工監督全港情況，希望提供協助，抵抗瘋狂的暴政！\n\n全球互聯網交換點資料（可在表內找香港的交換點資料）：\nhttps:\/\/en.wikipedia.org\/wiki\/List_of_Internet_exchange_points",
+    "name": "Charles Mok 莫乃光",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t31.0-1\/p100x100\/22555491_1558827730851215_2768570488786170474_o.jpg?_nc_cat=1&_nc_oc=AQmEHPFVQnKFzh0AVBqmSEfOn4aMVSo9YFRwLcX0QD2FF40XYrplevrL9tlLvM02Zug&_nc_ht=scontent.xx&oh=4dcfcffc5e63bc6e1bc6d29d9107916c&oe=5E8B4A9A",
+    "updated_time": "2019-11-13T03:46:29+0000",
+    "shares": {
+        "count": 19
+    },
+    "likes": {
+        "summary": {
+            "total_count": 103
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-11-13T01:11:39+0000",
+                "message": "只能說，確實是一個很明顯的戰略位置，但實際上本意是否如此，沒人知道",
+                "id": "2503983963011328"
+            },
+            {
+                "created_time": "2019-11-13T01:25:33+0000",
+                "message": "但是以現在情況來說，只要傳遞訊息的速度慢一點，都有可能造成很大的影響",
+                "id": "2504005793009145"
+            }
+        ],
+        "summary": {
+            "total_count": 2
+        }
+    }
+}

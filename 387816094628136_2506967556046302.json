@@ -1,0 +1,43 @@
+{
+    "created_time": "2019-11-14T11:01:31+0000",
+    "message": "應該有人正在整理香港反送中抗議的影片拍攝時間跟地點\n\n我釋放一個舊資料給別人參考，或是請轉給給需要的人用，我曾經在太陽花學運，專門在大後方複製備份直播影片，最後移交給中研院製作專題網站。\n\n填寫地點跟時間順序的資料表格，一開始是土法煉鋼，沒有考慮專題網站跟資料結構，不過後來 g0v 大松在華山1914文化創意產業園區的時候，我提議請工程師設計一個表格，可以容易轉換。\n\n整理資料這種事情雖然必須是人工整理，但是不需要整理兩次（土法煉鋼輸入資料 + 配合程式結構再次重新輸入），資料格式填好之後，就能用程式轉換，我給各位參考一下。\n\n目錄\n\nhttps:\/\/drive.google.com\/drive\/folders\/1EarTk5lJBdUuos4xidhyRyZ1zkjTDdKF\n\n----",
+    "id": "387816094628136_2506967556046302",
+    "link": "https:\/\/www.facebook.com\/photo.php?fbid=3049678051712479&set=gm.2506967556046302&type=3",
+    "picture": "https:\/\/scontent.xx.fbcdn.net\/v\/t1.0-0\/s130x130\/75521807_3049678058379145_3385921129746006016_o.jpg?_nc_cat=111&_nc_oc=AQlvTlBmqi307YxAsFm7nScNmn7Aj80qjO0HUaJTKEB-lDjPaLdj-w7zd_kU2WNLQZA&_nc_ht=scontent.xx&oh=eb3742853fdf5689be35089dcb947516&oe=5E490177",
+    "updated_time": "2019-11-15T03:17:29+0000",
+    "shares": {
+        "count": 4
+    },
+    "likes": {
+        "summary": {
+            "total_count": 69
+        }
+    },
+    "comments": {
+        "data": [
+            {
+                "created_time": "2019-11-14T11:08:31+0000",
+                "message": "恐成為秋後算帳工具",
+                "id": "2506977962711928"
+            },
+            {
+                "created_time": "2019-11-14T16:23:10+0000",
+                "message": "這個工具可能有幫助，香港人整理的\nhttps:\/\/tl.hkrev.info\/police-timeline\/?fbclid=IwAR3qROe9-MulypJ3XthVLpZG-kI2M8PVjXP9eic68N5NXNCaoXPMTJQvOxE",
+                "id": "2507612905981767"
+            },
+            {
+                "created_time": "2019-11-15T01:23:36+0000",
+                "message": "有了時間地點，如果再結合到地圖上就更理想了",
+                "id": "2508520189224372"
+            },
+            {
+                "created_time": "2019-11-15T02:28:57+0000",
+                "message": "我也在想這件事。我的構想是，第一，找到鏈接，第二，盡量自動抓取最高畫質的影片版本，第三，公開訪問鏈接鼓勵網民標注時間地點，第四，用P2P共享給所有人。",
+                "id": "2508641489212242"
+            }
+        ],
+        "summary": {
+            "total_count": 4
+        }
+    }
+}
